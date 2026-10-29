@@ -235,3 +235,14 @@ P77 elicitation insight vs product endorsement, and P78 normative commitments vs
 corpus frequencies remain distinct. P78 is never counted as DIS. P77 author-reported
 Best Paper evidence is distinguished from independently checked conference lists.
 Newer examples reinforce personal relevance without narrowing the public scope.
+
+## Expansion gate Q — collaboration, minority participation and embodied reflection
+Parent reviewed P98–102; hashes/DOIs/paths checked, readability spacing corrected
+by the analysis worker. Total 100 (99 requested-venue papers plus one COMPASS
+contrast). Retained whose perspectives interviews capture; collection duration vs
+participant longitudinal evidence; mixed-method complementarity vs representativeness;
+group behavioral proxies vs performance/equity; and designed dance-data mappings
+vs emergent reflective readings. The unavailable DiMicco candidate is transparently
+replaced by the full CSCW Meeting Mediator paper, not its similarly titled companion
+abstract. The next four complete the planned expansion; sparse resource coverage
+is receiving three additional candidates rather than quota-based relabeling.

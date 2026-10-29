@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-95 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+100 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -104,9 +104,14 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P95](analyses/P95-mobile-needs.md) | CHI 2008 | A Diary Study of Mobile Information Needs — empirical taxonomy and account of situated information needs | unverified |
 | [P96](analyses/P96-ubifit-field.md) | CHI 2008 | Activity Sensing in the Wild — empirical understanding of activity inference in everyday use; enabling artifact | unverified |
 | [P97](analyses/P97-health-sharing.md) | CSCW 2011 | It's not that I don't have problems, I'm just not putting them on Facebook — interpretive empirical account of health sharing and network work | unverified |
+| [P98](analyses/P98-accessible-collaboration.md) | CSCW 2019 | “It doesn’t win you friends” — empirical and theoretical understanding of accessible collaborative work | unverified |
+| [P99](analyses/P99-politics-fear.md) | CSCW 2024 | The Politics of Fear and the Experience of Bangladeshi Religious Minority Communities Using Social Media Platforms — interpretive understanding of fear, minority participation and social power | unverified |
+| [P100](analyses/P100-bangladesh-misinformation.md) | CSCW 2020 | Combating Misinformation in Bangladesh — empirical understanding of stakeholder responsibility and infrastructural constraints | unverified |
+| [P101](analyses/P101-meeting-mediator.md) | CSCW 2008 | Meeting Mediator — artifact and empirical understanding of feedback and group dynamics | unverified |
+| [P102](analyses/P102-dance-physicalisations.md) | DIS 2024 | A Retrospective Autoethnography Documenting Dance Learning Through Data Physicalisations — situated design knowledge and retrospective autoethnographic documentation | unverified |
 
 ## Coverage and exclusions
-CHI 34, COMPASS 1, CSCW 17, DIS 14, IUI 15, UIST 14.
+CHI 34, COMPASS 1, CSCW 21, DIS 15, IUI 15, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
