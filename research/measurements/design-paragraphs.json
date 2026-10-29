@@ -1,0 +1,221 @@
+{
+  "scope": "Eight purposively selected complete prose paragraphs from four papers: a design account, conceptual essay, feminist agenda and structured literature review. Descriptive exemplars, not representative norms or targets.",
+  "coder": "single analyst",
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext SOURCE.pdf -",
+    "page_split": "form-feed U+000C, one-based page selection",
+    "normalization": [
+      "Unicode NFKC",
+      "remove soft hyphen U+00AD",
+      "remove hyphen plus line break between ASCII letter and lowercase ASCII letter",
+      "collapse whitespace to one ASCII space; strip ends"
+    ],
+    "dehyphenation_regex": "(?<=[A-Za-z])-\\s*\\n\\s*(?=[a-z])",
+    "token_regex": "[A-Za-z0-9]+(?:[’'\\-][A-Za-z0-9]+)*",
+    "token_caveat": "Operational ASCII alphanumeric token count; includes citation numbers and embedded quotations; keeps internal apostrophes and hyphens. Not linguistic word segmentation. Counts describe normalized pdftotext output, without manual reconstruction of line-wrap compounds.",
+    "offset_unit": "Python Unicode character offsets in normalized page, end exclusive"
+  },
+  "records": [
+    {
+      "paper_id": "P42-photobox",
+      "pdf_sha256": "81b8771bd785bf984fed3a902e378570d4fe757c546b7744ab4c6c5a8a046f89",
+      "pdf_page": 2,
+      "section": "Background and Related Work",
+      "opening_locator": "Our work modestly attempts",
+      "sentence_count": 3,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 93,
+      "selection_reason": "Research-strand synthesis and study response; bounded intention rather than tested outcome",
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "1d728b78c57444671830cde3775a32267f6ae129e17508ea530307016b6235d0",
+        "segments": [
+          {
+            "start_character_inclusive": 2247,
+            "end_character_exclusive": 2797
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "2a24864d84cffaa77f17381bbe31ebb5f6ea85ddcc1df783995332068988802e",
+      "private_cache": ".local/paragraph-measurements/P42-photobox-p2-design1.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P42-photobox",
+      "pdf_sha256": "81b8771bd785bf984fed3a902e378570d4fe757c546b7744ab4c6c5a8a046f89",
+      "pdf_page": 2,
+      "section": "Design Process and Implementation / Process and Rationale",
+      "opening_locator": "The process leading to",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 93,
+      "selection_reason": "Process overview whose opening announces content rather than a result",
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "1d728b78c57444671830cde3775a32267f6ae129e17508ea530307016b6235d0",
+        "segments": [
+          {
+            "start_character_inclusive": 3691,
+            "end_character_exclusive": 4322
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "ab4b1b910cb693e3a25d3ab1a49b157af83a8a1e6d7d5a5c320903f77cdd1976",
+      "private_cache": ".local/paragraph-measurements/P42-photobox-p2-design2.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P48-implications",
+      "pdf_sha256": "9a0e35b7687f58432f7714291a1cb35ab2c7a865101a1e3092729157198a1dba",
+      "pdf_page": 2,
+      "section": "Introduction",
+      "opening_locator": "I should state at",
+      "sentence_count": 3,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 106,
+      "selection_reason": "Scope correction before central argumentative claims",
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "e1d9530fba5284a3d848d22d894c8f7ce24967e9ab36130ee4a802f766cbb618",
+        "segments": [
+          {
+            "start_character_inclusive": 387,
+            "end_character_exclusive": 1028
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "608a90f4b482433988494890dd15ea3851397da9e25b433c7198a4d9d8a8af1c",
+      "private_cache": ".local/paragraph-measurements/P48-implications-p2-design3.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P48-implications",
+      "pdf_sha256": "9a0e35b7687f58432f7714291a1cb35ab2c7a865101a1e3092729157198a1dba",
+      "pdf_page": 2,
+      "section": "Introduction",
+      "opening_locator": "In what follows, I",
+      "sentence_count": 3,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 94,
+      "selection_reason": "Argument roadmap and conceptual grouping",
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "e1d9530fba5284a3d848d22d894c8f7ce24967e9ab36130ee4a802f766cbb618",
+        "segments": [
+          {
+            "start_character_inclusive": 1319,
+            "end_character_exclusive": 1925
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "a84a12692c18d2ea9eadd659f40eefbecf6e1cecaf0e734fdf7b3a463bb90d95",
+      "private_cache": ".local/paragraph-measurements/P48-implications-p2-design4.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P49-feminist-hci",
+      "pdf_sha256": "1f1147b8b3edc95d5a85561d1081fc620fa431b5718b9e240f323ca13a16947f",
+      "pdf_page": 7,
+      "section": "Qualities of Feminist Interaction / Ecology",
+      "opening_locator": "The design rationale behind",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 102,
+      "selection_reason": "Intended benefit, concession and contrary ecological consequence; concluding interpretation",
+      "extraction_selector": {
+        "page_one_based": 7,
+        "normalized_page_sha256": "03eec6a28351e77d7c41960ef189734fc1ddcb58bfee8b4773d6f1f7f04ee61b",
+        "segments": [
+          {
+            "start_character_inclusive": 1745,
+            "end_character_exclusive": 2372
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "a4a517605e1600c4a830c5f55dfdcdfe9039fad72d90cb8035d7b57d8d6cd76d",
+      "private_cache": ".local/paragraph-measurements/P49-feminist-hci-p7-design5.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P49-feminist-hci",
+      "pdf_sha256": "1f1147b8b3edc95d5a85561d1081fc620fa431b5718b9e240f323ca13a16947f",
+      "pdf_page": 7,
+      "section": "Qualities of Feminist Interaction / Self-disclosure",
+      "opening_locator": "At the same time,",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 113,
+      "selection_reason": "Concept development from subject formation to a proposed design quality",
+      "extraction_selector": {
+        "page_one_based": 7,
+        "normalized_page_sha256": "03eec6a28351e77d7c41960ef189734fc1ddcb58bfee8b4773d6f1f7f04ee61b",
+        "segments": [
+          {
+            "start_character_inclusive": 4896,
+            "end_character_exclusive": 5568
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "71c859556ace7cfdcd0d263614c7f654586eafe36d8b9596ba85117661bd2bd4",
+      "private_cache": ".local/paragraph-measurements/P49-feminist-hci-p7-design6.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P51-futures-review",
+      "pdf_sha256": "b91f73c944596cc0fc117b25365a9a06b21981ae86b5a9a0e4b13aed6e1792d5",
+      "pdf_page": 4,
+      "section": "Related Research / HCI’s Future-Orientation in Light of Futures Studies",
+      "opening_locator": "Design fiction, speculative design,",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 75,
+      "selection_reason": "Prior achievements, residual review gap and method bridge",
+      "extraction_selector": {
+        "page_one_based": 4,
+        "normalized_page_sha256": "020fe4ce4bb7d6866c7737b83cf2be604d60cc60a9e2ab9a2d48d101b30b2e79",
+        "segments": [
+          {
+            "start_character_inclusive": 3951,
+            "end_character_exclusive": 4475
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "7b39e4792394e54c8c9d96c78dcf87404320ef054e39d1209931ad504eaa7e12",
+      "private_cache": ".local/paragraph-measurements/P51-futures-review-p4-design7.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P51-futures-review",
+      "pdf_sha256": "b91f73c944596cc0fc117b25365a9a06b21981ae86b5a9a0e4b13aed6e1792d5",
+      "pdf_page": 4,
+      "section": "A Literature-Based Examination of Futuring in HCI / Stage 1: Identification",
+      "opening_locator": "We took papers available",
+      "sentence_count": 3,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations and embedded quoted questions do not split author-prose sentences",
+      "word_count": 108,
+      "selection_reason": "Source and venue choice with rationale and qualification",
+      "extraction_selector": {
+        "page_one_based": 4,
+        "normalized_page_sha256": "020fe4ce4bb7d6866c7737b83cf2be604d60cc60a9e2ab9a2d48d101b30b2e79",
+        "segments": [
+          {
+            "start_character_inclusive": 5516,
+            "end_character_exclusive": 6114
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "173d14082e3f97c457ead28f53b95ad0b51f0e530d4214b15c82ddfc73cd937e",
+      "private_cache": ".local/paragraph-measurements/P51-futures-review-p4-design8.txt",
+      "visual_boundary_verified": true
+    }
+  ]
+}

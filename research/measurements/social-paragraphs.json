@@ -1,0 +1,225 @@
+{
+  "scope": "Eight purposively selected complete prose paragraphs from four qualitative/ethnographic papers across intimate-partner privacy, game labor, ICTD and material sustainability. Descriptive exemplars, not representative norms or targets.",
+  "coder": "single analyst",
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext SOURCE.pdf -",
+    "page_split": "form-feed U+000C, one-based page selection",
+    "normalization": [
+      "Unicode NFKC",
+      "remove soft hyphen U+00AD",
+      "remove hyphen plus line break between ASCII letter and lowercase ASCII letter",
+      "collapse whitespace to one ASCII space; strip ends"
+    ],
+    "dehyphenation_regex": "(?<=[A-Za-z])-\\s*\\n\\s*(?=[a-z])",
+    "token_regex": "[A-Za-z0-9]+(?:[’'\\-][A-Za-z0-9]+)*",
+    "token_caveat": "Operational ASCII alphanumeric token count; includes citation numbers, keeps internal apostrophes/hyphens, not linguistic word segmentation. Embedded quotations count as tokens. Complete paragraph prose retained; P33 p19 run-in question heading excluded. PDF extraction may fuse words (e.g. source line-wrap compounds); counts deliberately describe normalized pdftotext output, not manually reconstructed typeset prose. P39 p4 uses two character spans to exclude an interleaved running header; P37 stops before interleaved opposite-column paragraphs.",
+    "offset_unit": "Python Unicode character offsets in normalized page, end exclusive"
+  },
+  "records": [
+    {
+      "paper_id": "P30-privacy-evil",
+      "pdf_sha256": "068d94d867b98281d7f0eea1b2969a1a17341e89ca2078817a0b942b8e03fa0c",
+      "pdf_page": 5,
+      "section": "Background / Online Infidelity Forums",
+      "opening_locator": "We want to be",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 116,
+      "selection_reason": "Scope qualification distinguishing ordinary support from abuse-related material",
+      "extraction_selector": {
+        "page_one_based": 5,
+        "normalized_page_sha256": "b71a0724676b20c4abad59ebf8a691de07732f511460bfee9e1fb12051fae5cd",
+        "segments": [
+          {
+            "start_character_inclusive": 2881,
+            "end_character_exclusive": 3609
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "85aa4a805d5bd569dce89dc895b4a76ed5bca413ef810965f9f0cc9e997a02e3",
+      "private_cache": ".local/paragraph-measurements/P30-privacy-evil-p5-1.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P30-privacy-evil",
+      "pdf_sha256": "068d94d867b98281d7f0eea1b2969a1a17341e89ca2078817a0b942b8e03fa0c",
+      "pdf_page": 17,
+      "section": "Grounded theory / model positioning",
+      "opening_locator": "In generating this theory",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 144,
+      "selection_reason": "Interpretive comparison locating new model against prior abuse theories",
+      "extraction_selector": {
+        "page_one_based": 17,
+        "normalized_page_sha256": "b3826a7933607902d4cd828cd040ec0118680ce98e5b0757e762f7f56a9bc72a",
+        "segments": [
+          {
+            "start_character_inclusive": 553,
+            "end_character_exclusive": 1525
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "f08c985c772f28f91d690e6895b046590e255b87d6d22408612a238b887f287a",
+      "private_cache": ".local/paragraph-measurements/P30-privacy-evil-p17-2.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P33-indie-labor",
+      "pdf_sha256": "73fb0d12b67a25f4a9ebbd136ce4824ef7100994dca9d0af0b448b77042f460e",
+      "pdf_page": 2,
+      "section": "Introduction",
+      "opening_locator": "How can HCI researchers",
+      "sentence_count": 8,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 190,
+      "selection_reason": "Question-led introduction paragraph that bounds case and critical stance",
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "24c12787f43e02092435d446bcc4a56143c702a41d2d87ecc3d54919b4106132",
+        "segments": [
+          {
+            "start_character_inclusive": 1250,
+            "end_character_exclusive": 2494
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "e6996921fcf6d60a51ee84f7006486c9d53fec8ba28bad51205e47fa115cd4cf",
+      "private_cache": ".local/paragraph-measurements/P33-indie-labor-p2-3.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P33-indie-labor",
+      "pdf_sha256": "73fb0d12b67a25f4a9ebbd136ce4824ef7100994dca9d0af0b448b77042f460e",
+      "pdf_page": 19,
+      "section": "Discussion / 5.3 Critique 1",
+      "opening_locator": "While the activist",
+      "sentence_count": 6,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 178,
+      "selection_reason": "Critical qualification of participants’ inclusive aspirations; excludes italic run-in question heading",
+      "extraction_selector": {
+        "page_one_based": 19,
+        "normalized_page_sha256": "ef1e6794d395aa95e03df475ebe5bee3d13aa3dece9ede29f85105623d6296fd",
+        "segments": [
+          {
+            "start_character_inclusive": 1251,
+            "end_character_exclusive": 2464
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "3d7a8ec2348d3aaa26821ca1fed55370c2313f11368c9713d6979baf8469cbf8",
+      "private_cache": ".local/paragraph-measurements/P33-indie-labor-p19-4.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P37-mobile-sharing",
+      "pdf_sha256": "34b15b6053fa545205d47c635dbb4e19f13d51ac1bfcf71fa92a85c0694ffb52",
+      "pdf_page": 9,
+      "section": "Discussion",
+      "opening_locator": "First is the notion",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 103,
+      "selection_reason": "Interpretive claim with cross-context qualification and empirical counterexample",
+      "extraction_selector": {
+        "page_one_based": 9,
+        "normalized_page_sha256": "3049d3c36d0adb8ce70e0ea5180f1494736040482f88d960239d13a4edfe6cd2",
+        "segments": [
+          {
+            "start_character_inclusive": 2358,
+            "end_character_exclusive": 3035
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "5220eb642585d33d926ccee33b4e4049cce84a00bb74868d6d95d7ab1fdbc8bc",
+      "private_cache": ".local/paragraph-measurements/P37-mobile-sharing-p9-5.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P37-mobile-sharing",
+      "pdf_sha256": "34b15b6053fa545205d47c635dbb4e19f13d51ac1bfcf71fa92a85c0694ffb52",
+      "pdf_page": 9,
+      "section": "Discussion",
+      "opening_locator": "The relative informality",
+      "sentence_count": 5,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 107,
+      "selection_reason": "Contextual explanatory argument following main claim; illustrates stronger causal rhetoric than design isolates",
+      "extraction_selector": {
+        "page_one_based": 9,
+        "normalized_page_sha256": "3049d3c36d0adb8ce70e0ea5180f1494736040482f88d960239d13a4edfe6cd2",
+        "segments": [
+          {
+            "start_character_inclusive": 3734,
+            "end_character_exclusive": 4428
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "00f91db541878b27ad7f6f6497c59553781d3388e18c69d199c40fd132c8a38d",
+      "private_cache": ".local/paragraph-measurements/P37-mobile-sharing-p9-6.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P39-woodshop",
+      "pdf_sha256": "5385aec9a12a747154e971fdd170052a83684c55d20a1d7f25ae1b96cedd5de1",
+      "pdf_page": 4,
+      "section": "Characteristics of Living Materials",
+      "opening_locator": "Although our claim",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 108,
+      "selection_reason": "Qualification of categorical presentation under a relational material theory",
+      "extraction_selector": {
+        "page_one_based": 4,
+        "normalized_page_sha256": "10af1f82e065a3276aa8b85aeae0437edd22d79b0cc3af3797022849a7370f9c",
+        "segments": [
+          {
+            "start_character_inclusive": 1522,
+            "end_character_exclusive": 2209
+          },
+          {
+            "start_character_inclusive": 2258,
+            "end_character_exclusive": 2294
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "ed697251b98f6e250d5aca0e181a5513390c9c8ec6998a72a6da5f20d307adbc",
+      "private_cache": ".local/paragraph-measurements/P39-woodshop-p4-7.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P39-woodshop",
+      "pdf_sha256": "5385aec9a12a747154e971fdd170052a83684c55d20a1d7f25ae1b96cedd5de1",
+      "pdf_page": 9,
+      "section": "Discussion / Approaching material properties as prototyping sites",
+      "opening_locator": "Taking a lesson",
+      "sentence_count": 4,
+      "sentence_count_method": "Manual sentence-terminal count checked against rendered PDF; abbreviations, embedded quoted questions and run-in headings do not split author-prose sentences",
+      "word_count": 110,
+      "selection_reason": "Conceptual redefinition bridging ethnographic contrast to a design agenda",
+      "extraction_selector": {
+        "page_one_based": 9,
+        "normalized_page_sha256": "6d4030d59a7274bde5bc567c39e8b8d0fa1e232719309824ab511e27756a7e12",
+        "segments": [
+          {
+            "start_character_inclusive": 4635,
+            "end_character_exclusive": 5391
+          }
+        ],
+        "join_segments": "strip each segment and join with one ASCII space"
+      },
+      "normalized_paragraph_sha256": "d6c499d4b3911e707de906e00851bc39324ae69d875d3f3ede741b3c11452b35",
+      "private_cache": ".local/paragraph-measurements/P39-woodshop-p9-8.txt",
+      "visual_boundary_verified": true
+    }
+  ]
+}

@@ -263,3 +263,14 @@ integrative agendas, competing conceptual readings and favorable-case sampling.
 Corrected an overly universal agenda sequence to permit explicit critical/normative
 warrants. These are model/editor reviews, not human-user validation or quality-effect
 evidence. Behavioral trials remain a separate gate. Private transcripts stay local.
+
+## Measurement and installation gate
+Parent inspected and ran the measurement replay: 26 records pass, representing 32
+selected paragraphs across 14 papers plus two pilot section-count records. Token
+normalizations differ between pilot and later paragraphs; no pooled normative
+range is inferred. Sentence counts and paragraph completeness remain original
+manual checks, not automated validation.
+Parent inspected the installer and compatibility documentation and reran nine
+isolated tests: all pass. No global installation was performed. Official paths
+are documented separately from host discovery/runtime claims. Copies are dry-run
+by default, idempotent when identical and refuse conflicting destinations.

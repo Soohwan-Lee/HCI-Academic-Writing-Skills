@@ -1,0 +1,173 @@
+{
+  "scope": "Eight purposively selected complete prose paragraphs from four artifact/resource papers. Descriptive exemplars only; no venue norms, target ranges, or representative estimates.",
+  "coder": "single analyst",
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext SOURCE.pdf -",
+    "page_split": "form-feed U+000C, one-based page selection",
+    "normalization": [
+      "Unicode NFKC",
+      "remove soft hyphen U+00AD",
+      "remove hyphen plus line break between an ASCII letter and a lowercase ASCII letter (including surrounding whitespace)",
+      "collapse whitespace runs to one ASCII space and strip ends"
+    ],
+    "dehyphenation_regex": "(?<=[A-Za-z])-\\s*\\n\\s*(?=[a-z])",
+    "token_regex": "[A-Za-z0-9]+(?:[’'\\-][A-Za-z0-9]+)*",
+    "token_caveat": "Operational ASCII alphanumeric token count; counts numbers and citation numbers, preserves internal apostrophes/hyphens, excludes standalone mathematical/Greek symbols. Not a linguistic word count. No copyright text is stored publicly.",
+    "offset_unit": "Python Unicode character offsets in normalized page; end exclusive; exclude run-in heading labels"
+  },
+  "records": [
+    {
+      "paper_id": "P26-bingo",
+      "pdf_sha256": "3cb289685b9468772d85ab2d2c19d3c4f6b7e8b09dfbdcfd86c22d4d2099d48d",
+      "pdf_page": 10,
+      "section": "Evaluation / Exploration / Games Saved",
+      "opening_locator": "We asked users if they",
+      "sentence_count": 3,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 71,
+      "extraction_selector": {
+        "page_one_based": 10,
+        "normalized_page_sha256": "d27274d9641f423176b75fb8fb300660c1af42406c33449ec4873b7a448194ea",
+        "start_character_inclusive": 901,
+        "end_character_exclusive": 1253
+      },
+      "normalized_paragraph_sha256": "ffb7acadace5ef8240f8f53670700c0f79de7b2191636667bc773e087a427087",
+      "private_cache": ".local/paragraph-measurements/P26-bingo-p10-1.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P26-bingo",
+      "pdf_sha256": "3cb289685b9468772d85ab2d2c19d3c4f6b7e8b09dfbdcfd86c22d4d2099d48d",
+      "pdf_page": 10,
+      "section": "Evaluation / Exploration / Games Saved",
+      "opening_locator": "Finally, we asked users",
+      "sentence_count": 3,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 59,
+      "extraction_selector": {
+        "page_one_based": 10,
+        "normalized_page_sha256": "d27274d9641f423176b75fb8fb300660c1af42406c33449ec4873b7a448194ea",
+        "start_character_inclusive": 1254,
+        "end_character_exclusive": 1593
+      },
+      "normalized_paragraph_sha256": "d054bb8d735610b6e6464d4d6c2bbe9407ef074e34a7aa761a8af4298a4e0449",
+      "private_cache": ".local/paragraph-measurements/P26-bingo-p10-2.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P27-webzeitgeist",
+      "pdf_sha256": "9ffea5ca9b2291bfc9fbb44151093b9837dd1d488e1bf3481ed8e4ea5941b712",
+      "pdf_page": 2,
+      "section": "Principles for Design Mining / Completeness",
+      "opening_locator": "Most Web mining employs",
+      "sentence_count": 3,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 91,
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "1eaf613326625fbc1c4d27c335af9488335e9398afba8fdc0156b29ea3264800",
+        "start_character_inclusive": 3436,
+        "end_character_exclusive": 4007
+      },
+      "normalized_paragraph_sha256": "44668ed905151f0ebed2171d3eace5057804be070e1e0fe2cf92903d77041126",
+      "private_cache": ".local/paragraph-measurements/P27-webzeitgeist-p2-3.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P27-webzeitgeist",
+      "pdf_sha256": "9ffea5ca9b2291bfc9fbb44151093b9837dd1d488e1bf3481ed8e4ea5941b712",
+      "pdf_page": 2,
+      "section": "Principles for Design Mining / Consistency",
+      "opening_locator": "Dynamically-generated content poses",
+      "sentence_count": 6,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 125,
+      "extraction_selector": {
+        "page_one_based": 2,
+        "normalized_page_sha256": "1eaf613326625fbc1c4d27c335af9488335e9398afba8fdc0156b29ea3264800",
+        "start_character_inclusive": 4021,
+        "end_character_exclusive": 4891
+      },
+      "normalized_paragraph_sha256": "30f45c525e66012fdf23b8b3744d95a683125600263f54f9342f611ef739807b",
+      "private_cache": ".local/paragraph-measurements/P27-webzeitgeist-p2-4.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P28-webui",
+      "pdf_sha256": "4b07f3e1386f65b1ddbfe761a4f6d58ed0ffba27d626d44bdab5b5909e2e22ae",
+      "pdf_page": 5,
+      "section": "3.2.2 Dataset Quality",
+      "opening_locator": "In summary, our analysis suggests",
+      "sentence_count": 7,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 157,
+      "extraction_selector": {
+        "page_one_based": 5,
+        "normalized_page_sha256": "4b5ef78f0507af13e913cd7572dd6ba2bde134827902bc6a34d2f4904ad30b55",
+        "start_character_inclusive": 2260,
+        "end_character_exclusive": 3243
+      },
+      "normalized_paragraph_sha256": "f4bb79f304e2976bae1c38c05cfb7a1cd1a62dba9d3af59259d9af76a6c49ce9",
+      "private_cache": ".local/paragraph-measurements/P28-webui-p5-5.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P28-webui",
+      "pdf_sha256": "4b07f3e1386f65b1ddbfe761a4f6d58ed0ffba27d626d44bdab5b5909e2e22ae",
+      "pdf_page": 6,
+      "section": "4.1.2 Results",
+      "opening_locator": "While the largest source",
+      "sentence_count": 5,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 99,
+      "extraction_selector": {
+        "page_one_based": 6,
+        "normalized_page_sha256": "2715cf033f5def5039be8f9941e15f80890290bcda32576ef0e527171207965e",
+        "start_character_inclusive": 4415,
+        "end_character_exclusive": 5084
+      },
+      "normalized_paragraph_sha256": "30c2a4145f9a1c302d8ac867138c21329754af963a4c934b738da5109aa1207e",
+      "private_cache": ".local/paragraph-measurements/P28-webui-p6-6.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P29-prefab",
+      "pdf_sha256": "a50ea19a114f42c960c69dba8bec628c8786d01eae41443e72a46e051f509d9a",
+      "pdf_page": 3,
+      "section": "Prefab Component Overview",
+      "opening_locator": "The separation of layout",
+      "sentence_count": 5,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 157,
+      "extraction_selector": {
+        "page_one_based": 3,
+        "normalized_page_sha256": "516ce27e001f7be47ddad433cb11736c12991cc5be8c1318bc70f35b89fb96ac",
+        "start_character_inclusive": 2878,
+        "end_character_exclusive": 3810
+      },
+      "normalized_paragraph_sha256": "be8ff3b6a60f72275c78fc15ece2cb2d4cbd86e5dcd9e714266361349285ab23",
+      "private_cache": ".local/paragraph-measurements/P29-prefab-p3-7.txt",
+      "visual_boundary_verified": true
+    },
+    {
+      "paper_id": "P29-prefab",
+      "pdf_sha256": "a50ea19a114f42c960c69dba8bec628c8786d01eae41443e72a46e051f509d9a",
+      "pdf_page": 3,
+      "section": "Prefab Component Overview",
+      "opening_locator": "Prefab’s final major",
+      "sentence_count": 5,
+      "sentence_count_method": "manual visual sentence-terminal count; abbreviations and decimals do not split sentences",
+      "word_count": 97,
+      "extraction_selector": {
+        "page_one_based": 3,
+        "normalized_page_sha256": "516ce27e001f7be47ddad433cb11736c12991cc5be8c1318bc70f35b89fb96ac",
+        "start_character_inclusive": 3811,
+        "end_character_exclusive": 4428
+      },
+      "normalized_paragraph_sha256": "f66e09fd7a4e9a986b29349ae1a6e16f469cf57627d152c7f544634ebf164f01",
+      "private_cache": ".local/paragraph-measurements/P29-prefab-p3-8.txt",
+      "visual_boundary_verified": true
+    }
+  ]
+}
