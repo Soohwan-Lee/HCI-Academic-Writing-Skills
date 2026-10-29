@@ -1,0 +1,106 @@
+# Artifact, system and interaction-technique writing
+
+Use when the contribution is a new capability, algorithmic/interaction technique,
+architecture or implemented design space. The manuscript should make readers
+understand **what becomes possible, why existing approaches do not already provide
+it, how it works, and what evidence establishes its operating scope**. User studies
+are one possible warrant, not a replacement for explaining the invention.
+
+## Establish the capability contract
+
+Write a working sentence: “The artifact enables [action/capability] under [conditions]
+through [distinctive mechanism], compared with [nearest alternatives].” Then map
+claims to evidence: implementation→feasibility, benchmark→measured technical
+performance, user comparison→measured task outcome, deployment→situated use,
+design examples→range of expressible possibilities. Do not let one evidence type
+silently stand in for all the others.
+
+A software implementation used as an experimental stimulus may not itself be a
+research contribution. Conversely, a hardware platform can make a substantive
+capability contribution without a controlled user-performance claim. [P80, inFORM](https://doi.org/10.1145/2501988.2502032)
+explicitly distinguishes its platform/dynamic-affordance exploration from its
+unevaluated user-benefit possibilities.
+
+## Choose an architecture that explains dependencies
+
+A practical sequence is problem and positioning → requirements/design rationale →
+interaction concept or walkthrough → mechanism/implementation → evaluation →
+limitations and implications. Adapt it to the invention:
+
+- Concept-led hardware: introduce the vocabulary and demonstrate its categories
+  before implementation, as in P80.
+- Material/fabrication technique: organize around layers, processes and primitives,
+  connecting each choice to behavior, as [P81, PneUI](https://doi.org/10.1145/2501988.2502037).
+- Infrastructure/resource pipeline: explain requirements, representation, capture,
+  and downstream use, as [P83, ERICA](https://doi.org/10.1145/2984511.2984581).
+- Optimization: define the objective, representation and constraints before showing
+  results; optimality is relative to that model, as [P24, SUPPLE](https://doi.org/10.1145/964442.964461).
+
+Give figures a clear job: interaction sequence, architecture, mechanism, parameter
+space, result or failure boundary. Reference the relevant figure where readers
+need it. A teaser illustrates the contribution but is not evidence of effectiveness.
+
+## Opening and related work
+
+A capability-led abstract can name the problem, new capability, mechanism,
+implementation scope and decisive evidence. Replace “novel framework” with what
+is actually different. In the introduction, move from a consequential limitation
+to the enabling idea, then preview evidence and contributions. Formal RQs may be
+unnecessary when engineering questions are precise elsewhere.
+
+Compare related work on dimensions that matter to the capability: input assumptions,
+instrumentation, interaction semantics, operating environment, construction effort,
+latency, precision or extensibility. Credit borrowed components. A matrix helps only
+when its cells are verified and the dimensions actually explain the gap. Avoid
+selecting dimensions merely to make every predecessor look inferior.
+
+Late related work can work when the new mechanism must be understood first; provide
+enough early positioning to make the contribution assessable. [P29, Prefab](https://doi.org/10.1145/1753326.1753554)
+is a useful contrast to a mandatory early literature block. Never delay credit in
+order to imply that borrowed ideas are new.
+
+## Evaluation as an argument
+
+For each claimed property, identify the comparison, workload, operating conditions,
+measure and remaining uncertainty. Separate representative cases from stress tests,
+ablations from baseline comparisons, personalized from held-out-user models, and
+actual end-to-end operation from substituted components. [P79, TapSense](https://doi.org/10.1145/2047196.2047279)
+explicitly explains why pooled classification and held-out-user performance answer
+different questions. [P22, WirePrint](https://doi.org/10.1145/2642918.2647359)
+uses an intermediate comparison to separate mechanisms behind an advantage.
+
+Separate favorable-case selection from representative sampling. [P92, Comic
+Captioning](https://doi.org/10.1145/3640543.3645154) selects the three highest-accuracy
+strips for its main study; this examines potential under favorable conditions,
+not average deployment performance.
+
+Report failures where they explain design constraints. If a demo depends on manual
+steps, state them near the workflow. A successful task under researcher operation
+is not independent participant usability. Informal enthusiasm does not establish
+learnability or adoption. State what the evaluations enable readers to conclude,
+then reserve untested applications for prospects.
+
+## Paragraph pattern and original illustration
+
+A useful engineering paragraph is **requirement → choice → mechanism → trade-off
+→ scope or next component**. P81's portable actuation discussion connects an
+implemented alternative to speed/noise costs and a prospective mitigation. [P82,
+Zooids](https://doi.org/10.1145/2984511.2984547) uses a contrasting-case paragraph
+to explain why computationally interchangeable elements can have stable interaction
+identities. The principle is earned through examples, not just asserted first.
+
+**Hypothetical revision:** “Our system enables seamless collaboration” becomes
+“The prototype synchronizes the displayed annotations across the two connected
+clients. The timing test characterizes update delay under the tested network
+conditions; collaboration quality remains to be evaluated.” Use actual measured
+values if supplied. This distinguishes a technical capability from a social effect.
+
+## Execute
+
+Outline claims and evidence first; draft the walkthrough and mechanism in the order
+readers need; write evaluation results from verified outputs; use discussion to
+explain trade-offs and transferable capability. Revise introduction/abstract against
+that evidence. Compress repeated application descriptions before removing operating
+conditions or construction detail needed to understand the contribution. In `.tex`,
+preserve figure/label relationships and check moved references. Ask whether each
+benefit is implemented, measured, inferred or merely envisioned.

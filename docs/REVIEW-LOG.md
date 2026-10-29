@@ -246,3 +246,20 @@ vs emergent reflective readings. The unavailable DiMicco candidate is transparen
 replaced by the full CSCW Meeting Mediator paper, not its similarly titled companion
 abstract. The next four complete the planned expansion; sparse resource coverage
 is receiving three additional candidates rather than quota-based relabeling.
+
+## Skill gate — concrete Claude critique and route review
+Claude Code subscription authentication was checked in a sanitized child environment
+(authMethod claude.ai, Pro); the tool-free concrete review used the actual entrypoint
+and seven modules. Accepted: preserve author-owned claims in wording-only edits
+without source-audit friction; explicit pre-results workflow; richer sentence-level
+operations; scoped loading; substantive reviewer-response guidance; measure an
+existing draft before applying allocation examples. Rejected: choosing the route
+solely from the abstract's final sentence; treating significance as sufficient for
+causal verbs; replacing illustrative exact budgets with equally unsupported ranges.
+Budgets remain labeled editorial initialization, not empirically estimated ratios.
+Accepted a separate searchable corpus index as follow-on so expansion is usable.
+Peer read-only route reviews added method evolution, elicitation vs endorsement,
+integrative agendas, competing conceptual readings and favorable-case sampling.
+Corrected an overly universal agenda sequence to permit explicit critical/normative
+warrants. These are model/editor reviews, not human-user validation or quality-effect
+evidence. Behavioral trials remain a separate gate. Private transcripts stay local.
