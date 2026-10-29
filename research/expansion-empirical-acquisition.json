@@ -1,0 +1,135 @@
+[
+  {
+    "id": "P93-team-formation",
+    "url": "https://mir.cs.uiuc.edu/marinov/publications/JahanbakhshETAL17TeamFormation.pdf",
+    "result": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mir.cs.uiuc.edu'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "P94-long-passwords",
+    "url": "https://www.blaseur.com/papers/chi2014-longpasswords.pdf",
+    "result": "downloaded",
+    "bytes": 304964
+  },
+  {
+    "id": "P95-mobile-needs",
+    "url": "https://cseweb.ucsd.edu/~tsohn/pdf/tsohn-mobileneeds-chi08.pdf",
+    "result": "downloaded",
+    "bytes": 1847910
+  },
+  {
+    "id": "P96-ubifit-field",
+    "url": "https://hcitang.org/uploads/Teaching/2008-consolvo-activity-sensing-in-the-wild.pdf",
+    "result": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P93-team-formation",
+    "url": "https://mir.cs.illinois.edu/marinov/publications/JahanbakhshETAL17TeamFormation.pdf",
+    "result": "downloaded",
+    "bytes": 338121
+  },
+  {
+    "id": "P96-ubifit-field",
+    "url": "https://web.mit.edu/21w.789/www/papers/tmp59GTQs.pdf",
+    "result": "downloaded",
+    "bytes": 1211226
+  },
+  {
+    "id": "P97-health-sharing",
+    "url": "https://www.smunson.com/portfolio/projects/swellness/OnlineSupportNetworks_Final_CSCW11.pdf",
+    "result": "downloaded",
+    "bytes": 706086
+  },
+  {
+    "id": "P95-mobile-needs",
+    "url": "https://dl.acm.org/doi/10.1145/1357054.1357125",
+    "result": "Publisher page403; complete author manuscript already acquired; DOI checked against Crossref"
+  },
+  {
+    "id": "P98-accessible-collaboration",
+    "url": "https://dgergle.soc.northwestern.edu/resources/Maitraye-CSCW2019.pdf",
+    "result": "downloaded",
+    "bytes": 538008
+  },
+  {
+    "id": "P99-politics-fear",
+    "url": "https://arxiv.org/pdf/2410.15207",
+    "result": "downloaded",
+    "bytes": 477924
+  },
+  {
+    "id": "P100-bangladesh-misinformation",
+    "url": "https://arxiv.org/pdf/2007.12841",
+    "result": "downloaded",
+    "bytes": 1251544
+  },
+  {
+    "id": "P101-shared-participation",
+    "url": "https://citeseerx.ist.psu.edu/document?doi=7ef2e02d07507023c0f742de990d13df64b1c315&repid=rep1&type=pdf",
+    "result": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "P102-dance-physicalisations",
+    "url": "https://ualresearchonline.arts.ac.uk/id/eprint/22799/1/dis24-ToveGrimstadBang-compress%C3%A9.pdf",
+    "result": "downloaded",
+    "bytes": 549527
+  },
+  {
+    "id": "P103-devils-advocate",
+    "url": "https://par.nsf.gov/servlets/purl/10524816",
+    "result": "downloaded",
+    "bytes": 2407363
+  },
+  {
+    "id": "P104-mindphone",
+    "url": "https://www.lukehaliburton.com/files/publications/Terzimehic%20et%20al_2022_MindPhone.pdf",
+    "result": "downloaded",
+    "bytes": 4578226
+  },
+  {
+    "id": "P105-high-uncertainty",
+    "url": "https://research-portal.uu.nl/files/160802075/3581641.3584080.pdf",
+    "result": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P106-embodied-probes",
+    "url": "https://www.runhuazhang.com/pubs/pdfs/dis-25.pdf",
+    "result": "downloaded",
+    "bytes": 46299106
+  },
+  {
+    "id": "P101-shared-participation",
+    "url": "https://course.khoury.northeastern.edu/csg170/ssl/dimicco04.pdf",
+    "result": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "P105-high-uncertainty",
+    "url": "https://cris.maastrichtuniversity.nl/files/171918611/Tintarev-2023-Supporting-High-Uncertainty-Decisions-throughs.pdf",
+    "result": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P105-high-uncertainty",
+    "url": "https://dspace.library.uu.nl/bitstream/handle/1874/427768/3581641.3584080.pdf?sequence=1",
+    "result": "downloaded",
+    "bytes": 1917493
+  },
+  {
+    "id": "P101-shared-participation",
+    "url": "https://course.ccs.neu.edu/csg170/ssl/dimicco04.pdf",
+    "result": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "P99-politics-fear-final",
+    "url": "https://www.diptodas.net/files/papers/CSCW24_minority.pdf",
+    "result": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "P101-shared-participation",
+    "url": "https://course.ccs.neu.edu/csg170/ssl/dimicco04.pdf",
+    "result": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "P99-politics-fear-final",
+    "url": "https://www.diptodas.net/files/papers/CSCW24_minority.pdf",
+    "result": "HTTP Error 404: Not Found"
+  }
+]

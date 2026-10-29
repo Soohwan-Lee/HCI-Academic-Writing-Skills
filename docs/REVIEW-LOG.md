@@ -189,3 +189,13 @@ vs systematic review (P68), and curated award-paper illustration vs representati
 field evidence (P69). P68's argument-last definition and P69's concession after
 rebuttal provide explicit alternatives to mandatory topic-first writing. These are
 interpreted examples, not independently demonstrated reader-performance effects.
+
+## Expansion gate L — stakeholder, diary and field evidence
+Parent reviewed P93–97; hashes, identity uniqueness and analysis paths checked.
+Total 77. Retained stakeholder disagreement and satisfaction/performance separation
+(P93), attack-budget-dependent security/usability tradeoffs without current-policy
+endorsement (P94), diary needs vs search-log coverage and source arithmetic caveat
+(P95), perceived sensing errors vs classifier ground truth (P96), and network work
+vs demonstrated health outcomes (P97). Historical platform settings remain bounded.
+No source institution or influential status substitutes for the specific selection
+rationales. Each note includes two complete rendered paragraph analyses.
