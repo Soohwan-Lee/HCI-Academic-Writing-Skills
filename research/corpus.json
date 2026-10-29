@@ -695,5 +695,199 @@
     "sha256": "5542a5e300c83e4ff01d407caf23bbe84201098e8e5854c4b71b1b3a80cb7d10",
     "bytes": 10385539,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P30-privacy-evil",
+    "title": "“So-called privacy breeds evil”: Narrative Justifications for Intimate Partner Surveillance in Online Forums",
+    "authors": [
+      "Bellini",
+      "Tseng",
+      "McDonald",
+      "Greenstadt",
+      "McCoy",
+      "Ristenpart",
+      "Dell"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3432909",
+    "primary_knowledge_object": "empirical finding; conceptual framework",
+    "method": "narrative analysis and grounded theory of 556 online storyposts",
+    "affiliations_as_stated": "Newcastle University; Cornell Tech; Drexel University; New York University",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P30-privacy-evil.md",
+    "selection_reason": "Purposive breadth contrast: privacy and intimate partner abuse; verified conference award",
+    "url": "https://www.biscmi.org/wp-content/uploads/2022/11/so-called.pdf",
+    "sha256": "068d94d867b98281d7f0eea1b2969a1a17341e89ca2078817a0b942b8e03fa0c",
+    "bytes": 1177259,
+    "domain": "privacy and intimate partner abuse",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P31-impaired-cyborg",
+    "title": "Piracy and the Impaired Cyborg: Assistive Technologies, Accessibility, and Access",
+    "authors": [
+      "Chandra"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3432941",
+    "primary_knowledge_object": "empirical finding / interpretive critique",
+    "method": "qualitative reanalysis of 151 interviews in India and Peru",
+    "affiliations_as_stated": "University of Toronto",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P31-impaired-cyborg.md",
+    "selection_reason": "Purposive breadth contrast: accessibility and informal technology economies; verified conference award",
+    "url": "https://www.priyankc.com/files/Piracy_and_the_Impaired_Cyborg.pdf",
+    "sha256": "627d9e193b6333cf75718cb26207ea2219ccd776af2f7a0cdf2b3357bded2fca",
+    "bytes": 542401,
+    "domain": "accessibility and informal technology economies",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P32-tracking-care",
+    "title": "Sociocultural Dimensions of Tracking Health and Taking Care",
+    "authors": [
+      "Bhat",
+      "Kumar"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3415200",
+    "primary_knowledge_object": "empirical finding",
+    "method": "qualitative interviews with patients, family members and doctors in Bangalore",
+    "affiliations_as_stated": "Georgia Institute of Technology",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P32-tracking-care.md",
+    "selection_reason": "Purposive breadth contrast: health and care in India; verified conference award",
+    "url": "https://lists.andrew.cmu.edu/pipermail/accessibility-lunch/attachments/20210426/61d25fc9/attachment.pdf",
+    "sha256": "455bb237c0b530d811794231da8a2abd1fff438448ecfb53dfdf0e466693905e",
+    "bytes": 529121,
+    "domain": "health and care in India",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P33-indie-labor",
+    "title": "Mitigating Exploitation: Indie Game Developers’ Reconfigurations of Labor in Technology",
+    "authors": [
+      "Freeman",
+      "Bardzell",
+      "Bardzell",
+      "McNeese"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3392864",
+    "primary_knowledge_object": "empirical finding",
+    "method": "interpretive analysis of online discourse, interviews and contextual observation",
+    "affiliations_as_stated": "Clemson University; Indiana University",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P33-indie-labor.md",
+    "selection_reason": "Purposive breadth contrast: games and labor; verified conference award",
+    "url": "https://guof.people.clemson.edu/papers/CSCW20.pdf",
+    "sha256": "73fb0d12b67a25f4a9ebbd136ce4824ef7100994dca9d0af0b448b77042f460e",
+    "bytes": 525286,
+    "domain": "games and labor",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P34-wikipedia-order",
+    "title": "The Work of Sustaining Order in Wikipedia: The Banning of a Vandal",
+    "authors": [
+      "Geiger",
+      "Ribes"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1718918.1718941",
+    "primary_knowledge_object": "empirical finding; methodological contribution",
+    "method": "trace ethnography and distributed cognition analysis",
+    "affiliations_as_stated": "Georgetown University",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P34-wikipedia-order.md",
+    "selection_reason": "Purposive breadth contrast: online communities and moderation; established CSCW scholars Geiger/Ribes; author publication record https://stuartgeiger.com/articles/2010-02-25-cscw-banning-vandal/",
+    "url": "https://stuartgeiger.com/files/cscw-sustaining-order-wikipedia.pdf",
+    "sha256": "e218c8117f5ca3b5dbb7d3c12c4eb44e7d176347a25f4dff688581f7ff9aef82",
+    "bytes": 772975,
+    "domain": "online communities and moderation",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P36-ocean-coordination",
+    "title": "Data Integration as Coordination: The Articulation of Data Work in an Ocean Science Collaboration",
+    "authors": [
+      "Neang",
+      "Sutherland",
+      "Beach",
+      "Lee"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3432955",
+    "primary_knowledge_object": "empirical finding",
+    "method": "43 interviews across 22 labs and more than 20 observations",
+    "affiliations_as_stated": "University of Washington",
+    "analyzed_version": "Publicly hosted proceedings-formatted PDF; identity and DOI matched on PDF first page",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P36-ocean-coordination.md",
+    "selection_reason": "Purposive breadth contrast: scientific collaboration and data work; verified conference award",
+    "url": "https://par.nsf.gov/servlets/purl/10310978",
+    "sha256": "9b954f427f1fb1559750b5a69f9d580781d3a981c7730bd373203b37e1eac136",
+    "bytes": 447023,
+    "domain": "scientific collaboration and data work",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   }
 ]

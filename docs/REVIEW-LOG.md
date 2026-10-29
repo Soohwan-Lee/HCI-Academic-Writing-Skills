@@ -78,3 +78,12 @@ operate the complete plugin; Printed Optics includes manual/substituted parts;
 OmniTouch error supports interface-size constraints; WirePrint's intermediate
 control separates material reduction from path changes. Their varied architectures
 are retained rather than normalized into IMRaD. No award inferred from reputation.
+
+## Expansion gate C — six social/interpretive papers
+Parent reviewed P30–34/P36; hashes, analysis paths and identities checked. Retained
+distinctions between applying a framework and contributing one (P36 vs P30),
+method as a separate contribution when explicitly defended (P34), and participant
+aspirations vs critical interpretation (P33). P31's historical reanalysis is not
+present-day practice; P32's care preferences are not population-wide cultural rules.
+P35's anonymous draft was excluded pending an accessible replacement, not silently
+treated as the final award paper. Integrated total 28; no independent double coding.
