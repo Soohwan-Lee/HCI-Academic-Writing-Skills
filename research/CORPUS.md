@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-57 full papers integrated across five venues. Metadata, analyzed versions,
+62 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -66,9 +66,14 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P56](analyses/P56-bubble-cursor.md) | CHI 2005 | The Bubble Cursor — interaction technique | unverified |
 | [P57](analyses/P57-gestures.md) | CHI 2009 | User-Defined Gestures for Surface Computing — empirical characterization and reusable gesture vocabulary | unverified |
 | [P58](analyses/P58-art.md) | CHI 2011 | The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures — method generalization and implementation | unverified |
+| [P60](analyses/P60-fairness-explanations.md) | IUI 2019 | Explaining Models — empirical finding | unverified |
+| [P61](analyses/P61-accessibility-review.md) | CHI 2021 | What Do We Mean by “Accessibility Research”? — literature synthesis | Honorable Mention |
+| [P62](analyses/P62-fitts-review.md) | CHI 2025 | A Systematic Review of Fitts’ Law in 3D Extended Reality — literature synthesis | unverified |
+| [P63](analyses/P63-phishing-warnings.md) | CHI 2008 | You've Been Warned — empirical finding | unverified |
+| [P64](analyses/P64-typing.md) | CHI 2018 | Observations on Typing from 136 Million Keystrokes — empirical finding | Honorable Mention |
 
 ## Coverage and exclusions
-CHI 21, CSCW 13, DIS 9, IUI 5, UIST 9.
+CHI 25, CSCW 13, DIS 9, IUI 6, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

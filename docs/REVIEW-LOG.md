@@ -146,3 +146,17 @@ or a systematic review; manuscript title/DOI-block and numbering caveats remain.
 The added paragraph measurements are pending separate replay review and are not
 used to claim norms. This is parent review of original single-analyst coding, not
 independent recoding or researcher validation.
+
+## Expansion gate I — review rigor and empirical scope
+Root completed P60–64 with two rendered paragraph micro analyses per paper;
+identity, local source hashes and uniqueness checked. Integrated 62. Corrected P61
+award from an initial mistaken Best Paper reading to **Honorable Mention**, after
+checking the enclosing heading on the official CHI 2021 list. Author-site evidence
+supports P64 Honorable Mention. P63 DOI verified through Crossref.
+Retained post-task trait measurement and exploratory analyses in P60, distinct
+review denominators in P61/P62, descriptive rather than pooled causal synthesis
+in P62, nonrandom browser assignment in P63, and observational/subsample limits
+in P64. P59's attempted full-text URL returned 404; it remains excluded, not read.
+Two short papers in the earlier root batch remain unsuitable as long-paper length
+models. No historical analysis procedure is promoted into current methodological
+requirements.

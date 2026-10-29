@@ -9,10 +9,11 @@ The first release is an exploratory, purposive corpus, not a population survey.
 
 ## Live checkpoint — 2026-10-30
 - Protocol and ten-paper pilot: reviewed and pushed (`0d92ba5` latest checkpoint).
-- Reviewed and integrated: 57 full-text analyses (pilot + seven six-paper batches + five root analyses).
+- Reviewed and integrated: 62 full-text analyses (pilot + seven six-paper batches + ten root analyses).
   Every expansion batch has a separate review entry and commit/push checkpoint.
-- Expansion: three assigned batches (P18–P53) and root batch (P54–P64)
-  underway. IDs are reservations, not claims of completed reading.
+- Initial expansion P18–P64 is complete; P59 excluded for unavailable full text.
+- New expansion P65–P106 is underway toward the minimum of 100.
+  IDs are reservations, not claims of completed reading.
 - Next gate: review completed expansion fragments in small batches, validate
   metadata/locators, regenerate coverage, commit and push each reviewed batch.
 - Then complete remaining batches; audit contribution/domain coverage and deepen

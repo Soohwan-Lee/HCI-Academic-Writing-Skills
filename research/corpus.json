@@ -1852,5 +1852,170 @@
     "measurement_eligible": false,
     "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
     "format_note": "Four-page short-format exemplar; not an 8000-word allocation model"
+  },
+  {
+    "id": "P60-fairness-explanations",
+    "url": "https://qveraliao.com/iui19.pdf",
+    "sha256": "3cfc98581b28926b97d2f47c128ae246ef24e3a7b8ec79482ee4307ee6a39ca3",
+    "bytes": 269805,
+    "title": "Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment",
+    "authors": [
+      "Dodge",
+      "Liao",
+      "Zhang",
+      "Bellamy",
+      "Dugan"
+    ],
+    "venue": "IUI",
+    "publication_year": 2019,
+    "presentation_year": 2019,
+    "doi": "10.1145/3301275.3302310",
+    "primary_knowledge_object": "empirical finding",
+    "method": "controlled online experiment and open-response analysis",
+    "domain": "human–AI interaction; fairness judgments",
+    "affiliations_as_stated": "Oregon State University; IBM Research",
+    "pages": 11,
+    "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P60-fairness-explanations.md",
+    "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+  },
+  {
+    "id": "P61-accessibility-review",
+    "url": "https://www.llwang.net/assets/pdf/2021_mack_a11yreview_chi.pdf",
+    "sha256": "7f256265f7a816381d8867c904d19326cb3d16c37a14dd3b2b3964dce29f4842",
+    "bytes": 653205,
+    "title": "What Do We Mean by “Accessibility Research”?: A Literature Survey of Accessibility Papers in CHI and ASSETS from 1994 to 2019",
+    "authors": [
+      "Mack",
+      "McDonnell",
+      "Jain",
+      "Wang",
+      "Froehlich",
+      "Findlater"
+    ],
+    "venue": "CHI",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3411764.3445412",
+    "primary_knowledge_object": "literature synthesis",
+    "method": "structured literature survey, iterative coding and historical metadata analysis",
+    "domain": "accessibility; disability; research practice",
+    "affiliations_as_stated": "University of Washington; Allen Institute for AI",
+    "pages": 31,
+    "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://chi2021.acm.org/information/5208.html",
+      "evidence": "official conference Honorable Mention section; title subtitle differs from analyzed manuscript, authors match"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P61-accessibility-review.md",
+    "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+  },
+  {
+    "id": "P62-fitts-review",
+    "url": "https://www.csit.carleton.ca/~rteather/pdfs/CHI2025.pdf",
+    "sha256": "39ceb4fffa20d049c787cc7122e8334ed382ca9d0a98392ba1e4ce43f54346c6",
+    "bytes": 3395576,
+    "title": "A Systematic Review of Fitts’ Law in 3D Extended Reality",
+    "authors": [
+      "Amini",
+      "Stuerzlinger",
+      "Teather",
+      "Batmaz"
+    ],
+    "venue": "CHI",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.1145/3706598.3713623",
+    "primary_knowledge_object": "literature synthesis",
+    "method": "systematic literature review with descriptive aggregation and methodological recommendations",
+    "domain": "XR; pointing; measurement methodology",
+    "affiliations_as_stated": "Concordia University; Simon Fraser University; Carleton University",
+    "pages": 25,
+    "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P62-fitts-review.md",
+    "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+  },
+  {
+    "id": "P63-phishing-warnings",
+    "url": "https://css.csail.mit.edu/6.566/2012/readings/youve-been-warned.pdf",
+    "sha256": "e9d791bd589d308fa5904c86abb210559a6bdcbf0c72cc1deec2d8aeabffe971",
+    "bytes": 1441238,
+    "title": "You've Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings",
+    "authors": [
+      "Egelman",
+      "Cranor",
+      "Hong"
+    ],
+    "venue": "CHI",
+    "publication_year": 2008,
+    "presentation_year": 2008,
+    "doi": "10.1145/1357054.1357219",
+    "primary_knowledge_object": "empirical finding",
+    "method": "laboratory comparison, think-aloud observation and exit survey; browser groups self-selected",
+    "domain": "security; warning design",
+    "affiliations_as_stated": "Carnegie Mellon University",
+    "pages": 10,
+    "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P63-phishing-warnings.md",
+    "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+  },
+  {
+    "id": "P64-typing",
+    "url": "https://userinterfaces.aalto.fi/136Mkeystrokes/resources/chi-18-analysis.pdf",
+    "sha256": "e5e72facf874deed7b18fcf87f827dce565a8c56f6f7a99de4564303301496a2",
+    "bytes": 2905386,
+    "title": "Observations on Typing from 136 Million Keystrokes",
+    "authors": [
+      "Dhakal",
+      "Feit",
+      "Kristensson",
+      "Oulasvirta"
+    ],
+    "venue": "CHI",
+    "publication_year": 2018,
+    "presentation_year": 2018,
+    "doi": "10.1145/3173574.3174220",
+    "primary_knowledge_object": "empirical finding",
+    "method": "large volunteer observational transcription study and exploratory clustering",
+    "domain": "text entry; motor performance; reusable data",
+    "affiliations_as_stated": "Aalto University; University of Cambridge",
+    "pages": 12,
+    "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://userinterfaces.aalto.fi/136Mkeystrokes/",
+      "evidence": "author institutional project explicitly reports Best paper honorable mention"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P64-typing.md",
+    "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
+    "secondary_knowledge_objects": [
+      "dataset/resource"
+    ]
   }
 ]
