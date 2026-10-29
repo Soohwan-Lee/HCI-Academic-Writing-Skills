@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-100 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+104 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -109,9 +109,13 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P100](analyses/P100-bangladesh-misinformation.md) | CSCW 2020 | Combating Misinformation in Bangladesh — empirical understanding of stakeholder responsibility and infrastructural constraints | unverified |
 | [P101](analyses/P101-meeting-mediator.md) | CSCW 2008 | Meeting Mediator — artifact and empirical understanding of feedback and group dynamics | unverified |
 | [P102](analyses/P102-dance-physicalisations.md) | DIS 2024 | A Retrospective Autoethnography Documenting Dance Learning Through Data Physicalisations — situated design knowledge and retrospective autoethnographic documentation | unverified |
+| [P103](analyses/P103-devils-advocate.md) | IUI 2024 | Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil’s Advocate — empirical understanding of AI dissent in group decisions | unverified |
+| [P104](analyses/P104-mindphone.md) | DIS 2022 | MindPhone — empirical and design understanding of mindful smartphone reflection | unverified |
+| [P105](analyses/P105-high-uncertainty.md) | IUI 2023 | Supporting High-Uncertainty Decisions through AI and Logic-Style Explanations — empirical understanding of explanations under uncertainty | unverified |
+| [P106](analyses/P106-embodied-probes.md) | DIS 2025 | Conversations With The Stressed Body — situated understanding of embodied stress disclosure and inquiry methods | unverified |
 
 ## Coverage and exclusions
-CHI 34, COMPASS 1, CSCW 21, DIS 15, IUI 15, UIST 14.
+CHI 34, COMPASS 1, CSCW 21, DIS 17, IUI 17, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

@@ -9,7 +9,7 @@ The first release is an exploratory, purposive corpus, not a population survey.
 
 ## Live checkpoint — 2026-10-30
 - Protocol and ten-paper pilot: reviewed and pushed (`0d92ba5` latest checkpoint).
-- Reviewed and integrated: 100 full-text analyses (99 from requested venues + one supplementary COMPASS paper).
+- Reviewed and integrated: 104 full-text analyses (103 from requested venues + one supplementary COMPASS paper).
   Every expansion batch has a separate review entry and commit/push checkpoint.
 - Initial expansion P18–P64 is complete; P59 excluded for unavailable full text.
 - New expansion P65–P106 is underway toward the minimum of 100.

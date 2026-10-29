@@ -274,3 +274,14 @@ Parent inspected the installer and compatibility documentation and reran nine
 isolated tests: all pass. No global installation was performed. Official paths
 are documented separately from host discovery/runtime claims. Copies are dry-run
 by default, idempotent when identical and refuse conflicting destinations.
+
+## Expansion gate R — group AI, reflection and embodied disclosure
+Parent reviewed P103–106 and checked hashes, DOI/ID uniqueness and analysis paths.
+Total 104, including 103 from the requested five venues; the minimum 100 is met
+without counting the supplementary COMPASS example. P103 preserves group-vs-person
+units and accuracy/experience tradeoffs; P104 distinguishes intervention and
+measurement windows plus rebound; P105 separates reliance, agreement and performance
+under conditional hypotheses; P106 keeps embodied disclosure apart from clinical
+effectiveness. Four further analyses strengthen personal relevance and methodological
+breadth. Three resource supplements and expanded section measurements remain pending;
+corpus-size completion does not complete behavioral or release validation.
