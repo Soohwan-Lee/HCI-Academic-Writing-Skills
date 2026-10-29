@@ -31,3 +31,15 @@ read conference lists, one ACM certificate index corroborated by lab, one author
 institution). No unverified paper is labeled non-awarded. Version differences,
 selection bias, missing contribution types and Zotero timeout are recorded.
 Gate outcome: suitable for exploratory exemplars, unsuitable for HCI-wide norms.
+
+## Gate 3 — analysis and measurement
+Ten full-text notes reviewed for structure, claim/evidence distinctions and a
+selected sentence-by-sentence paragraph example each. Separate analysts produced
+three batches; this is division of work, not independent double-coding or IRR.
+Corrected P01's evaluation label to warrant; clarified P05's design knowledge vs
+RtD method. P06 explicitly uses the revised 2021 arXiv version of a 2020 paper.
+Two PDFs have reproducible extraction estimates and eight visual-checked prose
+paragraphs. Column-order problems in other PDFs are documented, not hidden by
+averaging. The short P03 bridge and P07's inductive paragraph contradict a uniform
+length or always-deductive requirement. Gate outcome: proceed with examples and
+clearly labeled heuristics; no statistical norms claimed.

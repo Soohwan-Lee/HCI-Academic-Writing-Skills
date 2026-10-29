@@ -1,0 +1,90 @@
+{
+  "status": "descriptive extraction estimates, not prose-only or ACM counts",
+  "tokenizer": "[A-Za-z0-9]+(?:[’'-][A-Za-z0-9]+)*",
+  "extraction": "pdftotext default; Unicode NFKC; specified header/frontmatter removal; numeric citations removed; line-end hyphens joined",
+  "includes": "body headings, figure/table captions, extractable figure/table labels and numerals, quoted material",
+  "excludes": "title/authors, abstract, rights notice, running headers/footers, acknowledgments, references and appendices",
+  "limitations": "Figure/table text is not separately counted; column flow and broken glyphs can alter counts. P07 p2 figure caption falls within extracted Introduction. Do not compare to prose-only word budgets or infer population norms.",
+  "papers": [
+    {
+      "id": "P03-trust-think",
+      "sha256": "79024bae4bcacff95b361885cf6b00eab8443ed88e87dc72ed255240f1f97d16",
+      "abstract_tokens": 230,
+      "extracted_body_tokens": 9307,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 1157,
+          "percent_of_extracted_body": 12.43
+        },
+        {
+          "section": "Related work",
+          "tokens": 965,
+          "percent_of_extracted_body": 10.37
+        },
+        {
+          "section": "Experiment",
+          "tokens": 2735,
+          "percent_of_extracted_body": 29.39
+        },
+        {
+          "section": "Results",
+          "tokens": 983,
+          "percent_of_extracted_body": 10.56
+        },
+        {
+          "section": "Individual-differences analysis",
+          "tokens": 2215,
+          "percent_of_extracted_body": 23.8
+        },
+        {
+          "section": "Discussion",
+          "tokens": 969,
+          "percent_of_extracted_body": 10.41
+        },
+        {
+          "section": "Conclusion",
+          "tokens": 283,
+          "percent_of_extracted_body": 3.04
+        }
+      ],
+      "paragraph_tokens": [
+        99,
+        147,
+        119,
+        36,
+        146
+      ],
+      "paragraph_selection": "Five consecutive complete introduction paragraphs on PDF p.2 (paragraphs 2–6); visual boundary check. Cross-page paragraphs excluded from this subset."
+    },
+    {
+      "id": "P07-reexamining",
+      "sha256": "5b8d05acaf70cc6b561e2924eaf35cd28ef08f6119394807a19516c450eae821",
+      "abstract_tokens": 160,
+      "extracted_body_tokens": 7009,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 597,
+          "percent_of_extracted_body": 8.52
+        },
+        {
+          "section": "Related work",
+          "tokens": 1358,
+          "percent_of_extracted_body": 19.38
+        },
+        {
+          "section": "Remaining argument including conclusion",
+          "tokens": 5054,
+          "percent_of_extracted_body": 72.11
+        }
+      ],
+      "paragraph_tokens": [
+        77,
+        131,
+        101
+      ],
+      "paragraph_selection": "First three consecutive prose paragraphs of Introduction, PDF p.1; visual boundary and column-order check."
+    }
+  ]
+}
