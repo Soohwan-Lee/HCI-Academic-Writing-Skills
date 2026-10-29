@@ -179,3 +179,13 @@ tested material combinations vs possibilities, Zooids scenarios vs deployment, a
 ERICA breadth vs within-app coverage. None inherits user-performance benefits from
 technical feasibility. Selected for specific writing/evidence contrasts, not fame.
 Additional IUI work is prioritized after this deliberately UIST-heavy sub-batch.
+
+## Expansion gate K — review warrants and conceptual constructions
+Parent read P65–69 notes and checked source hashes, distinct IDs/DOIs and paths.
+Total 72. Preserved selected influential vs exhaustive corpora (P65), unresolved
+preprint count/date inconsistencies (P66), systematic selection vs reflexive
+interpretation and reported vs actual practice (P67), purposive conceptual essay
+vs systematic review (P68), and curated award-paper illustration vs representative
+field evidence (P69). P68's argument-last definition and P69's concession after
+rebuttal provide explicit alternatives to mandatory topic-first writing. These are
+interpreted examples, not independently demonstrated reader-performance effects.

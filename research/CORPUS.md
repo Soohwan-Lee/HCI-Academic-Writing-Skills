@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-67 full papers integrated across five venues. Metadata, analyzed versions,
+72 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -71,6 +71,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P62](analyses/P62-fitts-review.md) | CHI 2025 | A Systematic Review of Fitts’ Law in 3D Extended Reality — literature synthesis | unverified |
 | [P63](analyses/P63-phishing-warnings.md) | CHI 2008 | You've Been Warned — empirical finding | unverified |
 | [P64](analyses/P64-typing.md) | CHI 2018 | Observations on Typing from 136 Million Keystrokes — empirical finding | Honorable Mention |
+| [P65](analyses/P65-creativity-review.md) | CHI 2019 | Mapping the Landscape of Creativity Support Tools in HCI — literature synthesis | unverified |
+| [P66](analyses/P66-infrastructure-review.md) | CSCW 2025 | A Systematic Literature Review of Infrastructure Studies in SIGCHI — literature synthesis | unverified |
+| [P67](analyses/P67-community-review.md) | CHI 2022 | A Systematic Review and Thematic Analysis of Community-Collaborative Approaches to Computing Research — literature synthesis | unverified |
+| [P68](analyses/P68-interaction.md) | CHI 2017 | What Is Interaction? — conceptual framework | unverified |
+| [P69](analyses/P69-problem-solving.md) | CHI 2016 | HCI Research as Problem-Solving — conceptual framework | unverified |
 | [P79](analyses/P79-tapsense.md) | UIST 2011 | TapSense — acoustic input-discrimination technique | unverified |
 | [P80](analyses/P80-inform.md) | UIST 2013 | inFORM — interaction design space and shape-display platform | unverified |
 | [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
@@ -78,7 +83,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P83](analyses/P83-erica.md) | UIST 2016 | ERICA — interaction-mining infrastructure and trace representation | unverified |
 
 ## Coverage and exclusions
-CHI 25, CSCW 13, DIS 9, IUI 6, UIST 14.
+CHI 29, CSCW 14, DIS 9, IUI 6, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

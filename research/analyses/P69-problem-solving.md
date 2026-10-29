@@ -1,0 +1,29 @@
+# P69 — Problem-solving as a proposed account of HCI research
+
+## Source and scope
+
+Oulasvirta and Hornbæk, *HCI Research as Problem-Solving*, CHI 2016, pp. 4956–4967, DOI 10.1145/2858036.2858283. Read the complete main text, figures, table, and objections in the 12-page [author-hosted proceedings-format PDF](https://www.kasperhornbaek.dk/papers/CHI2016_ProblemSolving.pdf). Its first page verifies title, authors, conference, and DOI; the [official proceedings page](https://chi2016.acm.org/wp/chi-2016-proceedings/) provides conference context. The analyzed file is the author-hosted version. No award for this paper is verified: its analysis of award papers does not make it an award winner. Single-analyst rhetorical coding treats this as a debatable conceptual position, selected for explicit contribution differentiation and engagement with counterarguments.
+
+## Architecture and opening moves
+
+Introduction → Three Types of Research Problem in HCI → Problem-Solving Capacity of HCI Research → HCI Research as a Problem-Solving Field → A Snapshot of Today's HCI: CHI Best Papers → Moving HCI Forward → Limitations and Critiques of Problem-Solving → Concluding Remarks. Definitions precede a bounded application, which precedes disciplinary recommendations and objections. Table 1 translates the proposed criteria into assessment questions and idea-generation heuristics.
+
+The abstract names the essay's knowledge object immediately, attributes its philosophical foundation to Laudan, proposes empirical/conceptual/constructive problem types, explains problem-solving capacity, and states potential integrative value. Introduction pp. 4956–4957 begins with the authors' difficulty explaining HCI, develops fragmentation as the problem, justifies why a technical conference should care, and introduces the proposed account. Its novelty is an extension and application of an existing philosophy, especially constructive problems and later confidence as an additional criterion. Four guiding questions appear after the conceptual foundation starts. An opening personal motivation and delayed question list are purposeful choices, not violations of a mandatory background-to-RQ sequence.
+
+Related scholarship is woven into definitions, contrasts, and objections. The paper positions itself against discipline-bound accounts while acknowledging HCI's intellectual debts. It uses prior empirical studies, designs, and theories as examples of different knowledge problems. The relevant gap concerns a proposed shared account of contribution and progress, not an unoccupied application domain.
+
+## Claims and warrants
+
+The main contribution is conceptual and normative. The 21 CHI 2015 Best Papers provide an illustrative analytic application; both authors categorized prominent problem types and resolved four initial disagreements. The authors explicitly identify this curated sample as unrepresentative. Its counts support claims about that snapshot, while field-wide diagnoses require the broader argumentative case. The paper also reports scanning honorable mentions, which should not be silently recast as an equally deep systematic corpus.
+
+Significance, effectiveness, efficiency, transfer, and confidence are proposed assessment dimensions. The paper argues that contributions can mix problem types and that constructing an artifact is distinct from producing understanding through construction. Its practical heuristics are not validated as an intervention that improves writing or research quality. The limitations admit subjective judgments about significance, possible resistance from artistic practice, and limited guidance for generating curiosity or translating stakeholder problems. Its own broad coverage aspiration is not a measured coverage percentage. Writing guidance should borrow the demand to explain a research problem without imposing this philosophy as HCI's settled definition.
+
+## Two rendered paragraph micro-analyses
+
+PDF p. 7 / printed p. 4962, Snapshot section, opening **“The Best Papers often mix”**, contains four sentences. S1 qualifies the preceding classification as a dominant-type judgment. S2 introduces an empirical example concerning newsfeed awareness. S3 explains how interviews and a constructed system jointly support that investigation. S4 supplies a second example and explicitly names its mixed problem types. The preceding paragraph describes the sole conceptual-primary paper; the following raises concern about conceptual scarcity. The qualification prevents the scarcity claim from erasing secondary contributions. This is a qualification-first paragraph with evidence, not an independent headline result.
+
+PDF p. 10 / printed p. 4965, Limitations, opening **“Problem-solving does not preclude curiosity”**, has four sentences. S1 rejects an incompatibility objection. S2 gives the reason: curiosity can identify problems. S3 connects identifying problems to later solutions. S4 concedes that the account does not itself encourage or explain curiosity-generating activities. The preceding italicized objection prompts this response; the following objection concerns subjective qualities. Its initial rebuttal is narrowed by the final sentence. Copying only the assertive opening would reverse the paragraph's careful argumentative effect.
+
+## Transfer conditions
+
+A conceptual manuscript can demonstrate usefulness through a bounded analytic application without presenting that application as comprehensive validation. State whether classification concerns primary or secondary contributions. Separate philosophical commitments from observed writing choices. Most directly transferable is making the knowledge problem explicit beyond a generic claim that little is known. Retain room for exploratory, artistic, critical, and empirical contributions whose purposes resist a single optimization standard.

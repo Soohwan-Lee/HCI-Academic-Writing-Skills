@@ -1,0 +1,27 @@
+# P65 — Mapping the Landscape of Creativity Support Tools in HCI
+
+**Identity and scope.** Frich, MacDonald Vermeulen, Remy, Biskjaer, and Dalsgaard, CHI 2019, DOI 10.1145/3290605.3300619. Analyzed 18-page author-hosted copy: https://www.peterdalsgaard.com/documents/publications/Frich_Mapping_the_Landscape_of_Creativity_Support_Tools_in_HCI.pdf. Its rights block unusually names IW3C2 despite CHI bibliographic metadata; publisher byte equivalence is unverified. Award unverified. Full argument body read, with two complete paragraphs rendered. Single-analyst, version-dependent coding. Primary contribution: descriptive literature synthesis and tentative conceptual definition; method: sampled literature coding, not an intervention experiment or pooled-effect meta-analysis.
+
+## Architecture and rhetorical work
+
+Actual sequence: Introduction → Background and Related Work in Creativity Research → Methodology (Sampling; Analysis) → Results and Synthesis → Developments in the Field of CSTs → Discussion → Conclusion. Results describe tool properties and research practices; the next section treats changes over time; Discussion interprets those patterns through creativity scholarship and proposes a definition. This separation prevents every frequency from immediately becoming an agenda claim.
+
+The abstract establishes CSTs’ importance, identifies definitional fragmentation and one-off prototypes, explains the resulting comparison problem, specifies the 143-paper review, and states two outputs: an overview and tentative definition. Introduction starts with everyday creative practice and recognizable tool users, establishes HCI’s proliferation of prototypes, then questions how that research connects with professional practice. It acknowledges prototype work’s value before arguing for stocktaking. Its closing paragraph specifies the contribution and scope rather than supplying numbered RQs.
+
+Background develops a history of psychological creativity research and its relation to HCI, culminating in an explicit understanding of creativity and creative processes. This prepares analytical categories and later interpretation. It is not the same material as the sampled tool corpus. The introduction’s gap concerns conceptual comparability and research/practice relations; the review responds by mapping tool characteristics rather than claiming to test whether professional adoption actually improves.
+
+## Evidence, warrant, and limits
+
+Sampling builds on an earlier review, filters older papers using citation rates, and uses download thresholds for recent papers because citations need time to accumulate. Those choices define a selected influential corpus, not all creativity tools. Coding emerges through image-and-summary card sorting, independent trial coding, and discussion. The resulting tables and charts make categories inspectable, while examples explain their application. Counts warrant claims about this corpus; creativity theories support interpretations of neglected expertise and stages of creative work.
+
+The authors explicitly decline a single average participant count because studies differ in units, repeated evaluations, and scale. They also acknowledge that evaluation diversity warrants a separate analysis. These are useful examples of refusing an apparently neat statistic that would erase important distinctions. The tentative definition is immediately qualified as potentially too broad; more specific definitions are proposed as future work. Temporal claims need extra caution because sampling metrics change across periods. Explanations involving publication incentives, maintenance, or recruitment are labeled speculation, not observed causes. The keyword “Meta-Analysis” does not turn these descriptive summaries into a pooled-effect meta-analysis.
+
+## Two paragraph micro-analyses
+
+**PDF p. 5, Methodology/Analysis, “As a preliminary step” (five sentences; rendered).** S1 describes the card-sort materials. S2 explains emergent codes and independent trial application. S3 states comparison and refinement purposes. S4 repeats calibration with wider temporal coverage. S5 identifies how disagreements changed code descriptions. Relations: operation → test → quality mechanism → extension → resolution. The preceding paragraph introduces the coding scheme; the following explains distribution of the full corpus. This procedural opening is a topic sentence, not a conclusion-first result.
+
+**PDF p. 9, Discussion/Evaluation, “One of the categories” (four sentences; rendered).** S1 identifies evaluation as analytically contentious. S2 explains that repeated refinement did not make exhaustive treatment feasible. S3 contrasts existing standardization efforts with observed methodological variety. S4 adds variation in evaluation criteria. Relations: analytical difficulty → scope limit → contextualized evidence → elaboration. The preceding discussion opener announces four issues; the following interprets evaluation tension through interdisciplinarity and recommends further work. The paragraph earns a limit rather than hiding it.
+
+## Transfer
+
+A review should connect selection, coding, descriptive patterns, conceptual interpretation, and recommendations without collapsing them. Report category ambiguities and explain why certain aggregates would mislead. Do not copy the sampling thresholds or the division between results and trends as universal rules; choose them according to the review question and justify coverage consequences.
