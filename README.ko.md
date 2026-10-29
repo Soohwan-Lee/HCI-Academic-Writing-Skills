@@ -6,7 +6,7 @@ Codex, Claude Code, Antigravity에서 사용할 수 있도록 개발하고 있�
 [English](README.md) · [개발 계획](docs/PLAN.md) ·
 [분석 논문 목록](research/CORPUS.md) · [검토 기록](docs/REVIEW-LOG.md)
 
-**개발 중입니다.** 현재 전문 분석과 검토를 마쳐 통합한 논문은 91편입니다.
+**개발 중입니다.** 현재 전문 분석과 검토를 마쳐 통합한 논문은 95편입니다.
 CHI, CSCW, UIST, DIS, IUI의 **최소 100편**을 분석하는 것이 릴리스 기준입니다.
 검토 대기 분석과 확보 예정 논문은 완료 수에 포함하지 않습니다.
 설치 방식과 실제 논문 작성 지원 기능은 검증 중입니다.

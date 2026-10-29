@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-91 full papers integrated across five venues. Metadata, analyzed versions,
+95 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -81,6 +81,10 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P72](analyses/P72-annotation-strategies.md) | DIS 2020 | Strategies for Annotating Portfolios — methodological guidance | unverified |
 | [P73](analyses/P73-experience-prototyping.md) | DIS 2000 | Experience Prototyping — methodological guidance | unverified |
 | [P74](analyses/P74-future-crowd.md) | CSCW 2013 | The Future of Crowd Work — conceptual framework | unverified |
+| [P75](analyses/P75-awareness.md) | CSCW 1992 | Awareness and Coordination in Shared Workspaces — conceptual framework | unverified |
+| [P76](analyses/P76-reflective-informatics.md) | CHI 2015 | Reflective Informatics — conceptual framework | unverified |
+| [P77](analyses/P77-user-enactments.md) | DIS 2012 | A Fieldwork of the Future with User Enactments — methodological guidance | unverified |
+| [P78](analyses/P78-posthuman-vocabulary.md) | COMPASS 2025 | Navigating the Posthuman Turn in Computing and Design — literature synthesis | unverified |
 | [P79](analyses/P79-tapsense.md) | UIST 2011 | TapSense — acoustic input-discrimination technique | unverified |
 | [P80](analyses/P80-inform.md) | UIST 2013 | inFORM — interaction design space and shape-display platform | unverified |
 | [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
@@ -102,7 +106,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P97](analyses/P97-health-sharing.md) | CSCW 2011 | It's not that I don't have problems, I'm just not putting them on Facebook — interpretive empirical account of health sharing and network work | unverified |
 
 ## Coverage and exclusions
-CHI 33, CSCW 16, DIS 13, IUI 15, UIST 14.
+CHI 34, COMPASS 1, CSCW 17, DIS 14, IUI 15, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

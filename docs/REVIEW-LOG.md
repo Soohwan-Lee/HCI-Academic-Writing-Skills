@@ -226,3 +226,12 @@ and best-performing stimulus selection vs representative accessibility performan
 P92 nonsignificant ratings remain distinct from qualitative preference accounts.
 Best Paper evidence for P89/P90/P92 is recorded with its primary-source level.
 The additional IUI papers span empirical, method, design and artifact claims.
+
+## Expansion gate P — collaboration, reflection and method evolution
+Parent reviewed P75–78; hashes/paths/identities checked. Total 95, including one
+explicit supplementary COMPASS case, so 94 from the five requested venues. P75
+observed coordination vs conceptual transfer, P76 competing conceptual readings,
+P77 elicitation insight vs product endorsement, and P78 normative commitments vs
+corpus frequencies remain distinct. P78 is never counted as DIS. P77 author-reported
+Best Paper evidence is distinguished from independently checked conference lists.
+Newer examples reinforce personal relevance without narrowing the public scope.

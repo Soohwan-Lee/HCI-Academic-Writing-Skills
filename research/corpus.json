@@ -2365,6 +2365,144 @@
     "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
   },
   {
+    "id": "P75-awareness",
+    "title": "Awareness and Coordination in Shared Workspaces",
+    "authors": [
+      "Dourish",
+      "Bellotti"
+    ],
+    "venue": "CSCW",
+    "publication_year": 1992,
+    "presentation_year": 1992,
+    "doi": "10.1145/143457.143468",
+    "url": "https://www.dourish.com/publications/1992/cscw92-awareness.pdf",
+    "sha256": "f7a02b57417892822491c5864f604d2c083333c6ed28fe1709d30c92158e4cea",
+    "bytes": 98951,
+    "pages": 9,
+    "primary_knowledge_object": "conceptual framework",
+    "method": "mechanism comparison and observational groupware case analysis",
+    "domain": "collaborative awareness and coordination",
+    "affiliations_as_stated": "Rank Xerox EuroPARC",
+    "analyzed_version": "author-hosted nine-page manuscript; publisher pagination 107–114 differs",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P75-awareness.md",
+    "selection_reason": "Hybrid conceptual/empirical argument distinguishes observed coordination from architectural extrapolation",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+  },
+  {
+    "id": "P76-reflective-informatics",
+    "title": "Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection",
+    "authors": [
+      "Baumer"
+    ],
+    "venue": "CHI",
+    "publication_year": 2015,
+    "presentation_year": 2015,
+    "doi": "10.1145/2702123.2702234",
+    "url": "https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/3483/files/2017/02/Baumer2015-Reflective-166qq82.pdf",
+    "sha256": "bdecf1b40fb25bf2db6f10502ce7dffc09745f58e81fcbcfd5bc56747267c0a5",
+    "bytes": 671238,
+    "pages": 10,
+    "primary_knowledge_object": "conceptual framework",
+    "method": "selective interdisciplinary theoretical synthesis and interpretive design examples",
+    "domain": "reflection and design epistemology",
+    "affiliations_as_stated": "Cornell University",
+    "analyzed_version": "institutional-hosted proceedings-format PDF, pp.585–594",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P76-reflective-informatics.md",
+    "selection_reason": "Contrasts theoretical commitments, offers generative dimensions and reflexively critiques assumed value and evaluation",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+  },
+  {
+    "id": "P77-user-enactments",
+    "title": "A Fieldwork of the Future with User Enactments",
+    "authors": [
+      "Odom",
+      "Zimmerman",
+      "Davidoff",
+      "Forlizzi",
+      "Dey",
+      "Lee"
+    ],
+    "venue": "DIS",
+    "publication_year": 2012,
+    "presentation_year": 2012,
+    "doi": "10.1145/2317956.2318008",
+    "url": "https://willodom.com/publications/paper500_UserEnactments_DIS2012.pdf",
+    "sha256": "fa2cb373aec5b953fde03ac7fe2566bf20456ed836b5e13b58058950768e1345",
+    "bytes": 5502540,
+    "pages": 10,
+    "primary_knowledge_object": "methodological guidance",
+    "method": "retrospective reflection across three user-enactment applications",
+    "domain": "speculative embodied design and family life",
+    "affiliations_as_stated": "Carnegie Mellon University",
+    "analyzed_version": "author-hosted accepted-revision manuscript, 10 pages; final publisher pp.338–347",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null,
+      "author_reported_evidence": {
+        "source": "https://willodom.com/portfolio/publications/",
+        "label": "Best Paper Award",
+        "verification_scope": "explicit author-primary report; conference award list not independently inspected; status remains unverified under strict venue-primary policy"
+      }
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P77-user-enactments.md",
+    "selection_reason": "Explicit method evolution, failed cases and limits; separates insight-generating provocation from product recommendation",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+  },
+  {
+    "id": "P78-posthuman-vocabulary",
+    "title": "Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary",
+    "authors": [
+      "Dedeoğlu",
+      "Chandra"
+    ],
+    "venue": "COMPASS",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.1145/3715335.3735487",
+    "url": "https://www.priyankc.com/files/dedeoglu-2025-posthuman.pdf",
+    "sha256": "6629a4b91334e870004cd3698ea3b32973a314d465d1b7ad386df2b3fb050234",
+    "bytes": 1239623,
+    "pages": 26,
+    "primary_knowledge_object": "literature synthesis",
+    "method": "semi-systematic retrieval, reflexive thematic analysis and genealogical interpretation",
+    "domain": "posthuman design, ecological sustainability and justice",
+    "affiliations_as_stated": "Yorkville University; The Posthuman Lab; University of Toronto",
+    "analyzed_version": "author-hosted 26-page conference-format PDF; publisher metadata pp.504–529",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P78-posthuman-vocabulary.md",
+    "selection_reason": "Supplementary cross-venue critical-synthesis contrast with transparent scope and distinction between corpus findings and normative vocabulary",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "supplementary_venue": true,
+    "target_venue_count_eligible": false
+  },
+  {
     "id": "P79-tapsense",
     "title": "TapSense: Enhancing Finger Interaction on Touch Surfaces",
     "authors": [
