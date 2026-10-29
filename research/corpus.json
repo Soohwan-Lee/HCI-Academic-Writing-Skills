@@ -1,0 +1,308 @@
+[
+  {
+    "id": "P01-generative-agents",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "authors": [
+      "Park",
+      "O’Brien",
+      "Cai",
+      "Morris",
+      "Liang",
+      "Bernstein"
+    ],
+    "venue": "UIST",
+    "publication_year": 2023,
+    "presentation_year": 2023,
+    "doi": "10.1145/3586183.3606763",
+    "primary_knowledge_object": "artifact/capability",
+    "method": "architecture, simulation, human rating and ablation",
+    "affiliations_as_stated": "Stanford; Google Research; Google DeepMind",
+    "analyzed_version": "arXiv v2, 2023-08-06",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://uist.acm.org/2023/",
+      "evidence": "official conference"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P01-generative-agents.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://arxiv.org/pdf/2304.03442",
+    "sha256": "1b31e77fb24d25d7598f2c49e955d12a28b95a6dabad34acdac40f44bfb7a139",
+    "bytes": 11947867
+  },
+  {
+    "id": "P02-soylent",
+    "title": "Soylent: A Word Processor with a Crowd Inside",
+    "authors": [
+      "Bernstein",
+      "Little",
+      "Miller",
+      "Hartmann",
+      "Ackerman",
+      "Karger",
+      "Crowell",
+      "Panovich"
+    ],
+    "venue": "UIST",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": null,
+    "primary_knowledge_object": "artifact/capability",
+    "method": "system implementation and task evaluation",
+    "affiliations_as_stated": "MIT CSAIL; UC Berkeley; University of Michigan",
+    "analyzed_version": "author-hosted PDF",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P02-soylent.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf",
+    "sha256": "75b7817c4cc4d922dd2a1113b19b03ffbf42dad52a29c2853158a47680f2f4a9",
+    "bytes": 2043787
+  },
+  {
+    "id": "P03-trust-think",
+    "title": "To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making",
+    "authors": [
+      "Buçinca",
+      "Malaya",
+      "Gajos"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3449287",
+    "primary_knowledge_object": "empirical finding",
+    "method": "quantitative experiment",
+    "affiliations_as_stated": "Harvard; Lodz University of Technology",
+    "analyzed_version": "author-hosted PACMHCI 5 CSCW1 article 188",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P03-trust-think.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://www.eecs.harvard.edu/~kgajos/papers/2021/bucinca21trust.pdf",
+    "sha256": "79024bae4bcacff95b361885cf6b00eab8443ed88e87dc72ed255240f1f97d16",
+    "bytes": 1809718
+  },
+  {
+    "id": "P04-proxy",
+    "title": "Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems",
+    "authors": [
+      "Buçinca",
+      "Lin",
+      "Gajos",
+      "Glassman"
+    ],
+    "venue": "IUI",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3377325.3377498",
+    "primary_knowledge_object": "empirical finding / methodological critique",
+    "method": "two online experiments and think-aloud study",
+    "affiliations_as_stated": "Harvard",
+    "analyzed_version": "author-hosted PDF",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://europe.acm.org/binaries/content/assets/awards/2020_iui_best_paper_award_certificate_bucinca.pdf",
+      "evidence": "official ACM certificate indexed text; direct fetch 403; corroborated author lab"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P04-proxy.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://kgajos.seas.harvard.edu/papers/bucinca20proxy.pdf",
+    "sha256": "3ac33b0fff54812729dcb12dce68132a9ec6f4b50cca6ea8ddface765f065703",
+    "bytes": 6670406
+  },
+  {
+    "id": "P05-ryelands",
+    "title": "Responding to Generative AI Technologies with Research-through-Design: The Ryelands AI Lab as an Exploratory Study",
+    "authors": [
+      "Benjamin",
+      "Lindley",
+      "Edwards",
+      "Rubegni",
+      "Korjakow",
+      "Grist",
+      "Sharkey"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3660677",
+    "primary_knowledge_object": "design knowledge",
+    "method": "research through design and situated exploratory engagement",
+    "affiliations_as_stated": "Lancaster; TU Berlin; Ryelands Primary and Nursery School",
+    "analyzed_version": "arXiv v1, 2024-05-07",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "official conference; anonymized title matched by author list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P05-ryelands.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://arxiv.org/pdf/2405.04677",
+    "sha256": "cc5b899747c2dcbd58fb5dc1d1ef12e5b485ac6597b66a17afd61dfb0249068c",
+    "bytes": 20415408
+  },
+  {
+    "id": "P06-questioning",
+    "title": "Questioning the AI: Informing Design Practices for Explainable AI User Experiences",
+    "authors": [
+      "Liao",
+      "Gruen",
+      "Miller"
+    ],
+    "venue": "CHI",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3313831.3376590",
+    "primary_knowledge_object": "empirical finding",
+    "method": "qualitative practitioner interviews",
+    "affiliations_as_stated": "IBM Research",
+    "analyzed_version": "arXiv v3, 2021-09-03; publication CHI 2020",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P06-questioning.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://arxiv.org/pdf/2001.02478",
+    "sha256": "6d308a1fef6c67685b3ecc971fda1fccb3e3d6ac75c7b171b5e345fb4d0291fa",
+    "bytes": 355085
+  },
+  {
+    "id": "P07-reexamining",
+    "title": "Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design",
+    "authors": [
+      "Yang",
+      "Steinfeld",
+      "Rosé",
+      "Zimmerman"
+    ],
+    "venue": "CHI",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3313831.3376301",
+    "primary_knowledge_object": "conceptual/theoretical argument",
+    "method": "synthesis of literature, prior design/research and teaching cases",
+    "affiliations_as_stated": "Carnegie Mellon",
+    "analyzed_version": "institutional teaching-hosted CHI copy",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P07-reexamining.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://www.cs.nccu.edu.tw/~whliao/hci2024/HAIIchallenges.pdf",
+    "sha256": "5b8d05acaf70cc6b561e2924eaf35cd28ef08f6119394807a19516c450eae821",
+    "bytes": 1450548
+  },
+  {
+    "id": "P08-guidelines",
+    "title": "Guidelines for Human-AI Interaction",
+    "authors": [
+      "Amershi",
+      "Weld",
+      "Vorvoreanu",
+      "Fourney",
+      "Nushi",
+      "Collisson",
+      "Suh",
+      "Iqbal",
+      "Bennett",
+      "Inkpen",
+      "Teevan",
+      "Kikin-Gil",
+      "Horvitz"
+    ],
+    "venue": "CHI",
+    "publication_year": 2019,
+    "presentation_year": 2019,
+    "doi": "10.1145/3290605.3300233",
+    "primary_knowledge_object": "method/instrument",
+    "method": "guideline synthesis, iterative evaluation and practitioner study",
+    "affiliations_as_stated": "Microsoft; University of Washington",
+    "analyzed_version": "Microsoft camera-ready PDF",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/publications/",
+      "evidence": "author institution"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P08-guidelines.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf",
+    "sha256": "82fff584c6b986f573608361478e93447538c6ce707e4b9b04d45d584272ea03",
+    "bytes": 1405242
+  },
+  {
+    "id": "P09-historicism",
+    "title": "Time for Historicism in CSCW: An Invitation",
+    "authors": [
+      "Soden",
+      "Ribes",
+      "Avle",
+      "Sutherland"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3479603",
+    "primary_knowledge_object": "conceptual/theoretical argument",
+    "method": "historical and methodological argument",
+    "affiliations_as_stated": "Toronto; Washington; Massachusetts Amherst",
+    "analyzed_version": "author-hosted PACMHCI 5 CSCW2 article 459",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2021/awards/",
+      "evidence": "official conference"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P09-historicism.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://robertsoden.io/files/historicsm-cscw.pdf",
+    "sha256": "b189ce840aa46f75082d2f8ba82a2b39f84206864e83f6813996df1914f455ca",
+    "bytes": 423950
+  },
+  {
+    "id": "P11-group-review",
+    "title": "A Systematic Review of Interaction Design Strategies for Group Recommendation Systems",
+    "authors": [
+      "Alvarado",
+      "Htun",
+      "Jin",
+      "Verbert"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2022,
+    "presentation_year": 2022,
+    "doi": "10.1145/3555161",
+    "primary_knowledge_object": "literature synthesis",
+    "method": "systematic review, descriptive statistics and thematic analysis",
+    "affiliations_as_stated": "KU Leuven; Hong Kong Baptist University",
+    "analyzed_version": "author-hosted PACMHCI 6 CSCW2 article 271",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P11-group-review.md",
+    "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
+    "url": "https://yucheng.gold/file/cscw22.pdf",
+    "sha256": "2216c066a2fee2014bf1a7270742cb3ce57fd4699b4593d6f2faec1f30ac674b",
+    "bytes": 6562778
+  }
+]

@@ -71,3 +71,49 @@ Verify identity, contribution/method distinction, full-text access, award source
 claim locations, extraction quality and permitted redistribution before synthesis.
 A single analyst's coding is not inter-rater reliability. A model critique is not
 an independent human validation or empirical evaluation of writing effectiveness.
+
+## Gate-1 refinement: knowledge objects and writing routes
+The bullet list above specifies writing routes, not disjoint contribution classes.
+Canonical knowledge-object labels are: empirical finding; artifact/capability;
+design knowledge; conceptual/theoretical argument; method/instrument;
+dataset/resource; literature synthesis. Quantitative, qualitative, mixed methods
+and RtD are separate method fields. Method and resource share an entrypoint but
+must use different warrant checks. An artifact's user evaluation is normally its
+warrant, not automatically a second contribution. Assign a secondary claim only
+when it teaches something independently substantive beyond validating that artifact.
+Record author-stated contributions in notes and distinguish our interpretation.
+
+Mapping to Wobbrock & Kientz (2016): empirical, artifact, methodological,
+theoretical, dataset, survey and opinion are their categories. Our empirical
+routes split by evidence practice; design knowledge can overlap artifact/theory;
+conceptual arguments can overlap theory/opinion; synthesis corresponds to survey.
+This is an operational writing adaptation, not a new validated HCI taxonomy.
+
+The first sample is selected for topic relevance, recognizable contribution claims,
+public full-text availability and verified award exemplars; it is not a random or
+matched sample. Historical exemplars are permitted. Record year/version per paper.
+No route has enough examples to support a population-level writing norm.
+
+## Microstructure codebook
+Unit: a visual prose paragraph, including continuation across columns/pages.
+Exclude headings and list items from prose-paragraph statistics; retain them as
+separate rhetorical units. A sentence can have multiple moves. Absence of an
+optional move (e.g. explicit RQ) is not a writing defect.
+
+- Stakes: establishes why the issue matters to a named audience.
+- Claim: states the paragraph's substantive proposition; not merely its topic.
+- Support: evidence, citation synthesis, observation or reasoning for that claim.
+- Example: instantiates an abstraction; not automatically proof of prevalence.
+- Contrast: identifies a meaningful difference or unresolved tension.
+- Warrant: explains why support licenses the claim or research choice.
+- Qualification: bounds conditions, certainty or applicability.
+- Consequence: derives an implication; distinguish observed and inferred.
+- Bridge: carries a concept or unresolved question into the next paragraph.
+
+For selected worked examples, annotate every sentence S1...Sn, its relationship
+to the previous sentence, the paragraph's entry/exit links and the position of
+its main claim. Deductive, inductive, contrast-led and example-led patterns are
+alternatives. A topic sentence introduces a subject; it need not state a conclusion.
+Micro-examples are purposively selected teaching cases, not prevalence estimates.
+For length measurements, use declared contiguous paragraph subsets and visually
+confirm every boundary; do not infer paragraph units from blank lines alone.
