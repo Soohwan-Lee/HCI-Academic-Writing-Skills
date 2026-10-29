@@ -96,3 +96,15 @@ boundaries in Morse Things; contextual confounds in Undertable; purposive portfo
 vs systematic review in P46; missing historical voices and manuscript version in
 Core Memory. P46 remains conceptual/methodological synthesis, not relabeled to fill
 a design quota. Five design cases substantially widen the non-AI sample.
+
+## Expansion gate E — input, attention and method contrasts
+Root read P54–58 fully, checked two micro passages per paper against rendered
+pages, and self-reviewed notes against the text. Hashes and unique IDs/DOIs pass.
+Retained speed–stress trade-offs, candidate-model generation vs validation,
+model fit vs performance advantage, elicitation agreement vs tested usability,
+and methodological utility vs mathematical proof. P57 is coded from its actual
+empirical/vocabulary claims, not as inventing elicitation. Four-page P54/P58 are
+explicitly excluded from long-paper allocation models. Historical statistical
+practices are not current recommendations. Crossref title search returned an
+unrelated Beam Cursor record; rejected it and used an institutional bibliography
+for Bubble Cursor identity instead. Integrated total 39.

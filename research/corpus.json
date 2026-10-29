@@ -1079,5 +1079,171 @@
     "sha256": "68384a4206fe109da1a05d6cf9f4fe31d329ff0c7ec73ff3b55972e05741c215",
     "bytes": 1319606,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P54-interruptions",
+    "url": "https://www.ics.uci.edu/~gmark/chi08-mark.pdf",
+    "sha256": "e562bd16eca40a2a59499d79b15d5577d1ea3365401a8b6cb8e834187fb7fb8b",
+    "bytes": 269479,
+    "title": "The Cost of Interrupted Work: More Speed and Stress",
+    "authors": [
+      "Mark",
+      "Gudith",
+      "Klocke"
+    ],
+    "venue": "CHI",
+    "publication_year": 2008,
+    "presentation_year": 2008,
+    "doi": "10.1145/1357054.1357072",
+    "primary_knowledge_object": "empirical quantitative account",
+    "method": "controlled interruption experiment and personality associations",
+    "domain": "workplace attention; interruptions",
+    "affiliations_as_stated": "University of California, Irvine; Humboldt University",
+    "pages": 4,
+    "analyzed_version": "author/institution-hosted proceedings-layout PDF; no revision identifier; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P54-interruptions.md",
+    "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
+    "analysis_status": "full-text body read; two selected paragraphs visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
+    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model"
+  },
+  {
+    "id": "P55-understanding-touch",
+    "url": "https://static.siplab.org/papers/chi2011-understanding_touch.pdf",
+    "sha256": "6c06dfc42b94549a94ef6dd8f16060c63e756e3a4d1e509109d1d567198db621",
+    "bytes": 1171372,
+    "title": "Understanding Touch",
+    "authors": [
+      "Holz",
+      "Baudisch"
+    ],
+    "venue": "CHI",
+    "publication_year": 2011,
+    "presentation_year": 2011,
+    "doi": "10.1145/1978942.1979308",
+    "primary_knowledge_object": "empirical explanatory model",
+    "method": "interviews, candidate-model construction and controlled model comparison",
+    "domain": "touch interaction; perception",
+    "affiliations_as_stated": "Hasso Plattner Institute",
+    "pages": 10,
+    "analyzed_version": "author/institution-hosted proceedings-layout PDF; no revision identifier; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P55-understanding-touch.md",
+    "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
+    "analysis_status": "full-text body read; two selected paragraphs visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+  },
+  {
+    "id": "P56-bubble-cursor",
+    "url": "https://www.dgp.toronto.edu/papers/tgrossman_CHI2005.pdf",
+    "sha256": "06c298555757575b878453d47b81fafb6f3bf364add42d339776880647f8c3a0",
+    "bytes": 1165428,
+    "title": "The Bubble Cursor: Enhancing Target Acquisition by Dynamic Resizing of the Cursor’s Activation Area",
+    "authors": [
+      "Grossman",
+      "Balakrishnan"
+    ],
+    "venue": "CHI",
+    "publication_year": 2005,
+    "presentation_year": 2005,
+    "doi": "10.1145/1054972.1055012",
+    "primary_knowledge_object": "interaction technique",
+    "method": "implementation, two controlled experiments and predictive modeling",
+    "domain": "pointing; input techniques",
+    "affiliations_as_stated": "University of Toronto",
+    "pages": 10,
+    "analyzed_version": "author/institution-hosted proceedings-layout PDF; no revision identifier; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P56-bubble-cursor.md",
+    "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
+    "analysis_status": "full-text body read; two selected paragraphs visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+  },
+  {
+    "id": "P57-gestures",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2009/04/SurfaceGestures_CHI2009.pdf",
+    "sha256": "ecfa75eaa41dc8f0c7a2b7ffe0732714515691a33741c09f16605f7f9cd88dba",
+    "bytes": 959866,
+    "title": "User-Defined Gestures for Surface Computing",
+    "authors": [
+      "Wobbrock",
+      "Morris",
+      "Wilson"
+    ],
+    "venue": "CHI",
+    "publication_year": 2009,
+    "presentation_year": 2009,
+    "doi": "10.1145/1518701.1518866",
+    "primary_knowledge_object": "empirical characterization and reusable gesture vocabulary",
+    "method": "gesture elicitation, video and think-aloud analysis, agreement-based vocabulary construction",
+    "domain": "surface interaction; participatory input design",
+    "affiliations_as_stated": "University of Washington; Microsoft Research",
+    "pages": 10,
+    "analyzed_version": "author/institution-hosted proceedings-layout PDF; no revision identifier; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P57-gestures.md",
+    "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
+    "analysis_status": "full-text body read; two selected paragraphs visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+  },
+  {
+    "id": "P58-art",
+    "url": "https://faculty.washington.edu/wobbrock/pubs/chi-11.06.pdf",
+    "sha256": "a6b76a54708c2f3c768cac168a5ad32348501ec8caf669fdde11b50f0fbfe562",
+    "bytes": 699196,
+    "title": "The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures",
+    "authors": [
+      "Wobbrock",
+      "Findlater",
+      "Gergle",
+      "Higgins"
+    ],
+    "venue": "CHI",
+    "publication_year": 2011,
+    "presentation_year": 2011,
+    "doi": "10.1145/1978942.1978963",
+    "primary_knowledge_object": "method generalization and implementation",
+    "method": "formal procedure, implementation and reanalysis of published data",
+    "domain": "research methods; statistics",
+    "affiliations_as_stated": "University of Washington; Northwestern University; Kansas State University",
+    "pages": 4,
+    "analyzed_version": "author/institution-hosted proceedings-layout PDF; no revision identifier; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P58-art.md",
+    "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
+    "analysis_status": "full-text body read; two selected paragraphs visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
+    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model"
   }
 ]

@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-34 full papers integrated across five venues. Metadata, analyzed versions,
+39 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -43,9 +43,14 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P45](analyses/P45-undertable.md) | DIS 2024 | The Undertable — design knowledge/RtD | Best Paper |
 | [P46](analyses/P46-annotated-portfolio.md) | DIS 2018 | An Annotated Portfolio on Doing Postphenomenology Through Research Products — theory/conceptual/critical | unverified |
 | [P47](analyses/P47-core-memory.md) | CHI 2018 | Making Core Memory — design knowledge/RtD | unverified |
+| [P54](analyses/P54-interruptions.md) | CHI 2008 | The Cost of Interrupted Work — empirical quantitative account | unverified |
+| [P55](analyses/P55-understanding-touch.md) | CHI 2011 | Understanding Touch — empirical explanatory model | unverified |
+| [P56](analyses/P56-bubble-cursor.md) | CHI 2005 | The Bubble Cursor — interaction technique | unverified |
+| [P57](analyses/P57-gestures.md) | CHI 2009 | User-Defined Gestures for Surface Computing — empirical characterization and reusable gesture vocabulary | unverified |
+| [P58](analyses/P58-art.md) | CHI 2011 | The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures — method generalization and implementation | unverified |
 
 ## Coverage and exclusions
-CHI 6, CSCW 10, DIS 7, IUI 2, UIST 9.
+CHI 11, CSCW 10, DIS 7, IUI 2, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
