@@ -1,0 +1,27 @@
+# P52 — A Review of Research on Participation in Democratic Decision-Making Presented at SIGCHI Conferences
+
+**Identity.** Matti Nelimarkka, PACMHCI 3, CSCW, Article 139, 2019, DOI 10.1145/3359241. Subtitle: Toward an Improved Trading Zone Between Political Science and HCI. Analyzed author-hosted 29-page manuscript: https://me.mante.li/politics-and-hci/10.1145-3359241-final.pdf. Printed article-page locators apply; publisher byte equivalence unverified. Award unverified. Primary contribution: structured literature synthesis with conceptual critique and research agenda. Single-analyst coding of writing.
+
+## Architecture and rhetorical work
+
+Actual sequence: Introduction → Technology and Participation → Selection and Analysis of Literature → Findings → Discussions bridge → Discussion 1: A Future Agenda for Studying Democratic Participation → Discussion 2: Trading Zones and SIGCHI → Conclusions. The analysis section separates selection, analytical approach, research-problem classification, and corpus characterization. Findings incorporate five boxed research opportunities before two discussions develop distinct contribution levels. References distinguish the reviewed corpus through explicit citation ranges.
+
+The abstract begins directly with an 80-paper review and scope, supplies patterns in decision models and agenda ownership, proposes gaps, and broadens to reciprocal interdisciplinary benefit. Introduction starts with concerns about democracy and institutional innovations, explains the HCI review, then introduces interdisciplinarity as a second purpose. A footnote carefully limits the sense of politics being studied. The roadmap forecasts both discussions. No standalone numbered RQ is necessary because the analytical aims and categories are explicit.
+
+Technology and Participation does substantial boundary work: participation, politics, democracy, decision mechanisms, and agenda ownership are not assumed synonymous. Alternative frameworks are evaluated for fit. The chosen representative/referendum/assembly distinction concerns decision procedures; participant-driven/organization-led concerns control of the agenda. This makes the later gap claims interpretable. A framework is selected because it answers the review’s question, not because it dominates all political theory.
+
+## Evidence and inferential limits
+
+Seventeen search terms retrieve pre-2018 SIGCHI-sponsored material, building on a prior classification of 585 papers. Full reading reduces a 90-paper participation category to 80. The paper openly uses one classifier with knowledge of both fields, recodes for consistency, and reports expert feedback. It does not claim independent intercoder reliability. The corpus permits empirical, conceptual, and constructive classifications to overlap, so tables should not be read as mutually exclusive percentages of papers.
+
+The main synthesis finds substantial work on assembly and referendum arrangements, relatively little representative participation, and frequent organization-led agenda setting. Counts and concrete cases support those patterns. Further interpretation compares measurements used in HCI papers with the political participation those papers motivate. The warrant is alignment between constructs, operationalization, and claimed social contribution: increased interaction alone need not establish improved democracy. This supports proposals for deeper interdisciplinary exchange, not proof that a proposed framework or technology will improve democratic outcomes.
+
+Scope limits are integral to the argument. SIGCHI-only selection omits journals and other venues and can skew geographical traditions. The chosen meaning of politics excludes valuable critical and everyday-political accounts. The second discussion explicitly notes that reciprocal claims would benefit from reviewing political science publications too. These are limitations on what the synthesis can say, not merely tasks postponed after a universal conclusion. Some selection detail is delegated to the earlier work, so a new review should not copy that abbreviated reporting without an accessible corresponding record.
+
+## Paragraph micro-analysis
+
+**p. 139:17, §5.5, “Secondly, this review is” (five sentences; rendered).** S1 states venue restriction alongside conceptual narrowness. S2 identifies examples of missing publication sources. S3 specifies a possible consequence: U.S.-oriented bias. S4 explains why that matters through Nordic workplace-democracy traditions and warrants broader investigation. S5 makes the remedy operational by naming source categories to add. Relations: limitation → evidence of omission → possible bias → substantive consequence → next-step design. The preceding paragraph discusses conceptual expansion; the following opens the second discussion. This is a limitation-first paragraph, not a generic apology, and connects a methodological choice to the knowledge potentially lost.
+
+## Transfer and exception
+
+For review papers, justify the analytical lens before counting, expose overlapping categories, and distinguish absence within a corpus from absence in the field. An agenda becomes stronger when each proposal follows a pattern plus an explanatory framework. Two discussions can serve different contribution scales when their roles are announced. Single-classifier transparency is useful evidence reporting, but this precedent alone does not justify omitting team calibration or other quality checks in a different review design.

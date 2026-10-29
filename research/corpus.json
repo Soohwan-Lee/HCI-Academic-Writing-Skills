@@ -1497,6 +1497,197 @@
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
   {
+    "id": "P48-implications",
+    "url": "https://www.pauldourish.com/publications/2006/implications-chi2006.pdf",
+    "sha256": "9a0e35b7687f58432f7714291a1cb35ab2c7a865101a1e3092729157198a1dba",
+    "bytes": 330393,
+    "title": "Implications for Design",
+    "authors": [
+      "Dourish"
+    ],
+    "venue": "CHI",
+    "publication_year": 2006,
+    "presentation_year": 2006,
+    "doi": "10.1145/1124772.1124855",
+    "primary_knowledge_object": "conceptual or critical argument",
+    "method": "conceptual critique and disciplinary history",
+    "domain": "ethnography; research evaluation",
+    "affiliations_as_stated": "University of California, Irvine",
+    "pages": 10,
+    "analyzed_version": "author-hosted conference-formatted manuscript; no explicit revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P48-implications.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
+    "id": "P49-feminist-hci",
+    "url": "http://dmrussell.net/CHI2010/docs/p1301.pdf",
+    "sha256": "1f1147b8b3edc95d5a85561d1081fc620fa431b5718b9e240f323ca13a16947f",
+    "bytes": 518185,
+    "title": "Feminist HCI: Taking Stock and Outlining an Agenda for Design",
+    "authors": [
+      "Bardzell"
+    ],
+    "venue": "CHI",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1753326.1753521",
+    "primary_knowledge_object": "conceptual or critical argument",
+    "method": "critical synthesis, design interpretation and agenda setting",
+    "domain": "feminist HCI; gender; inclusive design",
+    "affiliations_as_stated": "Indiana University",
+    "pages": 10,
+    "analyzed_version": "researcher-hosted proceedings collection copy; conference pagination; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P49-feminist-hci.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
+    "id": "P50-rtd-expectations",
+    "url": "https://research.gold.ac.uk/14818/7/WHAT%20SHOULD%20WE%20EXPECT%20AAM.pdf",
+    "sha256": "9c4896063f289d54cb11325b24f78576602f85bd633dee7f5b202e14f1ec0dee",
+    "bytes": 831806,
+    "title": "What Should We Expect From Research Through Design?",
+    "authors": [
+      "Gaver"
+    ],
+    "venue": "CHI",
+    "publication_year": 2012,
+    "presentation_year": 2012,
+    "doi": "10.1145/2207676.2208538",
+    "primary_knowledge_object": "conceptual or critical argument",
+    "method": "philosophical comparison and design-theory argument",
+    "domain": "research through design; annotated portfolios",
+    "affiliations_as_stated": "Goldsmiths, University of London",
+    "pages": 10,
+    "analyzed_version": "explicitly labeled Author Accepted Manuscript",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P50-rtd-expectations.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
+    "id": "P51-futures-review",
+    "url": "https://arxiv.org/pdf/2502.09362v1",
+    "sha256": "b91f73c944596cc0fc117b25365a9a06b21981ae86b5a9a0e4b13aed6e1792d5",
+    "bytes": 1452024,
+    "title": "Let’s Talk Futures: A Literature Review of HCI’s Future-Orientation",
+    "authors": [
+      "Sanchez",
+      "Wang",
+      "Savolainen",
+      "Epp",
+      "Salovaara"
+    ],
+    "venue": "CHI",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.1145/3706598.3713759",
+    "primary_knowledge_object": "synthesis or review",
+    "method": "structured retrieval and screening; abductive full-text literature analysis",
+    "domain": "futures; sustainability; more-than-human; research practice",
+    "affiliations_as_stated": "Aalto University; University of Southern California; University of Helsinki",
+    "pages": 35,
+    "analyzed_version": "arXiv:2502.09362v1, 13 February 2025; 35-page preprint, final-version equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P51-futures-review.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
+    "id": "P52-democratic-review",
+    "url": "https://me.mante.li/politics-and-hci/10.1145-3359241-final.pdf",
+    "sha256": "e683d2ad96ed10b7d9c23883b6e9b5466f0d96082c58a538805ca535d7ef6d61",
+    "bytes": 683930,
+    "title": "A Review of Research on Participation in Democratic Decision-Making Presented at SIGCHI Conferences: Toward an Improved Trading Zone Between Political Science and HCI",
+    "authors": [
+      "Nelimarkka"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2019,
+    "presentation_year": 2019,
+    "doi": "10.1145/3359241",
+    "primary_knowledge_object": "synthesis or review",
+    "method": "systematic literature classification and concept-informed synthesis",
+    "domain": "civic participation; democracy; political science",
+    "affiliations_as_stated": "University of Helsinki; Aalto University",
+    "pages": 29,
+    "analyzed_version": "author-hosted 29-page accepted manuscript in journal layout; publisher byte equivalence unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P52-democratic-review.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
+    "id": "P53-recollecting-craft",
+    "url": "https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/5/514/files/2024/08/CheatleJackson_RecollectingCraftCSCW2023.pdf",
+    "sha256": "5e0fa25dba28383897c54eed607d85aa44a1cb4420467319f306b3bd3da02484",
+    "bytes": 975201,
+    "title": "(Re)collecting Craft: Reviving Materials, Techniques, and Pedagogies of Craft for Computational Makers",
+    "authors": [
+      "Cheatle",
+      "Jackson"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2023,
+    "presentation_year": 2023,
+    "doi": "10.1145/3610041",
+    "primary_knowledge_object": "conceptual or critical argument",
+    "method": "historical case synthesis and conceptual provocation",
+    "domain": "craft; materials; ecology; pedagogy; embodied knowledge",
+    "affiliations_as_stated": "Cornell University",
+    "pages": 23,
+    "analyzed_version": "author-lab manuscript with erroneous reference-format title/DOI and subsection numbering; correct identity verified against title/footer and Crossref",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P53-recollecting-craft.md",
+    "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
+    "analysis_status": "full-text body read; selected complete paragraph visually checked",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+  },
+  {
     "id": "P54-interruptions",
     "url": "https://www.ics.uci.edu/~gmark/chi08-mark.pdf",
     "sha256": "e562bd16eca40a2a59499d79b15d5577d1ea3365401a8b6cb8e834187fb7fb8b",

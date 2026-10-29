@@ -134,3 +134,15 @@ records plus separate professional English/Korean READMEs. Updated PLAN and
 SAMPLING-PLAN before assigning new IDs. Existing 51 reviewed papers remain the
 verified count; pending 11 and reserved 42 are not reported as completed. Route
 targets total 100; labels must follow actual knowledge claims, not quotas.
+
+## Expansion gate H — conceptual disagreement and review architectures
+Parent reviewed all P48–53 analytical notes; integration checks verified source
+hashes, distinct DOI/IDs and analysis paths. Integrated total 57. Retained Dourish's
+objection to mandatory product implications, Bardzell's agenda vs evaluated
+outcomes, and Gaver's disagreement with universal RtD criteria. P51's citation
+filters bound prevalence claims; P52's overlapping categories and single-classifier
+process remain explicit. P53 is historical/conceptual synthesis, not interviews
+or a systematic review; manuscript title/DOI-block and numbering caveats remain.
+The added paragraph measurements are pending separate replay review and are not
+used to claim norms. This is parent review of original single-analyst coding, not
+independent recoding or researcher validation.

@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-51 full papers integrated across five venues. Metadata, analyzed versions,
+57 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -55,6 +55,12 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P45](analyses/P45-undertable.md) | DIS 2024 | The Undertable — design knowledge/RtD | Best Paper |
 | [P46](analyses/P46-annotated-portfolio.md) | DIS 2018 | An Annotated Portfolio on Doing Postphenomenology Through Research Products — theory/conceptual/critical | unverified |
 | [P47](analyses/P47-core-memory.md) | CHI 2018 | Making Core Memory — design knowledge/RtD | unverified |
+| [P48](analyses/P48-implications.md) | CHI 2006 | Implications for Design — conceptual or critical argument | unverified |
+| [P49](analyses/P49-feminist-hci.md) | CHI 2010 | Feminist HCI — conceptual or critical argument | unverified |
+| [P50](analyses/P50-rtd-expectations.md) | CHI 2012 | What Should We Expect From Research Through Design? — conceptual or critical argument | unverified |
+| [P51](analyses/P51-futures-review.md) | CHI 2025 | Let’s Talk Futures — synthesis or review | unverified |
+| [P52](analyses/P52-democratic-review.md) | CSCW 2019 | A Review of Research on Participation in Democratic Decision-Making Presented at SIGCHI Conferences — synthesis or review | unverified |
+| [P53](analyses/P53-recollecting-craft.md) | CSCW 2023 | (Re)collecting Craft — conceptual or critical argument | unverified |
 | [P54](analyses/P54-interruptions.md) | CHI 2008 | The Cost of Interrupted Work — empirical quantitative account | unverified |
 | [P55](analyses/P55-understanding-touch.md) | CHI 2011 | Understanding Touch — empirical explanatory model | unverified |
 | [P56](analyses/P56-bubble-cursor.md) | CHI 2005 | The Bubble Cursor — interaction technique | unverified |
@@ -62,7 +68,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P58](analyses/P58-art.md) | CHI 2011 | The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures — method generalization and implementation | unverified |
 
 ## Coverage and exclusions
-CHI 17, CSCW 11, DIS 9, IUI 5, UIST 9.
+CHI 21, CSCW 13, DIS 9, IUI 5, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

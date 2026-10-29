@@ -1,0 +1,20 @@
+{
+  "purpose": "Acquisition and exclusion log for P42–P53; not corpus records. Completed records were delivered separately in additions-design-part1.json and additions-design-part2.json.",
+  "accessed": "2026-10-30",
+  "exclusions": [
+    {"candidate": "Crip Reflections on Plants", "reason": "Duplicate of existing P15; not added again."},
+    {"candidate": "Somaesthetic Appreciation Design", "doi": "10.1145/2858036.2858583", "reason": "Author/institutional discovery found metadata but no usable full text during this batch; not analyzed. Replaced with Core Memory."},
+    {"candidate": "Mapping the Landscape of Sustainable HCI", "doi": "10.1145/1753326.1753625", "attempts": [{"url": "https://www.cs.cornell.edu/~hb47/landscape_of_hci.pdf", "outcome": "HTTP 404"}, {"url": "https://citeseerx.ist.psu.edu/document?doi=c58bbbbab3e9b997430b2254da769035208f1e18&repid=rep1&type=pdf", "outcome": "Response was not a PDF"}], "reason": "No usable full text; not analyzed."},
+    {"candidate": "A Decade of Sustainable HCI", "doi": "10.1145/3411764.3445069", "attempts": [{"url": "https://www.designinformatics.org/wp-content/uploads/2022/09/2021-Hansson-et-al-CHI.pdf", "outcome": "HTTP 404 despite indexed discovery"}, {"url": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445069", "outcome": "HTTP 403"}], "reason": "DiVA record 1625632 explicitly lacked full text; substituted P51. Not analyzed."},
+    {"candidate": "A Critical Literature Review for Equal Participation in Human-Animal Interactions in Design", "doi": "10.1145/3500868.3559467", "reason": "CSCW companion poster rather than main full paper; excluded from this full-paper batch."}
+  ],
+  "successful_substitutions_or_fallbacks": [
+    {"paper_id": "P43-mechanical-sympathy", "issue": "Original airilampinen.fi download failed TLS hostname verification", "resolution": "Successful Rachael Garrett author-hosted PDF, recorded in corpus metadata."},
+    {"paper_id": "P48-implications", "issue": "Initial urllib request returned HTTP 406", "resolution": "Author URL succeeded using curl with a browser user-agent."},
+    {"paper_id": "P49-feminist-hci", "issue": "HTTPS dmrussell.net certificate verification failed", "resolution": "Same researcher-hosted proceedings collection available via HTTP; identity independently checked against DOI metadata and PDF."},
+    {"paper_id": "P51-futures-review", "issue": "Aalto institutional final-copy endpoint returned HTTP 403", "resolution": "Read arXiv:2502.09362v1. Version difference explicitly preserved; not asserted final-copy equivalence."},
+    {"paper_id": "P52-democratic-review", "issue": "Two Helsinki institutional PDF endpoints returned HTTP 403; Helda handle returned an HTML interstitial", "resolution": "Author-hosted me.mante.li PDF available and read."}
+  ],
+  "library_access_note": "Parent reported repeated Zotero API timeouts even for limit=5; no private Zotero material was retrieved for this batch.",
+  "limits": "Availability and purposive contribution coverage influenced selection. Excluded candidates are not counted as analyzed papers. Author reputation guided discovery only; unverified awards remain unverified. No copyrighted PDFs or full paragraph transcripts are included in public records."
+}

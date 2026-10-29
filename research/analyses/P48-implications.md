@@ -1,0 +1,25 @@
+# P48 — Implications for Design
+
+**Identity.** Paul Dourish, CHI 2006, DOI 10.1145/1124772.1124855. Full author-hosted conference-formatted copy: https://www.pauldourish.com/publications/2006/implications-chi2006.pdf. Locators use PDF pages, which lack printed pagination. Award unverified. Primary contribution: conceptual critique of research evaluation and ethnography’s relationship to design. Single-analyst, version-dependent coding.
+
+## Architecture and opening
+
+Actual sequence: Introduction → A Historical Interlude → The Marginalization of Theory → Power Relations → Technology and Practice → Representation and Interaction → Moments and Models → What’s to Be Done → Implications for Design. The final heading deliberately revisits the convention being criticized. There is no empirical Methods–Results sequence, separate Related Work, or numbered RQ.
+
+The abstract begins with a discrepancy between ethnography’s uptake and understanding, identifies its reduction to requirements gathering, derives the corresponding evaluation criterion, and advances the objection that this criterion misses ethnography’s value. The introduction starts one level higher: disciplinary genres shape research and publication. Historical scholarship on scientific writing makes this premise consequential before HCI peer review and the familiar demand for design implications enter. On PDF p. 2 the author distinguishes a critique of evaluation conventions from instructions for deriving recommendations, states two argumentative commitments, and supplies a four-part roadmap. The introduction’s gap is a misconstrual of knowledge, not an unstudied technology or population.
+
+## Literature as argument and warrant
+
+Historical Interlude situates ethnography in anthropology, colonial encounters, sociology, CSCW, and participatory design while explicitly calling its account partial. Subsequent sections repeatedly work through Anderson, Button, Ackerman, and Suchman. These are intellectual resources with different commitments, not interchangeable citations proving that a topic is popular. The treatment of classical and ethnomethodological ethnography acknowledges disagreement before identifying a shared objection to merely descriptive fieldwork. The Trinidad example demonstrates the distinction between understanding technology’s cultural role and producing local interface requirements; Australian land disputes extend the discussion toward epistemology and policy.
+
+The primary claim is that ethnographic contribution includes analytical models and ways of understanding, which a demand for actionable features can obscure. Support combines disciplinary history, close conceptual engagement, and worked examples. The warrant is coherence between an inquiry’s analytic commitments and the criteria used to assess its products. No new field dataset or controlled comparison establishes this argument. Informal observations about reviewing are labeled informal; they should not become quantified evidence of reviewer behavior in a derivative skill.
+
+Method and contribution are particularly important to separate here: observing everyday activity is a method, while an interpretation organizing observations is an intellectual product. Design recommendations may be valuable, but their presence is not a universal test of that product. The closing discussion distinguishes Contextual Inquiry and Cultural Probes by their purposes and analytical relations, rather than treating them as shorter equivalents of ethnography. The argument does not license arbitrary unsupported interpretation or deny the utility of design work.
+
+## Paragraph micro-analysis
+
+**PDF p. 2, Introduction, “I should state at” (three sentences; rendered).** S1 excludes the possible reading that the paper teaches the derivation of recommendations. S2 redirects attention to the politics and consequences of the evaluative convention. S3 specifies the proposed harm: misconstruing ethnographic goals and mechanisms. Relations: disambiguation → positive scope → analytical stakes. The preceding paragraph gives familiar review reactions; the following states the two principal arguments. This is an early scope-setting topic sentence, not a conclusion-first empirical finding. Its contrast is justified because a reader could otherwise mistake the object of critique.
+
+## Transfer and exception
+
+For conceptual papers, identify the assumption under examination, explain why it matters, develop distinguishable argumentative steps, and reconnect the conclusion to the opening convention. Literature can constitute the analytical material throughout the paper; a mandatory isolated Related Work section would weaken this architecture. Do not convert the observed first-person voice, rhetorical questions, or section order into universal requirements. Nor should a writing skill automatically append product implications to interpretive social research: ask what knowledge is contributed, how it is warranted, and who would use it. Conversely, an empirical effectiveness claim would require evidence this conceptual essay does not attempt to provide.
