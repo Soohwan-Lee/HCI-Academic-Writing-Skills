@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-77 full papers integrated across five venues. Metadata, analyzed versions,
+82 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -76,6 +76,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P67](analyses/P67-community-review.md) | CHI 2022 | A Systematic Review and Thematic Analysis of Community-Collaborative Approaches to Computing Research — literature synthesis | unverified |
 | [P68](analyses/P68-interaction.md) | CHI 2017 | What Is Interaction? — conceptual framework | unverified |
 | [P69](analyses/P69-problem-solving.md) | CHI 2016 | HCI Research as Problem-Solving — conceptual framework | unverified |
+| [P70](analyses/P70-open-interpretation.md) | DIS 2006 | Staying Open to Interpretation — conceptual framework | unverified |
+| [P71](analyses/P71-teaching-soma.md) | DIS 2019 | Teaching Soma Design — methodological guidance | unverified |
+| [P72](analyses/P72-annotation-strategies.md) | DIS 2020 | Strategies for Annotating Portfolios — methodological guidance | unverified |
+| [P73](analyses/P73-experience-prototyping.md) | DIS 2000 | Experience Prototyping — methodological guidance | unverified |
+| [P74](analyses/P74-future-crowd.md) | CSCW 2013 | The Future of Crowd Work — conceptual framework | unverified |
 | [P79](analyses/P79-tapsense.md) | UIST 2011 | TapSense — acoustic input-discrimination technique | unverified |
 | [P80](analyses/P80-inform.md) | UIST 2013 | inFORM — interaction design space and shape-display platform | unverified |
 | [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
@@ -88,7 +93,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P97](analyses/P97-health-sharing.md) | CSCW 2011 | It's not that I don't have problems, I'm just not putting them on Facebook — interpretive empirical account of health sharing and network work | unverified |
 
 ## Coverage and exclusions
-CHI 33, CSCW 15, DIS 9, IUI 6, UIST 14.
+CHI 33, CSCW 16, DIS 13, IUI 6, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

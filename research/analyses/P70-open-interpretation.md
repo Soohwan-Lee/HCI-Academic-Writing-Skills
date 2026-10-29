@@ -1,0 +1,29 @@
+# P70 — Open interpretation as a design and evaluation stance
+
+## Provenance and reading boundary
+
+Sengers and Gaver, *Staying Open to Interpretation: Engaging Multiple Meanings in Design and Evaluation*, DIS 2006, pp. 99–108, DOI 10.1145/1142405.1142422. Read the complete body and conclusion of the ten-page [UC Berkeley course-hosted paper](https://courses.ischool.berkeley.edu/i262/s13/readings_pdf/Sengers_Gaver_Staying_Open_to_Interpretation.pdf). Its proceedings header and the authors' Cornell publication listing establish identity. The file is a proceedings-format institutional course copy, not verified byte-identical to the publisher file; some references retain submitted status. Award unverified. Single-analyst, version-dependent interpretation selects the paper for the way it makes plural meaning compatible with evaluation accountability.
+
+## Sequence and rhetorical work
+
+Introduction → A Single Authoritative Interpretation (what and whose interpretation) → Multiple, Heterogeneous Interpretations → Designing for Multiple Interpretation (six strategies) → Evaluation Strategies → Conclusion. The paper moves from diagnosing an assumption to showing an alternative's design consequences, then addresses how that alternative can be judged. Literature review and conceptual contribution are interwoven. There is no freestanding experiment, new-system implementation report, or systematic review protocol.
+
+The abstract juxtaposes a familiar single-meaning orientation with emerging domains and intellectual resources, identifies a design space, and promises changed design/evaluation strategies. The introduction, pp. 99–100, defines interpretation broadly enough to connect button meaning with a system's place in life. Mental models and affective computing make its relevance concrete. It then reconstructs an underlying assumption, explicitly acknowledges when preferred interpretations are useful, and argues for reconsideration through changing contexts, humanities, and sociology of technology. Its final roadmap states the conceptual task without numbered RQs or an artificial results summary.
+
+The related-work argument is more precise than a binary opposition between designers and users. The authors argue that approaches privileging different interpreters can still share a commitment to adjudicating one preferred account. The proposed shift concerns coexistence and processes of meaning-making. Prior designs subsequently become examples through which six strategies are articulated: leaving use open while clarifying operation, suggesting a topic, blocking expected meanings, unfolding meanings over time, limiting system authority, and resisting a settled interpretation.
+
+## Claim, support, warrant, and limits
+
+The knowledge contribution is a conceptual repertoire grounded in practice-based examples and interpretive scholarship. Key Table, Drift Table, History Tablecloth, Traces, and other systems illustrate distinct mechanisms rather than serving as independent trials of a common treatment. Reports of reinterpretation support the possibility of divergent meanings; they do not establish that ambiguity universally improves experience. Drift Table accounts include abandonment as well as later appreciation. Evaluation discussion explicitly anticipates the danger that any confusing system could be declared successful merely because people reinterpret it.
+
+The proposed evaluation stance combines user accounts, longer observation when meanings evolve, and potentially inconsistent expert perspectives. Designers retain responsibility for interpreting evidence and defending conclusions. A filmmaker's account is acknowledged as a filter that may amplify participants' interpretations, not a neutral validation channel. The conclusion limits the argument by application and interpretive level. Low-level intelligibility can coexist with higher-level openness. Normative proposals and illustrative examples therefore need different claim language from measured comparative benefits.
+
+## Two complete rendered paragraphs
+
+PDF p. 7 / printed p. 105, Evaluation Strategies, opening **“Evaluation is also a form”**, has five sentences. S1 applies interpretation to evaluation itself. S2 derives a possible plural collection of accounts. S3 reformulates evaluation's task. S4 preserves the designer's responsibility despite conflicting results. S5 bridges into concrete strategies. The preceding paragraph warns against declaring every system successful; the following subsection introduces user interpretation. This conceptual premise-first paragraph does not begin with the whole conclusion: accountability qualifies the proposal after its implications are developed.
+
+PDF p. 9 / printed p. 107, final Conclusion paragraph, opening **“Our goal is not to”**, has seven sentences. S1 narrows the position by retaining single-interpretation approaches. S2 makes application context decisive. S3 adds interpretive level as another condition. S4 illustrates this through clear operation and open purpose. S5 introduces variation within openness. S6 rejects total indeterminacy. S7 states the positive aspiration of treating constraint and openness as design resources. The preceding paragraph develops humanities-inspired possibilities; acknowledgments follow. This qualification-led conclusion ends with the affirmative contribution rather than repeating an unqualified headline.
+
+## Transfer conditions
+
+Use this pattern for a design stance that changes both artifact decisions and evaluation criteria: diagnose the assumption, show differentiating examples, then answer the strongest accountability objection. Keep the rationale for openness local to the experience being designed. Neither interpretive richness nor a sophisticated theory excuses unsupported claims, and a writing skill should not turn these examples into a requirement to make every interface ambiguous.

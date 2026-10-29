@@ -199,3 +199,12 @@ endorsement (P94), diary needs vs search-log coverage and source arithmetic cave
 vs demonstrated health outcomes (P97). Historical platform settings remain bounded.
 No source institution or influential status substitutes for the specific selection
 rationales. Each note includes two complete rendered paragraph analyses.
+
+## Expansion gate M — design methods, pedagogy and research agenda
+Parent reviewed P70–74 and checked hashes/identities/paths. Total 82. Preserved
+interpretive openness with evaluation responsibility, pedagogy's concept potential
+vs fully realized experience, portfolio relations vs unperformed combined deployment,
+partial experiential simulation vs becoming another person, and research agenda vs
+validated intervention. P71 nomination remains distinct from an award. P74 repeated
+local research-focus structures are followed by integration, a useful alternative
+to disconnected literature catalogs. Four DIS papers broaden method/design coverage.
