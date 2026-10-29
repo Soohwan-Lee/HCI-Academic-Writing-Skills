@@ -889,5 +889,195 @@
     "primary_writing_route": "qualitative / interpretive empirical",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P42-photobox",
+    "title": "Photobox: On the Design of a Slow Technology",
+    "authors": [
+      "William Odom",
+      "Mark Selby",
+      "Abigail Sellen",
+      "David Kirk",
+      "Richard Banks",
+      "Tim Regan"
+    ],
+    "venue": "DIS",
+    "publication_year": 2012,
+    "presentation_year": 2012,
+    "doi": "10.1145/2317956.2318055",
+    "primary_knowledge_object": "design knowledge/RtD",
+    "method": "design-oriented construction and reflective implementation",
+    "domain": "slow technology; personal photography; domestic life",
+    "affiliations_as_stated": "CMU; Nottingham; Microsoft Research; Newcastle",
+    "analyzed_version": "Microsoft Research author-hosted proceedings-layout copy",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": "No primary award evidence recorded"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P42-photobox.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/photobox-DIS2012.pdf",
+    "sha256": "81b8771bd785bf984fed3a902e378570d4fe757c546b7744ab4c6c5a8a046f89",
+    "bytes": 659150,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P43-mechanical-sympathy",
+    "title": "Articulating Mechanical Sympathy for Somaesthetic Human–Machine Relations",
+    "authors": [
+      "Joseph La Delfa",
+      "Rachael Garrett",
+      "Airi Lampinen",
+      "Kristina Höök"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3661514",
+    "primary_knowledge_object": "design knowledge/RtD",
+    "method": "soma design, research product, month-long deployment with three co-creators, narrative interpretation and horizontal grounding",
+    "domain": "embodied/soma; human-machine relations; drones",
+    "affiliations_as_stated": "Bitcraze; KTH; Stockholm University",
+    "analyzed_version": "Author-hosted proceedings-layout copy",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "official conference"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P43-mechanical-sympathy.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://rachaelgarrett.com/wp-content/uploads/2025/02/mechsym-dis24.pdf",
+    "sha256": "5c5f75d8f64c5140c5b3ac4adda9a067806598b323c46743951f8d41f91b0280",
+    "bytes": 33791091,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P44-morse-things",
+    "title": "Morse Things: A Design Inquiry into the Gap Between Things and Us",
+    "authors": [
+      "Ron Wakkary",
+      "Doenja Oogjes",
+      "Sabrina Hauser",
+      "Henry Lin",
+      "Cheng Cao",
+      "Leo Ma",
+      "Tijs Duel"
+    ],
+    "venue": "DIS",
+    "publication_year": 2017,
+    "presentation_year": 2017,
+    "doi": "10.1145/3064663.3064734",
+    "primary_knowledge_object": "design knowledge/RtD",
+    "method": "material speculation; six-week expert-household deployment; workshop; interpretive coding",
+    "domain": "more-than-human; tangible/IoT; domestic life",
+    "affiliations_as_stated": "Simon Fraser; Eindhoven University of Technology",
+    "analyzed_version": "Studio-hosted proceedings-layout copy",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": "No primary award evidence recorded"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P44-morse-things.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://static1.squarespace.com/static/5f1f0b887aca9156e62424cc/t/5f207588b817fc2d6f228636/1595962763324/2017_DIS-morse-things.pdf",
+    "sha256": "542d6325e04ecc06a2c549cf9795e2b7c97029f891c448cc63534d3e0bc8e28e",
+    "bytes": 466015,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P45-undertable",
+    "title": "The Undertable: A Design Remake of the Mediated Body",
+    "authors": [
+      "Sjoerd Hendriks",
+      "Mafalda Gamboa",
+      "Mohammad Obaid"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3660698",
+    "primary_knowledge_object": "design knowledge/RtD",
+    "method": "design remake; first-person process narrative; deployments and reflexive thematic analysis",
+    "domain": "tangible; embodied social play; touch",
+    "affiliations_as_stated": "Chalmers University of Technology",
+    "analyzed_version": "Institutional proceedings reprint with added repository cover",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "official conference"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P45-undertable.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://research.chalmers.se/publication/542333/file/542333_Fulltext.pdf",
+    "sha256": "1e53f8044fa3599a5dce7d809da90c35f0c947e49110b42b92164b559cc11940",
+    "bytes": 30432312,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P46-annotated-portfolio",
+    "title": "An Annotated Portfolio on Doing Postphenomenology Through Research Products",
+    "authors": [
+      "Sabrina Hauser",
+      "Doenja Oogjes",
+      "Ron Wakkary",
+      "Peter-Paul Verbeek"
+    ],
+    "venue": "DIS",
+    "publication_year": 2018,
+    "presentation_year": 2018,
+    "doi": "10.1145/3196709.3196745",
+    "primary_knowledge_object": "theory/conceptual/critical",
+    "method": "purposive annotated portfolio and philosophical reinterpretation of six published design inquiries",
+    "domain": "philosophy of technology; domestic artifacts; design knowledge",
+    "affiliations_as_stated": "Simon Fraser; Eindhoven University of Technology; Twente",
+    "analyzed_version": "Studio-hosted proceedings-layout copy",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": "No primary award evidence recorded"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P46-annotated-portfolio.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://static1.squarespace.com/static/5f1f0b887aca9156e62424cc/t/5f2074b2f7c6b801081f4480/1595962556940/2018_DIS_Annotated-Portfolio.pdf",
+    "sha256": "8c785059375ff3782a09740c2f981476fb956223e69ac234cd57c21993f55844",
+    "bytes": 4107828,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P47-core-memory",
+    "title": "Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork",
+    "authors": [
+      "Daniela K. Rosner",
+      "Samantha Shorey",
+      "Brock Craft",
+      "Helen Remick"
+    ],
+    "venue": "CHI",
+    "publication_year": 2018,
+    "presentation_year": 2018,
+    "doi": "10.1145/3173574.3174105",
+    "primary_knowledge_object": "design knowledge/RtD",
+    "method": "feminist historical design inquiry; electronic quilt; participatory workshops; archival and thematic interpretation",
+    "domain": "craft; gendered labor; computing history",
+    "affiliations_as_stated": "University of Washington; independent quilter Seattle",
+    "analyzed_version": "Author-hosted manuscript with unresolved copyright template; final publisher equality unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": "No primary award evidence recorded"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P47-core-memory.md",
+    "selection_reason": "Purposive contribution/domain contrast; full text read; single analyst version-dependent coding",
+    "url": "https://faculty.washington.edu/dkrosner/files/CHI-2018-Core-Memory.pdf",
+    "sha256": "68384a4206fe109da1a05d6cf9f4fe31d329ff0c7ec73ff3b55972e05741c215",
+    "bytes": 1319606,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   }
 ]

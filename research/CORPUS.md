@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-28 full papers integrated across five venues. Metadata, analyzed versions,
+34 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -37,9 +37,15 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P33](analyses/P33-indie-labor.md) | CSCW 2020 | Mitigating Exploitation — empirical finding | Honorable Mention |
 | [P34](analyses/P34-wikipedia-order.md) | CSCW 2010 | The Work of Sustaining Order in Wikipedia — empirical finding; methodological contribution | unverified |
 | [P36](analyses/P36-ocean-coordination.md) | CSCW 2020 | Data Integration as Coordination — empirical finding | Honorable Mention |
+| [P42](analyses/P42-photobox.md) | DIS 2012 | Photobox — design knowledge/RtD | unverified |
+| [P43](analyses/P43-mechanical-sympathy.md) | DIS 2024 | Articulating Mechanical Sympathy for Somaesthetic Human–Machine Relations — design knowledge/RtD | Best Paper |
+| [P44](analyses/P44-morse-things.md) | DIS 2017 | Morse Things — design knowledge/RtD | unverified |
+| [P45](analyses/P45-undertable.md) | DIS 2024 | The Undertable — design knowledge/RtD | Best Paper |
+| [P46](analyses/P46-annotated-portfolio.md) | DIS 2018 | An Annotated Portfolio on Doing Postphenomenology Through Research Products — theory/conceptual/critical | unverified |
+| [P47](analyses/P47-core-memory.md) | CHI 2018 | Making Core Memory — design knowledge/RtD | unverified |
 
 ## Coverage and exclusions
-CHI 5, CSCW 10, DIS 2, IUI 2, UIST 9.
+CHI 6, CSCW 10, DIS 7, IUI 2, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

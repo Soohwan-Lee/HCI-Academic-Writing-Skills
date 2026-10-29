@@ -87,3 +87,12 @@ aspirations vs critical interpretation (P33). P31's historical reanalysis is not
 present-day practice; P32's care preferences are not population-wide cultural rules.
 P35's anonymous draft was excluded pending an accessible replacement, not silently
 treated as the final award paper. Integrated total 28; no independent double coding.
+
+## Expansion gate D — design and conceptual synthesis
+Parent reviewed P42–47, checked unique identities, hashes and notes; 34 integrated.
+Preserved construction vs deployment evidence in Photobox; retrospective rather
+than intended qualities in Mechanical Sympathy; expert co-speculation and priming
+boundaries in Morse Things; contextual confounds in Undertable; purposive portfolio
+vs systematic review in P46; missing historical voices and manuscript version in
+Core Memory. P46 remains conceptual/methodological synthesis, not relabeled to fill
+a design quota. Five design cases substantially widen the non-AI sample.

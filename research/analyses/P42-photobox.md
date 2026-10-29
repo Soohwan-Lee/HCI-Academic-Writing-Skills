@@ -1,0 +1,23 @@
+# P42 — Photobox: On the Design of a Slow Technology
+
+**Identity and scope.** Odom, Selby, Sellen, Kirk, Banks, and Regan, DIS 2012; analyzed four-page Microsoft Research author-hosted proceedings-layout PDF. Full text: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/photobox-DIS2012.pdf. Award unverified. This is design knowledge derived from making a slow technology, not evidence that its intended long-term benefits occurred. Single-analyst, version-dependent rhetorical coding; PDF pages below are file pages. No population length inference.
+
+## Architecture and rhetorical work
+
+The actual order is Abstract → Introduction → Background and Related Work → Design Process and Implementation (Process and Rationale; Implementation and Challenges) → Discussion and Conclusions → acknowledgements/references. It has no separate evaluation or results section. The abstract introduces a concrete chest that occasionally prints photographs, then states what making and living with it taught the team, and closes with the destination of its implications. The intended duration of use remains an intention.
+
+The introduction (pp. 1–2) moves from expanding digital archives to questions about their future experience and inheritance. It introduces Photobox before positioning unexpected design challenges as the research opportunity. Crucially, its last paragraph distinguishes an impending deployment from the purpose of this paper: insights arising through construction. This prevents a reader from judging the paper only against the experiential effects promised by the object. Questions motivate inquiry but are not numbered hypotheses or retrospectively answered experimental RQs.
+
+Related work (p. 2) has three paragraphs with separate argumentative jobs: establish slow technology and temporal concerns; justify designing artifacts as knowledge production; join those lines around this working prototype. The novelty is their productive intersection and the practical problems exposed there, rather than an assertion that no prior photo device exists. Citations recur inside design rationale, explaining material durability, ritual use, autonomy, and randomness at the point those choices matter.
+
+## Claims and warrants
+
+The primary claim concerns constraints on making infrequently acting technology. Evidence includes months-long debugging, timing representations, limited paper capacity, power management, and Bluetooth reconnection. The warrant is that implementing the temporal commitments makes otherwise abstract design tensions materially inspectable. The later implications about tools, modularity, and methods explicitly revisit those incidents. Functional implementation warrants feasibility and access to those problems; it does not establish reflection, attachment, inheritance, or years of successful use. Even the team’s lived experience is scoped to implementation, not a substitute for a multigenerational study. The discussion ends by identifying precisely the mismatch between intended lifespan and available study duration.
+
+## Paragraph micro-analysis
+
+**P. 2, Background and Related Work, opening locator “Our work modestly attempts” (three sentences; rendered and inspected).** S1 joins the two preceding research strands and positions the project as an intersection. S2 specifies the desired experiential and temporal inquiry. S3 explains the working-prototype strategy and reconnects it to archive growth and legacy. Relations: synthesis → focused intention → methodological bridge. The opening is a positioning topic sentence, not a conclusion reporting findings. The preceding paragraph licenses knowledge through making; the following section describes how this object makes the inquiry concrete. The restrained opening is useful because the contribution is a situated design account, not a comprehensive replacement theory.
+
+## Transfer and exceptions
+
+For an RtD manuscript, link each important design choice to an inquiry, considered alternative, or material consequence. Separate intention, actual construction, experience, and transferable knowledge. A compact paper can earn implications by tracing a few consequential implementation incidents rather than appending generic recommendations. Do not copy the absence of evaluation when claiming user benefit; that claim needs its own support. Nor should the paper’s four-page form determine an 8,000-word budget. Its combined discussion/conclusion is appropriate to its focused account, not a universal section template. Its open future questions are productive boundaries, not missing results to be invented during rewriting.
