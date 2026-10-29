@@ -6,7 +6,7 @@ with planned support for Codex, Claude Code, and Antigravity.
 [한국어](README.ko.md) · [Development plan](docs/PLAN.md) ·
 [Paper corpus](research/CORPUS.md) · [Review log](docs/REVIEW-LOG.md)
 
-**In development.** 62 full-text analyses have been reviewed and integrated.
+**In development.** 67 full-text analyses have been reviewed and integrated.
 The release target is **at least 100 papers** across CHI, CSCW, UIST, DIS, and IUI.
 Pending analyses and reserved candidates are excluded from the completed count.
 Installation and writing assistance are still being validated.

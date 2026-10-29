@@ -170,3 +170,12 @@ compile or semantic-validity claim. The implementation worker separately compile
 the valid ACM fixture with shell escape disabled, writing outputs only to ignored
 .local. Fixture details and limitations are in tests/latex-audit/README.md.
 The helper does not upload content, run builds or infer citation correctness.
+
+## Expansion gate J — embodied systems and interaction infrastructure
+Parent read P79–83 notes; hashes/paths/DOIs and unique IDs checked on integration.
+Total 67. Preserved TapSense's eight-page analyzed version vs ten-page publisher
+metadata, pooled vs held-out accuracy, inFORM informal vs formal evidence, PneUI
+tested material combinations vs possibilities, Zooids scenarios vs deployment, and
+ERICA breadth vs within-app coverage. None inherits user-performance benefits from
+technical feasibility. Selected for specific writing/evidence contrasts, not fame.
+Additional IUI work is prioritized after this deliberately UIST-heavy sub-batch.

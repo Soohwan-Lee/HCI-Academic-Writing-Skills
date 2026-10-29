@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-62 full papers integrated across five venues. Metadata, analyzed versions,
+67 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -71,9 +71,14 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P62](analyses/P62-fitts-review.md) | CHI 2025 | A Systematic Review of Fitts’ Law in 3D Extended Reality — literature synthesis | unverified |
 | [P63](analyses/P63-phishing-warnings.md) | CHI 2008 | You've Been Warned — empirical finding | unverified |
 | [P64](analyses/P64-typing.md) | CHI 2018 | Observations on Typing from 136 Million Keystrokes — empirical finding | Honorable Mention |
+| [P79](analyses/P79-tapsense.md) | UIST 2011 | TapSense — acoustic input-discrimination technique | unverified |
+| [P80](analyses/P80-inform.md) | UIST 2013 | inFORM — interaction design space and shape-display platform | unverified |
+| [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
+| [P82](analyses/P82-zooids.md) | UIST 2016 | Zooids — open swarm-interface platform and conceptual definition | unverified |
+| [P83](analyses/P83-erica.md) | UIST 2016 | ERICA — interaction-mining infrastructure and trace representation | unverified |
 
 ## Coverage and exclusions
-CHI 25, CSCW 13, DIS 9, IUI 6, UIST 9.
+CHI 25, CSCW 13, DIS 9, IUI 6, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

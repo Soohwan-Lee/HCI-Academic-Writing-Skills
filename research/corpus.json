@@ -2017,5 +2017,163 @@
     "secondary_knowledge_objects": [
       "dataset/resource"
     ]
+  },
+  {
+    "id": "P79-tapsense",
+    "title": "TapSense: Enhancing Finger Interaction on Touch Surfaces",
+    "authors": [
+      "Harrison",
+      "Schwarz",
+      "Hudson"
+    ],
+    "venue": "UIST",
+    "publication_year": 2011,
+    "presentation_year": 2011,
+    "doi": "10.1145/2047196.2047279",
+    "primary_knowledge_object": "acoustic input-discrimination technique",
+    "domain": "touch interaction; acoustic sensing",
+    "method": "prototype construction and participant-based classification analysis",
+    "affiliations_as_stated": "Carnegie Mellon University",
+    "analyzed_version": "eight-page author-hosted manuscript; publisher record has ten proceedings pages; locators refer to this file",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P79-tapsense.md",
+    "selection_reason": "Contrasts pooled and user-held-out validation; concrete local failure mechanisms and bounded metric interpretation.",
+    "url": "https://chrisharrison.net/projects/tapsense/tapsense.pdf",
+    "sha256": "dd8be622f65a516728190626460b4b080c48c03bff8575dc0ca863bbf91f7617",
+    "bytes": 7191678,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P80-inform",
+    "title": "inFORM: Dynamic Physical Affordances and Constraints through Shape and Object Actuation",
+    "authors": [
+      "Follmer",
+      "Leithinger",
+      "Olwal",
+      "Hogge",
+      "Ishii"
+    ],
+    "venue": "UIST",
+    "publication_year": 2013,
+    "presentation_year": 2013,
+    "doi": "10.1145/2501988.2502032",
+    "primary_knowledge_object": "interaction design space and shape-display platform",
+    "domain": "shape-changing interfaces; tangible interaction",
+    "method": "constructive implementation, technical characterization, demonstrations and informal encounters",
+    "affiliations_as_stated": "MIT Media Lab",
+    "analyzed_version": "ten-page lab-linked proceedings-format manuscript",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P80-inform.md",
+    "selection_reason": "Concept-led architecture distinguishes informal encounters from formal user evaluation.",
+    "url": "https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF",
+    "sha256": "1a9724f8b2932cbcffb5a33c98a1450c1eadcf3d23f6a86b34d3897d2f49c0bd",
+    "bytes": 407759,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P81-pneui",
+    "title": "PneUI: Pneumatically Actuated Soft Composite Materials for Shape Changing Interfaces",
+    "authors": [
+      "Yao",
+      "Niiyama",
+      "Ou",
+      "Follmer",
+      "Della Silva",
+      "Ishii"
+    ],
+    "venue": "UIST",
+    "publication_year": 2013,
+    "presentation_year": 2013,
+    "doi": "10.1145/2501988.2502037",
+    "primary_knowledge_object": "integrated soft material and fabrication approach",
+    "domain": "soft interfaces; fabrication; pneumatic actuation",
+    "method": "material fabrication experiments and application demonstrations",
+    "affiliations_as_stated": "MIT Media Lab; MIT EECS",
+    "analyzed_version": "ten-page author-hosted manuscript; acknowledgment text carries duplicate Conclusion heading",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P81-pneui.md",
+    "selection_reason": "Material/process organization explicitly marks tested combinations and discusses portable-actuation tradeoffs.",
+    "url": "https://www.cs.cmu.edu/afs/cs/user/liningy/www/papers/2013_uist_pneui.pdf",
+    "sha256": "31a21522f2e330ecd0bee3228014698d039e18d90270aa055dbb9d21b52bb33f",
+    "bytes": 1337403,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P82-zooids",
+    "title": "Zooids: Building Blocks for Swarm User Interfaces",
+    "authors": [
+      "Le Goc",
+      "Kim",
+      "Parsaei",
+      "Fekete",
+      "Dragicevic",
+      "Follmer"
+    ],
+    "venue": "UIST",
+    "publication_year": 2016,
+    "presentation_year": 2016,
+    "doi": "10.1145/2984511.2984547",
+    "primary_knowledge_object": "open swarm-interface platform and conceptual definition",
+    "domain": "swarm interaction; robotics; tangible visualization",
+    "method": "constructive platform development, technical characterization and scenarios",
+    "affiliations_as_stated": "Inria; Stanford University; Université Paris-Sud; Université Paris-Saclay",
+    "analyzed_version": "author-hosted no-copyright manuscript; incomplete ISBN placeholder retained",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P82-zooids.md",
+    "selection_reason": "Definition by inclusion/exclusion and design principles connecting identity semantics to engineering optimization.",
+    "url": "https://shape.stanford.edu/research/swarm/SwarmUIs_no_copyright.pdf",
+    "sha256": "186eec7b8b570bd9292ee7ace86cfe2ecc99bcf125eea7788f97260d0ef05d35",
+    "bytes": 3958924,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P83-erica",
+    "title": "ERICA: Interaction Mining Mobile Apps",
+    "authors": [
+      "Deka",
+      "Huang",
+      "Kumar"
+    ],
+    "venue": "UIST",
+    "publication_year": 2016,
+    "presentation_year": 2016,
+    "doi": "10.1145/2984511.2984581",
+    "primary_knowledge_object": "interaction-mining infrastructure and trace representation",
+    "domain": "mobile interface datasets; design tools",
+    "method": "human-driven collection, structured capture, clustering and flow-search demonstration",
+    "affiliations_as_stated": "University of Illinois at Urbana-Champaign",
+    "analyzed_version": "ten-page author-hosted proceedings-format PDF",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P83-erica.md",
+    "selection_reason": "Requirements-to-resource argument separates coverage, scale, semantic validity and future downstream applications.",
+    "url": "https://ranjithakumar.net/resources/deka-uist2016-erica.pdf",
+    "sha256": "54ce6fb68c0314ea5b31e5fbe7833023bb78d7e8da3bcc8baf700841583fab76",
+    "bytes": 45199793,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   }
 ]
