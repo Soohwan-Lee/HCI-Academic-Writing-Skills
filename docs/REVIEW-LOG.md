@@ -160,3 +160,13 @@ in P64. P59's attempted full-text URL returned 404; it remains excluded, not rea
 Two short papers in the earlier root batch remain unsuitable as long-paper length
 models. No historical analysis procedure is promoted into current methodological
 requirements.
+
+## Tool gate — read-only LaTeX audit
+Parent inspected the parser and reran all nine isolated tests successfully. The
+helper traverses literal project-local includes, checks bibliography/label keys
+and surfaces TODOs without modifying manuscripts. Macro definitions, conditional
+execution and external resources are explicitly uncertain; zero errors is not a
+compile or semantic-validity claim. The implementation worker separately compiled
+the valid ACM fixture with shell escape disabled, writing outputs only to ignored
+.local. Fixture details and limitations are in tests/latex-audit/README.md.
+The helper does not upload content, run builds or infer citation correctness.

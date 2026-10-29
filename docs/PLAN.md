@@ -117,3 +117,11 @@ process documentation; keep source full texts and private model transcripts loca
 Maintain README.md (English) and README.ko.md (Korean) with matched status and
 navigation. Final polish and visual identity follow evidence and behavior review.
 Do not freeze the synthesis or call the release complete below the new minimum.
+
+## Audience clarification — personal relevance and public usefulness
+The user's own interests must be included, without dominating the public toolkit.
+Public homepage/publications/projects were reviewed. See
+[AUDIENCE-AND-COVERAGE.md](AUDIENCE-AND-COVERAGE.md) for source-linked topic and
+workflow decisions. Track contribution, method, form and venue separately; retain
+collaboration/social-influence/reflective and embodied-interface examples alongside
+broader HCI domains. Public page review does not count toward full-text analysis.
