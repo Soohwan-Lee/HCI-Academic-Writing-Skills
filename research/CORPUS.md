@@ -1,9 +1,10 @@
-# Exploratory corpus v0.1
+# Exploratory corpus — expanding
 
-10 full papers, five venues, publication years 2010–2024. Metadata, exact analyzed
+16 full papers integrated, five venues, publication years 2007–2024. Metadata, exact analyzed
 versions, checksums, public source links and award evidence are in [corpus.json](corpus.json).
-This is a purposive teaching corpus centered on human–AI interaction, with a
-crowd-computing precursor and a historical-methodology contrast. It is neither
+The initial ten-paper pilot centered on human–AI interaction. Expansion adds
+resources, embodied design, methodology and broader HCI domains toward at least
+60 full-text analyses; see [sampling plan](../docs/SAMPLING-PLAN.md). It is neither
 representative of HCI nor a comparison demonstrating that awards reward style.
 
 | ID | Venue | Knowledge object / teaching use | Award evidence |
@@ -19,11 +20,18 @@ representative of HCI nor a comparison demonstrating that awards reward style.
 | P09 | CSCW 2021 | Historicism — methodological/conceptual argument | Best Paper, official |
 | P11 | CSCW 2022 | Group recommendation — systematic synthesis | Unverified |
 
+| P12 | CHI 2018 | Evaluation Strategies for HCI Toolkit Research — methodological synthesis | unverified |
+| P13 | CHI 2007 | Research Through Design as a Method for Interaction Design Research in HCI — methodological/conceptual model | unverified |
+| P14 | UIST 2017 | Rico — dataset/resource | unverified |
+| P15 | DIS 2024 | Crip Reflections on Designing with Plants — situated design interpretation/reframing | Best Paper |
+| P16 | CSCW 2021 | Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development — empirical interpretive account | Best Paper |
+| P17 | IUI 2021 | ProtoAI — design workflow embodied in artifact | Best Paper |
+
 ## Coverage and exclusions
-CHI 3, CSCW 3, UIST 2, DIS 1, IUI 1. Do not infer a venue's typical style from
-these counts. No standalone dataset/benchmark paper, ethnographic fieldwork
-corpus, pictorial, replication or full statistical meta-analysis is represented.
-Their guidance must remain editorial rather than corpus-derived. “Unverified”
+CHI 5, CSCW 4, UIST 3, DIS 2, IUI 2. These counts describe integrated
+analyses, not downloads or assigned candidates. Dataset/resource and
+autoethnographic design now have examples, but many routes remain sparse.
+Do not infer typical venue styles or statistical norms from this purposive sample. “Unverified”
 is not equivalent to non-awarded, so these are not matched award controls.
 
 Candidate P10 (arXiv:2310.19778) was obtained while looking for a synthesis

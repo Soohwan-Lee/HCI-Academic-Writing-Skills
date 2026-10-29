@@ -304,5 +304,204 @@
     "url": "https://yucheng.gold/file/cscw22.pdf",
     "sha256": "2216c066a2fee2014bf1a7270742cb3ce57fd4699b4593d6f2faec1f30ac674b",
     "bytes": 6562778
+  },
+  {
+    "id": "P12-toolkit-evaluation",
+    "title": "Evaluation Strategies for HCI Toolkit Research",
+    "authors": [
+      "Ledo",
+      "Houben",
+      "Vermeulen",
+      "Marquardt",
+      "Oehlberg",
+      "Greenberg"
+    ],
+    "venue": "CHI",
+    "publication_year": 2018,
+    "presentation_year": 2018,
+    "doi": "10.1145/3173574.3173610",
+    "primary_knowledge_object": "methodological synthesis",
+    "method": "selected-paper review, qualitative coding, author reflection",
+    "affiliations_as_stated": "University of Calgary; Lancaster University; Aarhus University; University College London",
+    "analyzed_version": "Coauthor-hosted CHI-formatted PDF; exact equality to UCL accepted manuscript or publisher version unverified",
+    "url": "https://stevenhouben.be/pubs/EvaluationCHI2018.pdf",
+    "metadata_sources": [
+      "https://discovery.ucl.ac.uk/id/eprint/10053385/"
+    ],
+    "pages": 17,
+    "access_note": "Requested UCL PDF returned HTTP 403 on direct retrieval; read accessible coauthor copy. UCL record separately confirms bibliographic identity and labels its own deposit Accepted Version.",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P12-toolkit-evaluation.md",
+    "selection_reason": "Foundational methodological calibration, not an award exemplar or prevalence sample",
+    "corpus_role": "methodological-calibration",
+    "sha256": "94fa291582088cdaa4a618c07c2da78615d971e8090217957103f5f88299fa3c",
+    "bytes": 1476839,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected"
+  },
+  {
+    "id": "P13-rtd-foundation",
+    "title": "Research Through Design as a Method for Interaction Design Research in HCI",
+    "authors": [
+      "Zimmerman",
+      "Forlizzi",
+      "Evenson"
+    ],
+    "venue": "CHI",
+    "publication_year": 2007,
+    "presentation_year": 2007,
+    "doi": "10.1145/1240624.1240704",
+    "primary_knowledge_object": "methodological/conceptual model",
+    "method": "literature review, workshop, interviews, iterative model discussions and illustrative cases",
+    "affiliations_as_stated": "Carnegie Mellon University",
+    "analyzed_version": "Proceedings-layout institutional teaching copy, printed pages 493–502; exact equivalence to publisher file unverified",
+    "url": "https://courses.ischool.berkeley.edu/i262/s13/readings_pdf/Zimmerman_Research_Through_Design_as_a_Method_for_IaD_in_HCI_0.pdf",
+    "metadata_sources": [
+      "https://www.cs.cmu.edu/~johnz/pubs.html",
+      "https://api.crossref.org/works/10.1145/1240624.1240704"
+    ],
+    "pages": 10,
+    "access_note": "Institutional full text downloaded; title/authors/year/pages matched to author publication list and Crossref metadata. Publisher DOI page returned HTTP 403.",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P13-rtd-foundation.md",
+    "selection_reason": "Foundational methodological calibration, not an award exemplar or prevalence sample",
+    "corpus_role": "methodological-calibration",
+    "sha256": "ea4c03cdc859ae0f02721b58cccde814d5678709cbe0ecc889c91463231e19e7",
+    "bytes": 1110725,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected"
+  },
+  {
+    "id": "P14-rico",
+    "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+    "authors": [
+      "Deka",
+      "Huang",
+      "Franzen",
+      "Hibschman",
+      "Afergan",
+      "Li",
+      "Nichols",
+      "Kumar"
+    ],
+    "venue": "UIST",
+    "publication_year": 2017,
+    "presentation_year": 2017,
+    "doi": "10.1145/3126594.3126651",
+    "primary_knowledge_object": "dataset/resource",
+    "method": "hybrid crowd/automated collection, coverage comparison, learned-embedding demonstration",
+    "affiliations_as_stated": "University of Illinois at Urbana-Champaign; Northwestern University; Google Inc.",
+    "analyzed_version": "author-hosted proceedings-format PDF, 10 pages; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P14-rico.md",
+    "selection_reason": "Resource contribution contrasts with system and empirical routes; includes collection validation and downstream feasibility; no award claimed",
+    "url": "https://ranjithakumar.net/resources/rico.pdf",
+    "sha256": "9f2705de383a6370d2815915c2370ea48823e1085b1d8d04a39a61f3a6422e33",
+    "bytes": 19044725,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P15-crip-plants",
+    "title": "Crip Reflections on Designing with Plants: Intersecting Disability Theory, Chronic Illness, and More-than-Human Design",
+    "authors": [
+      "Janicki",
+      "Parvin",
+      "Howell"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3661509",
+    "primary_knowledge_object": "situated design interpretation/reframing",
+    "method": "theory-informed autoethnography of design, maintenance and exhibition",
+    "affiliations_as_stated": "Georgia Institute of Technology; University of Washington",
+    "analyzed_version": "author-hosted proceedings-format PDF, 15 pages; CC BY 4.0; no revision identifier",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "official conference; listed under Papers / Best Papers"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P15-crip-plants.md",
+    "selection_reason": "Award-verified non-AI design/autoethnographic contrast with explicit situated epistemology and narrative-to-interpretation writing",
+    "url": "https://nourahowell.com/static/pdf/2024_DIS_Crip_Reflections_on_Designing_with_Plants.pdf",
+    "sha256": "35d38e63aa8d525888c6524c4f87d9efecde1d864d9e534746090fc37b3f01ba",
+    "bytes": 4676138,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P16-dataset-politics",
+    "title": "Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development",
+    "authors": [
+      "Scheuerman",
+      "Denton",
+      "Hanna"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3476058",
+    "primary_knowledge_object": "empirical interpretive account",
+    "method": "structured and qualitative thematic content analysis of dataset documentation",
+    "affiliations_as_stated": "University of Colorado Boulder; Google Research",
+    "analyzed_version": "author-hosted PACMHCI 5 CSCW2 article 317; 37 pages",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2021/awards/",
+      "evidence": "official conference; corroborated author conference blog"
+    },
+    "selection_reason": "Critical qualitative analysis of disciplinary values; contrast with interviews and experiments; distinguishes document analysis from literature synthesis",
+    "url": "https://www.morgan-klaus.com/pdfs/pubs/Scheuerman-CSCW2021-datapolitics.pdf",
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P16-dataset-politics.md",
+    "sha256": "2ddc36bd72d19271dc2e52d7bb497e7243664933616850e393e6eb0895807200",
+    "bytes": 700555,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P17-iui-contrast",
+    "title": "ProtoAI: Model-Informed Prototyping for AI-Powered Interfaces",
+    "authors": [
+      "Subramonyam",
+      "Seifert",
+      "Adar"
+    ],
+    "venue": "IUI",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3397481.3450640",
+    "primary_knowledge_object": "design workflow embodied in artifact",
+    "method": "guideline analysis, system implementation, illustrative scenarios, preliminary designer study",
+    "affiliations_as_stated": "University of Michigan",
+    "analyzed_version": "author-hosted 11-page proceedings-layout PDF, pp. 48–58",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://ieei.tamu.edu/26th-annual-acm-iui-conference-hosted-by-texas-am/",
+      "evidence": "conference host institution report, 2021-04-21"
+    },
+    "selection_reason": "IUI system/workflow contrast to P04 methodological experiments; award verified independently; preliminary evaluation has explicit limits",
+    "url": "https://cond.org/iui2021protoai.pdf",
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P17-iui-contrast.md",
+    "sha256": "c4e0daa7e7a2f6fbb145a43baf65c56158dfc3ca2292174ad9b3ef48274471eb",
+    "bytes": 19293947,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   }
 ]

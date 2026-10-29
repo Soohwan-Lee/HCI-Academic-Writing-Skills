@@ -43,3 +43,29 @@ paragraphs. Column-order problems in other PDFs are documented, not hidden by
 averaging. The short P03 bridge and P07's inductive paragraph contradict a uniform
 length or always-deductive requirement. Gate outcome: proceed with examples and
 clearly labeled heuristics; no statistical norms claimed.
+
+## Workflow consultation — scope refinement
+Second tool-free Claude consultation completed via verified claude.ai Pro;
+runtime claude-opus-5-5, CLI 2.1.312. Prioritize claim alignment, finding-to-
+implication warrants, reviewer response, scope-controlled editing, compression,
+and citation-support checks. Keep one discoverable entrypoint and load routes on
+demand; do not make researchers complete a taxonomy quiz before getting help.
+
+Accepted: build-if-available, citation-movement review, no ungrounded numerical
+or quoted additions, minimal diffs, scope-aware context, concrete fixture tests.
+Modified: no automatic approval gate for every deletion, no mandatory claim-lock
+file, and no invariant that forbids authorized label/citation changes. Preserve
+existing claims by default, but let the user request substantive revisions. Static
+checks are limited evidence, not a substitute for a successful build. Corpus and
+coverage remain transparent in project docs even if normal editing responses stay
+brief. A small optional state note is appropriate for sustained drafting, not a
+mandatory new artifact for every paragraph edit.
+
+## Expansion gate A — six papers
+Parent reviewed all six notes P12–P17 and matched metadata, local PDF hashes and
+analysis paths. Integrated 16 total. Retained method vs artifact distinctions,
+Rico's bounded coverage and maintenance claim, the embodied narrative exception
+to compulsory topic-first paragraphs, documentation vs actual practice in P16,
+and scenario vs observed use in ProtoAI. These are reviewed interpretations, not
+independent recoding or human validation. Toolkit/RtD papers are calibration
+sources; their publication does not establish universal methodological standards.

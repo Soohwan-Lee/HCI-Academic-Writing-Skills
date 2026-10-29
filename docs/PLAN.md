@@ -7,6 +7,19 @@ Build portable, evidence-linked HCI writing skills for CHI, CSCW, UIST, DIS,
 and IUI. Route by knowledge contribution, not venue prestige or method alone.
 The first release is an exploratory, purposive corpus, not a population survey.
 
+## Live checkpoint — 2026-10-30
+- Protocol and ten-paper pilot: reviewed and pushed (`0d92ba5` latest checkpoint).
+- Six additional full-text analyses: parent-reviewed and integrated (16 total).
+- Expansion: three assigned batches (P18–P53) and root batch (P54–P64)
+  underway. IDs are reservations, not claims of completed reading.
+- Next gate: review completed expansion fragments in small batches, validate
+  metadata/locators, regenerate coverage, commit and push each reviewed batch.
+- Then complete remaining batches; audit contribution/domain coverage and deepen
+  sparse routes before freezing the cross-paper synthesis.
+- Still pending: expanded length evidence; executable skill and route modules;
+  Claude critique and behavioral trials; ACM multi-file fixture checks; portable
+  installation verification; final README and visual identity.
+
 ## Stages and review gates
 1. Protocol: define contribution taxonomy, sampling, coding, evidence levels,
    private-source boundaries. Review distinctions and feasibility; commit/push.
@@ -39,7 +52,7 @@ Never upload Zotero PDFs, library databases, private notes or full-text caches.
 - Common and type-specific skills install without machine-specific paths.
 - No fabricated references, awards, findings, numeric norms or compatibility tests.
 
-## Later expansion (not a claim about this release)
+## Limits that remain after the expanded release
 A larger stratified corpus, multiple independent coders and held-out author
 usage are needed before presenting observed writing patterns as robust norms.
 
@@ -73,3 +86,11 @@ across HCI rather than centered on current human–AI interests. Follow
 [SAMPLING-PLAN.md](SAMPLING-PLAN.md). The original ten remain the pilot. Track
 coverage and unfinished work explicitly; do not present pilot skills as the final
 requested product. Keep progress updates short; spend effort on analysis and review.
+
+## Contribution coverage clarification
+Review-paper writing is a first-class synthesis route. Distinguish systematic,
+scoping/mapping, critical/conceptual and quantitative synthesis by their actual
+question, selection and analytical commitments; do not label every paper corpus
+a systematic review or every document analysis a literature review. This addition
+does not narrow the eight-route plan: cover empirical, artifact, design, theory,
+method and resource contributions, including justified hybrids.
