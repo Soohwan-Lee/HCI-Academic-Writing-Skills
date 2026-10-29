@@ -127,3 +127,10 @@ empirically grounded design knowledge rather than novel artifact coding in P39;
 participant goals rather than automatic empowerment in P40; reported teaching
 vs observed teaching/learning in P41. No single qualitative or DIS template fits
 these cases. Integrated total 51.
+
+## Scope review — 100-paper minimum
+User raised the release floor from 60 to 100 and requested persistent process
+records plus separate professional English/Korean READMEs. Updated PLAN and
+SAMPLING-PLAN before assigning new IDs. Existing 51 reviewed papers remain the
+verified count; pending 11 and reserved 42 are not reported as completed. Route
+targets total 100; labels must follow actual knowledge claims, not quotas.

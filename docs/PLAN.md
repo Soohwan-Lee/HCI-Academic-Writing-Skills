@@ -1,6 +1,6 @@
 # Development plan
 
-Started 2026-10-30. Working language: English skills, Korean project guide.
+Started 2026-10-30. Working language: English skills, English and Korean project guides.
 
 ## Objective
 Build portable, evidence-linked HCI writing skills for CHI, CSCW, UIST, DIS,
@@ -36,7 +36,7 @@ The first release is an exploratory, purposive corpus, not a population survey.
 5. Packaging: verify official installation mechanisms for Codex, Claude Code,
    and Antigravity; validate skills and behavioral cases. Review limits of
    compatibility claims; commit/push.
-6. Release: create visual identity, professional bilingual-facing README,
+6. Release: create visual identity, professional English README.md and Korean README.ko.md,
    usage examples and evidence navigation. Review links, repository contents,
    claims and remote state; commit/push.
 
@@ -82,7 +82,7 @@ The first ten papers are a completed pilot, not the final coverage claim.
 - Create final README/logo only after the research/workflow modules pass review.
 
 ## Binding expansion (latest user direction)
-The release target is now **at least 60 analyzed full papers**, broadly sampled
+The release target is now **at least 100 analyzed full papers**, broadly sampled
 across HCI rather than centered on current human–AI interests. Follow
 [SAMPLING-PLAN.md](SAMPLING-PLAN.md). The original ten remain the pilot. Track
 coverage and unfinished work explicitly; do not present pilot skills as the final
@@ -95,3 +95,24 @@ question, selection and analytical commitments; do not label every paper corpus
 a systematic review or every document analysis a literature review. This addition
 does not narrow the eight-route plan: cover empirical, artifact, design, theory,
 method and resource contributions, including justified hybrids.
+
+## Scope update — minimum 100 (2026-10-30)
+The user explicitly raised the minimum to **100 full-text analyzed papers**.
+Finish and review the current batches before consolidating new expansion evidence.
+The working reservation is 104 eligible papers: 62 from the current round and
+42 new candidates (P65–P106). IDs and downloads do not count as completed analyses;
+replace inaccessible/duplicate candidates transparently if needed.
+
+| Workstream | Reserved IDs | Deliverables / review units |
+|---|---|---|
+| Current completion | P48–53, P60–64 | Finish parent review and metadata, small commits |
+| Conceptual/design/review expansion | P65–78 | Original full-text notes, 5/5/4-paper batches |
+| Systems/resources/method expansion | P79–92 | Original full-text notes, 5/5/4-paper batches |
+| Empirical breadth expansion | P93–106 | Finish route modules first, then 5/5/4-paper batches |
+| Integration | Root | Check identity, evidence, coverage and provenance before each commit |
+
+Keep research decisions, failures, disagreements and stage reviews in the public
+process documentation; keep source full texts and private model transcripts local.
+Maintain README.md (English) and README.ko.md (Korean) with matched status and
+navigation. Final polish and visual identity follow evidence and behavior review.
+Do not freeze the synthesis or call the release complete below the new minimum.
