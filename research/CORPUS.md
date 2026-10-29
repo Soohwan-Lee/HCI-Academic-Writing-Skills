@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-45 full papers integrated across five venues. Metadata, analyzed versions,
+51 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -42,7 +42,13 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P32](analyses/P32-tracking-care.md) | CSCW 2020 | Sociocultural Dimensions of Tracking Health and Taking Care — empirical finding | Best Paper |
 | [P33](analyses/P33-indie-labor.md) | CSCW 2020 | Mitigating Exploitation — empirical finding | Honorable Mention |
 | [P34](analyses/P34-wikipedia-order.md) | CSCW 2010 | The Work of Sustaining Order in Wikipedia — empirical finding; methodological contribution | unverified |
+| [P35](analyses/P35-racism-coping.md) | CSCW 2020 | “They Just Don’t Get It” — empirical finding | Best Paper |
 | [P36](analyses/P36-ocean-coordination.md) | CSCW 2020 | Data Integration as Coordination — empirical finding | Honorable Mention |
+| [P37](analyses/P37-mobile-sharing.md) | CHI 2010 | Where There’s a Will There’s a Way — empirical finding | unverified |
+| [P38](analyses/P38-weaving-touch.md) | CHI 2020 | Weaving by Touch — empirical finding; conceptual reframing | Honorable Mention |
+| [P39](analyses/P39-woodshop.md) | CHI 2018 | Lessons from the Woodshop — design knowledge | Honorable Mention |
+| [P40](analyses/P40-diy-empowerment.md) | DIS 2017 | Do-It-Yourself Empowerment as Experienced by Novice Makers with Disabilities — empirical finding | unverified |
+| [P41](analyses/P41-design-classroom.md) | DIS 2019 | Design in the HCI Classroom — empirical finding; research agenda | unverified |
 | [P42](analyses/P42-photobox.md) | DIS 2012 | Photobox — design knowledge/RtD | unverified |
 | [P43](analyses/P43-mechanical-sympathy.md) | DIS 2024 | Articulating Mechanical Sympathy for Somaesthetic Human–Machine Relations — design knowledge/RtD | Best Paper |
 | [P44](analyses/P44-morse-things.md) | DIS 2017 | Morse Things — design knowledge/RtD | unverified |
@@ -56,7 +62,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P58](analyses/P58-art.md) | CHI 2011 | The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures — method generalization and implementation | unverified |
 
 ## Coverage and exclusions
-CHI 14, CSCW 10, DIS 7, IUI 5, UIST 9.
+CHI 17, CSCW 11, DIS 9, IUI 5, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

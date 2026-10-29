@@ -1047,6 +1047,49 @@
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
   {
+    "id": "P35-racism-coping",
+    "title": "“They Just Don’t Get It”: Towards Social Technologies for Coping with Interpersonal Racism",
+    "authors": [
+      "To",
+      "Sweeney",
+      "Hammer",
+      "Kaufman"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3392828",
+    "primary_knowledge_object": "empirical finding",
+    "method": "14 narrative-episode and semi-structured interviews; grounded-theory coding; contextual survey",
+    "affiliations_as_stated": "Carnegie Mellon University; Coe College",
+    "analyzed_version": "Published proceedings-formatted PDF",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://cscw.acm.org/2020/awards/",
+      "evidence": "Official conference award list"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P35-racism-coping.md",
+    "selection_reason": "Verified award: broad-domain/contribution contrast",
+    "url": "https://www.alexandrato.com/papers/TheyJustDontGetIt_CSCW2020.pdf",
+    "sha256": "451f3ee488b73257972825c699b5e148407c1969cfafcc4e5e93084581d681a1",
+    "bytes": 552567,
+    "domain": "racial justice and social support",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "author_stated_contribution": "Account of uncertainty, supporters and support-seeking; design implications",
+    "support": "Participant narratives and grounded-theory interpretation",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
+    "excluded_candidate": {
+      "title": "Daughters of Men: Saudi Women’s Sociotechnical Agency Practices in Addressing Domestic Abuse",
+      "doi": "10.1145/3432923",
+      "reason": "Available Indianapolis repository file is anonymous 34-page draft with placeholder JACM citation and materially different theme names; no final-version rhetorical analysis claimed. Replaced with P35-racism-coping.",
+      "url": "https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/7684d41a-c43b-495a-bf84-f913190bc58e/content",
+      "final_pdf_attempt": "https://dl.acm.org/doi/pdf/10.1145/3432923",
+      "result": "403"
+    },
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
     "id": "P36-ocean-coordination",
     "title": "Data Integration as Coordination: The Articulation of Data Work in an Ocean Science Collaboration",
     "authors": [
@@ -1077,6 +1120,190 @@
     "domain": "scientific collaboration and data work",
     "primary_writing_route": "qualitative / interpretive empirical",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P37-mobile-sharing",
+    "title": "Where There’s a Will There’s a Way: Mobile Media Sharing in Urban India",
+    "authors": [
+      "Smyth",
+      "Kumar",
+      "Medhi",
+      "Toyama"
+    ],
+    "venue": "CHI",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1753326.1753436",
+    "primary_knowledge_object": "empirical finding",
+    "method": "nine-week qualitative field study: exploratory and formal interviews, shop observation",
+    "affiliations_as_stated": "Georgia Institute of Technology; Microsoft Research India; University of California Berkeley",
+    "analyzed_version": "Published proceedings-formatted PDF",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P37-mobile-sharing.md",
+    "selection_reason": "Established MSR India / Medhi / Toyama ICTD scholarship; institutional publication copy",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p753-smyth-mediasharing.pdf",
+    "sha256": "34b15b6053fa545205d47c635dbb4e19f13d51ac1bfcf71fa92a85c0694ffb52",
+    "bytes": 439338,
+    "domain": "ICTD and mobile entertainment in India",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "author_stated_contribution": "Empirical account challenging obstacle-centered adoption explanations",
+    "support": "Interviews, observations and concrete adaptations; motivation remains interpretive",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P38-weaving-touch",
+    "title": "Weaving by Touch: A Case Analysis of Accessible Making",
+    "authors": [
+      "Das",
+      "Borgos-Rodriguez",
+      "Piper"
+    ],
+    "venue": "CHI",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3313831.3376477",
+    "primary_knowledge_object": "empirical finding; conceptual reframing",
+    "method": "eight-month participant observation and contextual interviews",
+    "affiliations_as_stated": "Northwestern University",
+    "analyzed_version": "Published proceedings-formatted PDF",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://doi.org/10.1145/3313831.3376477",
+      "evidence": "ACM Digital Library publication award badge"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P38-weaving-touch.md",
+    "selection_reason": "Verified award: broad-domain/contribution contrast",
+    "url": "https://maitraye.github.io/files/papers/BVI_weaving_CHI20.pdf",
+    "sha256": "40ba4a4d6247cab1c9e4b43a654d60f47bcc70c2c50d81d743fbdef594fe95b1",
+    "bytes": 10497774,
+    "domain": "accessibility, craft and labor",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "author_stated_contribution": "Materiality, interdependence and labor valuation in accessible making",
+    "support": "Situated observed practices, interviews and video",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P39-woodshop",
+    "title": "Lessons from the Woodshop: Cultivating Design with Living Materials",
+    "authors": [
+      "Dew",
+      "Rosner"
+    ],
+    "venue": "CHI",
+    "publication_year": 2018,
+    "presentation_year": 2018,
+    "doi": "10.1145/3173574.3174159",
+    "primary_knowledge_object": "design knowledge",
+    "method": "18-month apprenticeship-led ethnography and extended-case interpretation",
+    "affiliations_as_stated": "University of Washington",
+    "analyzed_version": "Published proceedings-formatted PDF",
+    "award": {
+      "status": "Honorable Mention",
+      "source": "https://depts.washington.edu/tatlab/files/Dew_Rosner_Lessons-from-Woodshop.pdf",
+      "evidence": "Proceedings page header explicitly states CHI 2018 Honourable Mention"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P39-woodshop.md",
+    "selection_reason": "Verified award: broad-domain/contribution contrast",
+    "url": "https://depts.washington.edu/tatlab/files/Dew_Rosner_Lessons-from-Woodshop.pdf",
+    "sha256": "5385aec9a12a747154e971fdd170052a83684c55d20a1d7f25ae1b96cedd5de1",
+    "bytes": 10999662,
+    "domain": "sustainability and craft materials",
+    "primary_writing_route": "empirically grounded design knowledge",
+    "author_stated_contribution": "Five lessons and three methodological orientations for living materials",
+    "support": "Ethnographic episodes, practitioner accounts, embodied learning and theoretical comparison",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P40-diy-empowerment",
+    "title": "Do-It-Yourself Empowerment as Experienced by Novice Makers with Disabilities",
+    "authors": [
+      "Meissner",
+      "Vines",
+      "McLaughlin",
+      "Nappey",
+      "Maksimova",
+      "Wright"
+    ],
+    "venue": "DIS",
+    "publication_year": 2017,
+    "presentation_year": 2017,
+    "doi": "10.1145/3064663.3064674",
+    "primary_knowledge_object": "empirical finding",
+    "method": "qualitative video analysis, makerspace observation and five-participant workshop inquiry",
+    "affiliations_as_stated": "Newcastle University; Northumbria University; University of Dundee",
+    "analyzed_version": "Published proceedings-formatted PDF; Newcastle repository cover precedes proceedings pages",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P40-diy-empowerment.md",
+    "selection_reason": "Established Open Lab, Vines and Wright accessibility/participatory-design scholarship; Newcastle repository https://eprints.ncl.ac.uk/239583",
+    "url": "https://eprints.ncl.ac.uk/fulltext.aspx?pub_id=239583&ts=639283502043352537&url=239583/9840D099-1507-4A0B-9F58-C709106626CC.pdf",
+    "sha256": "33de0022c11d612ea878497c8dab3e17a54101998227abd0c3676ffa13bc9808",
+    "bytes": 2986846,
+    "domain": "disability and novice making",
+    "primary_writing_route": "qualitative / interpretive empirical",
+    "author_stated_contribution": "Participant-centered forms of empowerment through making",
+    "support": "Thematic analysis of workshop narratives and artifacts, contextualized by formative inquiry",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
+    "failed_access_attempts": [
+      {
+        "url": "https://www.research.ed.ac.uk/files/200697185/Do_It_Yourself_MEISSNER_DOA31012017_VOR_CC_BY.pdf",
+        "result": "403"
+      },
+      {
+        "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/200697185/Do_It_Yourself_MEISSNER_DOA31012017_VOR_CC_BY.pdf",
+        "result": "403"
+      }
+    ],
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P41-design-classroom",
+    "title": "Design in the HCI Classroom: Setting a Research Agenda",
+    "authors": [
+      "Wilcox",
+      "DiSalvo",
+      "Henneman",
+      "Wang"
+    ],
+    "venue": "DIS",
+    "publication_year": 2019,
+    "presentation_year": 2019,
+    "doi": "10.1145/3322276.3322381",
+    "primary_knowledge_object": "empirical finding; research agenda",
+    "method": "14-book thematic analysis and 61-instructor survey; descriptive statistics and open-response analysis",
+    "affiliations_as_stated": "Georgia Institute of Technology; Google",
+    "analyzed_version": "Published proceedings-formatted PDF",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P41-design-classroom.md",
+    "selection_reason": "Established Georgia Tech HCI education/design scholars; institutional record https://research.google/pubs/design-in-the-hci-classroom-setting-a-research-agenda/",
+    "url": "https://qiaosiwang.me/Publications/Wilcox-2019.pdf",
+    "sha256": "1e9181c984ec7925f8cb3629320bde9f67c12cfcdef6c504645c33c25e7cf17b",
+    "bytes": 613459,
+    "domain": "HCI education and pedagogy",
+    "primary_writing_route": "mixed descriptive empirical / agenda synthesis",
+    "author_stated_contribution": "Characterization of design teaching and pedagogical research agenda",
+    "support": "Textbook analysis, descriptive survey findings and theoretical comparison",
+    "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
   {

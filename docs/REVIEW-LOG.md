@@ -118,3 +118,12 @@ separately to architecture and pretraining; Prefab application demonstrations do
 not inherit user benefits from earlier technique studies. Retained the late and
 distributed related-work alternatives and P25's promotional language as a negative
 example rather than imitating every feature of an award paper.
+
+## Expansion gate G — further empirical and design breadth
+Parent reviewed P35/P37–41; metadata, hashes and unique identities checked.
+P35 is a documented replacement for an excluded anonymous draft. Retained limits
+on causal motivation claims in P37; contextual and political readings in P38;
+empirically grounded design knowledge rather than novel artifact coding in P39;
+participant goals rather than automatic empowerment in P40; reported teaching
+vs observed teaching/learning in P41. No single qualitative or DIS template fits
+these cases. Integrated total 51.
