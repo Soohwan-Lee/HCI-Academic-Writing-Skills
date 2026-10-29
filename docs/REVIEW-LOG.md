@@ -285,3 +285,14 @@ under conditional hypotheses; P106 keeps embodied disclosure apart from clinical
 effectiveness. Four further analyses strengthen personal relevance and methodological
 breadth. Three resource supplements and expanded section measurements remain pending;
 corpus-size completion does not complete behavioral or release validation.
+
+## Expansion gate S — resource hybrids and pictorial form
+Parent reviewed P107–109, checked hashes/identity/path uniqueness and integrated
+107 total (105 requested-venue papers, one COMPASS and one EMNLP supplement).
+Screen2Words retains task–resource–model co-primary claims; HapticCap separates
+original elicited signals from generated derivatives and consensus filtering from
+subjective variation; Multi-lifespan Cards preserves resource/method co-primary
+knowledge and its nonlinear pictorial argument. Neither supplementary venue is
+relabeled. Excluded Enrico is a four-page companion contribution, not silently
+counted as a target full paper. Primary route is navigational and does not erase
+hybrids; resource coverage remains smaller than artifact/empirical coverage.
