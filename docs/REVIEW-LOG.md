@@ -69,3 +69,12 @@ to compulsory topic-first paragraphs, documentation vs actual practice in P16,
 and scenario vs observed use in ProtoAI. These are reviewed interpretations, not
 independent recoding or human validation. Toolkit/RtD papers are calibration
 sources; their publication does not establish universal methodological standards.
+
+## Expansion gate B — six system papers
+Parent reviewed P18–P23, checked metadata, local hashes and unique identities;
+22 papers integrated. Main safeguards: VizWiz response correctness differs from
+task success; LightSpace attendance is not study N; Sauron participants did not
+operate the complete plugin; Printed Optics includes manual/substituted parts;
+OmniTouch error supports interface-size constraints; WirePrint's intermediate
+control separates material reduction from path changes. Their varied architectures
+are retained rather than normalized into IMRaD. No award inferred from reputation.

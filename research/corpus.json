@@ -503,5 +503,197 @@
     "sha256": "c4e0daa7e7a2f6fbb145a43baf65c56158dfc3ca2292174ad9b3ef48274471eb",
     "bytes": 19293947,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P18-vizwiz",
+    "title": "VizWiz: Nearly Real-time Answers to Visual Questions",
+    "authors": [
+      "Bigham",
+      "Jayant",
+      "Ji",
+      "Little",
+      "Miller, Andrew",
+      "Miller, Robert C.",
+      "Miller, Robin",
+      "Tatarowicz",
+      "White, Brandyn",
+      "White, Samuel",
+      "Yeh"
+    ],
+    "venue": "UIST",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1866029.1866080",
+    "primary_knowledge_object": "interactive service and recruitment mechanism",
+    "domain": "accessibility; human computation",
+    "method": "field deployment, latency analysis, iterative prototype, comparative localization study",
+    "affiliations_as_stated": "University of Rochester; University of Washington; MIT CSAIL; University of Central Florida; University of Maryland",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P18-vizwiz.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2010/vizwiz.pdf",
+    "sha256": "4b33985abe85d7ffec92a7cd0e5e6235a01aaf5457567e925285a830ac50daea",
+    "bytes": 19163736,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P19-printed-optics",
+    "title": "Printed Optics: 3D Printing of Embedded Optical Elements for Interactive Devices",
+    "authors": [
+      "Willis",
+      "Brockmeyer",
+      "Hudson",
+      "Poupyrev"
+    ],
+    "venue": "UIST",
+    "publication_year": 2012,
+    "presentation_year": 2012,
+    "doi": "10.1145/2380116.2380190",
+    "primary_knowledge_object": "fabrication technique family",
+    "domain": "fabrication; optical sensing and display",
+    "method": "constructive demonstrations and optical transmission characterization",
+    "affiliations_as_stated": "Disney Research Pittsburgh; Carnegie Mellon University",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P19-printed-optics.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://la.disneyresearch.com/wp-content/uploads/printedoptics-paper.pdf",
+    "sha256": "a237aa3d1f1c3ee552d8ab67334f3b860b8fd15db9ee0909de5c9ac67bff3d16",
+    "bytes": 1539284,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P20-omnitouch",
+    "title": "OmniTouch: Wearable Multitouch Interaction Everywhere",
+    "authors": [
+      "Harrison",
+      "Benko",
+      "Wilson"
+    ],
+    "venue": "UIST",
+    "publication_year": 2011,
+    "presentation_year": 2011,
+    "doi": "10.1145/2047196.2047255",
+    "primary_knowledge_object": "interaction and sensing artifact",
+    "domain": "wearable interaction; touch sensing",
+    "method": "prototype demonstrations and controlled touch performance study",
+    "affiliations_as_stated": "Microsoft Research; Carnegie Mellon University",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P20-omnitouch.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://chrisharrison.net/projects/omnitouch/omnitouch.pdf",
+    "sha256": "255c84c19ce0594846cc4b5028f6e65946ab5022a704ed85ac7a3e3bbb317466",
+    "bytes": 16805619,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P21-lightspace",
+    "title": "Combining Multiple Depth Cameras and Projectors for Interactions On, Above, and Between Surfaces",
+    "authors": [
+      "Wilson",
+      "Benko"
+    ],
+    "venue": "UIST",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1866029.1866073",
+    "primary_knowledge_object": "interactive-space system and techniques",
+    "domain": "ubiquitous computing; spatial interaction",
+    "method": "constructive algorithm demonstration and public-demo observations",
+    "affiliations_as_stated": "Microsoft Research",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P21-lightspace.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2010/10/Wilson-UIST-2010-LightSpace.pdf",
+    "sha256": "ad6a016a2e69c008ad58f44f8750b7013172bba25a2cd5adf04f451b96dd812e",
+    "bytes": 4533421,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P22-wireprint",
+    "title": "WirePrint: 3D Printed Previews for Fast Prototyping",
+    "authors": [
+      "Mueller",
+      "Im",
+      "Gurevich",
+      "Teibrich",
+      "Pfisterer",
+      "Guimbretière",
+      "Baudisch"
+    ],
+    "venue": "UIST",
+    "publication_year": 2014,
+    "presentation_year": 2014,
+    "doi": "10.1145/2642918.2647359",
+    "primary_knowledge_object": "fabrication technique",
+    "domain": "personal fabrication; prototyping",
+    "method": "parameter exploration and three-condition technical benchmark",
+    "affiliations_as_stated": "Hasso Plattner Institute; Cornell University",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P22-wireprint.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://groups.csail.mit.edu/hcie/files/research-projects/wireprint/2014-uist-wireprint-paper.pdf",
+    "sha256": "9232c38c77da2531ddd652dbb5d6f1f28c50cac1358859cf12938522890b477a",
+    "bytes": 6296228,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P23-sauron",
+    "title": "Sauron: Embedded Single-Camera Sensing of Printed Physical User Interfaces",
+    "authors": [
+      "Savage",
+      "Chang",
+      "Hartmann"
+    ],
+    "venue": "UIST",
+    "publication_year": 2013,
+    "presentation_year": 2013,
+    "doi": "10.1145/2501988.2501992",
+    "primary_knowledge_object": "design tool and sensing technique",
+    "domain": "fabrication; physical interfaces",
+    "method": "CAD design sessions, existing-model applicability analysis, fabricated prototypes",
+    "affiliations_as_stated": "University of California, Berkeley; Berkeley Institute of Design, Computer Science Division",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P23-sauron.md",
+    "selection_reason": "Purposive artifact contrast from established HCI groups; full-text architecture and sentence-role coding, no award inference",
+    "url": "https://valkyriesavage.com/papers/sauron.pdf",
+    "sha256": "5542a5e300c83e4ff01d407caf23bbe84201098e8e5854c4b71b1b3a80cb7d10",
+    "bytes": 10385539,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   }
 ]

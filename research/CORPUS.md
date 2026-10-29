@@ -1,38 +1,41 @@
 # Exploratory corpus — expanding
 
-16 full papers integrated, five venues, publication years 2007–2024. Metadata, exact analyzed
-versions, checksums, public source links and award evidence are in [corpus.json](corpus.json).
-The initial ten-paper pilot centered on human–AI interaction. Expansion adds
-resources, embodied design, methodology and broader HCI domains toward at least
-60 full-text analyses; see [sampling plan](../docs/SAMPLING-PLAN.md). It is neither
-representative of HCI nor a comparison demonstrating that awards reward style.
+22 full papers integrated across five venues. Metadata, analyzed versions,
+checksums, sources and award evidence: [corpus.json](corpus.json).
+The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
+[the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
+not a representative survey or evidence that awards reward a particular style.
+Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 
-| ID | Venue | Knowledge object / teaching use | Award evidence |
+| ID | Venue | Paper / knowledge object | Award status (see metadata for evidence) |
 |---|---|---|---|
-| P01 | UIST 2023 | Generative Agents — system capability and ablation | Best Paper, official |
-| P02 | UIST 2010 | Soylent — interaction and architecture patterns | Unverified |
-| P03 | CSCW 2021 | To Trust or to Think — empirical trade-offs | Unverified |
-| P04 | IUI 2020 | Proxy Tasks — empirical evaluation critique | Best Paper, ACM certificate index + lab |
-| P05 | DIS 2024 | Ryelands AI Lab — design knowledge through making | Best Paper, official anonymized title + authors |
-| P06 | CHI 2020 | Questioning the AI — qualitative practitioner findings | Unverified |
-| P07 | CHI 2020 | Re-examining — conceptual reframing | Unverified |
-| P08 | CHI 2019 | Guidelines — reusable design guidance and validation | Honorable Mention, author institution |
-| P09 | CSCW 2021 | Historicism — methodological/conceptual argument | Best Paper, official |
-| P11 | CSCW 2022 | Group recommendation — systematic synthesis | Unverified |
-
-| P12 | CHI 2018 | Evaluation Strategies for HCI Toolkit Research — methodological synthesis | unverified |
-| P13 | CHI 2007 | Research Through Design as a Method for Interaction Design Research in HCI — methodological/conceptual model | unverified |
-| P14 | UIST 2017 | Rico — dataset/resource | unverified |
-| P15 | DIS 2024 | Crip Reflections on Designing with Plants — situated design interpretation/reframing | Best Paper |
-| P16 | CSCW 2021 | Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development — empirical interpretive account | Best Paper |
-| P17 | IUI 2021 | ProtoAI — design workflow embodied in artifact | Best Paper |
+| [P01](analyses/P01-generative-agents.md) | UIST 2023 | Generative Agents — artifact/capability | Best Paper |
+| [P02](analyses/P02-soylent.md) | UIST 2010 | Soylent — artifact/capability | unverified |
+| [P03](analyses/P03-trust-think.md) | CSCW 2021 | To Trust or to Think — empirical finding | unverified |
+| [P04](analyses/P04-proxy.md) | IUI 2020 | Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems — empirical finding / methodological critique | Best Paper |
+| [P05](analyses/P05-ryelands.md) | DIS 2024 | Responding to Generative AI Technologies with Research-through-Design — design knowledge | Best Paper |
+| [P06](analyses/P06-questioning.md) | CHI 2020 | Questioning the AI — empirical finding | unverified |
+| [P07](analyses/P07-reexamining.md) | CHI 2020 | Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design — conceptual/theoretical argument | unverified |
+| [P08](analyses/P08-guidelines.md) | CHI 2019 | Guidelines for Human-AI Interaction — method/instrument | Honorable Mention |
+| [P09](analyses/P09-historicism.md) | CSCW 2021 | Time for Historicism in CSCW — conceptual/theoretical argument | Best Paper |
+| [P11](analyses/P11-group-review.md) | CSCW 2022 | A Systematic Review of Interaction Design Strategies for Group Recommendation Systems — literature synthesis | unverified |
+| [P12](analyses/P12-toolkit-evaluation.md) | CHI 2018 | Evaluation Strategies for HCI Toolkit Research — methodological synthesis | unverified |
+| [P13](analyses/P13-rtd-foundation.md) | CHI 2007 | Research Through Design as a Method for Interaction Design Research in HCI — methodological/conceptual model | unverified |
+| [P14](analyses/P14-rico.md) | UIST 2017 | Rico — dataset/resource | unverified |
+| [P15](analyses/P15-crip-plants.md) | DIS 2024 | Crip Reflections on Designing with Plants — situated design interpretation/reframing | Best Paper |
+| [P16](analyses/P16-dataset-politics.md) | CSCW 2021 | Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development — empirical interpretive account | Best Paper |
+| [P17](analyses/P17-iui-contrast.md) | IUI 2021 | ProtoAI — design workflow embodied in artifact | Best Paper |
+| [P18](analyses/P18-vizwiz.md) | UIST 2010 | VizWiz — interactive service and recruitment mechanism | unverified |
+| [P19](analyses/P19-printed-optics.md) | UIST 2012 | Printed Optics — fabrication technique family | unverified |
+| [P20](analyses/P20-omnitouch.md) | UIST 2011 | OmniTouch — interaction and sensing artifact | unverified |
+| [P21](analyses/P21-lightspace.md) | UIST 2010 | Combining Multiple Depth Cameras and Projectors for Interactions On, Above, and Between Surfaces — interactive-space system and techniques | unverified |
+| [P22](analyses/P22-wireprint.md) | UIST 2014 | WirePrint — fabrication technique | unverified |
+| [P23](analyses/P23-sauron.md) | UIST 2013 | Sauron — design tool and sensing technique | unverified |
 
 ## Coverage and exclusions
-CHI 5, CSCW 4, UIST 3, DIS 2, IUI 2. These counts describe integrated
-analyses, not downloads or assigned candidates. Dataset/resource and
-autoethnographic design now have examples, but many routes remain sparse.
-Do not infer typical venue styles or statistical norms from this purposive sample. “Unverified”
-is not equivalent to non-awarded, so these are not matched award controls.
+CHI 5, CSCW 4, DIS 2, IUI 2, UIST 9.
+Many contribution routes remain incomplete during expansion. Do not infer typical
+venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
 Candidate P10 (arXiv:2310.19778) was obtained while looking for a synthesis
 example but not analyzed or included: its eventual venue is outside the requested
