@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-87 full papers integrated across five venues. Metadata, analyzed versions,
+91 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -91,6 +91,10 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P86](analyses/P86-screen-relationships.md) | IUI 2022 | Understanding Screen Relationships from Screenshots of Smartphone Applications — task formulations and screen-relationship models | unverified |
 | [P87](analyses/P87-framekit.md) | IUI 2024 | FrameKit — authoring workflow and UI interpolation technique | Best Paper |
 | [P88](analyses/P88-radar-gestures.md) | IUI 2022 | Hand Gesture Recognition for an Off-the-Shelf Radar by Electromagnetic Modeling and Inversion — physical signal-processing technique and gesture datasets | Best Paper |
+| [P89](analyses/P89-vocabulary-images.md) | IUI 2025 | Text-to-Image Generation for Vocabulary Learning Using the Keyword Method — empirical knowledge about image-assisted mnemonic learning | Best Paper |
+| [P90](analyses/P90-teaching-uncertainty.md) | IUI 2022 | Deep Learning Uncertainty in Machine Teaching — empirical and methodological understanding of uncertainty in interactive teaching | Best Paper |
+| [P91](analyses/P91-iscore.md) | IUI 2024 | iScore — domain-grounded visual analytics system and design knowledge | unverified |
+| [P92](analyses/P92-comics-captions.md) | IUI 2024 | Utilizing a Dense Video Captioning Technique for Generating Image Descriptions of Comics for People with Visual Impairments — caption-generation technique and accessibility design knowledge | Best Paper |
 | [P93](analyses/P93-team-formation.md) | CHI 2017 | You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Project-based Courses — empirical understanding of stakeholder perceptions | unverified |
 | [P94](analyses/P94-long-passwords.md) | CHI 2014 | Can Long Passwords Be Secure and Usable? — comparative empirical security and usability knowledge | unverified |
 | [P95](analyses/P95-mobile-needs.md) | CHI 2008 | A Diary Study of Mobile Information Needs — empirical taxonomy and account of situated information needs | unverified |
@@ -98,7 +102,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P97](analyses/P97-health-sharing.md) | CSCW 2011 | It's not that I don't have problems, I'm just not putting them on Facebook — interpretive empirical account of health sharing and network work | unverified |
 
 ## Coverage and exclusions
-CHI 33, CSCW 16, DIS 13, IUI 11, UIST 14.
+CHI 33, CSCW 16, DIS 13, IUI 15, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

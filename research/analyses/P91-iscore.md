@@ -1,0 +1,27 @@
+# P91 — iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries
+
+Single-analyst coding of arXiv v1 (7 March 2024), a 16-page IUI proceedings-formatted PDF. All substantive sections were read; two complete paragraph boundaries were visually checked. Page locators refer to this file. The contribution is a domain-grounded visual analytics system and design knowledge supported by deployment evidence; it is not a general benchmark of language-model explanation quality.
+
+## Organization and framing
+
+The actual sequence is Abstract → Introduction → Related Work → Design Process → The iScore System → Usage Scenario → Evaluation → Discussion → Conclusion → Acknowledgments → References. Design Process includes the scoring context, four design challenges, and twelve user tasks. System sections describe three coordinated views, with task identifiers recurring throughout. Evaluation separates a deployment case from expert feedback; Discussion revisits design implications, education, model generalizability, and limitations.
+
+The abstract (p. 1) connects growing language-model use to educational scoring, identifies interpretability stakes, explains collaborative design, introduces coordinated interactions, and reports a month-long deployment with three engineers. A concrete model-improvement case precedes interview findings. Introduction (pp. 1–2) moves from the domain workflow and its stakes to the interpretability gap, synthesized challenges, system workflow, evidence, and four contributions. The task model, rather than an introductory RQ list, structures the paper’s argument.
+
+Related work (pp. 2–3) covers automatic summary scoring, transformer modeling, and visual analytics interpretation. The first explains why automatic scoring is valuable but difficult to inspect. The second provides technical background necessary to understand sequence length and attention. The third distinguishes internal attention visualization from external input perturbation, including the controversy over attention as explanation. Their combination warrants a coordinated system: domain-specific scoring, long inputs, provenance across revisions, and multiple interpretive perspectives intersect in one workflow.
+
+## Evidence and its limits
+
+The case study follows an engineer from an unexpected attention pattern to changed global-attention configuration and retraining. Its reported change is from R² .79 to .82 for Content scores, not three percentage points of classification accuracy or a measured student-learning gain. The detailed case supplies stronger practical meaning than the abstract’s shorthand “accuracy.” The surrounding task identifiers make it possible to trace challenges to features and observed use.
+
+Three learning engineers use the tool over one month and participate in semi-structured interviews. They are also design collaborators and members of the author team. This supports situated accounts of usefulness and model discoveries, while leaving independent adoption, comparative task performance, and wider populations untested. The usage scenario illustrates possible actions; it should not be merged with the empirical deployment narrative. Self-reported trust and visibility into weights are not proofs of model correctness, fairness, or calibrated reliance. The paper explicitly acknowledges interpretive noise, attention’s contested status, computational expense, and perturbations’ omission of feature interactions. Generalization to other architectures and educational roles is a proposal whose conditions need separate validation.
+
+## Two complete paragraph micro-analyses
+
+**Design Process §3, p. 3, first paragraph, opening “Our goal in this”.** S1 states the target users, task, and intended trust-calibration outcome. S2 names the design methods used to pursue that goal. S3 identifies the team’s complementary expertise. S4 describes the time span, formative sessions, and shared workflow understanding. Relation: goal → method → collaborators → process purpose. It follows the literature argument for combined interpretability methods and precedes a roadmap to domain background and task synthesis. This paragraph establishes provenance for design knowledge rather than pretending tasks emerged without collaboration.
+
+**System §4.3.2, p. 9, opening “Complementing our approach of”.** S1 connects internal attention visualization to the preceding external-probing method. S2 explains the intended relationship between visualized weights and textual structure. S3 names the comparative questions users could investigate across training procedures, layers, and models. Relation: connection → representational rationale → analytical purpose. It follows perturbation details and precedes data-scale constraints and visual encodings. The verbs express design intent; the paragraph alone is not evidence that the interpretation is faithful.
+
+## Transferable moves
+
+Maintain traceability from design challenges through tasks, features, and evaluation cases. Explain model mechanics only as needed for the interaction problem. Separate a plausible usage scenario from observed deployment. Replace headline metric shorthand with the actual metric when making evidence claims. Use a specific discovery-to-change narrative to establish practical utility, while retaining collaborator relationships and the limits of interpretation in the final argument.

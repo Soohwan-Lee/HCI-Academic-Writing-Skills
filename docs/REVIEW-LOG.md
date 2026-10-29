@@ -217,3 +217,12 @@ examples vs comparative productivity, and processing-speed vs end-to-end latency
 P84/P86 version inconsistencies remain visible. P88's one-user benchmark is not
 its earlier elicitation sample. Award evidence is independently recorded for
 FrameKit and radar; neither award licenses copying overbroad result summaries.
+
+## Expansion gate O — learning, uncertainty and accessibility in IUI
+Parent reviewed P89–92; hashes/identities/paths pass integration. Total 91. Retained
+delayed vs immediate recall and effort costs; benchmark-enabled teaching study with
+mixed outcomes; R-squared change vs classification accuracy and collaborator users;
+and best-performing stimulus selection vs representative accessibility performance.
+P92 nonsignificant ratings remain distinct from qualitative preference accounts.
+Best Paper evidence for P89/P90/P92 is recorded with its primary-source level.
+The additional IUI papers span empirical, method, design and artifact claims.

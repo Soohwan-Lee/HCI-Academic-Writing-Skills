@@ -2680,6 +2680,140 @@
     "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
   },
   {
+    "id": "P89-vocabulary-images",
+    "title": "Text-to-Image Generation for Vocabulary Learning Using the Keyword Method",
+    "authors": [
+      "Attygalle",
+      "Kljun",
+      "Quigley",
+      "Čopič Pucihar",
+      "Grubert",
+      "Biener",
+      "Leiva",
+      "Yoneyama",
+      "Toniolo",
+      "Miguel",
+      "Kato",
+      "Weerasinghe"
+    ],
+    "venue": "IUI",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.1145/3708359.3712073",
+    "primary_knowledge_object": "empirical knowledge about image-assisted mnemonic learning",
+    "domain": "language learning; generative visual media",
+    "method": "sequential pilot, image preference comparison, and controlled vocabulary-learning experiment",
+    "affiliations_as_stated": "University of Primorska; UCLouvain; Stellenbosch University; CSIRO Data61; Coburg University of Applied Sciences; University of Stuttgart; University of Luxembourg; NAIST; Inria Rennes; University of St Andrews",
+    "analyzed_version": "arXiv v1, January 2025; 24-page author FINAL DRAFT with placeholder DOI",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://hicup.famnit.upr.si/index.php/2025/03/28/our-paper-wins-acm-iui-2025-best-paper-award/",
+      "evidence": "Author laboratory announcement explicitly identifies this title as IUI 2025 Best Paper."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P89-vocabulary-images.md",
+    "selection_reason": "Sequential studies distinguish image selection, delayed retention, time cost, and untested learning mechanisms.",
+    "url": "https://arxiv.org/pdf/2501.17099v1",
+    "sha256": "9558f9c077440dd3096ee940b615cb059608aabce5ff15bac18b45bee51c1c5d",
+    "bytes": 45039456,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P90-teaching-uncertainty",
+    "title": "Deep Learning Uncertainty in Machine Teaching",
+    "authors": [
+      "Sanchez",
+      "Caramiaux",
+      "Thiel",
+      "Mackay"
+    ],
+    "venue": "IUI",
+    "publication_year": 2022,
+    "presentation_year": 2022,
+    "doi": "10.1145/3490099.3511117",
+    "primary_knowledge_object": "empirical and methodological understanding of uncertainty in interactive teaching",
+    "domain": "machine teaching; uncertainty communication",
+    "method": "technical benchmark followed by counterbalanced mixed-method participant experiment",
+    "affiliations_as_stated": "Université Paris-Saclay, CNRS, Inria, LISN; Sorbonne Université, CNRS, ISIR",
+    "analyzed_version": "HAL-03579448 submitted 18 February 2022; repository cover plus 26 manuscript pages",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://iui.acm.org/2022/paperList.html",
+      "evidence": "Official IUI 2022 accepted-paper list marks this title Best Paper."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P90-teaching-uncertainty.md",
+    "selection_reason": "Benchmark-to-user-study structure exposes the distinction between manipulated uncertainty feedback and observed teaching curricula.",
+    "url": "https://baptistecaramiaux.com/assets/pdf/sanchez_deep_2022.pdf",
+    "sha256": "eadb12f3d6a78d6d9c0f2800b0a64141bf86405fb1844c37815827a7f7f98844",
+    "bytes": 14675946,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P91-iscore",
+    "title": "iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries",
+    "authors": [
+      "Coscia",
+      "Holmes",
+      "Morris",
+      "Choi",
+      "Crossley",
+      "Endert"
+    ],
+    "venue": "IUI",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3640543.3645142",
+    "primary_knowledge_object": "domain-grounded visual analytics system and design knowledge",
+    "domain": "educational assessment; summary scoring; model interpretation",
+    "method": "collaborative design, deployment with three collaborators, case study, and interviews",
+    "affiliations_as_stated": "Georgia Institute of Technology; Vanderbilt University; Georgia State University",
+    "analyzed_version": "arXiv v1, 7 March 2024; 16-page author manuscript",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P91-iscore.md",
+    "selection_reason": "Explicit challenges-to-tasks-to-features chain, with a case separating model score changes from educational impact.",
+    "url": "https://arxiv.org/pdf/2403.04760",
+    "sha256": "55062d021f1c541b2c4dafa60a869f8b3384f19c69f652b18a9ee5fde6371ba3",
+    "bytes": 20846047,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P92-comics-captions",
+    "title": "Utilizing a Dense Video Captioning Technique for Generating Image Descriptions of Comics for People with Visual Impairments",
+    "authors": [
+      "Kim",
+      "Lee",
+      "Kim",
+      "Oh"
+    ],
+    "venue": "IUI",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3640543.3645154",
+    "primary_knowledge_object": "caption-generation technique and accessibility design knowledge",
+    "domain": "comics accessibility; nonvisual reading",
+    "method": "model adaptation and ablation, sighted assessment, and mixed-method study with visually impaired participants",
+    "affiliations_as_stated": "Ewha Womans University",
+    "analyzed_version": "16-page single-column author manuscript from official IUI 2024 temporary proceedings; placeholder DOI; published version pp. 750–760",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://sigai.acm.org/static/aimatters/10-3/AIMatters-10-3-02-Dennis.pdf",
+      "evidence": "ACM SIGAI AI Matters 10(3), conference report, printed p. 5 identifies this title among two IUI 2024 Best Papers."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P92-comics-captions.md",
+    "selection_reason": "Conditional abstract findings and explicit favorable-stimulus sampling show how accessibility claims depend on evaluator and evidence type.",
+    "url": "https://drive.google.com/uc?export=download&id=1BZ8rRulCKi1SOn8dysQN8Uk6bgI2ouHe",
+    "sha256": "c35e8638c1aea37e391d758a89e1372700fb13e97ce6121260d781a8b6a4c14c",
+    "bytes": 3895232,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
     "id": "P93-team-formation",
     "title": "You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Project-based Courses",
     "authors": [
