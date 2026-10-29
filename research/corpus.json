@@ -697,6 +697,195 @@
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
   {
+    "id": "P24-supple",
+    "title": "SUPPLE: Automatically Generating User Interfaces",
+    "authors": [
+      "Gajos",
+      "Weld"
+    ],
+    "venue": "IUI",
+    "publication_year": 2004,
+    "presentation_year": 2004,
+    "doi": "10.1145/964442.964461",
+    "primary_knowledge_object": "optimization formulation and interface-generation algorithm",
+    "domain": "adaptive interfaces; ubiquitous computing",
+    "method": "optimization implementation and small conceptual design study",
+    "affiliations_as_stated": "University of Washington",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P24-supple.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://kgajos.seas.harvard.edu/papers/supple-iui04.pdf",
+    "sha256": "b852aa295fd539335c07ad15ec6f1e361bb92dc9d2b847fba79490af14dd004f",
+    "bytes": 696735,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P25-ui-xray",
+    "title": "UI X-Ray: Interactive Mobile UI Testing Based on Computer Vision",
+    "authors": [
+      "Chen",
+      "Pistoia",
+      "Shi",
+      "Girolami",
+      "Ligman",
+      "Wang"
+    ],
+    "venue": "IUI",
+    "publication_year": 2017,
+    "presentation_year": 2017,
+    "doi": "10.1145/3025171.3025190",
+    "primary_knowledge_object": "visual interface testing system",
+    "domain": "software engineering; UI testing",
+    "method": "retrospective app-history benchmarking and expert interviews",
+    "affiliations_as_stated": "IBM T.J. Watson Research Center; University of Rome Tor Vergata; Hong Kong University of Science and Technology",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://iui.acm.org/2017/awards.html",
+      "evidence": "Exact title listed under the corresponding award on the official IUI 2017 awards page."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P25-ui-xray.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://yong-wang.org/publication/ui-x-ray-IUI2017.pdf",
+    "sha256": "c6fee0f620b4dac27288f1d024c8975e0ff7ec76c2c62f12a8b8fd569c9b9ae2",
+    "bytes": 6037626,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P26-bingo",
+    "title": "Don’t Just Swipe Left, Tell Me Why: Enhancing Gesture-based Feedback with Reason Bins",
+    "authors": [
+      "Beltran",
+      "Huang",
+      "Abouzied",
+      "Nandi"
+    ],
+    "venue": "IUI",
+    "publication_year": 2017,
+    "presentation_year": 2017,
+    "doi": "10.1145/3025171.3025212",
+    "primary_knowledge_object": "gestural query-refinement technique",
+    "domain": "information retrieval; touch interaction",
+    "method": "simulation, comparative survey-search study, exploratory-search study",
+    "affiliations_as_stated": "New York University Abu Dhabi; The Ohio State University",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "Best Paper Honourable Mention",
+      "source": "https://iui.acm.org/2017/awards.html",
+      "evidence": "Exact title listed under the corresponding award on the official IUI 2017 awards page."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P26-bingo.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://arnab.org/files/bingo_iui17.pdf",
+    "sha256": "3cb289685b9468772d85ab2d2c19d3c4f6b7e8b09dfbdcfd86c22d4d2099d48d",
+    "bytes": 1988582,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P27-webzeitgeist",
+    "title": "Webzeitgeist: Design Mining the Web",
+    "authors": [
+      "Kumar",
+      "Satyanarayan",
+      "Torres",
+      "Lim",
+      "Ahmad",
+      "Klemmer",
+      "Talton"
+    ],
+    "venue": "CHI",
+    "publication_year": 2013,
+    "presentation_year": 2013,
+    "doi": "10.1145/2470654.2466420",
+    "primary_knowledge_object": "web-design mining platform and repository",
+    "domain": "design tools; web interfaces; reusable resources",
+    "method": "resource construction, characterization, query and learning demonstrations",
+    "affiliations_as_stated": "Stanford University; Massachusetts Institute of Technology; Intel Corporation",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://vis.csail.mit.edu/pubs/webzeitgeist/",
+      "evidence": "MIT Visualization Group publication page labels CHI 2013 Best Paper Award; institutional primary-source attribution."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P27-webzeitgeist.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://ranjithakumar.net/resources/webzeitgeist.pdf",
+    "sha256": "9ffea5ca9b2291bfc9fbb44151093b9837dd1d488e1bf3481ed8e4ea5941b712",
+    "bytes": 31633010,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P28-webui",
+    "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
+    "authors": [
+      "Wu",
+      "Wang",
+      "Shen",
+      "Peng",
+      "Nichols",
+      "Bigham"
+    ],
+    "venue": "CHI",
+    "publication_year": 2023,
+    "presentation_year": 2023,
+    "doi": "10.1145/3544548.3581158",
+    "primary_knowledge_object": "dataset and cross-domain transfer resource",
+    "domain": "UI understanding; datasets; accessibility metadata",
+    "method": "automated collection, quality characterization, three transfer-learning experiments",
+    "affiliations_as_stated": "Carnegie Mellon University; Wellesley College; Grinnell College; Snooty Bird LLC",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P28-webui.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://jasonwunix.com/assets/pdf/wu2023webui.pdf",
+    "sha256": "4b07f3e1386f65b1ddbfe761a4f6d58ed0ffba27d626d44bdab5b5909e2e22ae",
+    "bytes": 11815707,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P29-prefab",
+    "title": "Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure",
+    "authors": [
+      "Dixon",
+      "Fogarty"
+    ],
+    "venue": "CHI",
+    "publication_year": 2010,
+    "presentation_year": 2010,
+    "doi": "10.1145/1753326.1753554",
+    "primary_knowledge_object": "interface reverse-engineering toolkit architecture",
+    "domain": "interaction toolkits; interface modification",
+    "method": "algorithm construction and cross-toolkit application demonstrations",
+    "affiliations_as_stated": "DUB Group, University of Washington",
+    "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P29-prefab.md",
+    "selection_reason": "Purposive contrast of artifact and resource contributions; full-text and visually checked paragraph coding",
+    "url": "https://homes.cs.washington.edu/~jfogarty/publications/chi2010-prefab.pdf",
+    "sha256": "a50ea19a114f42c960c69dba8bec628c8786d01eae41443e72a46e051f509d9a",
+    "bytes": 855746,
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
     "id": "P30-privacy-evil",
     "title": "“So-called privacy breeds evil”: Narrative Justifications for Intimate Partner Surveillance in Online Forums",
     "authors": [

@@ -108,3 +108,13 @@ explicitly excluded from long-paper allocation models. Historical statistical
 practices are not current recommendations. Crossref title search returned an
 unrelated Beam Cursor record; rejected it and used an institutional bibliography
 for Bubble Cursor identity instead. Integrated total 39.
+
+## Expansion gate F — intelligent interfaces and reusable resources
+Parent reviewed P24–29, hashes/paths/unique identity checked; 45 integrated. SUPPLE's
+optimality is relative to its model; UI X-Ray detection and historical effort are
+not randomized productivity estimates; BINGO retains the unsupported exploration
+hypothesis. Webzeitgeist scale is not representativeness; WebUI attributes gains
+separately to architecture and pretraining; Prefab application demonstrations do
+not inherit user benefits from earlier technique studies. Retained the late and
+distributed related-work alternatives and P25's promotional language as a negative
+example rather than imitating every feature of an award paper.

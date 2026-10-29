@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-39 full papers integrated across five venues. Metadata, analyzed versions,
+45 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -31,6 +31,12 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P21](analyses/P21-lightspace.md) | UIST 2010 | Combining Multiple Depth Cameras and Projectors for Interactions On, Above, and Between Surfaces — interactive-space system and techniques | unverified |
 | [P22](analyses/P22-wireprint.md) | UIST 2014 | WirePrint — fabrication technique | unverified |
 | [P23](analyses/P23-sauron.md) | UIST 2013 | Sauron — design tool and sensing technique | unverified |
+| [P24](analyses/P24-supple.md) | IUI 2004 | SUPPLE — optimization formulation and interface-generation algorithm | unverified |
+| [P25](analyses/P25-ui-xray.md) | IUI 2017 | UI X-Ray — visual interface testing system | Best Paper |
+| [P26](analyses/P26-bingo.md) | IUI 2017 | Don’t Just Swipe Left, Tell Me Why — gestural query-refinement technique | Best Paper Honourable Mention |
+| [P27](analyses/P27-webzeitgeist.md) | CHI 2013 | Webzeitgeist — web-design mining platform and repository | Best Paper |
+| [P28](analyses/P28-webui.md) | CHI 2023 | WebUI — dataset and cross-domain transfer resource | unverified |
+| [P29](analyses/P29-prefab.md) | CHI 2010 | Prefab — interface reverse-engineering toolkit architecture | unverified |
 | [P30](analyses/P30-privacy-evil.md) | CSCW 2020 | “So-called privacy breeds evil” — empirical finding; conceptual framework | Best Paper |
 | [P31](analyses/P31-impaired-cyborg.md) | CSCW 2020 | Piracy and the Impaired Cyborg — empirical finding / interpretive critique | Best Paper |
 | [P32](analyses/P32-tracking-care.md) | CSCW 2020 | Sociocultural Dimensions of Tracking Health and Taking Care — empirical finding | Best Paper |
@@ -50,7 +56,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P58](analyses/P58-art.md) | CHI 2011 | The Aligned Rank Transform for Nonparametric Factorial Analyses Using Only ANOVA Procedures — method generalization and implementation | unverified |
 
 ## Coverage and exclusions
-CHI 11, CSCW 10, DIS 7, IUI 2, UIST 9.
+CHI 14, CSCW 10, DIS 7, IUI 5, UIST 9.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
