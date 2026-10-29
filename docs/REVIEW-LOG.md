@@ -208,3 +208,12 @@ partial experiential simulation vs becoming another person, and research agenda 
 validated intervention. P71 nomination remains distinct from an award. P74 repeated
 local research-focus structures are followed by integration, a useful alternative
 to disconnected literature catalogs. Four DIS papers broaden method/design coverage.
+
+## Expansion gate N — five IUI contribution contrasts
+Parent reviewed P84–88; source hashes, paths and unique identities checked. Total 87.
+Retained terminology-based synthesis vs community-belief inference, feature-feedback
+efficiency vs terminal accuracy, task-definition-specific screen metrics, authoring
+examples vs comparative productivity, and processing-speed vs end-to-end latency.
+P84/P86 version inconsistencies remain visible. P88's one-user benchmark is not
+its earlier elicitation sample. Award evidence is independently recorded for
+FrameKit and radar; neither award licenses copying overbroad result summaries.

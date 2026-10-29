@@ -2523,6 +2523,163 @@
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
   {
+    "id": "P84-intelligent-iui",
+    "title": "What is “Intelligent” in Intelligent User Interfaces? A Meta-Analysis of 25 Years of IUI",
+    "authors": [
+      "Völkel",
+      "Schneegass",
+      "Eiband",
+      "Buschek"
+    ],
+    "venue": "IUI",
+    "publication_year": 2020,
+    "presentation_year": 2020,
+    "doi": "10.1145/3377325.3377500",
+    "primary_knowledge_object": "corpus-grounded conceptual reflection",
+    "domain": "disciplinary terminology; intelligent interfaces",
+    "method": "automated sentence extraction and manual content analysis",
+    "affiliations_as_stated": "LMU Munich; University of Bayreuth",
+    "analyzed_version": "arXiv v1, 6 March 2020; 20-page single-column author preprint",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P84-intelligent-iui.md",
+    "selection_reason": "Objection-answer introduction and explicit evidence boundaries for inferring concepts from published vocabulary.",
+    "url": "https://arxiv.org/pdf/2003.03158v1",
+    "sha256": "ad58b51dc47eff24da7ef6c2d6e30e5d531832a7cb26eeba460e30a637d6fd4b",
+    "bytes": 445951,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P85-explanatory-debugging",
+    "title": "Principles of Explanatory Debugging to Personalize Interactive Machine Learning",
+    "authors": [
+      "Kulesza",
+      "Burnett",
+      "Wong",
+      "Stumpf"
+    ],
+    "venue": "IUI",
+    "publication_year": 2015,
+    "presentation_year": 2015,
+    "doi": "10.1145/2678025.2701399",
+    "primary_knowledge_object": "design principles and interactive personalization technique",
+    "domain": "end-user machine learning; explanation",
+    "method": "principle synthesis, prototype, comparative participant study",
+    "affiliations_as_stated": "Oregon State University; City University London",
+    "analyzed_version": "author-hosted proceedings PDF, pp. 126–137",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P85-explanatory-debugging.md",
+    "selection_reason": "Principles-to-implementation chain and careful separation of per-action efficiency from final accuracy.",
+    "url": "https://dropline.net/wp-content/uploads/2012/02/iui-2015.pdf",
+    "sha256": "cab964af59759dc138ad880929049153708e90d92e9beed10f14dea4456a3d5a",
+    "bytes": 2072626,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P86-screen-relationships",
+    "title": "Understanding Screen Relationships from Screenshots of Smartphone Applications",
+    "authors": [
+      "Feiz",
+      "Wu",
+      "Zhang",
+      "Swearngin",
+      "Barik",
+      "Nichols"
+    ],
+    "venue": "IUI",
+    "publication_year": 2022,
+    "presentation_year": 2022,
+    "doi": "10.1145/3490099.3511109",
+    "primary_knowledge_object": "task formulations and screen-relationship models",
+    "domain": "UI understanding; mobile app automation",
+    "method": "crowd annotation, neural modeling, app-disjoint benchmark comparison",
+    "affiliations_as_stated": "Stony Brook University; Carnegie Mellon University; Apple",
+    "analyzed_version": "author-hosted proceedings PDF, pp. 447–458",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P86-screen-relationships.md",
+    "selection_reason": "Two local annotation-model-evaluation arcs; task definitions delimit which similarity baselines are relevant.",
+    "url": "https://jasonwunix.com/assets/pdf/feiz2022understanding.pdf",
+    "sha256": "f4c0f8cfad11aeece4d93c6aa0dc53e20988edd561a3bb747c2b046de0691c32",
+    "bytes": 3300008,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P87-framekit",
+    "title": "FrameKit: A Tool for Authoring Adaptive User Interfaces Using Keyframes",
+    "authors": [
+      "Wu",
+      "Todi",
+      "Chan",
+      "Myers",
+      "Lafreniere"
+    ],
+    "venue": "IUI",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3640543.3645176",
+    "primary_knowledge_object": "authoring workflow and UI interpolation technique",
+    "domain": "adaptive interface authoring; programming by example",
+    "method": "tool implementation, example applications, developer study",
+    "affiliations_as_stated": "Meta Reality Labs Research; Carnegie Mellon University",
+    "analyzed_version": "author-hosted 15-page proceedings PDF including appendices",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://sigai.acm.org/static/aimatters/10-3/AIMatters-10-3-02-Dennis.pdf",
+      "evidence": "ACM SIGAI conference report, AI Matters 10(3), p. 5, names FrameKit among two IUI 2024 Best Paper awards."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P87-framekit.md",
+    "selection_reason": "Demonstration/evaluation separation and nearby capability qualifications prevent visual reproductions from implying equivalent functionality.",
+    "url": "https://jasonwunix.com/assets/pdf/wu2024framekit.pdf",
+    "sha256": "b809edcb04fba4bd58bd9dc8a53c387076d322951890e62b72a3ae0cb83f5038",
+    "bytes": 11710665,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
+    "id": "P88-radar-gestures",
+    "title": "Hand Gesture Recognition for an Off-the-Shelf Radar by Electromagnetic Modeling and Inversion",
+    "authors": [
+      "Sluÿters",
+      "Lambot",
+      "Vanderdonckt"
+    ],
+    "venue": "IUI",
+    "publication_year": 2022,
+    "presentation_year": 2022,
+    "doi": "10.1145/3490099.3511107",
+    "primary_knowledge_object": "physical signal-processing technique and gesture datasets",
+    "domain": "radar sensing; mid-air gesture interaction",
+    "method": "electromagnetic modeling, single-user gesture collection, stage-level benchmark",
+    "affiliations_as_stated": "Université catholique de Louvain, LouRIM; Earth and Life Institute",
+    "analyzed_version": "23-page single-column author manuscript with IUI metadata and manuscript-submission footer",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://iui.acm.org/2022/paperList.html",
+      "evidence": "Official IUI 2022 accepted-paper list marks this exact title Best paper."
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P88-radar-gestures.md",
+    "selection_reason": "Stage-wise accuracy-memory-time tradeoffs and explicit separation of recognition timing from end-to-end latency.",
+    "url": "https://mintviz.usv.ro/projects/RadarSense/data/IUI2022.pdf",
+    "sha256": "306b68160e6d1970f266fd5bf3f6061d3da864755d9b7d0a74ae00c4e1a4ce66",
+    "bytes": 4395924,
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+  },
+  {
     "id": "P93-team-formation",
     "title": "You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Project-based Courses",
     "authors": [

@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-82 full papers integrated across five venues. Metadata, analyzed versions,
+87 full papers integrated across five venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -86,6 +86,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
 | [P82](analyses/P82-zooids.md) | UIST 2016 | Zooids — open swarm-interface platform and conceptual definition | unverified |
 | [P83](analyses/P83-erica.md) | UIST 2016 | ERICA — interaction-mining infrastructure and trace representation | unverified |
+| [P84](analyses/P84-intelligent-iui.md) | IUI 2020 | What is “Intelligent” in Intelligent User Interfaces? A Meta-Analysis of 25 Years of IUI — corpus-grounded conceptual reflection | unverified |
+| [P85](analyses/P85-explanatory-debugging.md) | IUI 2015 | Principles of Explanatory Debugging to Personalize Interactive Machine Learning — design principles and interactive personalization technique | unverified |
+| [P86](analyses/P86-screen-relationships.md) | IUI 2022 | Understanding Screen Relationships from Screenshots of Smartphone Applications — task formulations and screen-relationship models | unverified |
+| [P87](analyses/P87-framekit.md) | IUI 2024 | FrameKit — authoring workflow and UI interpolation technique | Best Paper |
+| [P88](analyses/P88-radar-gestures.md) | IUI 2022 | Hand Gesture Recognition for an Off-the-Shelf Radar by Electromagnetic Modeling and Inversion — physical signal-processing technique and gesture datasets | Best Paper |
 | [P93](analyses/P93-team-formation.md) | CHI 2017 | You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Project-based Courses — empirical understanding of stakeholder perceptions | unverified |
 | [P94](analyses/P94-long-passwords.md) | CHI 2014 | Can Long Passwords Be Secure and Usable? — comparative empirical security and usability knowledge | unverified |
 | [P95](analyses/P95-mobile-needs.md) | CHI 2008 | A Diary Study of Mobile Information Needs — empirical taxonomy and account of situated information needs | unverified |
@@ -93,7 +98,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P97](analyses/P97-health-sharing.md) | CSCW 2011 | It's not that I don't have problems, I'm just not putting them on Facebook — interpretive empirical account of health sharing and network work | unverified |
 
 ## Coverage and exclusions
-CHI 33, CSCW 16, DIS 13, IUI 6, UIST 14.
+CHI 33, CSCW 16, DIS 13, IUI 11, UIST 14.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

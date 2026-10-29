@@ -1,0 +1,27 @@
+# P85 — Principles of Explanatory Debugging to Personalize Interactive Machine Learning
+
+Single-analyst coding of the author-hosted IUI 2015 proceedings PDF, printed pp. 126–137. All substantive sections were read; both selected complete paragraphs were visually checked on rendered PDF pages. Locators refer to this version. The principal knowledge object combines design principles with their interactive realization and comparative evaluation; the experiment is a means of examining that contribution, not its entire identity.
+
+## Architecture and rhetorical movement
+
+The sequence is Abstract → Introduction → Related Work → Explanatory Debugging → EluciDebug: Explanatory Debugging in Action → Evaluation → Results → Discussion → Conclusion → Acknowledgments → References. The principle section divides explainability and correctability; implementation explains a multinomial Naive Bayes classifier and maps its interface to the principles. Evaluation introduces three research questions about efficiency, accuracy, and mental models. Discussion returns explicitly to those questions.
+
+The abstract (p. 126) opens with the personalization problem, proposes reciprocal explanations, then announces principles, a prototype, and quantitative findings. Introduction turns this general problem into Alice’s concrete classification difficulty: labels alone cannot express the desired fine-grained correction and sufficient training examples may be unavailable. Debugging provides a conceptual framing; explanations are hypothesized to help build useful mental models. Returning to Alice makes the proposed mechanism intelligible before the evaluation summary. RQs therefore need not appear as an introductory checklist: here they become precise after the contribution and implementation have been developed.
+
+Related work (pp. 127–128) organizes around black-box interactive learning, explanatory transparency, mental models, and kinds of corrective feedback. The contrast is not simply that earlier systems lack explanations. The distinctive conjunction is automatically produced explanations, user understanding, and direct personalization, compared with approaches relying on external instruction or less inspectable feedback. Prior literature also continues inside the principle section, where it supplies warrants for individual recommendations.
+
+## Claims, supporting evidence, and boundaries
+
+The study compares 77 participants: 40 receive explanations and feature feedback, while 37 controls lack both. The package comparison supports claims about this implementation under the task conditions; it does not isolate every principle or distinguish explanation effects from feedback affordances. A 30-minute binary text classification task and a 24-point mental-model assessment provide different evidence for performance and understanding.
+
+The reported efficiency advantage is improvement per feedback action, not demonstrated superiority per minute in all tasks. A later offline analysis using a more comprehensive feature set yields higher terminal accuracy from control participants’ many instance labels. Discussion appropriately distinguishes this result from the efficiency of feature feedback. A correlation between mental-model scores and classifier quality does not establish mediation. Nonsignificant workload differences do not establish equivalent workload. The paper itself leaves multiclass tasks, deep learning, and longer use open. Thus, its headline improvements should remain attached to the tested model, task, available features, and comparison condition.
+
+## Two complete paragraph micro-analyses
+
+**Explanatory Debugging, Principle 1.4, PDF p. 3 / printed p. 128, opening “Balanced against the soundness”.** S1 introduces comprehensibility and attention as constraints on fidelity. S2 supplies prior evidence for concrete explanations. S3 suggests choosing a comprehensible model. S4 shows how substituting a decision-tree account for a neural network breaks soundness. S5 gives a parallel feature-omission example that breaks completeness. S6 proposes alternatives that change the model or selected features instead of misdescribing it. Relation: tension → evidence → option → counterexample → parallel counterexample → defensible resolution. It follows completeness and exits into correctability. The paragraph develops a tradeoff rather than merely decorating a topic sentence with citations.
+
+**Discussion, RQ1 and RQ2, PDF p. 10 / printed p. 135, opening “Our results suggest that”.** S1 separates efficient personalization from maximal accuracy. S2 supplies the comparative result and its dependence on enough labels and features. S3 turns the qualification into a conditional recommendation when labeling is easier. Relation: bounded claim → counterbalancing evidence → context-dependent advice. The preceding results connect understanding and model quality; the next paragraph explains additional advantages when fine-grained control is necessary. The transition preserves a mixed result instead of forcing all evidence into one positive verdict.
+
+## Transferable moves
+
+Connect each principle to prior evidence, its implementation, and the relevant outcome. Use an example twice: first to expose a feedback limitation, then to make the proposed interaction concrete. Separate efficiency, accuracy, understanding, and satisfaction in claims. A contribution can lead with principles and artifact explanation before empirical questions; rigid IMRaD would obscure the mechanism the experiment is supposed to test.
