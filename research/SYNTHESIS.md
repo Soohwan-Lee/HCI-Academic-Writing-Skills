@@ -141,3 +141,16 @@ bias. P119 shows an inheritance–difference–transfer argument for extending a
 concept. Scenario evidence bounds effects claims without making conceptual value
 conditional on a deployment. These five papers supplied ten selected paragraph
 analyses, not new paragraph-length distributions.
+
+## E03 — review forms and evidence levels
+P121 separates reusable reporting criteria, a manual metaresearch audit and an
+assisting tool. P122 combines involvement mapping with a politically situated
+reading of scholarly genres. P123 moves from themes to lifecycle relationships.
+P126 separates experiences from scholarly perspectives before arguing for a
+stakeholder agenda. These are different contributions within literature-based
+research; selection procedures alone do not prescribe their section or paragraph
+sequence. Interpretive models retain value without being recast as causal tests.
+P125 adds an artifact contrast: comparative tasks, repeated sessions and an author
+diary support different capabilities and interpretations. None is a universal
+validation template. Selected paragraph-role sequences are qualitative examples;
+no new length distribution or 8,000-word allocation was estimated in this batch.

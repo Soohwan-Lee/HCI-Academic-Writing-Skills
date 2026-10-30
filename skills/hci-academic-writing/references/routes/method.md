@@ -89,7 +89,7 @@ illustrate reasoning, not a universal requirement to use their procedures.
 
 **Hypothetical revision:** “Our coding framework ensures reliable assessment of
 collaboration” becomes “The framework distinguishes turn-taking, uptake and
-resolution in the supplied transcripts. The worked examples show how the categories
+resolution in the analyzed transcripts. The worked examples show how the categories
 can be applied; they do not establish independent coding consistency or predict
 collaboration quality.” Replace the illustrative categories and evidence with the
 actual manuscript's material.
@@ -106,3 +106,24 @@ Check that using the proposed method is possible from the description; that the
 validation matches the promise; that inherited ideas are credited; and that
 limitations help readers decide when not to apply it. Do not convert a corpus's
 most common method into the recommended method merely because it is common.
+
+## Reporting audits and metaresearch hybrids
+
+When publications serve as data, separate the reusable assessment criteria from
+findings about a sampled research community. [P121, Research Ethics, Openness and
+Transparency](https://doi.org/10.1145/3544548.3580848) specifies criteria, applies a
+manual audit and then examines a screening prototype. Keep these claims
+separate: a screening tool evaluated against manual labels inherits their limits.
+Its performance does not validate the manual audit, and manual
+coding does not establish the tool's usefulness in researchers' actual workflows.
+
+State whether a criterion concerns disclosure, availability, conduct or correctness.
+If any study meeting a criterion makes its paper count as meeting it, explain that
+aggregation before comparing percentages. Retain applicability denominators and
+unassessable or noncomparable items. Changes across publication years may reflect reporting space,
+access time, methodological composition and sampling as well as practice. A confidence interval crossing zero
+is not proof of negligible change. Do not treat transparent qualitative inquiry as
+requiring an invisible researcher; interview-focused criteria may also miss other
+interpretive analysis materials. Report n/N_applicable and the aggregation unit
+where applicability differs. Pair this with the [review route](review.md) when
+the contribution includes a synthesis of publication practices.

@@ -431,3 +431,19 @@ as flawless templates. No private PDFs, library items or Claude transcripts adde
 
 Next gate: review-route synthesis and bounded behavior checks. Additional corpus
 acquisition continues after that gate; the 100-paper expansion is not complete.
+
+## E03b — review writing integration
+Expanded review guidance for publication reporting, primary-study findings,
+scholarly framing and reviewer interpretation; added metaresearch audit guidance.
+Claude Opus 5.5 medium critiqued the concrete modules against supplied source notes.
+Root accepted: preserve strategic-grouping concessions; distinguish dependent
+manual/tool evidence; use actual selection order; add interpretive synthesis;
+attribute primary interpretations; permit consequential update reviews. Root did
+not adopt unverified statistical reanalysis or require meta-ethnographic vocabulary.
+PDF-page locators refer to the versions in corpus metadata, not assumed DOI copies.
+
+Four prose probes preserved key distinctions but exposed defensive, overloaded
+writing and an overly simple longitudinal-data disclaimer. Root refined instructions;
+no post-refinement rerun claimed. The first generic unittest discovery found zero
+tests; explicit installer and LaTeX-audit discovery then passed all 18 tests. Index
+and diff checks are required before commit. No live discovery or compilation retest.

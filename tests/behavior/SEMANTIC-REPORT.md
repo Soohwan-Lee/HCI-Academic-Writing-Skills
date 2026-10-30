@@ -73,3 +73,24 @@ bias-removal language, misplaced headings, missing locators and overly rigid cla
 compression. Root accepted these concerns, checked source sections and revised the
 modules. Qualitative interpretation is assessed within its analytical tradition;
 research relationships can constitute the material rather than merely contaminate it.
+
+## E03 — review and metaresearch probes, 2026-10-30
+Four supplied-context prose cases in `e03-cases.json`, one Claude subscription
+request, runtime `claude-opus-5-5`, medium effort. No tools, installation discovery,
+LaTeX mutation or compilation exercised. Root reviewed the actual responses.
+
+- R1 preserved 1,000 records versus 40 papers, category overlap and conceptual
+  value. Its causal disclaimer tied the limitation too directly to absence of
+  longitudinal data; the actual inferential design matters. Root added that rule.
+- R2 distinguished the nearby review's analytical object and avoided an absence
+  claim. It unnecessarily recited rejected alternatives and slightly exceeded the
+  90-word request (about 91 whitespace-separated words). Not an unqualified pass.
+- M preserved reporting/conduct, aggregation, uncertainty and separate tool claims,
+  but packed them into two unwieldy sentences. Root added instructions to prioritize
+  central prose and flag incompatible constraints rather than produce a checklist.
+- C retained political commitments and avoided demanding an intervention study.
+  It also used unnecessary defensive contrasts. The prose-quality correction applies.
+
+The final instruction refinements were root-reviewed, not rerun through these
+cases. Four responses are not a reliability estimate. Both actual wins and remaining
+style failures are retained; no new host compatibility claim follows.

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "E03-R1",
+    "input": "Revise this contribution in two sentences. We retrieved 1,000 records and retained 40 papers. Six papers concern community care and eight concern family care, with three papers in both. Our interpretive comparison identifies access and ownership relationships, informed by prior lifecycle theory. There is no longitudinal dataset. Draft: Our exhaustive meta-analysis of 1,000 studies proves that every family follows our new three-stage causal theory. Do not discard the conceptual contribution."
+  },
+  {
+    "id": "E03-R2",
+    "input": "Write a 90-word related-work positioning paragraph. A prior review organizes operational tensions in platform moderation. Our review examines moderated users\u2019 experiences and how scholars frame them. Existing studies include both trace measures and first-person accounts. We have not shown that prior researchers ignored users, nor that mixed methods are always better. Explain why this review adds knowledge without asserting absence."
+  },
+  {
+    "id": "E03-M",
+    "input": "Repair this two-sentence results claim. We manually coded reporting criteria in 118 and 127 papers from two years. For one criterion, any qualifying study makes the whole paper count positive. The interval for change includes zero. A separate classifier was assessed offline on eight criteria; no researcher workflow evaluation. Draft: Researchers did not perform informed consent whenever they failed our criterion, and ethics did not change over time. Our validated assistant improves researchers\u2019 ethics."
+  },
+  {
+    "id": "E03-C",
+    "input": "Help write two sentences preserving a critical review contribution: The authors deliberately foreground queer political commitments. They interpret genres of scholarship and argue that broad community labels can conceal differences. Agreement was calculated for an involvement code, not interpretive genres. The review does not evaluate a design intervention. Do not reduce its contribution to a future evaluation task or erase its political commitments."
+  }
+]
