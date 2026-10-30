@@ -71,13 +71,13 @@ participatory decisions or explicit design commitments. Report their actual orig
 - [x] Audit the current guides: common section and paragraph principles exist;
   evidence calibration is stronger than reusable subsection/paragraph architectures.
 - [x] Record the expanded structural scope and distinguish maps from paper counts.
-- [ ] Re-map source-backed contrasts already read, beginning with multiple system
+- [x] Re-map the initial source-backed contrasts (S01–S12), beginning with multiple system
   architectures, reflective/visual inquiry, sociotechnical interpretation and group
   experiments. These are a starting sample, not privileged final categories.
 - [ ] Continue across every family above; recover actual headings from full text
   and inspect relevant page layouts. Add a coverage table of completed maps.
-- [ ] Synthesize conditional architectures and connect them to the skill's router.
-  Provide complete section/subsection/paragraph plans, not heading-only templates.
+- [x] Connect the initial twelve conditional architectures to the skill's router,
+  including subsection/paragraph guidance. Further within-family synthesis remains open.
 - [ ] Expand numeric section/paragraph measurements with consistent conventions.
 - [ ] Test outline selection, section drafting, paragraph reordering and compression
   on supplied-evidence multi-file ACM fixtures. Review argument quality as well as
@@ -115,3 +115,23 @@ adding another familiar formative-system example. After each small batch, ask:
 Stop expanding a well-covered branch when another paper adds no actionable distinction;
 reopen it if a drafting probe exposes an unsupported choice. No fixed total is a
 completion criterion. Numeric measurement and writing probes remain separate gates.
+
+## Public documentation refresh — 2026-10-31
+
+Both READMEs now explain the product, four planning levels, contribution-dependent
+structures, installation in a manuscript project, task prompts, evidence levels and
+remaining work. Existing cover/logo and provenance are retained. Root checked local
+links, English/Korean factual parity, installation commands against the installer
+and compatibility guide, and current validation claims. The requested Claude critique
+was attempted through the Pro subscription but returned its five-hour limit; no
+Claude review of this revision is claimed.
+
+| Remaining priority | Completion evidence needed |
+|---|---|
+| Within-family structural alternatives | Source-located contrasts that change outline or paragraph decisions, prioritizing RtD, empirical and review forms |
+| Architectural writing behavior | Actual multi-file ACM outline, section-drafting and paragraph-restructuring tasks, with semantic review and recorded repairs |
+| Quantitative guidance | Reproducible additional section/paragraph measurements with comparable denominators and qualified interpretation |
+| Host behavior | Ordinary-session discovery and scoped editing evidence for each supported host; installation tests alone are insufficient |
+
+README rewriting is complete for the current state; keep its evidence table synchronized
+as these gates advance. Paper acquisition is conditional on those gaps, not a quota.

@@ -557,3 +557,19 @@ with twelve deeper selected-passage maps. The user explicitly delegated sample-s
 judgment: further acquisition is driven by unresolved structural decisions, not 200
 or a replacement quota of 130. Claude review is not claimed for these additions;
 the subscription limit previously prevented a new review. Root review continues.
+
+## Bilingual README redesign — 2026-10-31
+
+Rewrote README.md and README.ko.md around newcomer questions: purpose, concrete
+writing outputs, contribution-dependent architecture, project-folder installation,
+and actionable prompts. Added a four-level planning explanation and distinguished
+128 full-text notes from twelve selected-passage structure maps. Preserved the
+cover/logo, source-rights notice and visual provenance. Both languages expose the
+same four remaining priorities and measured host/behavior limitations.
+
+Root verified local file links (20 per language), matching corpus totals, installation
+commands against implementation documentation, and language parity. All 18 automated
+installer/auditor tests and corpus-index verification passed. Fixed Markdown hard-break
+whitespace flagged by diff checking. Claude Opus 5.5 medium critique was requested
+with verified claude.ai/Pro authentication, but the subscription five-hour limit
+prevented the review; no API fallback was used. Final review was performed by root.
