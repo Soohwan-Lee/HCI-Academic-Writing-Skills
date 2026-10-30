@@ -28,7 +28,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://arxiv.org/pdf/2304.03442",
     "sha256": "1b31e77fb24d25d7598f2c49e955d12a28b95a6dabad34acdac40f44bfb7a139",
-    "bytes": 11947867
+    "bytes": 11947867,
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P02-soylent",
@@ -61,7 +62,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf",
     "sha256": "75b7817c4cc4d922dd2a1113b19b03ffbf42dad52a29c2853158a47680f2f4a9",
-    "bytes": 2043787
+    "bytes": 2043787,
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P03-trust-think",
@@ -89,7 +91,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://www.eecs.harvard.edu/~kgajos/papers/2021/bucinca21trust.pdf",
     "sha256": "79024bae4bcacff95b361885cf6b00eab8443ed88e87dc72ed255240f1f97d16",
-    "bytes": 1809718
+    "bytes": 1809718,
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P04-proxy",
@@ -118,7 +121,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://kgajos.seas.harvard.edu/papers/bucinca20proxy.pdf",
     "sha256": "3ac33b0fff54812729dcb12dce68132a9ec6f4b50cca6ea8ddface765f065703",
-    "bytes": 6670406
+    "bytes": 6670406,
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P05-ryelands",
@@ -150,7 +154,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://arxiv.org/pdf/2405.04677",
     "sha256": "cc5b899747c2dcbd58fb5dc1d1ef12e5b485ac6597b66a17afd61dfb0249068c",
-    "bytes": 20415408
+    "bytes": 20415408,
+    "primary_writing_route": "design"
   },
   {
     "id": "P06-questioning",
@@ -178,7 +183,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://arxiv.org/pdf/2001.02478",
     "sha256": "6d308a1fef6c67685b3ecc971fda1fccb3e3d6ac75c7b171b5e345fb4d0291fa",
-    "bytes": 355085
+    "bytes": 355085,
+    "primary_writing_route": "qualitative"
   },
   {
     "id": "P07-reexamining",
@@ -207,7 +213,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://www.cs.nccu.edu.tw/~whliao/hci2024/HAIIchallenges.pdf",
     "sha256": "5b8d05acaf70cc6b561e2924eaf35cd28ef08f6119394807a19516c450eae821",
-    "bytes": 1450548
+    "bytes": 1450548,
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P08-guidelines",
@@ -245,7 +252,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf",
     "sha256": "82fff584c6b986f573608361478e93447538c6ce707e4b9b04d45d584272ea03",
-    "bytes": 1405242
+    "bytes": 1405242,
+    "primary_writing_route": "method"
   },
   {
     "id": "P09-historicism",
@@ -274,7 +282,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://robertsoden.io/files/historicsm-cscw.pdf",
     "sha256": "b189ce840aa46f75082d2f8ba82a2b39f84206864e83f6813996df1914f455ca",
-    "bytes": 423950
+    "bytes": 423950,
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P11-group-review",
@@ -303,7 +312,8 @@
     "selection_reason": "Purposive topic/contribution contrast; public full text available; award checked separately",
     "url": "https://yucheng.gold/file/cscw22.pdf",
     "sha256": "2216c066a2fee2014bf1a7270742cb3ce57fd4699b4593d6f2faec1f30ac674b",
-    "bytes": 6562778
+    "bytes": 6562778,
+    "primary_writing_route": "review"
   },
   {
     "id": "P12-toolkit-evaluation",
@@ -343,7 +353,8 @@
     "bytes": 1476839,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected"
+    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected",
+    "primary_writing_route": "method"
   },
   {
     "id": "P13-rtd-foundation",
@@ -381,7 +392,8 @@
     "bytes": 1110725,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected"
+    "measurement_exclusion_reason": "Calibration paper rather than a target empirical/artifact writing exemplar; no length metrics collected",
+    "primary_writing_route": "method"
   },
   {
     "id": "P14-rico",
@@ -415,7 +427,8 @@
     "url": "https://ranjithakumar.net/resources/rico.pdf",
     "sha256": "9f2705de383a6370d2815915c2370ea48823e1085b1d8d04a39a61f3a6422e33",
     "bytes": 19044725,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "resource"
   },
   {
     "id": "P15-crip-plants",
@@ -444,7 +457,8 @@
     "url": "https://nourahowell.com/static/pdf/2024_DIS_Crip_Reflections_on_Designing_with_Plants.pdf",
     "sha256": "35d38e63aa8d525888c6524c4f87d9efecde1d864d9e534746090fc37b3f01ba",
     "bytes": 4676138,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P16-dataset-politics",
@@ -473,7 +487,8 @@
     "analysis": "analyses/P16-dataset-politics.md",
     "sha256": "2ddc36bd72d19271dc2e52d7bb497e7243664933616850e393e6eb0895807200",
     "bytes": 700555,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "qualitative"
   },
   {
     "id": "P17-iui-contrast",
@@ -502,7 +517,8 @@
     "analysis": "analyses/P17-iui-contrast.md",
     "sha256": "c4e0daa7e7a2f6fbb145a43baf65c56158dfc3ca2292174ad9b3ef48274471eb",
     "bytes": 19293947,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P18-vizwiz",
@@ -540,7 +556,8 @@
     "url": "https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2010/vizwiz.pdf",
     "sha256": "4b33985abe85d7ffec92a7cd0e5e6235a01aaf5457567e925285a830ac50daea",
     "bytes": 19163736,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P19-printed-optics",
@@ -571,7 +588,8 @@
     "url": "https://la.disneyresearch.com/wp-content/uploads/printedoptics-paper.pdf",
     "sha256": "a237aa3d1f1c3ee552d8ab67334f3b860b8fd15db9ee0909de5c9ac67bff3d16",
     "bytes": 1539284,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P20-omnitouch",
@@ -601,7 +619,8 @@
     "url": "https://chrisharrison.net/projects/omnitouch/omnitouch.pdf",
     "sha256": "255c84c19ce0594846cc4b5028f6e65946ab5022a704ed85ac7a3e3bbb317466",
     "bytes": 16805619,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P21-lightspace",
@@ -630,7 +649,8 @@
     "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2010/10/Wilson-UIST-2010-LightSpace.pdf",
     "sha256": "ad6a016a2e69c008ad58f44f8750b7013172bba25a2cd5adf04f451b96dd812e",
     "bytes": 4533421,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P22-wireprint",
@@ -664,7 +684,8 @@
     "url": "https://groups.csail.mit.edu/hcie/files/research-projects/wireprint/2014-uist-wireprint-paper.pdf",
     "sha256": "9232c38c77da2531ddd652dbb5d6f1f28c50cac1358859cf12938522890b477a",
     "bytes": 6296228,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P23-sauron",
@@ -694,7 +715,8 @@
     "url": "https://valkyriesavage.com/papers/sauron.pdf",
     "sha256": "5542a5e300c83e4ff01d407caf23bbe84201098e8e5854c4b71b1b3a80cb7d10",
     "bytes": 10385539,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P24-supple",
@@ -723,7 +745,8 @@
     "url": "https://kgajos.seas.harvard.edu/papers/supple-iui04.pdf",
     "sha256": "b852aa295fd539335c07ad15ec6f1e361bb92dc9d2b847fba79490af14dd004f",
     "bytes": 696735,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P25-ui-xray",
@@ -756,7 +779,8 @@
     "url": "https://yong-wang.org/publication/ui-x-ray-IUI2017.pdf",
     "sha256": "c6fee0f620b4dac27288f1d024c8975e0ff7ec76c2c62f12a8b8fd569c9b9ae2",
     "bytes": 6037626,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P26-bingo",
@@ -787,7 +811,8 @@
     "url": "https://arnab.org/files/bingo_iui17.pdf",
     "sha256": "3cb289685b9468772d85ab2d2c19d3c4f6b7e8b09dfbdcfd86c22d4d2099d48d",
     "bytes": 1988582,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P27-webzeitgeist",
@@ -821,7 +846,8 @@
     "url": "https://ranjithakumar.net/resources/webzeitgeist.pdf",
     "sha256": "9ffea5ca9b2291bfc9fbb44151093b9837dd1d488e1bf3481ed8e4ea5941b712",
     "bytes": 31633010,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P28-webui",
@@ -854,7 +880,8 @@
     "url": "https://jasonwunix.com/assets/pdf/wu2023webui.pdf",
     "sha256": "4b07f3e1386f65b1ddbfe761a4f6d58ed0ffba27d626d44bdab5b5909e2e22ae",
     "bytes": 11815707,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "resource"
   },
   {
     "id": "P29-prefab",
@@ -883,7 +910,8 @@
     "url": "https://homes.cs.washington.edu/~jfogarty/publications/chi2010-prefab.pdf",
     "sha256": "a50ea19a114f42c960c69dba8bec628c8786d01eae41443e72a46e051f509d9a",
     "bytes": 855746,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P30-privacy-evil",
@@ -917,7 +945,7 @@
     "sha256": "068d94d867b98281d7f0eea1b2969a1a17341e89ca2078817a0b942b8e03fa0c",
     "bytes": 1177259,
     "domain": "privacy and intimate partner abuse",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -947,7 +975,7 @@
     "sha256": "627d9e193b6333cf75718cb26207ea2219ccd776af2f7a0cdf2b3357bded2fca",
     "bytes": 542401,
     "domain": "accessibility and informal technology economies",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -978,7 +1006,7 @@
     "sha256": "455bb237c0b530d811794231da8a2abd1fff438448ecfb53dfdf0e466693905e",
     "bytes": 529121,
     "domain": "health and care in India",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -1011,7 +1039,7 @@
     "sha256": "73fb0d12b67a25f4a9ebbd136ce4824ef7100994dca9d0af0b448b77042f460e",
     "bytes": 525286,
     "domain": "games and labor",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -1042,7 +1070,7 @@
     "sha256": "e218c8117f5ca3b5dbb7d3c12c4eb44e7d176347a25f4dff688581f7ff9aef82",
     "bytes": 772975,
     "domain": "online communities and moderation",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -1075,7 +1103,7 @@
     "sha256": "451f3ee488b73257972825c699b5e148407c1969cfafcc4e5e93084581d681a1",
     "bytes": 552567,
     "domain": "racial justice and social support",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Account of uncertainty, supporters and support-seeking; design implications",
     "support": "Participant narratives and grounded-theory interpretation",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1118,7 +1146,7 @@
     "sha256": "9b954f427f1fb1559750b5a69f9d580781d3a981c7730bd373203b37e1eac136",
     "bytes": 447023,
     "domain": "scientific collaboration and data work",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "coding_status": "Single analyst; full body read; micro-example PDF layout inspected; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
   },
@@ -1151,7 +1179,7 @@
     "sha256": "34b15b6053fa545205d47c635dbb4e19f13d51ac1bfcf71fa92a85c0694ffb52",
     "bytes": 439338,
     "domain": "ICTD and mobile entertainment in India",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Empirical account challenging obstacle-centered adoption explanations",
     "support": "Interviews, observations and concrete adaptations; motivation remains interpretive",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1185,7 +1213,7 @@
     "sha256": "40ba4a4d6247cab1c9e4b43a654d60f47bcc70c2c50d81d743fbdef594fe95b1",
     "bytes": 10497774,
     "domain": "accessibility, craft and labor",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Materiality, interdependence and labor valuation in accessible making",
     "support": "Situated observed practices, interviews and video",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1218,7 +1246,7 @@
     "sha256": "5385aec9a12a747154e971fdd170052a83684c55d20a1d7f25ae1b96cedd5de1",
     "bytes": 10999662,
     "domain": "sustainability and craft materials",
-    "primary_writing_route": "empirically grounded design knowledge",
+    "primary_writing_route": "design",
     "author_stated_contribution": "Five lessons and three methodological orientations for living materials",
     "support": "Ethnographic episodes, practitioner accounts, embodied learning and theoretical comparison",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1255,7 +1283,7 @@
     "sha256": "33de0022c11d612ea878497c8dab3e17a54101998227abd0c3676ffa13bc9808",
     "bytes": 2986846,
     "domain": "disability and novice making",
-    "primary_writing_route": "qualitative / interpretive empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Participant-centered forms of empowerment through making",
     "support": "Thematic analysis of workshop narratives and artifacts, contextualized by formative inquiry",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1300,7 +1328,7 @@
     "sha256": "1e9181c984ec7925f8cb3629320bde9f67c12cfcdef6c504645c33c25e7cf17b",
     "bytes": 613459,
     "domain": "HCI education and pedagogy",
-    "primary_writing_route": "mixed descriptive empirical / agenda synthesis",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Characterization of design teaching and pedagogical research agenda",
     "support": "Textbook analysis, descriptive survey findings and theoretical comparison",
     "coding_status": "Single analyst; full substantive text read; micro-example PDF layout inspected; not independent double coding",
@@ -1337,7 +1365,8 @@
     "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/photobox-DIS2012.pdf",
     "sha256": "81b8771bd785bf984fed3a902e378570d4fe757c546b7744ab4c6c5a8a046f89",
     "bytes": 659150,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P43-mechanical-sympathy",
@@ -1368,7 +1397,8 @@
     "url": "https://rachaelgarrett.com/wp-content/uploads/2025/02/mechsym-dis24.pdf",
     "sha256": "5c5f75d8f64c5140c5b3ac4adda9a067806598b323c46743951f8d41f91b0280",
     "bytes": 33791091,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P44-morse-things",
@@ -1402,7 +1432,8 @@
     "url": "https://static1.squarespace.com/static/5f1f0b887aca9156e62424cc/t/5f207588b817fc2d6f228636/1595962763324/2017_DIS-morse-things.pdf",
     "sha256": "542d6325e04ecc06a2c549cf9795e2b7c97029f891c448cc63534d3e0bc8e28e",
     "bytes": 466015,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P45-undertable",
@@ -1432,7 +1463,8 @@
     "url": "https://research.chalmers.se/publication/542333/file/542333_Fulltext.pdf",
     "sha256": "1e53f8044fa3599a5dce7d809da90c35f0c947e49110b42b92164b559cc11940",
     "bytes": 30432312,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P46-annotated-portfolio",
@@ -1463,7 +1495,8 @@
     "url": "https://static1.squarespace.com/static/5f1f0b887aca9156e62424cc/t/5f2074b2f7c6b801081f4480/1595962556940/2018_DIS_Annotated-Portfolio.pdf",
     "sha256": "8c785059375ff3782a09740c2f981476fb956223e69ac234cd57c21993f55844",
     "bytes": 4107828,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P47-core-memory",
@@ -1494,7 +1527,8 @@
     "url": "https://faculty.washington.edu/dkrosner/files/CHI-2018-Core-Memory.pdf",
     "sha256": "68384a4206fe109da1a05d6cf9f4fe31d329ff0c7ec73ff3b55972e05741c215",
     "bytes": 1319606,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "design"
   },
   {
     "id": "P48-implications",
@@ -1525,7 +1559,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P49-feminist-hci",
@@ -1556,7 +1591,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P50-rtd-expectations",
@@ -1587,7 +1623,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P51-futures-review",
@@ -1622,7 +1659,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "review"
   },
   {
     "id": "P52-democratic-review",
@@ -1653,7 +1691,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "review"
   },
   {
     "id": "P53-recollecting-craft",
@@ -1685,7 +1724,8 @@
     "selection_reason": "Contribution and domain contrast: established conceptual scholarship and explicit review architectures; no award inferred",
     "analysis_status": "full-text body read; selected complete paragraph visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred"
+    "measurement_exclusion_reason": "Length metrics not yet attached; no universal paragraph or section norms inferred",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P54-interruptions",
@@ -1719,7 +1759,8 @@
     "analysis_status": "full-text body read; two selected paragraphs visually checked",
     "measurement_eligible": false,
     "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
-    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model"
+    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P55-understanding-touch",
@@ -1751,7 +1792,8 @@
     "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
     "analysis_status": "full-text body read; two selected paragraphs visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P56-bubble-cursor",
@@ -1783,7 +1825,8 @@
     "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
     "analysis_status": "full-text body read; two selected paragraphs visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P57-gestures",
@@ -1816,7 +1859,8 @@
     "selection_reason": "Established HCI research groups; contrast in empirical, interaction and method argumentation; no award inferred",
     "analysis_status": "full-text body read; two selected paragraphs visually checked",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch"
+    "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P58-art",
@@ -1851,7 +1895,8 @@
     "analysis_status": "full-text body read; two selected paragraphs visually checked",
     "measurement_eligible": false,
     "measurement_exclusion_reason": "No section or paragraph-length metrics collected in this batch",
-    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model"
+    "format_note": "Four-page short-format exemplar; not an 8000-word allocation model",
+    "primary_writing_route": "method"
   },
   {
     "id": "P60-fairness-explanations",
@@ -1884,7 +1929,8 @@
     "accessed": "2026-10-30",
     "analysis": "analyses/P60-fairness-explanations.md",
     "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
-    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P61-accessibility-review",
@@ -1918,7 +1964,8 @@
     "accessed": "2026-10-30",
     "analysis": "analyses/P61-accessibility-review.md",
     "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
-    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
+    "primary_writing_route": "review"
   },
   {
     "id": "P62-fitts-review",
@@ -1950,7 +1997,8 @@
     "accessed": "2026-10-30",
     "analysis": "analyses/P62-fitts-review.md",
     "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
-    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
+    "primary_writing_route": "review"
   },
   {
     "id": "P63-phishing-warnings",
@@ -1981,7 +2029,8 @@
     "accessed": "2026-10-30",
     "analysis": "analyses/P63-phishing-warnings.md",
     "selection_reason": "Broaden empirical input/security and review practices; explicit inferential and paragraph contrasts",
-    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked"
+    "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P64-typing",
@@ -2016,7 +2065,8 @@
     "analysis_status": "full substantive text read; two complete paragraph micro analyses visually checked",
     "secondary_knowledge_objects": [
       "dataset/resource"
-    ]
+    ],
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P65-creativity-review",
@@ -2051,7 +2101,8 @@
     "selection_reason": "Review separates tool mapping, temporal development, and tentative definition; transparent influential-paper sampling limitations",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "review"
   },
   {
     "id": "P66-infrastructure-review",
@@ -2084,7 +2135,8 @@
     "selection_reason": "Critical synthesis of infrastructure purposes and power; version inconsistencies retained as cautionary evidence, not endorsed reporting practice",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "review"
   },
   {
     "id": "P67-community-review",
@@ -2121,7 +2173,8 @@
     "selection_reason": "Distinctive interpretive review separating reported practice from projects and screening agreement from reflexive analysis",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "review"
   },
   {
     "id": "P68-interaction",
@@ -2153,7 +2206,8 @@
     "selection_reason": "Argument develops definitions progressively and compares theoretical commitments; explicit selective coverage",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P69-problem-solving",
@@ -2185,7 +2239,8 @@
     "selection_reason": "Contribution taxonomy explicitly accommodates mixed problems and includes critique of its own framework",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P70-open-interpretation",
@@ -2218,7 +2273,8 @@
     "identity_verification": "DOI/title checked against Crossref metadata; authors and affiliation checked in full text",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P71-teaching-soma",
@@ -2256,7 +2312,8 @@
     "identity_verification": "DOI/title checked against Crossref metadata; authors and affiliation checked in full text",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "method"
   },
   {
     "id": "P72-annotation-strategies",
@@ -2290,7 +2347,8 @@
     "identity_verification": "DOI/title checked against Crossref metadata; authors and affiliation checked in full text",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "method"
   },
   {
     "id": "P73-experience-prototyping",
@@ -2323,7 +2381,8 @@
     "identity_verification": "DOI/title checked against Crossref metadata; authors and affiliation checked in full text",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "method"
   },
   {
     "id": "P74-future-crowd",
@@ -2362,7 +2421,8 @@
     "identity_verification": "DOI/title checked against Crossref metadata; authors and affiliation checked in full text",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P75-awareness",
@@ -2394,7 +2454,8 @@
     "selection_reason": "Hybrid conceptual/empirical argument distinguishes observed coordination from architectural extrapolation",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P76-reflective-informatics",
@@ -2425,7 +2486,8 @@
     "selection_reason": "Contrasts theoretical commitments, offers generative dimensions and reflexively critiques assumed value and evaluation",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P77-user-enactments",
@@ -2466,7 +2528,8 @@
     "selection_reason": "Explicit method evolution, failed cases and limits; separates insight-generating provocation from product recommendation",
     "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
     "measurement_eligible": false,
-    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis"
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "primary_writing_route": "method"
   },
   {
     "id": "P78-posthuman-vocabulary",
@@ -2500,7 +2563,8 @@
     "measurement_eligible": false,
     "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
     "supplementary_venue": true,
-    "target_venue_count_eligible": false
+    "target_venue_count_eligible": false,
+    "primary_writing_route": "review"
   },
   {
     "id": "P79-tapsense",
@@ -2530,7 +2594,8 @@
     "url": "https://chrisharrison.net/projects/tapsense/tapsense.pdf",
     "sha256": "dd8be622f65a516728190626460b4b080c48c03bff8575dc0ca863bbf91f7617",
     "bytes": 7191678,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P80-inform",
@@ -2562,7 +2627,8 @@
     "url": "https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF",
     "sha256": "1a9724f8b2932cbcffb5a33c98a1450c1eadcf3d23f6a86b34d3897d2f49c0bd",
     "bytes": 407759,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P81-pneui",
@@ -2595,7 +2661,8 @@
     "url": "https://www.cs.cmu.edu/afs/cs/user/liningy/www/papers/2013_uist_pneui.pdf",
     "sha256": "31a21522f2e330ecd0bee3228014698d039e18d90270aa055dbb9d21b52bb33f",
     "bytes": 1337403,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P82-zooids",
@@ -2628,7 +2695,8 @@
     "url": "https://shape.stanford.edu/research/swarm/SwarmUIs_no_copyright.pdf",
     "sha256": "186eec7b8b570bd9292ee7ace86cfe2ecc99bcf125eea7788f97260d0ef05d35",
     "bytes": 3958924,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P83-erica",
@@ -2658,7 +2726,8 @@
     "url": "https://ranjithakumar.net/resources/deka-uist2016-erica.pdf",
     "sha256": "54ce6fb68c0314ea5b31e5fbe7833023bb78d7e8da3bcc8baf700841583fab76",
     "bytes": 45199793,
-    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+    "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P84-intelligent-iui",
@@ -2689,7 +2758,8 @@
     "url": "https://arxiv.org/pdf/2003.03158v1",
     "sha256": "ad58b51dc47eff24da7ef6c2d6e30e5d531832a7cb26eeba460e30a637d6fd4b",
     "bytes": 445951,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "conceptual"
   },
   {
     "id": "P85-explanatory-debugging",
@@ -2720,7 +2790,8 @@
     "url": "https://dropline.net/wp-content/uploads/2012/02/iui-2015.pdf",
     "sha256": "cab964af59759dc138ad880929049153708e90d92e9beed10f14dea4456a3d5a",
     "bytes": 2072626,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P86-screen-relationships",
@@ -2753,7 +2824,8 @@
     "url": "https://jasonwunix.com/assets/pdf/feiz2022understanding.pdf",
     "sha256": "f4c0f8cfad11aeece4d93c6aa0dc53e20988edd561a3bb747c2b046de0691c32",
     "bytes": 3300008,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P87-framekit",
@@ -2785,7 +2857,8 @@
     "url": "https://jasonwunix.com/assets/pdf/wu2024framekit.pdf",
     "sha256": "b809edcb04fba4bd58bd9dc8a53c387076d322951890e62b72a3ae0cb83f5038",
     "bytes": 11710665,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P88-radar-gestures",
@@ -2815,7 +2888,8 @@
     "url": "https://mintviz.usv.ro/projects/RadarSense/data/IUI2022.pdf",
     "sha256": "306b68160e6d1970f266fd5bf3f6061d3da864755d9b7d0a74ae00c4e1a4ce66",
     "bytes": 4395924,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P89-vocabulary-images",
@@ -2854,7 +2928,8 @@
     "url": "https://arxiv.org/pdf/2501.17099v1",
     "sha256": "9558f9c077440dd3096ee940b615cb059608aabce5ff15bac18b45bee51c1c5d",
     "bytes": 45039456,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P90-teaching-uncertainty",
@@ -2885,7 +2960,8 @@
     "url": "https://baptistecaramiaux.com/assets/pdf/sanchez_deep_2022.pdf",
     "sha256": "eadb12f3d6a78d6d9c0f2800b0a64141bf86405fb1844c37815827a7f7f98844",
     "bytes": 14675946,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "quantitative"
   },
   {
     "id": "P91-iscore",
@@ -2918,7 +2994,8 @@
     "url": "https://arxiv.org/pdf/2403.04760",
     "sha256": "55062d021f1c541b2c4dafa60a869f8b3384f19c69f652b18a9ee5fde6371ba3",
     "bytes": 20846047,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P92-comics-captions",
@@ -2949,7 +3026,8 @@
     "url": "https://drive.google.com/uc?export=download&id=1BZ8rRulCKi1SOn8dysQN8Uk6bgI2ouHe",
     "sha256": "c35e8638c1aea37e391d758a89e1372700fb13e97ce6121260d781a8b6a4c14c",
     "bytes": 3895232,
-    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked"
+    "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
+    "primary_writing_route": "artifact"
   },
   {
     "id": "P93-team-formation",
@@ -2981,7 +3059,7 @@
     "sha256": "db4a632ab11ed9c3a84f3bfc5c6517eabea5bd409b8a4da953eb73fcdbc0c7f1",
     "bytes": 338121,
     "domain": "education, group formation and algorithmic governance",
-    "primary_writing_route": "mixed empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Stakeholder perceptions and recommendations for team formation tools",
     "support": "Ratings, respondent category counts, quotations, configurations and supplementary correlations",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3022,7 +3100,7 @@
     "sha256": "326e1e5203db61a51db2c2f778cc23b523a3f3d38527e2b036856bfcca1ba340",
     "bytes": 304964,
     "domain": "usable security and authentication",
-    "primary_writing_route": "empirical quantitative",
+    "primary_writing_route": "quantitative",
     "author_stated_contribution": "Comparison of long-password policies and conditional practical recommendations",
     "support": "Multiple behavioral/report measures and cracking under varying guess budgets",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3057,7 +3135,7 @@
     "sha256": "3963db946bd91cfa1f7256d0eddffff9a249d6a6aa19e2a5c9f9786510d7ed5c",
     "bytes": 1847910,
     "domain": "mobile information seeking and everyday coordination",
-    "primary_writing_route": "qualitative empirical with descriptive counts",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Characterization of mobile information needs, strategies and contextual design implications",
     "support": "Diary taxonomy, descriptive frequencies, episodes and interviews",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3100,7 +3178,7 @@
     "sha256": "90eca10966aa43c503794edb07d1fdb267b36a88350125f668cd36c69ef9d64e",
     "bytes": 1211226,
     "domain": "physical activity, personal informatics and sensing",
-    "primary_writing_route": "hybrid artifact and empirical field study",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "UbiFit Garden system and field-derived implications for perceived inference errors and user manipulation",
     "support": "Technical design, activity logs and interview contrasts; no sustained behavioral-effect test",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3136,7 +3214,7 @@
     "sha256": "684a55aa28ab3865597cf55866fd71de04278b6d603195b9fca80590a5805ff9",
     "bytes": 706086,
     "domain": "health, social support, privacy and online communities",
-    "primary_writing_route": "empirical qualitative",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Sharing considerations, two cross-cutting challenges and a design perspective",
     "support": "Interview accounts and shown examples across Facebook and health communities",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3170,7 +3248,7 @@
     "sha256": "4aec8c2680f5cc68414518cea977ebdf51a62bee441d35016ec1730c36ed034c",
     "bytes": 538008,
     "domain": "accessibility, collaborative writing, power and work",
-    "primary_writing_route": "empirical qualitative",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Accessible collaboration as interdependent work; theoretical elaboration and design implications",
     "support": "Participant accounts of learning, adaptation, advocacy, organizational constraints",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3208,7 +3286,7 @@
     "sha256": "2d86efa72b3e57d942089cdc3d3a7c982c7832dd42c472e256a46a64dcce30b8",
     "bytes": 477924,
     "domain": "religious minorities, Bangladesh, fear, public participation",
-    "primary_writing_route": "empirical qualitative",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Fear-centered account of participation and implications for restorative justice and interfaith coexistence",
     "support": "Situated interview accounts, theory-based interpretation and contextual scholarship",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3245,7 +3323,7 @@
     "sha256": "5eb568b1bd2a63607bcab1d70d69e5398cc46e9d25d8882cd822f9a818375082",
     "bytes": 1251544,
     "domain": "misinformation, journalism, labor, Bangladesh, infrastructure",
-    "primary_writing_route": "mixed empirical",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Responsibility gaps, verification strategies and situated policy/design recommendations",
     "support": "Stakeholder accounts and survey descriptions compared across roles",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3280,7 +3358,7 @@
     "sha256": "c16cc164275fe558b9257a1e7c19fcaa33654daa4f891f293b68c28e375be097",
     "bytes": 315889,
     "domain": "group collaboration, social visualization, dominance and nonverbal feedback",
-    "primary_writing_route": "hybrid artifact and empirical quantitative",
+    "primary_writing_route": "quantitative",
     "author_stated_contribution": "Portable sociometric feedback and behavioral evidence about group dynamics and dominance",
     "support": "Sensing, self-reports, task scores, conditional subgroup comparisons",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3316,7 +3394,7 @@
     "sha256": "bd91186034c933bf219a414ec5b1ad133d2b8367870cfeaa242099c3fa3eb99d",
     "bytes": 549527,
     "domain": "dance, embodiment, reflection, physicalisation and longitudinal learning",
-    "primary_writing_route": "research through design and autoethnography",
+    "primary_writing_route": "design",
     "author_stated_contribution": "Retrospective autoethnography through design, singular artefacts and reflective documentation",
     "support": "Journals, movement records, documented material iterations and research-team interpretation",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3351,7 +3429,7 @@
     "sha256": "31fe6892d43c5de71c4d7b68d72970deacf5d82b57beba2e00553cb010925483",
     "bytes": 2407363,
     "domain": "group decision making, dissent, social influence",
-    "primary_writing_route": "empirical quantitative with artifact",
+    "primary_writing_route": "quantitative",
     "author_stated_contribution": "LLM-powered advocates and evidence about group decisions and teamwork",
     "support": "Conditional accuracy, reliance, perception and coded chat evidence",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3388,7 +3466,7 @@
     "sha256": "ded62f08b9796e67944db8e0800dec8085d24b12adbedbf81d44768e47931dee",
     "bytes": 4578226,
     "domain": "reflection, wellbeing, smartphone habits",
-    "primary_writing_route": "mixed empirical and design",
+    "primary_writing_route": "quantitative",
     "author_stated_contribution": "MindPhone, deployment findings and conceptual reflection on mindful use",
     "support": "Usage measures and participant accounts showing differentiated effects and tradeoffs",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3423,7 +3501,7 @@
     "sha256": "8fc7ab1e4ab306fe8bd47aa294a12c541a1c136504aabcd7ceb3a464fcc45026",
     "bytes": 1917493,
     "domain": "uncertainty, explanations, financial decision task",
-    "primary_writing_route": "empirical quantitative",
+    "primary_writing_route": "quantitative",
     "author_stated_contribution": "Conditional effects of logic-style explanations on reliance and performance",
     "support": "Task judgments, agreement and reliance rankings analyzed by condition",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
@@ -3460,10 +3538,135 @@
     "sha256": "bd84edab39c45ab0af010e5d4448a8b9fa76643b0dc743b0acecad8875c77fc7",
     "bytes": 46299106,
     "domain": "adolescent wellbeing, embodiment, China, self-disclosure",
-    "primary_writing_route": "empirical qualitative and participatory design",
+    "primary_writing_route": "qualitative",
     "author_stated_contribution": "Embodied approach to stress disclosure and contextual design considerations",
     "support": "Workshop accounts, interviews, participant explanations and material artifacts",
     "coding_status": "Single analyst; complete substantive text read; two complete paragraph micro-examples visually verified; not independent double coding",
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered"
+  },
+  {
+    "id": "P107-screen2words",
+    "title": "Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning",
+    "authors": [
+      "Wang",
+      "Li",
+      "Zhou",
+      "Chen",
+      "Grossman",
+      "Li"
+    ],
+    "venue": "UIST",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3472749.3474765",
+    "url": "https://www.dgp.toronto.edu/~bryanw/pdf/screen2words.pdf",
+    "sha256": "2ec0a9b441dc763fc0827014a133e4e324763455a1b3a91657eaf25c749d9c4d",
+    "bytes": 15104143,
+    "pages": 13,
+    "primary_knowledge_object": "task, reusable dataset, and computational model (co-primary hybrid)",
+    "method": "professional annotation, corpus analysis, model benchmarking, independent human ratings",
+    "domain": "mobile UI summarization; language interaction; accessibility scenarios",
+    "affiliations_as_stated": [
+      "University of Toronto",
+      "Google Research"
+    ],
+    "analyzed_version": "author-hosted ACM proceedings PDF, pp. 498–510",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P107-screen2words.md",
+    "selection_reason": "Explicit three-part task/resource/model contract and disagreement between human and automatic evaluation.",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "supplementary_venue": false,
+    "target_venue_count_eligible": true,
+    "paper_form": "full research paper",
+    "primary_writing_route": "resource"
+  },
+  {
+    "id": "P108-hapticcap",
+    "title": "HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals",
+    "authors": [
+      "Hu",
+      "Hershcovich",
+      "Seifi"
+    ],
+    "venue": "Findings of EMNLP",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.18653/v1/2025.findings-emnlp.781",
+    "url": "https://aclanthology.org/2025.findings-emnlp.781.pdf",
+    "sha256": "6579f1926a788415765ca0e2e669b0c790d5b263a9f980d30569b42eac3aa0e4",
+    "bytes": 25254529,
+    "pages": 17,
+    "primary_knowledge_object": "reusable dataset and retrieval benchmark",
+    "method": "controlled haptic elicitation, signal generation, agreement filtering, contrastive retrieval benchmark",
+    "domain": "haptic experience; sensory, emotional, and associative language",
+    "affiliations_as_stated": [
+      "University of Copenhagen",
+      "Arizona State University"
+    ],
+    "analyzed_version": "official ACL Anthology proceedings PDF, pp. 14473–14489",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P108-hapticcap.md",
+    "selection_reason": "Resource-first claim explicitly separates established baseline method from novelty; supplementary cross-venue embodied-domain comparison.",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "supplementary_venue": true,
+    "target_venue_count_eligible": false,
+    "paper_form": "full research paper",
+    "primary_writing_route": "resource"
+  },
+  {
+    "id": "P109-multilifespan-cards",
+    "title": "Multi-lifespan Envisioning Cards: Journeying from Design Theory to Tools for Action",
+    "authors": [
+      "Yoo",
+      "Logler",
+      "Ballard",
+      "Friedman"
+    ],
+    "venue": "DIS",
+    "publication_year": 2022,
+    "presentation_year": 2022,
+    "doi": "10.1145/3532106.3533495",
+    "url": "https://pure.tue.nl/ws/portalfiles/portal/358323352/3532106.3533495.pdf",
+    "sha256": "7775e91f5c20ab06ee0f5c49ecbfc7c83025e11595411151e1b151a077570a29",
+    "bytes": 11741471,
+    "pages": 15,
+    "primary_knowledge_object": "reusable design resource and design-method knowledge (co-primary hybrid)",
+    "method": "reflective toolkit construction, research and classroom illustrative cases",
+    "domain": "multi-lifespan design; value sensitive design; long-term futures",
+    "affiliations_as_stated": [
+      "Eindhoven University of Technology",
+      "University of Washington"
+    ],
+    "analyzed_version": "institution-hosted version of record; 1 cover + 14 proceedings pages, pp. 557–570",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P109-multilifespan-cards.md",
+    "selection_reason": "Full pictorial connects reusable toolkit extension, conceptual revision, action prompts, and conditional heuristics; non-AI resource contrast.",
+    "analysis_status": "complete main-text reading with two rendered complete-paragraph analyses; single-analyst version-dependent coding",
+    "measurement_eligible": false,
+    "measurement_exclusion_reason": "No paragraph or section length measurements collected for this analysis",
+    "supplementary_venue": false,
+    "target_venue_count_eligible": true,
+    "paper_form": "pictorial",
+    "primary_writing_route": "resource",
+    "manuscript_form": "pictorial"
   }
 ]

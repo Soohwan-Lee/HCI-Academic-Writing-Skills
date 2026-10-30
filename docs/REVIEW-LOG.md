@@ -296,3 +296,12 @@ knowledge and its nonlinear pictorial argument. Neither supplementary venue is
 relabeled. Excluded Enrico is a four-page companion contribution, not silently
 counted as a target full paper. Primary route is navigational and does not erase
 hybrids; resource coverage remains smaller than artifact/empirical coverage.
+
+## Recovery gate — manifest reconciliation
+The interrupted resource batch had committed three analytical notes and the 107 count,
+but its fragment used short IDs while PDF filenames used descriptive IDs. The integration
+script stopped before updating the manifest; a following shell command nevertheless
+committed the notes. Recovery checked actual manifest length (104), normalized the three
+IDs, verified source hashes and integrated them (107). No source was counted twice.
+Future gated commands must stop on failure. Added explicit primary navigation routes,
+retaining original knowledge-object/method fields and hybrid interpretations.

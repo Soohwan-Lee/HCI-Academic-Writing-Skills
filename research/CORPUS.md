@@ -1,6 +1,6 @@
 # Exploratory corpus — expanding
 
-104 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+107 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -113,9 +113,12 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P104](analyses/P104-mindphone.md) | DIS 2022 | MindPhone — empirical and design understanding of mindful smartphone reflection | unverified |
 | [P105](analyses/P105-high-uncertainty.md) | IUI 2023 | Supporting High-Uncertainty Decisions through AI and Logic-Style Explanations — empirical understanding of explanations under uncertainty | unverified |
 | [P106](analyses/P106-embodied-probes.md) | DIS 2025 | Conversations With The Stressed Body — situated understanding of embodied stress disclosure and inquiry methods | unverified |
+| [P107](analyses/P107-screen2words.md) | UIST 2021 | Screen2Words — task, reusable dataset, and computational model (co-primary hybrid) | unverified |
+| [P108](analyses/P108-hapticcap.md) | Findings of EMNLP 2025 | HapticCap — reusable dataset and retrieval benchmark | unverified |
+| [P109](analyses/P109-multilifespan-cards.md) | DIS 2022 | Multi-lifespan Envisioning Cards — reusable design resource and design-method knowledge (co-primary hybrid) | unverified |
 
 ## Coverage and exclusions
-CHI 34, COMPASS 1, CSCW 21, DIS 17, IUI 17, UIST 14.
+CHI 34, COMPASS 1, CSCW 21, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.
 Many contribution routes remain incomplete during expansion. Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
