@@ -75,7 +75,7 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
 | Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
 | Candidate screening | In progress | 30 recent official-award candidates independently sourced and title-deduplicated; IUI and other strata pending |
-| New full-text batches | 14 / 100 accepted | E01 four + E02 five + E03 five; 122 total; 86 additions remain |
+| New full-text batches | 19 / 100 accepted | E01 four + E02 five + E03 five + E04 five; 127 total; 81 additions remain |
 | Skill synthesis and tests | E02/E03 integrations reviewed | Four E03 behavior probes retained limitations; next cumulative review after 20 additions |
 | README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
@@ -144,3 +144,24 @@ or counted. Seek additional participatory/method/resource contrasts and then
 return to UIST, CSCW and IUI; a convenient award cohort must not become the whole
 expansion. Zotero collection inventory remains a sampling guide, not evidence of
 item-level coverage. Remote HEAD was confirmed after the E03 correction push.
+
+## E04 acceptance gate — 2026-10-30
+Accepted P128, P129 and P132–134 after complete main-text reading, selected
+render inspection and root adjudication of subscription Opus 5.5 medium critiques.
+The earlier acquisition status above is historical; P128/P129 are now accepted.
+UICrit appendices were read; SoundToons supplement/video were not inspected and
+are explicitly outside the evidence claim. Thirty-three rendered pages were
+inspected across the five papers, including the full pictorial main argument.
+Published-version and author-draft differences are recorded rather than hidden.
+
+Cumulative additions: CHI 6, CSCW 3, UIST 3, DIS 3, IUI 4; 19/100 complete.
+Recent 2018–2026: 16/19; 2022–2026: 13/19. UICrit adds a primarily AI resource
+case; SoundToons and Chart4Blind use learned components for creative/accessibility
+workflows. Track that distinction when auditing the AI-topic cap; do not exclude
+AI-enabled artifacts merely to improve a balance statistic. The next checkpoint
+will define and apply the same primary-topic criterion to all accepted additions.
+
+P127, P130 and P131 remain inaccessible candidates, not analyses. Other Zotero
+collections remain active selection priorities; no item-level coverage inferred.
+Next: integrate E04 lessons, acquire CSCW contrasts, and perform the 20-addition
+balance review before continuing the next large block.

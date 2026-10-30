@@ -6,7 +6,7 @@
 
 An agent skill for researchers writing HCI papers in an existing ACM LaTeX project. Give an AI coding agent a writing task and your evidence. The skill guides it to identify what the paper contributes, edit the relevant `.tex` files in place, and report what changed and what evidence is still missing.
 
-[한국어](README.ko.md) · [Install](docs/COMPATIBILITY.md) · [Skill](skills/hci-academic-writing/SKILL.md) · [122-paper corpus](research/CORPUS.md) · [Development record](docs/REVIEW-LOG.md)
+[한국어](README.ko.md) · [Install](docs/COMPATIBILITY.md) · [Skill](skills/hci-academic-writing/SKILL.md) · [127-paper corpus](research/CORPUS.md) · [Development record](docs/REVIEW-LOG.md)
 
 ![Editorial illustration of manuscript pages, human interaction and connected evidence](assets/editorial-cover.png)
 
@@ -133,11 +133,11 @@ The [contribution catalogue](skills/hci-academic-writing/references/contribution
 
 ## Evidence you can inspect
 
-**122 full-text analytical notes:** 120 papers from CHI (41), CSCW (24), UIST (17), DIS (19) and IUI (19), plus COMPASS and Findings of EMNLP supplements. The corpus includes decorated exemplars, established research lineages and methodological contrasts. Award evidence is checked separately; reputation is not a writing rule.
+**127 full-text analytical notes:** 125 papers from CHI (41), CSCW (24), UIST (18), DIS (21) and IUI (21), plus COMPASS and Findings of EMNLP supplements. The corpus includes decorated exemplars, established research lineages and methodological contrasts. Award evidence is checked separately; reputation is not a writing rule.
 
 The scope includes collaboration, human–AI interaction, dissent and reflection, alongside accessibility, privacy, care, education, craft, physical interaction and situated social research. This is a purposive teaching collection, not a representative sample. Artifact papers remain more numerous, and some routes need further expansion.
 
-**Planned, not completed:** [100 additional analyses](docs/EXPANSION-200.md) are planned, for a target of 208. Fourteen additions have passed source review (122 total); 86 remain. This README counts only completed analyses.
+**Planned, not completed:** [100 additional analyses](docs/EXPANSION-200.md) are planned, for a target of 208. Nineteen additions have passed source review (127 total); 81 remain. This README counts only completed analyses.
 
 - [Corpus and source provenance](research/CORPUS.md) · [coverage audit](research/COVERAGE-AUDIT.md)
 - [Cross-paper synthesis](research/SYNTHESIS.md) · [portable evidence index](skills/hci-academic-writing/references/corpus-index.md)

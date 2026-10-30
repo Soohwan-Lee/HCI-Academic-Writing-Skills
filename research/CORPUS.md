@@ -1,6 +1,6 @@
-# Exploratory corpus — 122 reviewed analyses
+# Exploratory corpus — 127 reviewed analyses
 
-122 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+127 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot was expanded to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -131,6 +131,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P123](analyses/P123-digital-legacy.md) | CSCW 2023 | Digital Legacy: A Systematic Literature Review — literature-grounded lifecycle and multi-user conceptual synthesis | unverified |
 | [P125](analyses/P125-wheeler.md) | UIST 2024 | Wheeler: A Three-Wheeled Input Device for Usable, Efficient, and Versatile Non-Visual Interaction — nonvisual input capability with hierarchical and spatial navigation modes | Honorable Mention |
 | [P126](analyses/P126-moderation-review.md) | CSCW 2023 | How Do Users Experience Moderation?: A Systematic Literature Review — moderation-experience synthesis and scholarly perspectives with stakeholder agenda | unverified |
+| [P128](analyses/P128-design-bookkeeping.md) | DIS 2024 | Design Bookkeeping: Making Practice Intelligible through a Managerial Lens — reflective design-practice knowledge through a bookkeeping lens | Best Pictorial |
+| [P129](analyses/P129-porous-design.md) | DIS 2024 | Porous by Design: How Childcare Platforms Impact Worker Personhood, Safety, and Connection — sociotechnical interpretation and conceptual extension of porous boundaries | Best Paper |
+| [P132](analyses/P132-uicrit.md) | UIST 2024 | UICrit: Enhancing Automated Design Evaluation with a UI Critique Dataset — spatial UI critique resource with descriptive analysis and prompting utility | unverified |
+| [P133](analyses/P133-soundtoons.md) | IUI 2023 | SoundToons: Exemplar-Based Authoring of Interactive Audio-Driven Animation Sprites — example-based audio-animation authoring capability and conditional design knowledge | unverified |
+| [P134](analyses/P134-chart4blind.md) | IUI 2024 | Chart4Blind: An Intelligent Interface for Chart Accessibility Conversion — human-in-the-loop chart conversion workflow for accessibility-oriented outputs | unverified |
 
 ## Coverage and exclusions
 CHI 38, COMPASS 1, CSCW 22, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.

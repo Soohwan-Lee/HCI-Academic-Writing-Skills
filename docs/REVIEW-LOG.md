@@ -447,3 +447,25 @@ writing and an overly simple longitudinal-data disclaimer. Root refined instruct
 no post-refinement rerun claimed. The first generic unittest discovery found zero
 tests; explicit installer and LaTeX-audit discovery then passed all 18 tests. Index
 and diff checks are required before commit. No live discovery or compilation retest.
+
+## E04 — source review and acceptance (2026-10-30)
+Accepted five additions, bringing the manifest to 127 and expansion to 19/100.
+Root reviewed all main texts, UICrit appendices and 33 rendered pages, including
+all 12 Design Bookkeeping argument pages. All five received subscription-only
+Opus 5.5 medium text critiques; root retained independent source responsibility.
+
+Accepted distinctions: reflective practice versus tested reproducibility; a theory
+lens versus a conceptual extension; worker accounts versus algorithm internals;
+resource provenance versus task utility; authoring versus performance outcomes;
+creator usability versus recipient access. Rejected blanket gap-before-solution
+rules, mandatory creativity scales, generic intercoder-reliability demands for
+reflexive interpretation, unverified statistical reanalysis and claims about unseen
+supplements. Source-version differences remain explicit. Two internal numerical
+discrepancies were visually checked and left unresolved rather than repaired.
+
+Counts and links were checked against the manifest; the queue count was corrected
+during review because these five were not drawn from the original award queue.
+English/Korean READMEs and the persistent plan now distinguish 19 accepted additions
+from 81 remaining. Paragraph-role analyses do not increase numeric length samples.
+Next: integrate writing instructions and run focused semantic probes before the
+next acquisition batch. No private PDFs or Claude transcripts are published.

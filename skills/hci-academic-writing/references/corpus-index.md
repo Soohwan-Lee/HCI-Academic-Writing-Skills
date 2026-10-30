@@ -1,6 +1,6 @@
 # Evidence lookup by contribution
 
-122 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
+127 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
 
 Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length subset: 32 paragraphs in 14 papers; no universal paragraph target follows. See the [measurement protocols](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md).
 
@@ -36,6 +36,8 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P92 — Utilizing a Dense Video Captioning Technique for Generating Image Descriptions of Comics for People with Visual Impairments](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P92-comics-captions.md) | IUI 2024 | caption-generation technique and accessibility design knowledge | [source](https://doi.org/10.1145/3640543.3645154) |
 | [P120 — EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P120-earhover.md) | UIST 2024 | acoustic sensing and mid-air input technique with prototype feasibility evidence | [source](https://doi.org/10.1145/3654777.3676367) |
 | [P125 — Wheeler: A Three-Wheeled Input Device for Usable, Efficient, and Versatile Non-Visual Interaction](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P125-wheeler.md) | UIST 2024 | nonvisual input capability with hierarchical and spatial navigation modes | [source](https://doi.org/10.1145/3654777.3676396) |
+| [P133 — SoundToons: Exemplar-Based Authoring of Interactive Audio-Driven Animation Sprites](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P133-soundtoons.md) | IUI 2023 | example-based audio-animation authoring capability and conditional design knowledge | [source](https://doi.org/10.1145/3581641.3584047) |
+| [P134 — Chart4Blind: An Intelligent Interface for Chart Accessibility Conversion](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P134-chart4blind.md) | IUI 2024 | human-in-the-loop chart conversion workflow for accessibility-oriented outputs | [source](https://doi.org/10.1145/3640543.3645175) |
 
 ## Conceptual
 
@@ -73,6 +75,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P47 — Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P47-core-memory.md) | CHI 2018 | design knowledge/RtD | [source](https://doi.org/10.1145/3173574.3174105) |
 | [P102 — A Retrospective Autoethnography Documenting Dance Learning Through Data Physicalisations](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P102-dance-physicalisations.md) | DIS 2024 | situated design knowledge and retrospective autoethnographic documentation | [source](https://doi.org/10.1145/3643834.3661607) |
 | [P112 — Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P112-turkopticon.md) | CHI 2013 | activist systems design and sociotechnical interpretation | [source](https://doi.org/10.1145/2470654.2470742) |
+| [P128 — Design Bookkeeping: Making Practice Intelligible through a Managerial Lens](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P128-design-bookkeeping.md) | DIS 2024 | reflective design-practice knowledge through a bookkeeping lens | [source](https://doi.org/10.1145/3643834.3660754) |
 
 ## Method
 
@@ -116,6 +119,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P110 — Constructing Everyday Well-Being: Insights from God-Saeng (God生) for Personal Informatics](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P110-godsaeng.md) | CHI 2026 | situated sociotechnical account of everyday well-being; prospective PI design implications | [source](https://doi.org/10.1145/3772318.3790766) |
 | [P115 — “My Body is Not Your Porn”: Identifying Trends of Harm and Oppression through a Sociotechnical Genealogy of Digital Sexual Violence in South Korea](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P115-dsv-genealogy.md) | CSCW 2026 | sociotechnical genealogy and critical historical interpretation | [source](https://doi.org/10.1145/3788066) |
 | [P118 — Domestic Cultures of Plant Care: A Moss Terrarium Probe](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P118-plant-care.md) | DIS 2025 | sociocultural configuration account and situated plant-care typology | [source](https://doi.org/10.1145/3715336.3735689) |
+| [P129 — Porous by Design: How Childcare Platforms Impact Worker Personhood, Safety, and Connection](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P129-porous-design.md) | DIS 2024 | sociotechnical interpretation and conceptual extension of porous boundaries | [source](https://doi.org/10.1145/3643834.3661552) |
 
 ## Quantitative
 
@@ -148,6 +152,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P107 — Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P107-screen2words.md) | UIST 2021 | task, reusable dataset, and computational model (co-primary hybrid) | [source](https://doi.org/10.1145/3472749.3474765) |
 | [P108 — HapticCap: A Multimodal Dataset and Task for Understanding User Experience of Vibration Haptic Signals](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P108-hapticcap.md) | Findings of EMNLP 2025 | reusable dataset and retrieval benchmark | [source](https://doi.org/10.18653/v1/2025.findings-emnlp.781) |
 | [P109 — Multi-lifespan Envisioning Cards: Journeying from Design Theory to Tools for Action](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P109-multilifespan-cards.md) | DIS 2022 | reusable design resource and design-method knowledge (co-primary hybrid) | [source](https://doi.org/10.1145/3532106.3533495) |
+| [P132 — UICrit: Enhancing Automated Design Evaluation with a UI Critique Dataset](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P132-uicrit.md) | UIST 2024 | spatial UI critique resource with descriptive analysis and prompting utility | [source](https://doi.org/10.1145/3654777.3676381) |
 
 ## Review
 

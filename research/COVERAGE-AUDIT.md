@@ -1,6 +1,6 @@
-# Coverage audit — 122 analyzed papers
+# Coverage audit — 127 analyzed papers
 
-This purposive teaching corpus contains **120 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
+This purposive teaching corpus contains **125 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
 
 ## Venue coverage
 
@@ -9,10 +9,10 @@ This purposive teaching corpus contains **120 papers from the five requested ven
 | CHI | 41 |
 | COMPASS | 1 |
 | CSCW | 24 |
-| DIS | 19 |
+| DIS | 21 |
 | Findings of EMNLP | 1 |
-| IUI | 19 |
-| UIST | 17 |
+| IUI | 21 |
+| UIST | 18 |
 
 ## Contribution coverage
 
@@ -20,24 +20,24 @@ These are primary **navigation routes**, not exclusive ontological labels. The o
 
 | Primary writing route | Papers |
 |---|---:|
-| artifact | 28 |
+| artifact | 30 |
 | conceptual | 17 |
-| design | 10 |
+| design | 11 |
 | method | 9 |
-| qualitative | 24 |
+| qualitative | 25 |
 | quantitative | 17 |
-| resource | 5 |
+| resource | 6 |
 | review | 12 |
 
 ## Deviations and limits
 
-The sampling targets were planning aids, not quotas to satisfy by relabeling papers. Artifact papers (28) exceed their target; resources (5), design (10), methods (9), and reviews (12) remain smaller than desired. Resource examples include co-primary hybrids and one NLP supplement; five is not five pure HCI dataset papers. CHI and CSCW remain the largest venue groups. No venue-by-route cell is claimed representative.
+The sampling targets were planning aids, not quotas to satisfy by relabeling papers. Artifact papers (30) exceed their target; resources (6), design (11), methods (9), and reviews (12) remain smaller than desired. Resource examples include co-primary hybrids and one NLP supplement; six is not six pure HCI dataset papers. CHI and CSCW remain the largest venue groups. No venue-by-route cell is claimed representative.
 
 Accessibility, privacy/security, health/care, fabrication, physical interaction, craft, communities, labor, education and non-Western social contexts supplement human–AI topics. The intended owner's group decision, dissent, power, reflection and embodied-interaction interests appear in P75–76 and P98–106 alongside this breadth. See [audience decisions](../docs/AUDIENCE-AND-COVERAGE.md).
 
 Public availability and known author/lab networks shaped discovery. Systems and design lineages recur; affiliation strings are not normalized enough to assert independent-lab balance. Awards are verified only where the metadata supplies evidence; unknown award status is not evidence of absence. This corpus cannot estimate acceptance predictors, venue norms, field-wide frequencies or a universal writing style. More non-English, Global South, critical disability, longitudinal, replication and negative-result exemplars would strengthen later editions.
 
-Full-text rhetorical notes cover 122 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
+Full-text rhetorical notes cover 127 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
 
 ## Taxonomy follow-up
 P110 God-Saeng is explicitly profiled as sociotechnical phenomenon interpretation,
@@ -70,3 +70,13 @@ audit, three contrasting reviews and an accessibility input artifact add non-AI
 primary contributions. Three award-queue entries are accepted, 27 pending. The
 Crip Reflections candidate duplicated existing P15 and was excluded. Zotero item
 retrieval remains unavailable; collection membership has not been inferred.
+
+## Second-expansion checkpoint E04
+Five additions bring the corpus to 127 (125 requested-venue papers). Expansion:
+19/100; 16/19 from 2018–2026 and 13/19 from 2022–2026. E04 adds reflective
+design practice, sociotechnical labor interpretation, a UI critique resource,
+creative authoring and chart accessibility. The original award queue still has
+three accepted entries and 27 pending; these additions were sourced separately. Three new detailed notes and two previously staged notes
+passed source review. Numerical length samples remain unchanged. The author
+drafts for SoundToons and Chart4Blind are explicitly distinguished from their
+proceedings versions. No citation-count signal was inferred from reputation.

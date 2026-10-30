@@ -4312,5 +4312,203 @@
       "source": "https://api.crossref.org/works/10.1145/3610069",
       "limitation": "Not collected; no count inferred"
     }
+  },
+  {
+    "id": "P128-design-bookkeeping",
+    "title": "Design Bookkeeping: Making Practice Intelligible through a Managerial Lens",
+    "authors": [
+      "Elizabeth Meiklejohn",
+      "Laura Devendorf",
+      "Irene Posch"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3660754",
+    "primary_knowledge_object": "reflective design-practice knowledge through a bookkeeping lens",
+    "method": "first-person retrospective account of a weaving residency; six visual cases",
+    "affiliations_as_stated": "University of Colorado Boulder; University of Arts Linz",
+    "analyzed_version": "NSF-hosted pictorial, 15 pages; main visual argument pp.1–12",
+    "award": {
+      "status": "Best Pictorial",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "Title and authors matched in official award category",
+      "verified_on": "2026-10-30"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P128-design-bookkeeping.md",
+    "selection_reason": "Independent public-source discovery contrasting reflective practice, platform labor, critique resources, creative authoring and accessibility workflows; recognition checked separately",
+    "url": "https://par.nsf.gov/servlets/purl/10565271",
+    "sha256": "22d731f85622567c5680c4140639185c9608ced20dcdd708add6c3ab0b8c860d",
+    "bytes": 4503061,
+    "primary_writing_route": "design",
+    "expansion_batch": "E04",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": null,
+      "source": "https://api.crossref.org/works/10.1145/3643834.3660754",
+      "limitation": "Not collected; no count or high-citation claim inferred"
+    }
+  },
+  {
+    "id": "P129-porous-design",
+    "title": "Porous by Design: How Childcare Platforms Impact Worker Personhood, Safety, and Connection",
+    "authors": [
+      "Caitlin Lustig",
+      "Maya A. Kaneko",
+      "Meghna Gupta",
+      "Kavita Dattani",
+      "Audrey Desjardins",
+      "Daniela Rosner"
+    ],
+    "venue": "DIS",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3643834.3661552",
+    "primary_knowledge_object": "sociotechnical interpretation and conceptual extension of porous boundaries",
+    "method": "16 worker interviews; reflexive thematic analysis and feminist care lens",
+    "affiliations_as_stated": "University of Washington",
+    "analyzed_version": "Author-hosted PDF, 14 pages; main text pp.1–12",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "evidence": "Title and authors matched in official award category",
+      "verified_on": "2026-10-30"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P129-porous-design.md",
+    "selection_reason": "Independent public-source discovery contrasting reflective practice, platform labor, critique resources, creative authoring and accessibility workflows; recognition checked separately",
+    "url": "https://caitie.io/wp-content/uploads/2024/06/Porous_by_Design.pdf",
+    "sha256": "209e57f137cff79f2f7a4984882c1981c947754942deadbf130ea29af85d8963",
+    "bytes": 917065,
+    "primary_writing_route": "qualitative",
+    "expansion_batch": "E04",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": null,
+      "source": "https://api.crossref.org/works/10.1145/3643834.3661552",
+      "limitation": "Not collected; no count or high-citation claim inferred"
+    }
+  },
+  {
+    "id": "P132-uicrit",
+    "title": "UICrit: Enhancing Automated Design Evaluation with a UI Critique Dataset",
+    "authors": [
+      "Peitong Duan",
+      "Chin-Yi Chen",
+      "Gang Li",
+      "Björn Hartmann",
+      "Yang Li"
+    ],
+    "venue": "UIST",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3654777.3676381",
+    "primary_knowledge_object": "spatial UI critique resource with descriptive analysis and prompting utility",
+    "method": "designer annotation with generated suggestions; corpus analysis; expert-rated prompt comparison",
+    "affiliations_as_stated": "University of California Berkeley; Google DeepMind",
+    "analyzed_version": "Author-hosted PDF, 17 pages; main text through p.14; appendices pp.15–17",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P132-uicrit.md",
+    "selection_reason": "Independent public-source discovery contrasting reflective practice, platform labor, critique resources, creative authoring and accessibility workflows; recognition checked separately",
+    "url": "https://people.eecs.berkeley.edu/~bjoern/papers/duan-uicrit-uist2024.pdf",
+    "sha256": "e14bd8b232de7c952e62ee9ffec3018498153ec36dca4341d7f12507f22ae06c",
+    "bytes": 4484257,
+    "primary_writing_route": "resource",
+    "expansion_batch": "E04",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": null,
+      "source": "https://api.crossref.org/works/10.1145/3654777.3676381",
+      "limitation": "Not collected; no count or high-citation claim inferred"
+    }
+  },
+  {
+    "id": "P133-soundtoons",
+    "title": "SoundToons: Exemplar-Based Authoring of Interactive Audio-Driven Animation Sprites",
+    "authors": [
+      "Toby Chong",
+      "Deepali Aneja",
+      "Takeo Igarashi",
+      "Hijung Valentina Shin"
+    ],
+    "venue": "IUI",
+    "publication_year": 2023,
+    "presentation_year": 2023,
+    "doi": "10.1145/3581641.3584047",
+    "primary_knowledge_object": "example-based audio-animation authoring capability and conditional design knowledge",
+    "method": "technical instantiation; author examples; six-performer live comparison and crowd judgments",
+    "affiliations_as_stated": "University of Tokyo; Adobe Research",
+    "analyzed_version": "22-page author draft, main text through p.21; author order differs from proceedings; separate supplement and video not inspected",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P133-soundtoons.md",
+    "selection_reason": "Independent public-source discovery contrasting reflective practice, platform labor, critique resources, creative authoring and accessibility workflows; recognition checked separately",
+    "url": "https://drive.google.com/file/d/1Ym8dlbC7dpuG1tleUK7rpezdIcRtQBH1/view",
+    "sha256": "e5738fd7622d851686e3e6900ec51328436e37558eaef23146f04622011fed0e",
+    "bytes": 9359818,
+    "primary_writing_route": "artifact",
+    "expansion_batch": "E04",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": null,
+      "source": "https://api.crossref.org/works/10.1145/3581641.3584047",
+      "limitation": "Not collected; no count or high-citation claim inferred"
+    }
+  },
+  {
+    "id": "P134-chart4blind",
+    "title": "Chart4Blind: An Intelligent Interface for Chart Accessibility Conversion",
+    "authors": [
+      "Morris Baumgarten-Egemole",
+      "Omar Moured",
+      "Karin Müller",
+      "Alina Roitberg",
+      "Thorsten Schwarz",
+      "Rainer Stiefelhagen"
+    ],
+    "venue": "IUI",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3640543.3645175",
+    "primary_knowledge_object": "human-in-the-loop chart conversion workflow for accessibility-oriented outputs",
+    "method": "four formative expert interviews; ten sighted novices; three BVI recipients in exploratory output review",
+    "affiliations_as_stated": "Karlsruhe Institute of Technology; University of Stuttgart",
+    "analyzed_version": "arXiv 2403.06693v2, 25 March 2024, 19 pages; main text through p.16; first-author order differs from proceedings metadata",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P134-chart4blind.md",
+    "selection_reason": "Independent public-source discovery contrasting reflective practice, platform labor, critique resources, creative authoring and accessibility workflows; recognition checked separately",
+    "url": "https://arxiv.org/pdf/2403.06693v2",
+    "sha256": "262768ad2510c940b55db9b1763bf29fffd92e6f1a442a14c68fbb2d1f1567e0",
+    "bytes": 4304820,
+    "primary_writing_route": "artifact",
+    "expansion_batch": "E04",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": null,
+      "source": "https://api.crossref.org/works/10.1145/3640543.3645175",
+      "limitation": "Not collected; no count or high-citation claim inferred"
+    }
   }
 ]
