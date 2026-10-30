@@ -535,3 +535,13 @@ drafting workflows. It distinguishes source observations from conditional drafti
 plans and requires subsection purpose, paragraph support and logical handoffs.
 Remaining families and within-family contrasts stay explicit. Root reviewed source
 passages; no unavailable Claude review is claimed.
+
+## Review, method-hybrid and critical architectures — 2026-10-31
+Added S06–S08 after re-reading source hierarchies and complete mapped subsections.
+The review map distinguishes themes from a relational model; the method map separates
+instrument construction, manual audit and secondary automation; the critical map
+tracks evaluative questions, reframing and practical argument without invented IMRaD.
+These alternatives now appear in the selectively loaded architecture guide.
+Eight mapped cases do not fulfill the full family/variant coverage gate. Next are
+participatory/infrastructural, historical, resource and concept-development contrasts,
+followed by within-family alternatives and executable writing probes.

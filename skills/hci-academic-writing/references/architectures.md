@@ -123,6 +123,50 @@ A normative or conceptual endpoint does not require a future prototype to become
 contribution. Use the qualitative and sociotechnical guides for other forms; this
 example is not a universal theme-count or interview-paper structure.
 
+### Literature map, then conceptual synthesis
+
+[P123 Digital Legacy](https://doi.org/10.1145/3610059), author PDF pp.7–23,
+separates thematic findings from a lifecycle interpretation, then develops
+interdependencies, multiple actors, generations and an agenda. It does not repeat
+the analyzed corpus in a standalone Related Work section.
+
+A synthesis subsection can move through observed relationships → conceptual
+analogy/ancestry → examples across papers → departure from the antecedent model
+→ consolidated model and intended use. A subsequent subsection should exercise
+the model: identify an overly simple reading, supply different relational cases,
+consider an awkward boundary case, then motivate a question. Do not confuse the
+number of coded themes with the dimensions or stages of the conceptual output.
+Other review forms need other spines; use the review route to distinguish mapping,
+critical interpretation and effect synthesis.
+
+### Instrument construction, application, then a secondary artifact
+
+[P121 Research Ethics/Openness/Transparency](https://doi.org/10.1145/3544548.3580848)
+places criteria construction before the audit method/results, then adds a screening
+prototype with its own rationale, implementation and evaluation. The prototype did
+not generate the manually coded audit findings.
+
+For a method contribution, a construction subsection can explain origins/refinement,
+version/applicability, then rationale and reuse. An application subsection answers a
+different question: how the instrument was applied to a sample. If automation is a
+secondary branch, distinguish the envisioned human workflow from the implemented
+component before reporting its evidence. Design considerations can be derived from
+heterogeneous tasks and error costs without a fabricated formative study.
+
+### Critical questions, reframing and practice
+
+[P111 Non-design](https://doi.org/10.1145/1978942.1979275), a four-page author
+manuscript, progresses through questions about alternatives, harms and computational
+problem transformations. Discussion interprets this progression and challenges the
+problem–solution premise; the ending gives implications for research practice.
+
+A critical-case subsection can start with an evaluative question and familiar
+contrast, develop one case, then use another to change the analytical scale and
+prepare the next question. Discussion may need positioning → distinction →
+concession/counterargument → reframing rather than a results recap. Keep the
+premises and case reasoning inspectable. Do not invent a Methods section, empirical
+validation or a final prototype when the contribution is a defensible position.
+
 ## Produce an actionable outline
 
 For a substantial outline request, provide enough detail to draft from:
@@ -145,9 +189,8 @@ later claim depends on an earlier definition, case or comparison, preserve that
 order or provide the necessary preview. An early system overview and a later design
 rationale can both be legitimate even when research occurred in another order.
 
-Coverage note: these five source-specific contrasts are an initial architecture
-layer. They do not yet cover every contribution family. For methods, resources,
-reviews, critical/historical and participatory inquiries, also use their existing
-route/catalogue guidance and select suitable source examples instead of forcing
-one of these five forms. No optimal paragraph counts or venue-wide frequencies
+Coverage note: these eight source-specific contrasts are an initial architecture
+layer. They do not yet cover every contribution family. For resources, historical, participatory and other inquiries, and for alternatives
+within the families above, also use their existing route/catalogue guidance and
+select suitable source examples instead of forcing one of these eight forms. No optimal paragraph counts or venue-wide frequencies
 have been established.

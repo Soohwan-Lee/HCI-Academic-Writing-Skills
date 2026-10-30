@@ -16,6 +16,12 @@ every paragraph in a manuscript. See the [active plan](../../docs/STRUCTURE-ANAL
 
 | [S05 Porous by Design](S05-porous-design.md) | Sociotechnical interpretation and conceptual extension | Empirical themes and question-led discussion | Both discussion subsections | Two paragraphs |
 
-Coverage is currently narrow. These first five cases illustrate a contrast, not
+| [S06 Digital Legacy](S06-digital-legacy.md) | Interpretive review/model synthesis | Themes → model → relations → agenda | Lifecycle introduction and multi-user subsection | Two paragraphs |
+
+| [S07 Criteria audit](S07-criteria-audit.md) | Method/instrument + audit + secondary artifact | Construction/application/tool branches | Criteria development and screening-design subsections | Two paragraphs |
+
+| [S08 Non-design](S08-nondesign.md) | Critical/normative short argument | Questions → reframing → practice | Low/no-tech and discussion sequences | Two paragraphs |
+
+Coverage is currently narrow. These first eight cases illustrate a contrast, not
 saturation, representativeness, or completed coverage of artifact and RtD families.
 No numeric section or paragraph-length sample is enlarged by these maps.
