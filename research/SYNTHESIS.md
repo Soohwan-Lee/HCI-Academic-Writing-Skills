@@ -1,6 +1,6 @@
 # From paper observations to writing decisions
 
-This original synthesis draws on **108 purposive full-text analytical notes**.
+This original synthesis draws on **112 purposive full-text analytical notes**.
 It is a teaching corpus, not a systematic review, a study of acceptance predictors,
 or a claim that famous labs share an optimal style. [Coverage](COVERAGE-AUDIT.md)
 and [source records](CORPUS.md) make selection and version limitations explicit.
@@ -114,3 +114,14 @@ qualitative analysis are its access/analytic approach, while the contribution is
 an account of relations among practice, technology, cultural expectations and
 well-being. Its implications are not an evaluated system or necessarily a new
 general theory. See [taxonomy review](../docs/CONTRIBUTION-TAXONOMY-REVIEW.md).
+
+## New contrasts: non-design, activist systems and genealogy
+P111 builds a normative argument from questions and illustrative cases rather than
+an empirical IMRaD sequence. P112 interleaves deployed-system choices with activist
+interpretation; maintenance and ambivalent success are part of its contribution.
+P113 separates critique from anticipatory reconstruction while explicitly denying
+that written order is necessarily research chronology. P115 first makes eras legible
+and then crosses them to construct analytical dimensions. Its sources include
+research, journalism and legal documents; documentary synthesis does not erase its
+primary genealogical claim. These are four contrasting examples, not a new universal
+structure. See the source notes for rhetorical limits and version-specific tensions.

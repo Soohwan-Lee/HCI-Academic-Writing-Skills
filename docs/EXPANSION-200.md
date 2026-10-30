@@ -74,8 +74,8 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Baseline | 108 analyses | 107 first-release papers plus P110 God-Saeng |
 | Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
 | Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
-| Candidate screening | Pending | DOI/title deduplication and balanced shortlist |
-| New full-text batches | 0 / 100 accepted | Earlier downloaded historical candidates are not yet counted |
+| Candidate screening | In progress | 30 recent official-award candidates independently sourced and title-deduplicated; IUI and other strata pending |
+| New full-text batches | 4 / 100 accepted | E01: P111, P112, P113, P115; 112 total; 96 additions remain |
 | Skill synthesis and tests | Pending | Review after each 20 additions and final integration |
 | README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
@@ -86,3 +86,12 @@ corpus/index, coverage and limitations. Re-run relevant tests; explicitly distin
 installation, live discovery, compile success and semantic behavior. Confirm remote
 HEAD after each push. Do not describe this expansion as complete while any required
 batch or review remains outstanding.
+
+## E01 gate — focused taxonomy contrasts
+A four-paper exception to the normal 5–10-paper batch closes three carried-over
+historical reads and a directly relevant recent genealogy. Root read every main
+text and inspected paragraph renders; Opus assisted three analyses. P114 remains
+unread/unaccepted because its eight-page scan needs OCR or visual reading. No
+additional numeric length measurements were added. Next batches must prioritize
+2018–2026 sources to meet the 80/100 recent target. The separate 30-title queue is
+not included in the analyzed count.

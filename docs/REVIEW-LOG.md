@@ -368,3 +368,18 @@ links, and made request inputs task-dependent. The guides explain the project fo
 what the agent edits, supplied evidence, concrete task outcomes and host-specific
 validation. Local links and synchronized counts pass. Additional analyses remain
 planned, not silently included in the README count.
+
+## Gate E01 — four source-reviewed contribution contrasts
+Accepted P111 (non-design), P112 (activist infrastructure), P113 (critical/generative
+making) and P115 (2026 sociotechnical genealogy). Root read all main texts and
+inspected paragraph renders; Opus assisted three analyses. Resolved interleaved
+abstract/column extraction in P113 and checked sentence boundaries visually. Kept
+normative arguments distinct from observed effects; declined a blanket theory-
+generation label for P115. Verified its Method Recognition through the official
+SIGCHI program and stored dated Crossref counts with database limitations.
+
+Corpus now 112 (110 requested-venue, two supplements); second expansion 4/100.
+Three older contrasts are deliberate; following batches prioritize recent papers.
+The separate 30-title recent-award queue remains unanalysed. P114 is not counted.
+No new numerical length measures are claimed. Updated index, coverage and both
+READMEs; private sources and collection membership remain untracked.

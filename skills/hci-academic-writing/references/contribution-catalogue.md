@@ -71,9 +71,9 @@ and configurations are the actual object of understanding.
 | Critique of knowledge/evaluation | Engage the strongest relevant existing practice; expose a consequential assumption through evidence, counterexample or argument. | P04, P48, P69 |
 | Structural or critical analysis | Make analytical commitments visible; claim a standpoint epistemology only when actually adopted; connect institutions, histories and unequal relations to the case. | P49, P15; P33 illustrates critical stance, not standpoint-derived evidence; P98 adds power analysis |
 | Normative argument or agenda | Distinguish empirical and normative reasoning, recognizing that description may already be value-laden; state values, reasons, objections, tradeoffs and who bears costs. | P49, P74 |
-| Non-design/refusal | Argue why an intervention is inappropriate, for whom and under what conditions; consider alternatives and decision authority. No feature list is required. | conceptual; no indexed direct exemplar |
+| Non-design/refusal | Argue why an intervention is inappropriate, for whom and under what conditions; consider alternatives and decision authority. No feature list is required. | P111; conceptual |
 | Historical account | Describe source provenance, selection, interpretation, periodization and silences. Do not infer absence of practice from absent records. | P09, P53 provide contrasts, not complete methodological coverage |
-| Genealogy | Explain how a present assumption became possible through contingent changes and power relations. Chronological related work is not sufficient. | conceptual; no indexed direct exemplar |
+| Genealogy | Explain how a present assumption became possible through contingent changes and power relations. Chronological related work is not sufficient. | P115; documentary evidence + conceptual interpretation |
 
 Load the guide matching the warrant and use [conceptual](routes/conceptual.md)
 for additional argument support. Empirically grounded theory and critique still
@@ -105,6 +105,8 @@ serve as an instrument, provocation or research outcome; identify its actual job
 | Infrastructuring | Follow relationships, institutions and maintenance over time; do not imply a project became sustainable merely because it launched. | Maintenance work, dependencies, withdrawal and continuing conditions |
 | Community/activist partnership | Explain reciprocity, ownership, risks and how partners judge outcomes; avoid automatic empowerment claims. | Partner perspectives, tensions and documented consequences |
 
+P112 directly illustrates activist design, partial alliances and maintenance, while
+retaining ambivalent success. It does not prove every participatory/change subtype.
 P67 is a review of community-collaborative approaches, not direct evidence that
 all these practices were performed in a particular study. Use it to locate the
 literature; seek direct exemplars for concrete architectural decisions. Load

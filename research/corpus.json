@@ -3765,5 +3765,159 @@
     "url": "https://arxiv.org/pdf/2603.00847v1",
     "sha256": "b9f9a63a42c10b37b593f1f0fe62b5f54923b4b8cf4b11a84470af2047efe495",
     "bytes": 4995505
+  },
+  {
+    "id": "P111-nondesign",
+    "title": "When the Implication Is Not to Design (Technology)",
+    "authors": [
+      "Baumer",
+      "Silberman"
+    ],
+    "venue": "CHI",
+    "publication_year": 2011,
+    "presentation_year": 2011,
+    "doi": "10.1145/1978942.1979275",
+    "primary_knowledge_object": "critical/normative argument for non-design",
+    "method": "conceptual reasoning with literature illustrations",
+    "affiliations_as_stated": "Cornell University; Bureau of Economic Interpretation",
+    "analyzed_version": "author manuscript, complete four-page short conference paper",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P111-nondesign.md",
+    "selection_reason": "Second-expansion contribution contrast: critical/normative argument for non-design",
+    "url": "https://ics.uci.edu/~djp3/classes/2011_01_INF134/papers/impl9-rev.pdf",
+    "sha256": "e6afee4a2b47ebe28930511e9de46f0df30f2fc85122b22c23b1fe8219c8a5e8",
+    "bytes": 105057,
+    "primary_writing_route": "conceptual",
+    "expansion_batch": "E01",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 290,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/1978942.1979275",
+      "limitation": "Crossref-linked references only; not exhaustive citations, not field/year normalized, not a writing-quality measure"
+    }
+  },
+  {
+    "id": "P112-turkopticon",
+    "title": "Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk",
+    "authors": [
+      "Irani",
+      "Silberman"
+    ],
+    "venue": "CHI",
+    "publication_year": 2013,
+    "presentation_year": 2013,
+    "doi": "10.1145/2470654.2470742",
+    "primary_knowledge_object": "activist systems design and sociotechnical interpretation",
+    "method": "four-year participant-observation, informal surveys, interviews, design and maintenance",
+    "affiliations_as_stated": "UC Irvine; Bureau of Economic Interpretation",
+    "analyzed_version": "author-hosted proceedings-format PDF, pp.611–620",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P112-turkopticon.md",
+    "selection_reason": "Second-expansion contribution contrast: activist systems design and sociotechnical interpretation",
+    "url": "https://wtf.tw/text/turkopticon.pdf",
+    "sha256": "c52d284c61b5afa1a1d458e2ad8b210a6a0dd9d158865ebf58b93380d4dea86f",
+    "bytes": 2393246,
+    "primary_writing_route": "design",
+    "expansion_batch": "E01",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 658,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/2470654.2470742",
+      "limitation": "Crossref-linked references only; not exhaustive citations, not field/year normalized, not a writing-quality measure"
+    }
+  },
+  {
+    "id": "P113-utopian-making",
+    "title": "Reconstituting the Utopian Vision of Making: HCI After Technosolutionism",
+    "authors": [
+      "Lindtner",
+      "Bardzell",
+      "Bardzell"
+    ],
+    "venue": "CHI",
+    "publication_year": 2016,
+    "presentation_year": 2016,
+    "doi": "10.1145/2858036.2858506",
+    "primary_knowledge_object": "critical and generative research sensibility",
+    "method": "ethnographic interpretation with global assemblages and anticipatory design",
+    "affiliations_as_stated": "University of Michigan; Indiana University",
+    "analyzed_version": "author-hosted proceedings-format PDF, pp.1390–1402",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P113-utopian-making.md",
+    "selection_reason": "Second-expansion contribution contrast: critical and generative research sensibility",
+    "url": "https://static1.squarespace.com/static/52842f7de4b0b6141ccb7766/t/5736af0bd51cd47f818fa04a/1463201551143/p1390-lindtner.pdf",
+    "sha256": "deff10d96bd5bc26ae4160937d757ec77eb0757dfc95d2a89b34257e226ecc18",
+    "bytes": 2114659,
+    "primary_writing_route": "conceptual",
+    "expansion_batch": "E01",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 186,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/2858036.2858506",
+      "limitation": "Crossref-linked references only; not exhaustive citations, not field/year normalized, not a writing-quality measure"
+    }
+  },
+  {
+    "id": "P115-dsv-genealogy",
+    "title": "“My Body is Not Your Porn”: Identifying Trends of Harm and Oppression through a Sociotechnical Genealogy of Digital Sexual Violence in South Korea",
+    "authors": [
+      "Cha",
+      "Jang",
+      "Kim",
+      "Park",
+      "Park",
+      "Cheon"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2026,
+    "presentation_year": 2026,
+    "doi": "10.1145/3788066",
+    "primary_knowledge_object": "sociotechnical genealogy and critical historical interpretation",
+    "method": "integrative documentary synthesis, periodization and cross-era genealogical analysis",
+    "affiliations_as_stated": "Georgia Institute of Technology; Cornell University; KTH; Indiana University; Syracuse University",
+    "analyzed_version": "arXiv v1, 18 February 2026; PACMHCI 10(2) CSCW030, 32 pages",
+    "award": {
+      "status": "Method Recognition",
+      "source": "https://programs.sigchi.org/cscw/2026/awards/recognitions",
+      "evidence": "Official SIGCHI program recognition category and title matched; not a Best Paper award",
+      "verified_on": "2026-10-30"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P115-dsv-genealogy.md",
+    "selection_reason": "Second-expansion contribution contrast: sociotechnical genealogy and critical historical interpretation",
+    "url": "https://arxiv.org/pdf/2602.16853v1",
+    "sha256": "262f64e19b6858e34271882b8df9feb4f489d3f89adde71238f50521568b8f4f",
+    "bytes": 4077442,
+    "primary_writing_route": "qualitative",
+    "expansion_batch": "E01",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 0,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3788066",
+      "limitation": "Crossref-linked references only; not exhaustive citations, not field/year normalized, not a writing-quality measure"
+    }
   }
 ]

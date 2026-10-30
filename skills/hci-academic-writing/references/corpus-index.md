@@ -1,6 +1,6 @@
 # Evidence lookup by contribution
 
-108 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
+112 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
 
 Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length subset: 32 paragraphs in 14 papers; no universal paragraph target follows. See the [measurement protocols](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md).
 
@@ -53,6 +53,8 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P75 — Awareness and Coordination in Shared Workspaces](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P75-awareness.md) | CSCW 1992 | conceptual framework | [source](https://doi.org/10.1145/143457.143468) |
 | [P76 — Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P76-reflective-informatics.md) | CHI 2015 | conceptual framework | [source](https://doi.org/10.1145/2702123.2702234) |
 | [P84 — What is “Intelligent” in Intelligent User Interfaces? A Meta-Analysis of 25 Years of IUI](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P84-intelligent-iui.md) | IUI 2020 | corpus-grounded conceptual reflection | [source](https://doi.org/10.1145/3377325.3377500) |
+| [P111 — When the Implication Is Not to Design (Technology)](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P111-nondesign.md) | CHI 2011 | critical/normative argument for non-design | [source](https://doi.org/10.1145/1978942.1979275) |
+| [P113 — Reconstituting the Utopian Vision of Making: HCI After Technosolutionism](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P113-utopian-making.md) | CHI 2016 | critical and generative research sensibility | [source](https://doi.org/10.1145/2858036.2858506) |
 
 ## Design
 
@@ -67,6 +69,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P45 — The Undertable: A Design Remake of the Mediated Body](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P45-undertable.md) | DIS 2024 | design knowledge/RtD | [source](https://doi.org/10.1145/3643834.3660698) |
 | [P47 — Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P47-core-memory.md) | CHI 2018 | design knowledge/RtD | [source](https://doi.org/10.1145/3173574.3174105) |
 | [P102 — A Retrospective Autoethnography Documenting Dance Learning Through Data Physicalisations](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P102-dance-physicalisations.md) | DIS 2024 | situated design knowledge and retrospective autoethnographic documentation | [source](https://doi.org/10.1145/3643834.3661607) |
+| [P112 — Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P112-turkopticon.md) | CHI 2013 | activist systems design and sociotechnical interpretation | [source](https://doi.org/10.1145/2470654.2470742) |
 
 ## Method
 
@@ -107,6 +110,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P100 — Combating Misinformation in Bangladesh: Roles and Responsibilities as Perceived by Journalists, Fact-checkers, and Users](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P100-bangladesh-misinformation.md) | CSCW 2020 | empirical understanding of stakeholder responsibility and infrastructural constraints | [source](https://doi.org/10.1145/3415201) |
 | [P106 — Conversations With The Stressed Body: Facilitating Stress Self-Disclosure Among Adolescent Girls Through An Embodied Approach](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P106-embodied-probes.md) | DIS 2025 | situated understanding of embodied stress disclosure and inquiry methods | [source](https://doi.org/10.1145/3715336.3735707) |
 | [P110 — Constructing Everyday Well-Being: Insights from God-Saeng (God生) for Personal Informatics](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P110-godsaeng.md) | CHI 2026 | situated sociotechnical account of everyday well-being; prospective PI design implications | [source](https://doi.org/10.1145/3772318.3790766) |
+| [P115 — “My Body is Not Your Porn”: Identifying Trends of Harm and Oppression through a Sociotechnical Genealogy of Digital Sexual Violence in South Korea](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P115-dsv-genealogy.md) | CSCW 2026 | sociotechnical genealogy and critical historical interpretation | [source](https://doi.org/10.1145/3788066) |
 
 ## Quantitative
 
