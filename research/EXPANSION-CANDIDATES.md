@@ -16,3 +16,7 @@ It must not become the entire sample merely because awards are easy to locate.
 See [machine-readable queue](expansion-candidates.json) for per-paper source,
 selection question, category and status. Keep private library membership outside
 this file; public bibliographic information can be added after verification.
+
+E02 status: EarHover (P120) and Domestic Cultures of Plant Care (P118, explicitly
+analyzed in OSF preprint v1) passed source review. The original queue retains their
+provenance: 2 accepted, 28 pending. The manifest, not this queue, counts analyses.

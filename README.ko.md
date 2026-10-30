@@ -6,7 +6,7 @@
 
 기존 ACM LaTeX 프로젝트에서 HCI 논문을 쓰는 연구자를 위한 에이전트 스킬입니다. AI 코딩 에이전트에게 라이팅 작업과 연구 근거를 제공하면, 스킬의 지침에 따라 에이전트가 논문의 기여를 파악하고 관련 `.tex` 파일을 직접 수정한 뒤 변경 내용과 아직 필요한 근거를 보고합니다.
 
-[English](README.md) · [설치](docs/COMPATIBILITY.md) · [스킬](skills/hci-academic-writing/SKILL.md) · [112편 분석](research/CORPUS.md) · [작업 기록](docs/REVIEW-LOG.md)
+[English](README.md) · [설치](docs/COMPATIBILITY.md) · [스킬](skills/hci-academic-writing/SKILL.md) · [117편 분석](research/CORPUS.md) · [작업 기록](docs/REVIEW-LOG.md)
 
 ![논문 페이지와 사람의 상호작용, 연결된 근거를 표현한 장식 일러스트](assets/editorial-cover.png)
 
@@ -133,11 +133,11 @@ Claude Code는 `--host claude-code`, Antigravity는 사용 환경에 맞게 `--h
 
 ## 확인할 수 있는 근거
 
-**전문 기반 분석 112편:** CHI 38편, CSCW 22편, UIST 15편, DIS 18편, IUI 17편으로 5개 학회 110편이며, COMPASS와 Findings of EMNLP 각 1편이 보충 사례입니다. 수상작, 주요 연구 흐름과 방법론적 대조 사례를 포함합니다. 수상 여부는 별도로 확인하며, 명성을 라이팅 규칙의 근거로 삼지 않습니다.
+**전문 기반 분석 117편:** CHI 39편, CSCW 22편, UIST 16편, DIS 19편, IUI 19편으로 5개 학회 115편이며, COMPASS와 Findings of EMNLP 각 1편이 보충 사례입니다. 수상작, 주요 연구 흐름과 방법론적 대조 사례를 포함합니다. 수상 여부는 별도로 확인하며, 명성을 라이팅 규칙의 근거로 삼지 않습니다.
 
 협업, 인간–AI 상호작용, 반대 의견과 성찰뿐 아니라 접근성, 프라이버시, 돌봄, 교육, 공예, 신체적 인터랙션과 사회적 맥락의 연구를 함께 다룹니다. 목적 표집한 교육용 사례집이며 대표 표본은 아닙니다. 시스템 논문의 비중이 높고, 일부 경로는 추가 확충이 필요합니다.
 
-**완료가 아닌 계획:** [100편 추가 분석](docs/EXPANSION-200.md)을 계획하고 있으며 목표는 총 208편입니다. 추가 분석 중 4편의 원문 검토를 마쳐 현재 총 112편이며, 96편이 남았습니다. 이 README는 완료된 분석만 집계합니다.
+**완료가 아닌 계획:** [100편 추가 분석](docs/EXPANSION-200.md)을 계획하고 있으며 목표는 총 208편입니다. 추가 분석 중 9편의 원문 검토를 마쳐 현재 총 117편이며, 91편이 남았습니다. 이 README는 완료된 분석만 집계합니다.
 
 - [논문 목록·출처](research/CORPUS.md) · [분포와 한계](research/COVERAGE-AUDIT.md)
 - [논문 간 종합](research/SYNTHESIS.md) · [스킬용 근거 인덱스](skills/hci-academic-writing/references/corpus-index.md)

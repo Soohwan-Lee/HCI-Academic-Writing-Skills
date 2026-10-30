@@ -383,3 +383,19 @@ Three older contrasts are deliberate; following batches prioritize recent papers
 The separate 30-title recent-award queue remains unanalysed. P114 is not counted.
 No new numerical length measures are claimed. Updated index, coverage and both
 READMEs; private sources and collection membership remain untracked.
+
+## Gate E02 — five recent source-reviewed contrasts
+Accepted P116, P117, P118, P119 and P120 after complete main-text reading and 17
+page renders. Opus 5.5 medium supplied analyses; root checked ten paragraph
+sequences, identities, methods, limitations and claims. Root distinguished the
+24-page OSF plant-care preprint from its proceedings publication; visually checked
+its typology/model/sensor triangulation and both micro-passages. Kept qualitative
+explanatory claims legitimate while bounding their causal reach. Corrected scope
+around Social Transparency's formative numbers, IUI expertise contrasts and null
+intervals, and EarHover's user-specific training and prototype hardware. Official
+awards verified for the two award-queue entrants; four Crossref snapshots recorded,
+one HTTP 429 left missing. PDFs, model envelopes and library metadata stay private.
+
+Corpus: 117; expansion: 9/100. Updated bilingual counts, candidate statuses and
+coverage; further acquisition should now diversify beyond this XAI subset. Numerical
+length-study denominators remain seven papers and 32 paragraphs in 14 papers.

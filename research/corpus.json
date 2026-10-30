@@ -3919,5 +3919,199 @@
       "source": "https://api.crossref.org/works/10.1145/3788066",
       "limitation": "Crossref-linked references only; not exhaustive citations, not field/year normalized, not a writing-quality measure"
     }
+  },
+  {
+    "id": "P116-illusion-depth",
+    "title": "I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI",
+    "authors": [
+      "Chromik",
+      "Eiband",
+      "Buchner",
+      "Krüger",
+      "Butz"
+    ],
+    "venue": "IUI",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3397481.3450644",
+    "primary_knowledge_object": "empirical evaluation of perceived understanding and a measurement critique",
+    "method": "staged within-subject studies (40 moderated, 107 unmoderated), six think-aloud protocols",
+    "affiliations_as_stated": "LMU Munich",
+    "analyzed_version": "ACM-formatted author copy, 11 pages; no version comparison",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P116-illusion-depth.md",
+    "selection_reason": "Recent contribution contrast; independent author/conference discovery; citation snapshot is context, not a quality rank",
+    "url": "https://www.mmi.ifi.lmu.de/pubdb/publications/pub/chromik2021iui/chromik2021iui.pdf",
+    "sha256": "cd248a993ab55747989d3ca3870c3a9317e1cafef8e91e0ac0c3c35d8bef5a58",
+    "bytes": 752246,
+    "primary_writing_route": "quantitative",
+    "expansion_batch": "E02",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 128,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3397481.3450644",
+      "limitation": "Crossref-linked references only; not exhaustive or field/year normalized; not writing quality"
+    }
+  },
+  {
+    "id": "P117-explanations-helpful",
+    "title": "Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making",
+    "authors": [
+      "Wang",
+      "Yin"
+    ],
+    "venue": "IUI",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3397481.3450650",
+    "primary_knowledge_object": "comparative empirical evidence organized by explanation desiderata",
+    "method": "randomized between-subject explanation treatments in two decision domains",
+    "affiliations_as_stated": "Purdue University",
+    "analyzed_version": "ACM-formatted author copy, 11 pages; no version comparison",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P117-explanations-helpful.md",
+    "selection_reason": "Recent contribution contrast; independent author/conference discovery; citation snapshot is context, not a quality rank",
+    "url": "https://mingyin.org/paper/IUI-21/iui21.pdf",
+    "sha256": "225c020aceb203f5f5eaa50fe511ea2f9ef2a440159007e4d35e05a975b601eb",
+    "bytes": 1089279,
+    "primary_writing_route": "quantitative",
+    "expansion_batch": "E02",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 282,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3397481.3450650",
+      "limitation": "Crossref-linked references only; not exhaustive or field/year normalized; not writing quality"
+    }
+  },
+  {
+    "id": "P118-plant-care",
+    "title": "Domestic Cultures of Plant Care: A Moss Terrarium Probe",
+    "authors": [
+      "Binyamini Ben-Meir",
+      "Healey",
+      "Deterding"
+    ],
+    "venue": "DIS",
+    "publication_year": 2025,
+    "presentation_year": 2025,
+    "doi": "10.1145/3715336.3735689",
+    "primary_knowledge_object": "sociocultural configuration account and situated plant-care typology",
+    "method": "thing ethnography with instrumented terrarium, interviews and cross-case qualitative analysis",
+    "affiliations_as_stated": "Queen Mary University of London; Imperial College London",
+    "analyzed_version": "OSF preprint v1, published 19 March 2025, 24 pages; not the 19-page proceedings version",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://programs.sigchi.org/dis/2025/awards/best-papers",
+      "evidence": "Title and authors matched in official Best Papers list; award applies to published paper",
+      "verified_on": "2026-10-30"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P118-plant-care.md",
+    "selection_reason": "Recent contribution contrast; independent author/conference discovery; citation snapshot is context, not a quality rank",
+    "url": "https://osf.io/download/mysv3/",
+    "sha256": "273ea1385b84eade1facfe7b275cf8515ab8c69dc99fcd642424f947608d5cec",
+    "bytes": 9319500,
+    "primary_writing_route": "qualitative",
+    "expansion_batch": "E02",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 8,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3715336.3735689",
+      "limitation": "Crossref-linked references only; not exhaustive or field/year normalized; not writing quality"
+    }
+  },
+  {
+    "id": "P119-social-transparency",
+    "title": "Expanding Explainability: Towards Social Transparency in AI systems",
+    "authors": [
+      "Ehsan",
+      "Liao",
+      "Muller",
+      "Riedl",
+      "Weisz"
+    ],
+    "venue": "CHI",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3411764.3445188",
+    "primary_knowledge_object": "conceptual reframing and formative design framework for socially situated explainability",
+    "method": "four workshops, four pilots and 29 scenario-based interviews",
+    "affiliations_as_stated": "Georgia Institute of Technology; IBM Research AI",
+    "analyzed_version": "arXiv 2101.04719v1, 12 January 2021, 29 pages; not compared with proceedings version",
+    "award": {
+      "status": "unverified",
+      "source": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P119-social-transparency.md",
+    "selection_reason": "Recent contribution contrast; independent author/conference discovery; citation snapshot is context, not a quality rank",
+    "url": "https://arxiv.org/pdf/2101.04719v1",
+    "sha256": "6467d49005bf6e2c69f1e71eae98dc19bede47a447ce3a40cf5429f05c5f8f6b",
+    "bytes": 911025,
+    "primary_writing_route": "conceptual",
+    "expansion_batch": "E02",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 468,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3411764.3445188",
+      "limitation": "Crossref-linked references only; not exhaustive or field/year normalized; not writing quality"
+    }
+  },
+  {
+    "id": "P120-earhover",
+    "title": "EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals",
+    "authors": [
+      "Suzuki",
+      "Amesaka",
+      "Watanabe",
+      "Shizuki",
+      "Sugiura"
+    ],
+    "venue": "UIST",
+    "publication_year": 2024,
+    "presentation_year": 2024,
+    "doi": "10.1145/3654777.3676367",
+    "primary_knowledge_object": "acoustic sensing and mid-air input technique with prototype feasibility evidence",
+    "method": "gesture screening, auditory study and offline detection/classification experiments",
+    "affiliations_as_stated": "Keio University; Future University Hakodate; University of Tsukuba",
+    "analyzed_version": "ACM-formatted author-lab copy, 13 pages; no version comparison",
+    "award": {
+      "status": "Best Paper",
+      "source": "https://uist.acm.org/2024/",
+      "evidence": "Title and authors matched in official Best Papers list; award applies to published paper",
+      "verified_on": "2026-10-30"
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P120-earhover.md",
+    "selection_reason": "Recent contribution contrast; independent author/conference discovery; citation snapshot is context, not a quality rank",
+    "url": "https://www.iplab.cs.tsukuba.ac.jp/paper/international/suzuki_uist2024.pdf",
+    "sha256": "414b4a362554c31ec56ff436a38661058782155e51dd14196b6f5747013fb9c8",
+    "bytes": 4361313,
+    "primary_writing_route": "artifact",
+    "expansion_batch": "E02",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": null,
+      "retrieved_on": "2026-10-30",
+      "source": "https://api.crossref.org/works/10.1145/3654777.3676367",
+      "limitation": "Request returned HTTP 429; no citation count inferred"
+    }
   }
 ]

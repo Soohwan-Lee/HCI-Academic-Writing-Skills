@@ -1,6 +1,6 @@
-# Exploratory corpus — 112 reviewed analyses
+# Exploratory corpus — 117 reviewed analyses
 
-112 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+117 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot was expanded to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -121,6 +121,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P112](analyses/P112-turkopticon.md) | CHI 2013 | Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk — activist systems design and sociotechnical interpretation | unverified |
 | [P113](analyses/P113-utopian-making.md) | CHI 2016 | Reconstituting the Utopian Vision of Making: HCI After Technosolutionism — critical and generative research sensibility | unverified |
 | [P115](analyses/P115-dsv-genealogy.md) | CSCW 2026 | “My Body is Not Your Porn”: Identifying Trends of Harm and Oppression through a Sociotechnical Genealogy of Digital Sexual Violence in South Korea — sociotechnical genealogy and critical historical interpretation | Method Recognition |
+| [P116](analyses/P116-illusion-depth.md) | IUI 2021 | I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI — empirical evaluation of perceived understanding and a measurement critique | unverified |
+| [P117](analyses/P117-explanations-helpful.md) | IUI 2021 | Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making — comparative empirical evidence organized by explanation desiderata | unverified |
+| [P118](analyses/P118-plant-care.md) | DIS 2025 | Domestic Cultures of Plant Care: A Moss Terrarium Probe — sociocultural configuration account and situated plant-care typology | Best Paper |
+| [P119](analyses/P119-social-transparency.md) | CHI 2021 | Expanding Explainability: Towards Social Transparency in AI systems — conceptual reframing and formative design framework for socially situated explainability | unverified |
+| [P120](analyses/P120-earhover.md) | UIST 2024 | EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals — acoustic sensing and mid-air input technique with prototype feasibility evidence | Best Paper |
 
 ## Coverage and exclusions
 CHI 38, COMPASS 1, CSCW 22, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.

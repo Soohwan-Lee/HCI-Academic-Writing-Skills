@@ -75,7 +75,7 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
 | Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
 | Candidate screening | In progress | 30 recent official-award candidates independently sourced and title-deduplicated; IUI and other strata pending |
-| New full-text batches | 4 / 100 accepted | E01: P111, P112, P113, P115; 112 total; 96 additions remain |
+| New full-text batches | 9 / 100 accepted | E01 four + E02 five; 117 total; 91 additions remain |
 | Skill synthesis and tests | Pending | Review after each 20 additions and final integration |
 | README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
@@ -95,3 +95,21 @@ unread/unaccepted because its eight-page scan needs OCR or visual reading. No
 additional numeric length measurements were added. Next batches must prioritize
 2018–2026 sources to meet the 80/100 recent target. The separate 30-title queue is
 not included in the analyzed count.
+
+## E02 gate — recent empirical, conceptual, ecological and sensing contrasts
+Five additions from 2021–2025: two IUI experiments, CHI Social Transparency,
+DIS domestic plant-care ethnography, and UIST EarHover. Root read all five main
+texts and inspected 17 rendered pages, including ten complete paragraph examples.
+Opus 5.5 medium assisted all five through subscription authentication. The plant
+study is an explicitly identified March 2025 OSF preprint; its published version
+was inaccessible and is not claimed identical. Official Best Paper records were
+checked for plant care and EarHover. Four Crossref snapshots succeeded; EarHover
+returned HTTP 429 and has no inferred citation count.
+
+Cumulative expansion: 9/100, with 6/9 from 2018–2026 and 3/9 from 2022–2026.
+Current additions by venue: CHI 4, CSCW 1, IUI 2, DIS 1, UIST 1. Three E02 papers
+primarily concern AI; the sensing classifier serves a physical-interaction claim.
+These small batches are not individually representative. Next acquisition must
+prioritize CSCW/DIS/UIST, resources, review/measurement and non-AI contrasts before
+adding another XAI cluster. Two of the 30 award-queue papers are now accepted;
+28 remain candidates. Other Zotero collections remain part of the acquisition plan.

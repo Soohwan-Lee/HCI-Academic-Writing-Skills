@@ -18,8 +18,10 @@
     "recognition": "Best Paper",
     "recognition_checked_on": "2026-10-30",
     "selection_question": "sensing and interaction",
-    "status": "candidate; full-text and contribution verification pending",
-    "citation_count": null
+    "status": "accepted after full-text and root review",
+    "citation_count": null,
+    "corpus_id": "P120-earhover",
+    "analysis": "analyses/P120-earhover.md"
   },
   {
     "title": "What’s the Game, then? Opportunities and Challenges for Runtime Behavior Generation",
@@ -84,8 +86,10 @@
     "recognition": "Best Paper",
     "recognition_checked_on": "2026-10-30",
     "selection_question": "situated care and probes",
-    "status": "candidate; full-text and contribution verification pending",
-    "citation_count": null
+    "status": "accepted after full-text and root review",
+    "citation_count": null,
+    "corpus_id": "P118-plant-care",
+    "analysis": "analyses/P118-plant-care.md"
   },
   {
     "title": "HapticWings: Enhancing the Experience of Extra Wing Motions in Virtual Reality through Dynamic 2D Weight Shifting",
