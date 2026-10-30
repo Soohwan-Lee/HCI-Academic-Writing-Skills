@@ -1,6 +1,6 @@
 # From paper observations to writing decisions
 
-This original synthesis draws on **107 purposive full-text analytical notes**.
+This original synthesis draws on **108 purposive full-text analytical notes**.
 It is a teaching corpus, not a systematic review, a study of acceptance predictors,
 or a claim that famous labs share an optimal style. [Coverage](COVERAGE-AUDIT.md)
 and [source records](CORPUS.md) make selection and version limitations explicit.
@@ -106,3 +106,11 @@ compilation and semantic review remain different tasks. Two real file-edit trial
 succeeded, while evidence-poor generative trials retained unsupported details.
 The [behavior report](../tests/behavior/SEMANTIC-REPORT.md) records those failures;
 the corpus and prompts cannot guarantee factual writing or replace author judgment.
+
+## Contribution taxonomy correction
+The original eight navigation routes mixed claim categories with method-oriented
+labels. P110's sociotechnical account makes this limitation concrete: a probe and
+qualitative analysis are its access/analytic approach, while the contribution is
+an account of relations among practice, technology, cultural expectations and
+well-being. Its implications are not an evaluated system or necessarily a new
+general theory. See [taxonomy review](../docs/CONTRIBUTION-TAXONOMY-REVIEW.md).

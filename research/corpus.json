@@ -3727,5 +3727,43 @@
     "paper_form": "pictorial",
     "primary_writing_route": "resource",
     "manuscript_form": "pictorial"
+  },
+  {
+    "id": "P110-godsaeng",
+    "title": "Constructing Everyday Well-Being: Insights from God-Saeng (God生) for Personal Informatics",
+    "authors": [
+      "Inhwa Song",
+      "Kwangyoung Lee",
+      "Janghee Cho",
+      "Amon Rapp",
+      "Hwajung Hong"
+    ],
+    "venue": "CHI",
+    "publication_year": 2026,
+    "presentation_year": 2026,
+    "doi": "10.1145/3772318.3790766",
+    "primary_knowledge_object": "situated sociotechnical account of everyday well-being; prospective PI design implications",
+    "primary_writing_route": "qualitative",
+    "contribution_profile": {
+      "primary_claim": "sociotechnical phenomenon interpretation",
+      "secondary_claim": "prospective design implications",
+      "theory_role": "situated/existential lenses used to develop interpretation; no automatic new-general-theory designation",
+      "review_status": "explicitly reviewed for taxonomy follow-up"
+    },
+    "method": "group workshop, 10-day cultural-probe-inspired missions, follow-up peer-group interviews; interpretivist thematic analysis",
+    "affiliations_as_stated": "Princeton; KAIST; National University of Singapore; University of Turin",
+    "analyzed_version": "arXiv 2603.00847v1, 2026-03-01; downloaded PDF 17 pages (abstract-page comment says 12); publisher byte identity unverified",
+    "award": {
+      "status": "unverified",
+      "source": null,
+      "evidence": null
+    },
+    "accessed": "2026-10-30",
+    "analysis": "analyses/P110-godsaeng.md",
+    "analysis_status": "complete main text read; references consulted; two paragraph examples visually inspected",
+    "selection_reason": "User-specified counterexample to method-led routing; sociotechnical phenomenon interpretation",
+    "url": "https://arxiv.org/pdf/2603.00847v1",
+    "sha256": "b9f9a63a42c10b37b593f1f0fe62b5f54923b4b8cf4b11a84470af2047efe495",
+    "bytes": 4995505
   }
 ]

@@ -1,12 +1,12 @@
-# Coverage audit — 107 analyzed papers
+# Coverage audit — 108 analyzed papers
 
-This purposive teaching corpus contains **105 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2025.
+This purposive teaching corpus contains **106 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
 
 ## Venue coverage
 
 | Venue | Papers |
 |---|---:|
-| CHI | 34 |
+| CHI | 35 |
 | COMPASS | 1 |
 | CSCW | 21 |
 | DIS | 18 |
@@ -24,7 +24,7 @@ These are primary **navigation routes**, not exclusive ontological labels. The o
 | conceptual | 14 |
 | design | 9 |
 | method | 8 |
-| qualitative | 21 |
+| qualitative | 22 |
 | quantitative | 15 |
 | resource | 5 |
 | review | 9 |
@@ -37,4 +37,12 @@ Accessibility, privacy/security, health/care, fabrication, physical interaction,
 
 Public availability and known author/lab networks shaped discovery. Systems and design lineages recur; affiliation strings are not normalized enough to assert independent-lab balance. Awards are verified only where the metadata supplies evidence; unknown award status is not evidence of absence. This corpus cannot estimate acceptance predictors, venue norms, field-wide frequencies or a universal writing style. More non-English, Global South, critical disability, longitudinal, replication and negative-result exemplars would strengthen later editions.
 
-Full-text rhetorical notes cover 107 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
+Full-text rhetorical notes cover 108 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
+
+## Taxonomy follow-up
+P110 God-Saeng is explicitly profiled as sociotechnical phenomenon interpretation,
+with prospective design implications. Its legacy `primary_writing_route=qualitative`
+retains compatibility with the original navigation counts; it is not a sufficient
+contribution label. The current selection layer separates claim, method, theoretical
+role and form. Existing entries have not all been re-coded on those axes; do not
+report a new sociotechnical-category count from legacy route labels.

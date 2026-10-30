@@ -1,6 +1,6 @@
-# Exploratory corpus — 107 reviewed analyses
+# Exploratory corpus — 108 reviewed analyses
 
-107 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+108 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot was expanded to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -116,9 +116,10 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P107](analyses/P107-screen2words.md) | UIST 2021 | Screen2Words — task, reusable dataset, and computational model (co-primary hybrid) | unverified |
 | [P108](analyses/P108-hapticcap.md) | Findings of EMNLP 2025 | HapticCap — reusable dataset and retrieval benchmark | unverified |
 | [P109](analyses/P109-multilifespan-cards.md) | DIS 2022 | Multi-lifespan Envisioning Cards — reusable design resource and design-method knowledge (co-primary hybrid) | unverified |
+| [P110](analyses/P110-godsaeng.md) | CHI 2026 | Constructing Everyday Well-Being — sociotechnical phenomenon interpretation | unverified |
 
 ## Coverage and exclusions
-CHI 34, COMPASS 1, CSCW 21, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.
+CHI 35, COMPASS 1, CSCW 21, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.
 Coverage remains uneven; see [the audit](COVERAGE-AUDIT.md). Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 

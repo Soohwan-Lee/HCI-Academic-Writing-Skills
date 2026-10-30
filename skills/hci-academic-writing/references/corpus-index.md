@@ -1,6 +1,6 @@
 # Evidence lookup by contribution
 
-107 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
+108 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
 
 Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length subset: 32 paragraphs in 14 papers; no universal paragraph target follows. See the [measurement protocols](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md).
 
@@ -106,6 +106,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P99 — The Politics of Fear and the Experience of Bangladeshi Religious Minority Communities Using Social Media Platforms](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P99-politics-fear.md) | CSCW 2024 | interpretive understanding of fear, minority participation and social power | [source](https://doi.org/10.1145/3686926) |
 | [P100 — Combating Misinformation in Bangladesh: Roles and Responsibilities as Perceived by Journalists, Fact-checkers, and Users](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P100-bangladesh-misinformation.md) | CSCW 2020 | empirical understanding of stakeholder responsibility and infrastructural constraints | [source](https://doi.org/10.1145/3415201) |
 | [P106 — Conversations With The Stressed Body: Facilitating Stress Self-Disclosure Among Adolescent Girls Through An Embodied Approach](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P106-embodied-probes.md) | DIS 2025 | situated understanding of embodied stress disclosure and inquiry methods | [source](https://doi.org/10.1145/3715336.3735707) |
+| [P110 — Constructing Everyday Well-Being: Insights from God-Saeng (God生) for Personal Informatics](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P110-godsaeng.md) | CHI 2026 | situated sociotechnical account of everyday well-being; prospective PI design implications | [source](https://doi.org/10.1145/3772318.3790766) |
 
 ## Quantitative
 

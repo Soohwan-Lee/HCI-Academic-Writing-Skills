@@ -343,3 +343,11 @@ four bounded negative checks without treating them as universal non-award eviden
 SIGCHI JavaScript extraction/browser availability limits are explicit; indexed
 official session and award content supplied the P51 match. This is one reviewed
 batch, not a claim to have audited all remaining 72 unresolved records.
+
+## Gate X — sociotechnical exemplar and taxonomy audit
+Read P110 God-Saeng in full, inspected two rendered paragraph locations and recorded
+its sociotechnical interpretation separately from probe method and prospective design
+implications. Two Opus 5.5 consultations exposed mixed routing axes and subtype
+obligations; root corrected an overstatement about probes and rejected automatic
+theory-generation requirements. See CONTRIBUTION-TAXONOMY-REVIEW.md for decisions.
+Current corpus: 108. Additional full-text expansion is planned, not yet completed.

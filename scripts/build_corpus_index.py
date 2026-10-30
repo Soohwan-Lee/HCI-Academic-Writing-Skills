@@ -10,7 +10,7 @@ def render():
     rows = json.loads((ROOT / 'research/corpus.json').read_text())
     assert len({r['id'] for r in rows}) == len(rows)
     text = '# Evidence lookup by contribution\n\n'
-    text += ('107 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. '
+    text += (f'{len(rows)} purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. '
              'Choose one or two cases matching the knowledge claim and writing problem. '
              'These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. '
              'The installed core skill works offline; linked evidence requires repository access or a network. '
@@ -35,5 +35,5 @@ if __name__ == '__main__':
     result=render()
     if args.check:
         if TARGET.read_text()!=result: raise SystemExit('Corpus index is stale')
-        print('Corpus index matches 107 reviewed records')
+        print('Corpus index matches reviewed manifest records')
     else: TARGET.write_text(result)
