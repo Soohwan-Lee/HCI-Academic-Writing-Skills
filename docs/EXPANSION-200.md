@@ -75,8 +75,8 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
 | Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
 | Candidate screening | In progress | 30 recent official-award candidates independently sourced and title-deduplicated; IUI and other strata pending |
-| New full-text batches | 9 / 100 accepted | E01 four + E02 five; 117 total; 91 additions remain |
-| Skill synthesis and tests | Pending | Review after each 20 additions and final integration |
+| New full-text batches | 14 / 100 accepted | E01 four + E02 five + E03 five; 122 total; 86 additions remain |
+| Skill synthesis and tests | E02/E03 integrations reviewed | Four E03 behavior probes retained limitations; next cumulative review after 20 additions |
 | README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
 ## Release gate
@@ -132,3 +132,15 @@ Zotero item retrieval remains blocked; broader collections remain acquisition
 priorities, not completed coverage. Next: translate E03 contrasts into review
 instructions, then prioritize DIS, resource/method and non-AI design exemplars.
 No new numerical paragraph-length or section-proportion measurements were added.
+
+## E04 acquisition and reading — in progress
+P128 Design Bookkeeping and P129 Porous by Design have completed root main-text
+reading, visual inspection and Opus-assisted analysis. Their notes are staged
+research artifacts; neither is yet included in the accepted corpus count.
+Together they contrast reflective material practice and sociotechnical conceptual
+extension within DIS. P127 Participation in Data Donation remains an acquisition
+candidate after repository timeouts and a publisher-mirror HTTP 403; it is not read
+or counted. Seek additional participatory/method/resource contrasts and then
+return to UIST, CSCW and IUI; a convenient award cohort must not become the whole
+expansion. Zotero collection inventory remains a sampling guide, not evidence of
+item-level coverage. Remote HEAD was confirmed after the E03 correction push.
