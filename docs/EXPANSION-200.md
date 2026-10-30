@@ -1,8 +1,11 @@
 # Second corpus expansion
 
-Status: active; started 2026-10-30. Baseline: 108 distinct full-text analyses,
-including the newly read God-Saeng paper. Target: **100 additional analyses (208 total)**.
-This target is a work commitment, not a claim that 208 papers have been read.
+Status: **count target superseded by user instruction, 2026-10-31**.
+The former 100-addition / 208-total target below is retained as historical planning.
+Current accepted corpus: **128 papers**. There is no outstanding 80-paper quota.
+Further acquisition is conditional on missing structural contrasts. Active completion
+criteria are in [the structure-analysis plan](STRUCTURE-ANALYSIS-PLAN.md): contribution
+coverage, hierarchical argument maps, usable drafting guidance and manuscript tests.
 
 ## Selection design
 

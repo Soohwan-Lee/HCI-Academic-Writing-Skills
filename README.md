@@ -137,7 +137,7 @@ The [contribution catalogue](skills/hci-academic-writing/references/contribution
 
 The scope includes collaboration, human–AI interaction, dissent and reflection, alongside accessibility, privacy, care, education, craft, physical interaction and situated social research. This is a purposive teaching collection, not a representative sample. Artifact papers remain more numerous, and some routes need further expansion.
 
-**Planned, not completed:** [100 additional analyses](docs/EXPANSION-200.md) are planned, for a target of 208. Twenty additions have passed source review (128 total); 80 remain. This README counts only completed analyses.
+**Current development:** The former 208-paper target has been superseded. We are deepening contribution-specific section, subsection, paragraph and sentence analysis across the 128-paper corpus, adding papers when a structural gap requires them. See the [active structure-analysis plan](docs/STRUCTURE-ANALYSIS-PLAN.md). Paper counts do not measure completion of this work.
 
 - [Corpus and source provenance](research/CORPUS.md) · [coverage audit](research/COVERAGE-AUDIT.md)
 - [Cross-paper synthesis](research/SYNTHESIS.md) · [portable evidence index](skills/hci-academic-writing/references/corpus-index.md)

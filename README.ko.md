@@ -137,7 +137,7 @@ Claude Code는 `--host claude-code`, Antigravity는 사용 환경에 맞게 `--h
 
 협업, 인간–AI 상호작용, 반대 의견과 성찰뿐 아니라 접근성, 프라이버시, 돌봄, 교육, 공예, 신체적 인터랙션과 사회적 맥락의 연구를 함께 다룹니다. 목적 표집한 교육용 사례집이며 대표 표본은 아닙니다. 시스템 논문의 비중이 높고, 일부 경로는 추가 확충이 필요합니다.
 
-**완료가 아닌 계획:** [100편 추가 분석](docs/EXPANSION-200.md)을 계획하고 있으며 목표는 총 208편입니다. 추가 분석 중 20편의 원문 검토를 마쳐 현재 총 128편이며, 80편이 남았습니다. 이 README는 완료된 분석만 집계합니다.
+**현재 개발 방향:** 기존 208편 목표는 해제했습니다. 현재 128편을 바탕으로 기여별 섹션·하위섹션·문단·문장 구조 분석을 심화하고, 설명하지 못하는 구조가 있을 때 논문을 추가합니다. [현재 구조 분석 계획](docs/STRUCTURE-ANALYSIS-PLAN.md)을 참고하세요. 논문 편수가 이 작업의 완료 정도를 뜻하지는 않습니다.
 
 - [논문 목록·출처](research/CORPUS.md) · [분포와 한계](research/COVERAGE-AUDIT.md)
 - [논문 간 종합](research/SYNTHESIS.md) · [스킬용 근거 인덱스](skills/hci-academic-writing/references/corpus-index.md)

@@ -172,9 +172,23 @@ instructions and sources before adding categories.
 
 ## Active expansion checkpoint — 020
 See [EXPANSION-200.md](EXPANSION-200.md) for the 100-addition plan and completed
-20-addition breadth audit. Twenty additions are accepted (128 total); 80 remain.
+20-addition breadth audit. Twenty additions were accepted (128 total). The user subsequently removed the
+100-addition quota; no remaining 80-paper commitment applies.
 The next block prioritizes CSCW maintenance, mutual aid, interdependence and
 participatory work, followed by missing resource/method/longitudinal contrasts.
 The E04 modules are root-reviewed; Claude critique and four behavior cases remain
 pending after the subscription quota response. Zotero collection membership remains
 unverified; use independent public sources while item retrieval is unavailable.
+
+## Structural-analysis correction — 2026-10-31
+The [four-level structure plan](STRUCTURE-ANALYSIS-PLAN.md) is now a separate active
+workstream: actual sections, subsections, paragraph jobs and sentence flow, across
+all contribution families. Existing paper counts do not measure completion of this
+workstream. User examples are illustrative, not a restriction to systems/RtD/HCAI.
+Continue source analysis and implementation when Claude or Zotero is unavailable.
+
+## Current priority after user correction
+The count target is superseded. Complete four-level structural analysis and practical
+writing support with targeted acquisition where needed. S01 now maps Wheeler's
+actual hierarchy, all paragraphs in four ideation subsections and two sentence flows.
+Continue contrasting sources before deriving cross-paper architecture guidance.

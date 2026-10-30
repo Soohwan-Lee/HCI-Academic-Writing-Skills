@@ -503,3 +503,22 @@ A fresh one-item request to the CSCW masterpiece collection timed out after eigh
 seconds; no collection contents were inferred. Final metadata checks allow existing
 null DOI fields and verify uniqueness of all non-null DOIs, analysis paths, generated
 index parity and checkpoint totals.
+
+## Structural-analysis correction and count-target change — 2026-10-31
+The user clarified that analysis must compare actual sections, subsections,
+paragraph roles and sentence flow across diverse contribution types; UIST and DIS
+were examples, not boundaries. Auditing the existing guides showed evidence
+calibration was more developed than usable hierarchical architectures. Added a
+separate plan spanning eleven families and explicitly distinguished full-text
+paper notes from deeper structure maps.
+
+The user then superseded the 208-paper target. Retained the historical expansion
+record but removed the current 80-paper quota from active planning and both READMEs.
+New papers will be selected to resolve structural gaps rather than meet a count.
+
+S01 re-reads Wheeler's actual nested hierarchy and all paragraphs in four ideation
+subsections; S02 re-reads the pictorial's visual/case hierarchy and complete selected
+paragraph sequences. Each maps two complete sentence flows. These source-specific
+maps do not yet establish a cross-paper norm. No Claude critique or numeric length
+measurement is claimed for this stage. Continue with contrasting architectures and
+remaining contribution families before declaring the writing support complete.
