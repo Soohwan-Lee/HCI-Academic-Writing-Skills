@@ -82,6 +82,25 @@ then reserve untested applications for prospects.
 
 ## Paragraph pattern and original illustration
 
+For learned sensing techniques, make **training population, training environment,
+test split, metric and prototype hardware** recoverable where the result is first
+reported in detail. In compressed claims, retain conditions that change the conclusion.
+[P120, EarHover](https://doi.org/10.1145/3654777.3676367) (author manuscript, implementation §4 p.5; evaluations and discussion §§5–7 pp.6–11) illustrates why:
+user-independent detection and user-specific classification have different
+generalization boundaries, and environment-specific training changes the result.
+Its prototype uses added recording hardware; compatibility with ordinary hearables
+remains prospective, not demonstrated for unmodified devices. Do not compress those distinctions into
+“works on commodity devices” or one unqualified recognition percentage.
+
+Its discussion (§7, p.11) offers one possible paragraph move: **error type → interaction
+consequence → relative cost → design priority → unresolved evaluation**. A false
+activation and a missed gesture need different remedies. Ground those consequences
+in the manuscript; possible harms or benefits are not automatically measured
+outcomes. As a general check, when a confusion matrix motivates pruning a gesture
+set, identify that selection step and whether the revised set received fresh
+evaluation. P120 reports a post-hoc five-gesture subset in §7.2; distinguish that
+reanalysis from a newly collected validation.
+
 A useful engineering paragraph is **requirement → choice → mechanism → trade-off
 → scope or next component**. P81's portable actuation discussion connects an
 implemented alternative to speed/noise costs and a prospective mitigation. [P82,

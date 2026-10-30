@@ -51,6 +51,38 @@ Choose an opening that performs the paragraph's job. Use conclusion-first writin
 
 These are expandable sentence roles, not mandatory sentence counts. Carry a specific unresolved concept from the preceding paragraph into the next; delete generic transitional promises when the content already provides continuity.
 
+### Preserve the comparison while compressing
+
+Before rewriting a results paragraph or abstract, retain four linked elements:
+**what varied or was compared → what was measured → what analysis supports the
+statement → what remains unresolved when that uncertainty changes the claim**. If the sentence names a psychological construct, check
+whether it reports a rating, behavior, inferred process, or directly assessed
+construct. Do not silently upgrade one to another.
+
+[P117, Are Explanations Helpful?](https://doi.org/10.1145/3397481.3450650)
+(author manuscript, §§2–5; discussion pp.9–10) threads the same three desiderata through literature, RQs, measures and results.
+This is a useful alignment strategy. Its two domains, however, do not isolate
+expertise as a causal moderator. A task-specific contrast should retain the task
+names rather than become a universal novice/expert claim. Its tables also distinguish
+untested, unsupported and partially supported criteria; preserve that distinction
+when compressing a mixed result into a sentence or table symbol.
+
+[P116, Illusion of Explanatory Depth](https://doi.org/10.1145/3397481.3450644)
+(author manuscript, introduction pp.1–2; research questions §3 and study procedure §5) connects
+overestimated understanding to the limits of self-reported understanding, then
+compares understanding ratings before and after explanatory tasks and feedback. In adapting that structure, keep the sequence and
+intervening feedback visible: a post-feedback rating decline is not by itself
+an isolated effect of explanation format. Different recruitment and procedures
+also constrain comparisons between moderated and unmoderated samples.
+
+For a proposed explanation of results, use **pattern → explicitly tentative account
+→ reason or relevant theory → unresolved alternative → bounded implication**.
+P117's expertise discussion illustrates this move, while also showing how a firm
+phrase later in the paragraph can undo an initial hedge. Read the full paragraph,
+abstract and conclusion for changes in certainty; one early “may” does not qualify
+every subsequent sentence. These cases illustrate reporting choices, not advice
+to inherit their statistical procedures.
+
 ## Original hypothetical revision
 
 **Hypothetical scenario, not a source finding:** suppose supplied results show shorter completion time, greater reported workload, and an inconclusive error comparison.

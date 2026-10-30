@@ -1,0 +1,18 @@
+[
+  {
+    "id": "E02-Q",
+    "input": "Rewrite only this claim using supplied facts: Explanations improve novices and experts equally. Facts: explanations were randomized within each of two tasks; perceived expertise was compared only in a separate pilot; one outcome interval includes zero. No between-task interaction test or equivalence analysis supplied."
+  },
+  {
+    "id": "E02-S",
+    "input": "Rewrite only: Our deployable earbud system achieves 90% accuracy for everyone. Facts: an external microphone and amplifier were attached; offline within-user F-score was 90%; held-out-user F-score was 48%; no on-device runtime or field test supplied."
+  },
+  {
+    "id": "E02-P",
+    "input": "Help write a short contribution sentence. Interviews and two weeks of recordings from 11 households support a five-configuration account of plant-care relationships. We traced case sequences and considered rival accounts. We do not estimate average causal effects or have longitudinal evidence. Do not dismiss qualitative explanation or require an experiment."
+  },
+  {
+    "id": "E02-C",
+    "input": "Repair the flow in two sentences without new evidence: Existing social-transparency concepts concern human-human interaction. Our scenario interviews develop a framework for making organizational context visible around AI recommendations. No deployed system or effectiveness evaluation was conducted."
+  }
+]

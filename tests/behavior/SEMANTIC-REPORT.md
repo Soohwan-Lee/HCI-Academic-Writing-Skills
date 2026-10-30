@@ -47,3 +47,29 @@ researcher review; the package does not guarantee hallucination-free text.
 Separate [live file-edit trials](README.md) test installed-file loading and actual
 ACM edits. Both succeeded on supplied evidence, preserved unrelated files, and
 compiled, but there was no no-skill control and no human author-usage study.
+
+## E02: comparison scope and interpretive warrants
+
+Four [synthetic cases](e02-cases.json) were run once with Claude Opus 5.5 medium
+(subscription), supplied the four revised reference modules, with tools disabled.
+Root reviewed outputs before integrating the subsequent critique. This is not a
+full installed-skill test, independent benchmark or measured improvement.
+
+| Case | Observed response | Root assessment |
+|---|---|---|
+| E02-Q | Retained within-task randomization and declined an equal novice/expert effect claim | Supported; no interaction/equivalence analysis invented |
+| E02-S | Preserved external microphone/amplifier, within-user versus held-out-user F-score and offline scope | Supported; did not call F-score accuracy or claim deployment |
+| E02-P | Wrote a qualitative explanatory contribution with configurations and supplied case reasoning | Supported facts, but unnecessary negative contrasts burdened the short contribution sentence |
+| E02-C | Credited antecedent concepts and separated scenario work from deployment | Kept effect limits, but “framework remains formative” unnecessarily weakened the conceptual output |
+
+Root's editorial repairs for the last two are a direct contribution sentence naming
+the account and its material, and a conceptual-extension sentence followed by a
+separate statement that effects were not evaluated. The final sociotechnical module
+now explicitly distinguishes conceptual validity from deployment evidence. These
+repairs were not rerun; no all-cases-pass claim is made.
+
+A separate Opus critique identified camera-as-ground-truth implications, generic
+bias-removal language, misplaced headings, missing locators and overly rigid claim
+compression. Root accepted these concerns, checked source sections and revised the
+modules. Qualitative interpretation is assessed within its analytical tradition;
+research relationships can constitute the material rather than merely contaminate it.

@@ -125,3 +125,19 @@ and then crosses them to construct analytical dimensions. Its sources include
 research, journalism and legal documents; documentary synthesis does not erase its
 primary genealogical claim. These are four contrasting examples, not a new universal
 structure. See the source notes for rhetorical limits and version-specific tensions.
+
+## E02: preserve the warrant through sentence-level revision
+P116 and P117 show how repeated ratings, task contrasts and discussion mechanisms
+can be made fluent while losing their inferential limits. Preserve the measured
+construct and comparison through abstract and conclusion; a hedge early in a
+paragraph does not qualify every later sentence. P120 makes the analogous systems
+problem concrete: personalized classification, held-out-user detection and added
+prototype hardware cannot collapse into one deployable-recognition claim.
+
+P118 adds configurations and explanatory relationships rather than an interface
+feature list. Triangulated sources can complicate each other; recordings do not
+automatically overrule accounts, and reflexive presence is not always a removable
+bias. P119 shows an inheritance–difference–transfer argument for extending a
+concept. Scenario evidence bounds effects claims without making conceptual value
+conditional on a deployment. These five papers supplied ten selected paragraph
+analyses, not new paragraph-length distributions.

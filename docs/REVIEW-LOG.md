@@ -399,3 +399,16 @@ one HTTP 429 left missing. PDFs, model envelopes and library metadata stay priva
 Corpus: 117; expansion: 9/100. Updated bilingual counts, candidate statuses and
 coverage; further acquisition should now diversify beyond this XAI subset. Numerical
 length-study denominators remain seven papers and 32 paragraphs in 14 papers.
+
+## Gate E02b — writing guidance and behavioral limits
+Integrated E02 into quantitative, artifact, paragraph and sociotechnical modules.
+A subscription Opus 5.5 medium critique exposed epistemic and structural problems;
+root accepted source-perspective/reflexivity corrections, restored heading scopes,
+added locators and separated prototype prospects from demonstrated compatibility.
+Four synthetic writing cases preserved quantitative and system comparison limits
+but exposed unnecessary negative contrasts and a conceptual-contribution hedge.
+Recorded those limits and the untested final editorial repairs in the behavior report.
+All 18 installer/LaTeX tests, manifest-index parity and whitespace checks passed.
+A minimal HCAI item API retry still timed out; no collection distribution is claimed.
+Next source batch acquired three non-AI reviews/methodological audits privately;
+acquisition alone is not counted as analysis.

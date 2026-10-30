@@ -75,6 +75,34 @@ what permits that addition? If the transition goes from an interview account to
 an institutional explanation, retain attribution and supply the bridge or narrow
 the claim. Keep tension when the same arrangement affords support and pressure.
 
+## Configuration, typology and formative concepts
+
+For a typology, explain the axis or relational configuration that distinguishes
+types, how cases support it, and where cases overlap or resist it. Do not turn a
+purposive sample into population frequencies or arrange types as a developmental
+ladder unless the evidence warrants that ordering. P118 Plant Care (OSF v1) links
+household configurations to care practices and a model before discussing design.
+Its camera traces, interviews and sensors sometimes complicate each other; the
+instrumented new plant also changes what can be observed. A qualitative account can contribute without causal estimation. If it explicitly
+claims a mechanism or process, support that claim with case evidence and, where
+relevant, temporal reasoning and alternative readings. An interpretive account of
+meaning or practice need not be rewritten as a mechanism; assess its warrants
+within its own tradition. Do not replace that work with a demand for an experiment, or
+describe interpretive arrows as estimated causal effects.
+
+For a formative concept, distinguish antecedent concepts, the proposed change,
+the material used to develop it and its prospective use. P119 Social Transparency
+(arXiv v1) combines prior CSCW concepts with workshops and scenario interviews to
+expand explainability. Numerical judgments in that scenario remain formative
+material; they do not validate a deployed system's effects. A conceptual contribution
+does not become provisional simply because it has not been deployed. Specify which evidence
+comes from existing practice, reactions to researcher-authored scenarios, or
+brainstormed futures. Keep those statuses visible through findings and discussion.
+
+See the [evidence index](corpus-index.md) for both analyses and their source-version
+limits. These examples supplement the method-specific guide rather than define
+every sociotechnical contribution.
+
 ## Preserve access, culture and uncertainty
 
 Explain which recruitment, relationships, positionality, translation and elicitation

@@ -104,6 +104,31 @@ missing setup. Preserve meaningful narrative or interpretive voice.
 These examples are selected analytical observations, not measured evidence that a
 particular structure improves reader comprehension.
 
+### Three additional relations to consider
+
+- **Inheritance → difference → warrant for transfer → scope.** P119 Social
+  Transparency, arXiv v1 p.7, closes related work through four argumentative relations that
+  explain why prior human-human concepts are useful for AI-mediated decisions.
+  Use this when “unlike prior work” is asserted without explaining what is retained
+  and why the changed context matters. A conceptual extension still needs credit
+  for its antecedents.
+- **Account → contrasting record → uptake → interpretation.** P118 Plant Care,
+  OSF v1 p.13, places a caregiver's account beside recorded child interaction and
+  the caregiver's uptake of that interaction. Keep each source identifiable; neither
+  is ground truth by default. Different moments, meanings or vantage points may
+  explain a discrepancy. Bound the interpretation to what the contrast supports.
+- **Research presence → concrete signs → effects on material → supported account.**
+  P118 p.21 describes camera reactivity. Where a manuscript treats reactivity as a
+  validity threat, explain what mitigation shows and what remains open; mitigation
+  alone does not establish that an insight was unaffected. In interpretive work,
+  account reflexively for how research relationships produce material rather than
+  rewriting positionality as bias removal.
+
+Use the [evidence index](corpus-index.md) for these version-specific analyses.
+These roles can span several sentences or paragraphs. They are not sentence-count
+targets, and they should not be imposed on an unrelated authorial argument. An
+absent relation is not itself a defect; use it only when the argument depends on it.
+
 ## An actionable repair procedure
 
 1. **Diagnose:** identify the missing relation, unsupported leap, redundant job,
