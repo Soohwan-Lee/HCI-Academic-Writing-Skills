@@ -1,0 +1,603 @@
+{
+  "status": "Three purposive extracted-body examples; not prose-only counts, ACM counts, target allocations or venue/type norms",
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext SOURCE.pdf -",
+    "page_split": "form feed, one-based pages",
+    "normalization": [
+      "Unicode NFKC",
+      "remove soft hyphens",
+      "P61 only: remove trailing standalone page number matching PDF page",
+      "join hyphen + line break between ASCII letter and lowercase ASCII letter",
+      "collapse whitespace; strip; join selected spans with one space"
+    ],
+    "dehyphenation_regex": "(?<=[A-Za-z])-\\s*\\n\\s*(?=[a-z])",
+    "token_regex": "[A-Za-z0-9]+(?:[’'-][A-Za-z0-9]+)*",
+    "includes": "headings, numeric citations, captions, table/figure labels and numbers, footnotes at extracted positions",
+    "excludes": "abstract, authors/title/keywords, rights notices, acknowledgments, references, appendices; P80 front-page teaser",
+    "offsets": "Python Unicode character offsets in normalized page; end exclusive"
+  },
+  "papers": [
+    {
+      "id": "P61-accessibility-review",
+      "pdf_sha256": "7f256265f7a816381d8867c904d19326cb3d16c37a14dd3b2b3964dce29f4842",
+      "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+      "extracted_body_tokens": 11363,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 593,
+          "selectors": [
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "0a2b99600d7c609ae8dad7bff19198622c83c1e437c69dcddb16a250ac9ba167",
+              "start_character_inclusive": 1961,
+              "end_character_exclusive": 2660,
+              "selected_text_sha256": "3f2c1cee9f18f88b6c0bbcf3dc4f552f9089f6a1cf8453e3f02a452943b90e47"
+            },
+            {
+              "pdf_page": 2,
+              "normalized_page_sha256": "18951ee8ad23e44d05b6c1f7837995749faeaae8eaa2d073b71e88c633346bef",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3360,
+              "selected_text_sha256": "be2b40c3149e2ea265b598765e8888376badad4683aa0a5b6de5eb0ec5eaa53e"
+            }
+          ],
+          "normalized_section_sha256": "8445f3bbce0430f21becbe53804d0e8e6b8f4798ed3c00dd05582070bdc27d5b",
+          "percent_of_extracted_body": 5.22
+        },
+        {
+          "section": "Background and Related Work",
+          "tokens": 1385,
+          "selectors": [
+            {
+              "pdf_page": 2,
+              "normalized_page_sha256": "18951ee8ad23e44d05b6c1f7837995749faeaae8eaa2d073b71e88c633346bef",
+              "start_character_inclusive": 3360,
+              "end_character_exclusive": 3986,
+              "selected_text_sha256": "41d75a256b0273a114c90ffca8c86435b245a0abd061d7cd97ea997c324c90cc"
+            },
+            {
+              "pdf_page": 3,
+              "normalized_page_sha256": "d3b07b552e03957d155d75c1690a7e5a2241c7c29c4c5db5cb47a456e06cfc78",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4279,
+              "selected_text_sha256": "d3b07b552e03957d155d75c1690a7e5a2241c7c29c4c5db5cb47a456e06cfc78"
+            },
+            {
+              "pdf_page": 4,
+              "normalized_page_sha256": "832a4e6f01a7ecdf9ed7f978f4720b2a2605b6ddfc5183488a540fb9f44982ac",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4331,
+              "selected_text_sha256": "832a4e6f01a7ecdf9ed7f978f4720b2a2605b6ddfc5183488a540fb9f44982ac"
+            },
+            {
+              "pdf_page": 5,
+              "normalized_page_sha256": "16ee0152f5cac43eb303ffcf7cf103a0956bfa41d0e27d61a5335da134265c86",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 329,
+              "selected_text_sha256": "e2c35e73e99fb6a3aaac6ad693b4f49bba04e32722d93355d724ee535ad0cc8c"
+            }
+          ],
+          "normalized_section_sha256": "bb860debf84460ee08a1849854fa495ceacf9fd83f0db59e5c08035ebb8c8971",
+          "percent_of_extracted_body": 12.19
+        },
+        {
+          "section": "Method",
+          "tokens": 2387,
+          "selectors": [
+            {
+              "pdf_page": 5,
+              "normalized_page_sha256": "16ee0152f5cac43eb303ffcf7cf103a0956bfa41d0e27d61a5335da134265c86",
+              "start_character_inclusive": 329,
+              "end_character_exclusive": 3922,
+              "selected_text_sha256": "4155d3d2dff4b90fde031dca6b59254c4efd81bf7f9fe4e4010f7637faac686d"
+            },
+            {
+              "pdf_page": 6,
+              "normalized_page_sha256": "0a7e347099c78a10a7d932c0b4cd124186dcc44badd35a839945125128173b55",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4183,
+              "selected_text_sha256": "0a7e347099c78a10a7d932c0b4cd124186dcc44badd35a839945125128173b55"
+            },
+            {
+              "pdf_page": 7,
+              "normalized_page_sha256": "75e8780c5ed9989b3a7a74dd57d5abf9bb7fe01886320b5a528e9d5ff90c2fc4",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4068,
+              "selected_text_sha256": "75e8780c5ed9989b3a7a74dd57d5abf9bb7fe01886320b5a528e9d5ff90c2fc4"
+            },
+            {
+              "pdf_page": 8,
+              "normalized_page_sha256": "98fcd59a0364d96da176f895cbf4d0047db4a3d3ae42032c808901ab7da598e1",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3203,
+              "selected_text_sha256": "98fcd59a0364d96da176f895cbf4d0047db4a3d3ae42032c808901ab7da598e1"
+            },
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "dec3a748c6c4df2576a8a4354b7264eab65b1f98269e4ab24846e6d958b573e8",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 170,
+              "selected_text_sha256": "84ce590c812fcc0ad83f9b2e59a571bff3a5890e97730c9a9cf43daeffda6681"
+            }
+          ],
+          "normalized_section_sha256": "3f816f5852139cb7539a1fb9bc7a0eab890fc3cd00e362ea33051fc0e7841edb",
+          "percent_of_extracted_body": 21.01
+        },
+        {
+          "section": "Results",
+          "tokens": 4781,
+          "selectors": [
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "dec3a748c6c4df2576a8a4354b7264eab65b1f98269e4ab24846e6d958b573e8",
+              "start_character_inclusive": 170,
+              "end_character_exclusive": 3230,
+              "selected_text_sha256": "3f8ab184d8c932a2ed10b26fba95cb85eb7ee110e615fa5b34bc216ee445eecc"
+            },
+            {
+              "pdf_page": 10,
+              "normalized_page_sha256": "04ea1e626d00ce21784631414654c7ccb2ea9ec60db3d83d036422fc516888e2",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3934,
+              "selected_text_sha256": "04ea1e626d00ce21784631414654c7ccb2ea9ec60db3d83d036422fc516888e2"
+            },
+            {
+              "pdf_page": 11,
+              "normalized_page_sha256": "f3c14a690cf3f61985b225137d4370954af0c22e9cac3669a5db71110c400e7b",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3198,
+              "selected_text_sha256": "f3c14a690cf3f61985b225137d4370954af0c22e9cac3669a5db71110c400e7b"
+            },
+            {
+              "pdf_page": 12,
+              "normalized_page_sha256": "819cbea0445a46911e25a5dd773b92da43aa402f8a4e8d7752b42bdd4210426d",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3753,
+              "selected_text_sha256": "819cbea0445a46911e25a5dd773b92da43aa402f8a4e8d7752b42bdd4210426d"
+            },
+            {
+              "pdf_page": 13,
+              "normalized_page_sha256": "185d0241e9aa16c6f1d9b36486bbe6b4431f4af6da504b87dc5d00cbab26fd56",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3208,
+              "selected_text_sha256": "185d0241e9aa16c6f1d9b36486bbe6b4431f4af6da504b87dc5d00cbab26fd56"
+            },
+            {
+              "pdf_page": 14,
+              "normalized_page_sha256": "83030037ec69fd7a8951e536f95343f9687af4f680cabcb1df4b69b466a7adaf",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3698,
+              "selected_text_sha256": "83030037ec69fd7a8951e536f95343f9687af4f680cabcb1df4b69b466a7adaf"
+            },
+            {
+              "pdf_page": 15,
+              "normalized_page_sha256": "d9db505dc67d45f812f7ee03f04ff9f2676cbf60c66c85d3ac92f554ab0f21c0",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3160,
+              "selected_text_sha256": "d9db505dc67d45f812f7ee03f04ff9f2676cbf60c66c85d3ac92f554ab0f21c0"
+            },
+            {
+              "pdf_page": 16,
+              "normalized_page_sha256": "2dfe1a52b274bd2b54446659c3835d9adf1bf9af6a39cc9bf9bfb09a184d6e1b",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 2410,
+              "selected_text_sha256": "2dfe1a52b274bd2b54446659c3835d9adf1bf9af6a39cc9bf9bfb09a184d6e1b"
+            },
+            {
+              "pdf_page": 17,
+              "normalized_page_sha256": "95a76e7fe4a964029aa2839bb4faf3f9ffab0da3af5f1fb4290c0b089a29aca0",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 1508,
+              "selected_text_sha256": "d7911e842dd318ede21d097c7c8da07f9deb72b0936e107f7e69e803f4b4e029"
+            }
+          ],
+          "normalized_section_sha256": "20f985b3e15091003c705f14134965c6c5c4a5d88945163c1c8dd5673f32659b",
+          "percent_of_extracted_body": 42.08
+        },
+        {
+          "section": "Discussion",
+          "tokens": 2079,
+          "selectors": [
+            {
+              "pdf_page": 17,
+              "normalized_page_sha256": "95a76e7fe4a964029aa2839bb4faf3f9ffab0da3af5f1fb4290c0b089a29aca0",
+              "start_character_inclusive": 1508,
+              "end_character_exclusive": 2870,
+              "selected_text_sha256": "d6b945b5e1b04a7219149d87cdff9020aeb61c2acefadb2968a088e573c1a7e1"
+            },
+            {
+              "pdf_page": 18,
+              "normalized_page_sha256": "1d784c269c74bc844251ebab9295f041131870c646519058cf0c415a1f29570d",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4271,
+              "selected_text_sha256": "1d784c269c74bc844251ebab9295f041131870c646519058cf0c415a1f29570d"
+            },
+            {
+              "pdf_page": 19,
+              "normalized_page_sha256": "2227c426e499274889d39320419d170e5e54419d60d6e62f1063badd656d3220",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4467,
+              "selected_text_sha256": "2227c426e499274889d39320419d170e5e54419d60d6e62f1063badd656d3220"
+            },
+            {
+              "pdf_page": 20,
+              "normalized_page_sha256": "bbc338ee81affe66dbda687a676ac17877f8f3775a3125995eb317ec827ac6f6",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3748,
+              "selected_text_sha256": "5e60f8529e60d18965c9adc9ceef10ff35cb1a103f235f256e2261cc52e552b8"
+            }
+          ],
+          "normalized_section_sha256": "ab846a042f6162639adf33b94e23030e279f43658966b533d13ee17ce618c89c",
+          "percent_of_extracted_body": 18.3
+        },
+        {
+          "section": "Conclusion",
+          "tokens": 138,
+          "selectors": [
+            {
+              "pdf_page": 20,
+              "normalized_page_sha256": "bbc338ee81affe66dbda687a676ac17877f8f3775a3125995eb317ec827ac6f6",
+              "start_character_inclusive": 3748,
+              "end_character_exclusive": 4102,
+              "selected_text_sha256": "c3910d79027074bdd17fd631322ad7d96662136582996ba74d392a444125384b"
+            },
+            {
+              "pdf_page": 21,
+              "normalized_page_sha256": "26e0b443c7ad5588a8ba96e9775f3d1ecd444b565b0ada1144cdfdb868b55760",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 523,
+              "selected_text_sha256": "18a4c5588866e71c11b670c5716876c67a724e878945ebceb27f5be8d2547821"
+            }
+          ],
+          "normalized_section_sha256": "e98d9333344f98563ae3c77286a221df8f32771b85fea2a593d7d2261e91b82e",
+          "percent_of_extracted_body": 1.21
+        }
+      ],
+      "boundary_note": "Single-column manuscript permits main-section boundaries. Footnotes remain at extracted page positions: the introduction-linked data-access footnote on p.2 falls inside the extracted related-work span. These are layout-based section estimates, not exact rhetorical allocations.",
+      "visually_checked_boundary_pages": [
+        1,
+        2,
+        5,
+        9,
+        17,
+        20,
+        21
+      ],
+      "visual_verification": "Single analyst inspected rendered boundary pages; replay does not reperform visual judgment"
+    },
+    {
+      "id": "P64-typing",
+      "pdf_sha256": "e5e72facf874deed7b18fcf87f827dce565a8c56f6f7a99de4564303301496a2",
+      "analyzed_version": "author/institution-hosted conference-formatted manuscript; final publisher byte identity unverified",
+      "extracted_body_tokens": 8514,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 670,
+          "selectors": [
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "186e697fe877fcca8d636b069a1e0acdbed206b543135584827eb59faf1aa012",
+              "start_character_inclusive": 1236,
+              "end_character_exclusive": 2183,
+              "selected_text_sha256": "caf5baaa58c61a2ea02ff95ce1a8a2efb978cd4d09ec1a5d88ef5e43f4567ecf"
+            },
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "186e697fe877fcca8d636b069a1e0acdbed206b543135584827eb59faf1aa012",
+              "start_character_inclusive": 2751,
+              "end_character_exclusive": 5602,
+              "selected_text_sha256": "ee75553f1b9d53e3bcdcf862b4cb30822c1503486eaa744c4cf8735e377b67cc"
+            },
+            {
+              "pdf_page": 2,
+              "normalized_page_sha256": "5edcb11dac6acb6254fc9ce42a780bb843687860cc8dfeea70f2e80fee81cd11",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 735,
+              "selected_text_sha256": "57aff185bcebd3a36844a8b72b9efb6ec629d1b5537b8609ec97c878d8f85b0a"
+            }
+          ],
+          "normalized_section_sha256": "61898e140dc38bdaf395c34ea4ef6b625c5f0d1c6c00718411bee8956256abcb",
+          "percent_of_extracted_body": 7.87
+        },
+        {
+          "section": "Background and Related Work",
+          "tokens": 910,
+          "selectors": [
+            {
+              "pdf_page": 2,
+              "normalized_page_sha256": "5edcb11dac6acb6254fc9ce42a780bb843687860cc8dfeea70f2e80fee81cd11",
+              "start_character_inclusive": 735,
+              "end_character_exclusive": 6520,
+              "selected_text_sha256": "76b5e60363326b8459fbacbc22c8bed016b5341ba20e30d0f0409f39cdc7ea39"
+            }
+          ],
+          "normalized_section_sha256": "76b5e60363326b8459fbacbc22c8bed016b5341ba20e30d0f0409f39cdc7ea39",
+          "percent_of_extracted_body": 10.69
+        },
+        {
+          "section": "Data Collection + Preprocessing and Data Analysis",
+          "tokens": 1790,
+          "selectors": [
+            {
+              "pdf_page": 3,
+              "normalized_page_sha256": "08692534165ac98177cbff1a79f7b621d75269768a499cdce049e328eea2ac28",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 5358,
+              "selected_text_sha256": "08692534165ac98177cbff1a79f7b621d75269768a499cdce049e328eea2ac28"
+            },
+            {
+              "pdf_page": 4,
+              "normalized_page_sha256": "d0d35bab798da0873de14d33f77e9045a5c5ec39d864e7b7e4f28135e8871868",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 5819,
+              "selected_text_sha256": "d0d35bab798da0873de14d33f77e9045a5c5ec39d864e7b7e4f28135e8871868"
+            }
+          ],
+          "normalized_section_sha256": "09f977506e325683359ca140cd168b77ef87bfa6786f3a4e75e611914e3bd99e",
+          "boundary_note": "Aggregate avoids assigning the p.4 floated bigram table to Data Collection merely because it precedes the Preprocessing heading. Includes p.3 collection figure/table.",
+          "percent_of_extracted_body": 21.02
+        },
+        {
+          "section": "Results + Keystroke-Level Clustering + Summary",
+          "tokens": 5114,
+          "selectors": [
+            {
+              "pdf_page": 5,
+              "normalized_page_sha256": "12ab5f71d9c455b53c1586a4eb3b4e5e0f9c938d90023f0c9cabe65b65f46059",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4698,
+              "selected_text_sha256": "12ab5f71d9c455b53c1586a4eb3b4e5e0f9c938d90023f0c9cabe65b65f46059"
+            },
+            {
+              "pdf_page": 6,
+              "normalized_page_sha256": "3b0d25276077ea7c7972ebafdf9050552dcfaee4cebfe852fff87ecf9ed29d33",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4856,
+              "selected_text_sha256": "3b0d25276077ea7c7972ebafdf9050552dcfaee4cebfe852fff87ecf9ed29d33"
+            },
+            {
+              "pdf_page": 7,
+              "normalized_page_sha256": "2e7272de9c4bd5395ae3ccc4377f0fffadde43dfe2da0c9a9c37f507e6b86c32",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3867,
+              "selected_text_sha256": "2e7272de9c4bd5395ae3ccc4377f0fffadde43dfe2da0c9a9c37f507e6b86c32"
+            },
+            {
+              "pdf_page": 8,
+              "normalized_page_sha256": "88c3968dae33c272f780a7209275f212ce252c7d93ea50d2cbc49e78b5058050",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4912,
+              "selected_text_sha256": "88c3968dae33c272f780a7209275f212ce252c7d93ea50d2cbc49e78b5058050"
+            },
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "380a6e5f50d560a1c8bd6b92c1ff51bab74c854f9f15c613af764c428f8b7ad1",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 5644,
+              "selected_text_sha256": "380a6e5f50d560a1c8bd6b92c1ff51bab74c854f9f15c613af764c428f8b7ad1"
+            },
+            {
+              "pdf_page": 10,
+              "normalized_page_sha256": "ad0e92b421ba1ba1c73a45d0ae457b7fc468c8e6011e1e9d9d284bf124f5b621",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 6075,
+              "selected_text_sha256": "680eb5168faa3e1a92b6b89168649b4be268611aeca29d694b9dbda8ca025c72"
+            }
+          ],
+          "normalized_section_sha256": "02afad3f542562f84e727e1350b9350a104b783a313ecfe0f8f08420e9f6fa92",
+          "boundary_note": "Aggregate includes p.5 results table/figure before RESULTS; p.8 clustering figure before its heading; p.9 summary content interleaved before SUMMARY. No separate result/discussion percentages are asserted.",
+          "percent_of_extracted_body": 60.07
+        },
+        {
+          "section": "The 136M Keystrokes Dataset",
+          "tokens": 30,
+          "selectors": [
+            {
+              "pdf_page": 10,
+              "normalized_page_sha256": "ad0e92b421ba1ba1c73a45d0ae457b7fc468c8e6011e1e9d9d284bf124f5b621",
+              "start_character_inclusive": 6075,
+              "end_character_exclusive": 6263,
+              "selected_text_sha256": "4b577afac7f16d8c05781613cf1d2241ff1e4a6a74dfdac50d558b54a1706552"
+            }
+          ],
+          "normalized_section_sha256": "4b577afac7f16d8c05781613cf1d2241ff1e4a6a74dfdac50d558b54a1706552",
+          "percent_of_extracted_body": 0.35
+        }
+      ],
+      "boundary_note": "Two-column extraction interleaves floats and prose; ambiguous adjacent main sections are deliberately aggregated.",
+      "visually_checked_boundary_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10
+      ],
+      "visual_verification": "Single analyst inspected rendered boundary pages; replay does not reperform visual judgment"
+    },
+    {
+      "id": "P80-inform",
+      "pdf_sha256": "1a9724f8b2932cbcffb5a33c98a1450c1eadcf3d23f6a86b34d3897d2f49c0bd",
+      "analyzed_version": "ten-page lab-linked proceedings-format manuscript",
+      "extracted_body_tokens": 6938,
+      "sections": [
+        {
+          "section": "Introduction + Contributions + Related Work",
+          "tokens": 1842,
+          "selectors": [
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "514fccdd70376ec70a812dd72e2d3a9ea9ae8984bae03a0aecdd1a9178d65779",
+              "start_character_inclusive": 516,
+              "end_character_exclusive": 529,
+              "selected_text_sha256": "348348036267fa046df6956d6bff62c93c2f7b89c711056c6a8cdcab6dd4a8e7"
+            },
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "514fccdd70376ec70a812dd72e2d3a9ea9ae8984bae03a0aecdd1a9178d65779",
+              "start_character_inclusive": 1417,
+              "end_character_exclusive": 2649,
+              "selected_text_sha256": "47f2c2c6258a31f6a5dda4d8fb09681bb376ae32a9feb067f451d83bcd3af1e5"
+            },
+            {
+              "pdf_page": 1,
+              "normalized_page_sha256": "514fccdd70376ec70a812dd72e2d3a9ea9ae8984bae03a0aecdd1a9178d65779",
+              "start_character_inclusive": 3764,
+              "end_character_exclusive": 4475,
+              "selected_text_sha256": "6c7f12598ec71c87314ca5d9ac35fa6dcdcab9ae1bd04391bfd4aa81ac7d08cd"
+            },
+            {
+              "pdf_page": 2,
+              "normalized_page_sha256": "8a3061946370e38e90916e95f173fdc701c71f5860098d8c4326e05074735d3a",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 6056,
+              "selected_text_sha256": "8a3061946370e38e90916e95f173fdc701c71f5860098d8c4326e05074735d3a"
+            },
+            {
+              "pdf_page": 3,
+              "normalized_page_sha256": "6c463f4e79e42ffb28a8ae1ac3b5a18a7cc62a72a6ec8c8bdad549c5e95e9093",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4579,
+              "selected_text_sha256": "e29edafcc7e7a96d426bdc56e3bcffee5d2c66428bc3e4fcc85b066280b4dbef"
+            }
+          ],
+          "normalized_section_sha256": "c0b7eb2f0f45f0d9730267ca414a5f20eb60081905d07fa6cb4fe59f3499768e",
+          "boundary_note": "P.1 INTRODUCTION is extracted before abstract prose; select its heading and two prose spans separately. P.2 contribution bullets appear after RELATED WORK in extraction, so the adjacent sections are aggregated. Front-page teaser caption excluded.",
+          "percent_of_extracted_body": 26.55
+        },
+        {
+          "section": "Dynamic Affordances and Constraints",
+          "tokens": 2513,
+          "selectors": [
+            {
+              "pdf_page": 3,
+              "normalized_page_sha256": "6c463f4e79e42ffb28a8ae1ac3b5a18a7cc62a72a6ec8c8bdad549c5e95e9093",
+              "start_character_inclusive": 4579,
+              "end_character_exclusive": 6164,
+              "selected_text_sha256": "f4d782aa61719cc168a26bc23f5f7b656877fa5b99d4cf8ef63f8e419cc5f1ae"
+            },
+            {
+              "pdf_page": 4,
+              "normalized_page_sha256": "d9fea42bfabb41f542c1a02f95684f4447bfda33e5b48e793471f2890751a976",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4301,
+              "selected_text_sha256": "d9fea42bfabb41f542c1a02f95684f4447bfda33e5b48e793471f2890751a976"
+            },
+            {
+              "pdf_page": 5,
+              "normalized_page_sha256": "2ef0bb198f8c94c944e4ad926deb7a3484164a1aaf36d1fa3c974baddd8c794a",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 5369,
+              "selected_text_sha256": "2ef0bb198f8c94c944e4ad926deb7a3484164a1aaf36d1fa3c974baddd8c794a"
+            },
+            {
+              "pdf_page": 6,
+              "normalized_page_sha256": "f5695189acbd03b7209e0bfe4210efbab69b8bc046946c9695d068504fad2423",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 4629,
+              "selected_text_sha256": "e8dcead62d8c6e89ab79ee576a19679646a00ad130d22ab29e720bdb51acc355"
+            }
+          ],
+          "normalized_section_sha256": "9c7909078d68b0ececbbd74cc76d31f94ed30deb26c545984c3b1f17ff41d86e",
+          "percent_of_extracted_body": 36.22
+        },
+        {
+          "section": "Demonstration Applications",
+          "tokens": 764,
+          "selectors": [
+            {
+              "pdf_page": 6,
+              "normalized_page_sha256": "f5695189acbd03b7209e0bfe4210efbab69b8bc046946c9695d068504fad2423",
+              "start_character_inclusive": 4629,
+              "end_character_exclusive": 5695,
+              "selected_text_sha256": "edbf08afacf47f212bc34153040f60a9992cdde5a38aeff48f780423cbc406c3"
+            },
+            {
+              "pdf_page": 7,
+              "normalized_page_sha256": "09d771f5f15a034f9f6442d022061ec99e0bbf04941f39963281cf1da73175c8",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 3486,
+              "selected_text_sha256": "85c861aec9ade705192f7616e12855870367788e8faec92bf3d6432d444db377"
+            }
+          ],
+          "normalized_section_sha256": "ea5460485412dd37926a9fc0ff5245f360ab2fcabfdc180fac210dd2d11fe944",
+          "percent_of_extracted_body": 11.01
+        },
+        {
+          "section": "Implementation",
+          "tokens": 957,
+          "selectors": [
+            {
+              "pdf_page": 7,
+              "normalized_page_sha256": "09d771f5f15a034f9f6442d022061ec99e0bbf04941f39963281cf1da73175c8",
+              "start_character_inclusive": 3486,
+              "end_character_exclusive": 4202,
+              "selected_text_sha256": "9a8f850432b3d9eac62bf3ead3e3707953108f9e01110b646b13335a769b99f5"
+            },
+            {
+              "pdf_page": 8,
+              "normalized_page_sha256": "e6f7deec469781317a21a63c9a9273eaf1c7e236618fe3c0e8ab4b4184cc48c4",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 5045,
+              "selected_text_sha256": "e6f7deec469781317a21a63c9a9273eaf1c7e236618fe3c0e8ab4b4184cc48c4"
+            },
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "7b23d6b409fc833cc663e224a003fa95975a7bc052545f4a35057465ffcfd0c8",
+              "start_character_inclusive": 0,
+              "end_character_exclusive": 120,
+              "selected_text_sha256": "cc52e9ec2b9a4cc369b86c5ead7587c38065932ebb4fd3829f4f4f0841b76988"
+            }
+          ],
+          "normalized_section_sha256": "fd147e51e2a670fc3ad3f8cb17bbaa9197dddad0b84d92c6ec83e65b40047a1b",
+          "percent_of_extracted_body": 13.79
+        },
+        {
+          "section": "Discussion and Future Work",
+          "tokens": 765,
+          "selectors": [
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "7b23d6b409fc833cc663e224a003fa95975a7bc052545f4a35057465ffcfd0c8",
+              "start_character_inclusive": 120,
+              "end_character_exclusive": 4932,
+              "selected_text_sha256": "3fb0c347b02810d388efa9bd098404a2388c9103457dc853bbc6d27965608c9e"
+            }
+          ],
+          "normalized_section_sha256": "3fb0c347b02810d388efa9bd098404a2388c9103457dc853bbc6d27965608c9e",
+          "percent_of_extracted_body": 11.03
+        },
+        {
+          "section": "Conclusions",
+          "tokens": 97,
+          "selectors": [
+            {
+              "pdf_page": 9,
+              "normalized_page_sha256": "7b23d6b409fc833cc663e224a003fa95975a7bc052545f4a35057465ffcfd0c8",
+              "start_character_inclusive": 4932,
+              "end_character_exclusive": 5604,
+              "selected_text_sha256": "3844b3f4cb00bcd4a5fc6f72e03350a4a04f982d5b6380bb6531d6a91a9b37a7"
+            }
+          ],
+          "normalized_section_sha256": "3844b3f4cb00bcd4a5fc6f72e03350a4a04f982d5b6380bb6531d6a91a9b37a7",
+          "percent_of_extracted_body": 1.4
+        }
+      ],
+      "boundary_note": "Front-page abstract/keywords/rights and teaser are excluded by explicit disjoint spans; later captions and figure text remain.",
+      "visually_checked_boundary_pages": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        9
+      ],
+      "visual_verification": "Single analyst inspected rendered boundary pages; replay does not reperform visual judgment"
+    }
+  ]
+}

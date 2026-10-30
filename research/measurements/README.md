@@ -89,3 +89,40 @@ Local replay on 2026-10-30 passed all **26 records** (two pilot paper records an
 paragraphs are nested inside its two records. Deliberate token-count and PDF-hash
 mutations in temporary local fixtures were rejected; they did not modify the
 published measurements.
+
+## Five additional body/section examples
+
+The complete body/section subset is now **seven papers**: the two pilot examples
+above plus the five below. The 32-paragraph/14-paper subset is unchanged. These
+are extraction estimates, not prose-only manuscript counts or comparable venue
+statistics. No distribution over all 107 analyses has been measured.
+
+| Paper | Extracted body tokens | Main-section count | Extraction |
+|---|---:|---:|---|
+| P98-accessible-collaboration | 11,697 | 6 | PDF bounding boxes |
+| P102-dance-physicalisations | 11,780 | 9 | PDF bounding boxes |
+| P61-accessibility-review | 11,363 | 6 | Explicit normalized text spans |
+| P64-typing | 8,514 | 5 | Explicit normalized text spans |
+| P80-inform | 6,938 | 6 | Explicit normalized text spans |
+
+[Empirical records](empirical-sections.json) retain headings, quotations, captions,
+table/figure text and numeric citations, exclude front matter/acknowledgments/
+references/appendices, and do not join line-end hyphens. Coordinates and main-section
+starts/stops were inspected on rendered pages by an AI analyst. Floating captions
+are assigned geometrically. [Additional records](additional-sections.json) disclose
+explicit selectors and hashes; P64 aggregates interleaved adjacent sections and P80
+aggregates Introduction + Contributions + Related Work. P61's introduction-linked
+footnote falls into the extracted related-work interval. These differences prohibit
+pooling raw counts as a single linguistic measure. The scripts check source hashes;
+replay does not independently validate the original visual boundary judgments.
+
+```sh
+python3 scripts/measure_empirical_sections.py .local/papers
+python3 scripts/measure_additional_sections.py .local/papers --check research/measurements/additional-sections.json
+```
+
+The first command prints JSON without writing; compare it with the empirical record.
+The second compares the full generated metadata with the saved record. Both were
+replayed successfully on 2026-10-30. Private PDFs are intentionally not distributed;
+obtain the recorded source versions before replaying. Poppler changes may alter
+extraction, requiring investigation rather than blind record replacement.

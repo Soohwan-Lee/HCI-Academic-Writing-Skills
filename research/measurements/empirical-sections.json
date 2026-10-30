@@ -1,0 +1,310 @@
+{
+  "status": "Two purposively selected descriptive extraction estimates; not population norms or prose-only budgets.",
+  "extraction_command": "pdftotext -bbox SOURCE.pdf -",
+  "poppler_version": "pdftotext version 26.04.0",
+  "token_regex": "[A-Za-z0-9]+(?:[’'-][A-Za-z0-9]+)*",
+  "normalization": "Unicode NFKC per extracted word; remove soft hyphen; join words with spaces. No dehyphenation. Numeric citation tokens retained.",
+  "boundary_rule": "Lexicographic (PDF page, column, yMin), half-open intervals. P98 single column; P102 split at xMin=306 PDF points. Coordinates in script and records.",
+  "includes": "Main-section and subsection headings, prose, quotations, numeric citations, extractable captions, table/figure text, footnotes and their URLs.",
+  "excludes": "Title/authors, abstract from body denominator, front matter and rights notices, running headers/footers, acknowledgments, references and appendices.",
+  "limitations": "Line-end hyphenation may count as two tokens; PDF glyph fusion may count as one. Floating captions belong to the geometric section interval, not necessarily the section discussing them. P102 full-width Figure 14 caption explicitly assigned before §7. Counts cannot be treated as prose-only ACM word counts or universal 8000-word ratios. Different extraction protocols should not be pooled without harmonization.",
+  "papers": [
+    {
+      "id": "P98-accessible-collaboration",
+      "doi": "10.1145/3359293",
+      "sha256": "4aec8c2680f5cc68414518cea977ebdf51a62bee441d35016ec1730c36ed034c",
+      "pdf_pages": 26,
+      "analyzed_version": "Author-hosted conference-formatted26-page manuscript",
+      "selection_reason": "Qualitative collaborative-accessibility study; six conventional main sections, long findings and theory-building discussion.",
+      "abstract_tokens": 131,
+      "abstract_box": {
+        "pdf_page": 1,
+        "x_min": 0,
+        "y_min": 176,
+        "x_max": 486,
+        "y_max": 280
+      },
+      "extracted_body_tokens": 11697,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 677,
+          "start": {
+            "pdf_page": 1,
+            "column": 0,
+            "y_min": 395.6
+          },
+          "end_exclusive": {
+            "pdf_page": 2,
+            "column": 0,
+            "y_min": 614.7
+          },
+          "opening_locator": "Introduction",
+          "end_locator": "Related work",
+          "percent_of_extracted_body": 5.79
+        },
+        {
+          "section": "Related work",
+          "tokens": 1268,
+          "start": {
+            "pdf_page": 2,
+            "column": 0,
+            "y_min": 614.7
+          },
+          "end_exclusive": {
+            "pdf_page": 5,
+            "column": 0,
+            "y_min": 147.9
+          },
+          "opening_locator": "Related work",
+          "end_locator": "Method",
+          "percent_of_extracted_body": 10.84
+        },
+        {
+          "section": "Method",
+          "tokens": 673,
+          "start": {
+            "pdf_page": 5,
+            "column": 0,
+            "y_min": 147.9
+          },
+          "end_exclusive": {
+            "pdf_page": 6,
+            "column": 0,
+            "y_min": 265.8
+          },
+          "opening_locator": "Method",
+          "end_locator": "Findings",
+          "percent_of_extracted_body": 5.75
+        },
+        {
+          "section": "Findings",
+          "tokens": 6907,
+          "start": {
+            "pdf_page": 6,
+            "column": 0,
+            "y_min": 265.8
+          },
+          "end_exclusive": {
+            "pdf_page": 16,
+            "column": 0,
+            "y_min": 357.1
+          },
+          "opening_locator": "Findings",
+          "end_locator": "Discussion",
+          "percent_of_extracted_body": 59.05
+        },
+        {
+          "section": "Discussion",
+          "tokens": 2027,
+          "start": {
+            "pdf_page": 16,
+            "column": 0,
+            "y_min": 357.1
+          },
+          "end_exclusive": {
+            "pdf_page": 19,
+            "column": 0,
+            "y_min": 505.4
+          },
+          "opening_locator": "Discussion",
+          "end_locator": "Conclusion",
+          "percent_of_extracted_body": 17.33
+        },
+        {
+          "section": "Conclusion",
+          "tokens": 145,
+          "start": {
+            "pdf_page": 19,
+            "column": 0,
+            "y_min": 505.4
+          },
+          "end_exclusive": {
+            "pdf_page": 20,
+            "column": 0,
+            "y_min": 97.1
+          },
+          "opening_locator": "Conclusion",
+          "end_locator": "STOP: acknowledgments",
+          "percent_of_extracted_body": 1.24
+        }
+      ],
+      "visual_boundary_verified": true,
+      "visual_audit": "All main-section starts and stops checked on rendered pages; single analyst, 2026-10-30."
+    },
+    {
+      "id": "P102-dance-physicalisations",
+      "doi": "10.1145/3643834.3661607",
+      "sha256": "bd91186034c933bf219a414ec5b1ad133d2b8367870cfeaa242099c3fa3eb99d",
+      "pdf_pages": 17,
+      "analyzed_version": "UAL repository17-page conference-formatted manuscript",
+      "selection_reason": "Retrospective autoethnography and design practice; preserves contextual, making and reflective sections rather than forcing IMRaD.",
+      "abstract_tokens": 145,
+      "abstract_box": {
+        "pdf_page": 1,
+        "x_min": 0,
+        "y_min": 305,
+        "x_max": 306,
+        "y_max": 490
+      },
+      "extracted_body_tokens": 11780,
+      "sections": [
+        {
+          "section": "Introduction",
+          "tokens": 529,
+          "start": {
+            "pdf_page": 1,
+            "column": 1,
+            "y_min": 332.5
+          },
+          "end_exclusive": {
+            "pdf_page": 2,
+            "column": 0,
+            "y_min": 319.2
+          },
+          "opening_locator": "Introduction",
+          "end_locator": "The origin of the project",
+          "percent_of_extracted_body": 4.49
+        },
+        {
+          "section": "The origin of the project",
+          "tokens": 783,
+          "start": {
+            "pdf_page": 2,
+            "column": 0,
+            "y_min": 319.2
+          },
+          "end_exclusive": {
+            "pdf_page": 2,
+            "column": 1,
+            "y_min": 661.3
+          },
+          "opening_locator": "The origin of the project",
+          "end_locator": "Related work",
+          "percent_of_extracted_body": 6.65
+        },
+        {
+          "section": "Related work",
+          "tokens": 1410,
+          "start": {
+            "pdf_page": 2,
+            "column": 1,
+            "y_min": 661.3
+          },
+          "end_exclusive": {
+            "pdf_page": 4,
+            "column": 0,
+            "y_min": 540.7
+          },
+          "opening_locator": "Related work",
+          "end_locator": "Methods",
+          "percent_of_extracted_body": 11.97
+        },
+        {
+          "section": "Methods",
+          "tokens": 820,
+          "start": {
+            "pdf_page": 4,
+            "column": 0,
+            "y_min": 540.7
+          },
+          "end_exclusive": {
+            "pdf_page": 5,
+            "column": 0,
+            "y_min": 282.2
+          },
+          "opening_locator": "Methods",
+          "end_locator": "Learning the Duncan dance repertoire and collecting data",
+          "percent_of_extracted_body": 6.96
+        },
+        {
+          "section": "Learning the Duncan dance repertoire and collecting data",
+          "tokens": 709,
+          "start": {
+            "pdf_page": 5,
+            "column": 0,
+            "y_min": 282.2
+          },
+          "end_exclusive": {
+            "pdf_page": 5,
+            "column": 1,
+            "y_min": 499.3
+          },
+          "opening_locator": "Learning the Duncan dance repertoire and collecting data",
+          "end_locator": "Designing the artefacts",
+          "percent_of_extracted_body": 6.02
+        },
+        {
+          "section": "Designing the artefacts",
+          "tokens": 2954,
+          "start": {
+            "pdf_page": 5,
+            "column": 1,
+            "y_min": 499.3
+          },
+          "end_exclusive": {
+            "pdf_page": 11,
+            "column": 0,
+            "y_min": 194.8
+          },
+          "opening_locator": "Designing the artefacts",
+          "end_locator": "Interacting with the data",
+          "percent_of_extracted_body": 25.08
+        },
+        {
+          "section": "Interacting with the data",
+          "tokens": 2163,
+          "start": {
+            "pdf_page": 11,
+            "column": 0,
+            "y_min": 194.8
+          },
+          "end_exclusive": {
+            "pdf_page": 13,
+            "column": 1,
+            "y_min": 282.2
+          },
+          "opening_locator": "Interacting with the data",
+          "end_locator": "Discussion",
+          "percent_of_extracted_body": 18.36
+        },
+        {
+          "section": "Discussion",
+          "tokens": 2203,
+          "start": {
+            "pdf_page": 13,
+            "column": 1,
+            "y_min": 282.2
+          },
+          "end_exclusive": {
+            "pdf_page": 15,
+            "column": 1,
+            "y_min": 336.5
+          },
+          "opening_locator": "Discussion",
+          "end_locator": "Conclusion",
+          "percent_of_extracted_body": 18.7
+        },
+        {
+          "section": "Conclusion",
+          "tokens": 209,
+          "start": {
+            "pdf_page": 15,
+            "column": 1,
+            "y_min": 336.5
+          },
+          "end_exclusive": {
+            "pdf_page": 15,
+            "column": 1,
+            "y_min": 603.5
+          },
+          "opening_locator": "Conclusion",
+          "end_locator": "STOP: acknowledgments",
+          "percent_of_extracted_body": 1.77
+        }
+      ],
+      "visual_boundary_verified": true,
+      "visual_audit": "All main-section starts and stops checked on rendered pages; single analyst, 2026-10-30."
+    }
+  ]
+}
