@@ -15,11 +15,14 @@ image was supplied. Exact generation prompt:
 ## README explanation diagrams
 
 `writing-levels-en.svg` and `writing-levels-ko.svg` are original, code-authored
-vector diagrams explaining section, subsection, paragraph and sentence planning.
-Their `-mobile.svg` counterparts arrange the same content vertically for narrow
-screens. They are instructional diagrams, not measured results or source-paper
-figures. Each has an accessible title/description; README images also have alt text.
-The fixed paper/teal palette remains legible against light and dark page backgrounds.
+vector diagrams showing how the skill separates a paper's contribution from
+method, topic, venue and format before connecting section, subsection, paragraph
+and sentence planning in a stepped cascade. Their `-mobile.svg` counterparts
+arrange the same anchor and cascade vertically for narrow screens. They are
+instructional diagrams, not measured results or source-paper figures. Each has an
+accessible title/description; README images also have alt text. The fixed
+paper/teal/vermilion palette remains legible against light and dark page
+backgrounds.
 
 Regenerate all four diagrams with the standard-library-only script:
 
