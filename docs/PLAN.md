@@ -170,10 +170,11 @@ instructions and sources before adding categories.
    Record failures, accepted/rejected advice, update bilingual docs and corpus count,
    validate bundle links and commit/push reviewable stages.
 
-## Active expansion checkpoint — E04
-See [EXPANSION-200.md](EXPANSION-200.md) for the 100-addition plan. Nineteen
-additions are accepted (127 total); 81 remain. E04 adds DIS reflective practice
-and platform labor, UIST resource construction, and IUI creative/accessibility
-artifacts. Next gate: integrate the source-backed distinctions, then prioritize
-CSCW and audit cumulative balance at 20 additions. Zotero collection coverage
-remains unclaimed until item retrieval succeeds.
+## Active expansion checkpoint — 020
+See [EXPANSION-200.md](EXPANSION-200.md) for the 100-addition plan and completed
+20-addition breadth audit. Twenty additions are accepted (128 total); 80 remain.
+The next block prioritizes CSCW maintenance, mutual aid, interdependence and
+participatory work, followed by missing resource/method/longitudinal contrasts.
+The E04 modules are root-reviewed; Claude critique and four behavior cases remain
+pending after the subscription quota response. Zotero collection membership remains
+unverified; use independent public sources while item retrieval is unavailable.

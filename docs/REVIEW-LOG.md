@@ -485,3 +485,21 @@ fallback. Source acquisition can proceed while the independent module review wai
 Installer and LaTeX-audit suites passed 18 tests; manifest-index parity and whitespace
 checks passed. These checks establish package/audit regressions, not writing quality,
 live host discovery or successful manuscript compilation.
+
+## E05a and checkpoint 020 — 2026-10-31
+Read P135's entire main text (pp.1–21) and inspected five rendered pages. Accepted
+a root-reviewed analysis without claiming a Claude critique. Verified Impact
+Recognition in the official program and retrieved Crossref count 106 with date
+and metric. Distinguish accounting denominators, operational proxies, observed
+associations and critical/normative interpretation. Reporting inconsistencies were
+visually checked and retained rather than silently repaired.
+
+Completed the 20-addition balance audit and explicit AI-topic sensitivity coding.
+The remaining 80-paper allocation prioritizes missing knowledge objects, multiple
+venues and non-AI topics. Both READMEs, corpus/index and persistent plans reflect
+128 accepted papers. E04 semantic checks remain pending; no numeric length sample
+was expanded.
+A fresh one-item request to the CSCW masterpiece collection timed out after eight
+seconds; no collection contents were inferred. Final metadata checks allow existing
+null DOI fields and verify uniqueness of all non-null DOIs, analysis paths, generated
+index parity and checkpoint totals.

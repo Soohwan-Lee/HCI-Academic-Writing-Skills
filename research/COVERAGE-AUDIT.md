@@ -1,6 +1,6 @@
-# Coverage audit — 127 analyzed papers
+# Coverage audit — 128 analyzed papers
 
-This purposive teaching corpus contains **125 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
+This purposive teaching corpus contains **126 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
 
 ## Venue coverage
 
@@ -8,7 +8,7 @@ This purposive teaching corpus contains **125 papers from the five requested ven
 |---|---:|
 | CHI | 41 |
 | COMPASS | 1 |
-| CSCW | 24 |
+| CSCW | 25 |
 | DIS | 21 |
 | Findings of EMNLP | 1 |
 | IUI | 21 |
@@ -25,7 +25,7 @@ These are primary **navigation routes**, not exclusive ontological labels. The o
 | design | 11 |
 | method | 9 |
 | qualitative | 25 |
-| quantitative | 17 |
+| quantitative | 18 |
 | resource | 6 |
 | review | 12 |
 
@@ -37,7 +37,7 @@ Accessibility, privacy/security, health/care, fabrication, physical interaction,
 
 Public availability and known author/lab networks shaped discovery. Systems and design lineages recur; affiliation strings are not normalized enough to assert independent-lab balance. Awards are verified only where the metadata supplies evidence; unknown award status is not evidence of absence. This corpus cannot estimate acceptance predictors, venue norms, field-wide frequencies or a universal writing style. More non-English, Global South, critical disability, longitudinal, replication and negative-result exemplars would strengthen later editions.
 
-Full-text rhetorical notes cover 127 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
+Full-text rhetorical notes cover 128 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
 
 ## Taxonomy follow-up
 P110 God-Saeng is explicitly profiled as sociotechnical phenomenon interpretation,
@@ -80,3 +80,13 @@ three accepted entries and 27 pending; these additions were sourced separately. 
 passed source review. Numerical length samples remain unchanged. The author
 drafts for SoundToons and Chart4Blind are explicitly distinguished from their
 proceedings versions. No citation-count signal was inferred from reputation.
+
+## Second-expansion checkpoint 020
+P135 brings the corpus to 128 and additions to 20/100. Expansion venues: CHI 6,
+CSCW 4, UIST 3, DIS 3, IUI 4. Seventeen additions are from 2018 onward and
+thirteen from 2022 onward. Four primarily AI cases plus three AI-enabled cases
+with other primary goals give a conservative topic-cap sensitivity count of 7/20.
+See [explicit classifications](expansion-checkpoint-020.json) and the persistent
+plan for rationale and remaining venue allocation. Methods and resources remain
+sparse; participatory, longitudinal, maintenance and replication contrasts need
+attention. This checkpoint audits selection, not representative field frequencies.

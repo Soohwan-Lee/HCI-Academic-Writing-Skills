@@ -4510,5 +4510,44 @@
       "source": "https://api.crossref.org/works/10.1145/3640543.3645175",
       "limitation": "Not collected; no count or high-citation claim inferred"
     }
+  },
+  {
+    "id": "P135-invisible-labor",
+    "title": "Quantifying the Invisible Labor in Crowd Work",
+    "authors": [
+      "Carlos Toxtli",
+      "Siddharth Suri",
+      "Saiph Savage"
+    ],
+    "venue": "CSCW",
+    "publication_year": 2021,
+    "presentation_year": 2021,
+    "doi": "10.1145/3476060",
+    "primary_knowledge_object": "quantitative characterization of unpaid crowd work through an operational measurement instrument",
+    "method": "one-week browser-log field study of 100 workers; wage accounting, subgroup comparisons and perception survey",
+    "affiliations_as_stated": "Northeastern University; Microsoft Research; Universidad Nacional Autonoma de Mexico",
+    "analyzed_version": "arXiv 2110.00169v1, 26 pages; main text pp.1–21",
+    "award": {
+      "status": "Impact Recognition",
+      "source": "https://cscw.acm.org/2021/awards/",
+      "evidence": "Title and authors matched under Impact Recognition, not Best Paper or Honorable Mention",
+      "verified_on": "2026-10-31"
+    },
+    "accessed": "2026-10-31",
+    "analysis": "analyses/P135-invisible-labor.md",
+    "selection_reason": "Independent public-source discovery for descriptive computational field research, operationalization and labor critique; official impact recognition and dated citation snapshot",
+    "url": "https://arxiv.org/pdf/2110.00169v1",
+    "sha256": "43468d6b13ae714e46eaf5b1bcfa7f12e3a4c2d8c49dc10bd452720462e6506e",
+    "bytes": 1018218,
+    "primary_writing_route": "quantitative",
+    "expansion_batch": "E05a",
+    "citation_snapshot": {
+      "database": "Crossref",
+      "metric": "is-referenced-by-count",
+      "count": 106,
+      "retrieved_on": "2026-10-31",
+      "source": "https://api.crossref.org/works/10.1145/3476060",
+      "limitation": "Crossref-linked references only; not exhaustive, field/year normalized or writing quality"
+    }
   }
 ]

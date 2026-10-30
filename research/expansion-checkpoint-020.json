@@ -1,0 +1,122 @@
+{
+  "as_of": "2026-10-31",
+  "baseline": 108,
+  "accepted_additions": 20,
+  "total": 128,
+  "remaining": 80,
+  "venue_counts": {
+    "CHI": 6,
+    "CSCW": 4,
+    "IUI": 4,
+    "DIS": 3,
+    "UIST": 3
+  },
+  "primary_route_counts": {
+    "conceptual": 3,
+    "design": 2,
+    "qualitative": 3,
+    "quantitative": 3,
+    "artifact": 4,
+    "method": 1,
+    "review": 3,
+    "resource": 1
+  },
+  "since_2018": 17,
+  "since_2022": 13,
+  "topic_rule": "Primary AI: the central question concerns understanding, evaluating or interacting with AI outputs/systems. AI-enabled: a learned component realizes another primary interaction goal. Contextual AI links alone do not classify a labor or social study as primarily AI. This is a manual sampling aid, not a formal field taxonomy.",
+  "primary_ai_ids": [
+    "P116-illusion-depth",
+    "P117-explanations-helpful",
+    "P119-social-transparency",
+    "P132-uicrit"
+  ],
+  "ai_enabled_other_goal_ids": [
+    "P120-earhover",
+    "P133-soundtoons",
+    "P134-chart4blind"
+  ],
+  "ai_cap_sensitivity_count": 7,
+  "discovery_note": "E02 onward (16 additions) have independent public-source discovery documented. E01 carried-over contrasts are not recoded here; Zotero membership is unknown.",
+  "papers": [
+    {
+      "id": "P111-nondesign",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P112-turkopticon",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P113-utopian-making",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P115-dsv-genealogy",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P116-illusion-depth",
+      "topic_role": "primary AI"
+    },
+    {
+      "id": "P117-explanations-helpful",
+      "topic_role": "primary AI"
+    },
+    {
+      "id": "P118-plant-care",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P119-social-transparency",
+      "topic_role": "primary AI"
+    },
+    {
+      "id": "P120-earhover",
+      "topic_role": "AI-enabled other goal"
+    },
+    {
+      "id": "P121-ethics-transparency",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P122-queer-review",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P123-digital-legacy",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P125-wheeler",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P126-moderation-review",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P128-design-bookkeeping",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P129-porous-design",
+      "topic_role": "other primary focus"
+    },
+    {
+      "id": "P132-uicrit",
+      "topic_role": "primary AI"
+    },
+    {
+      "id": "P133-soundtoons",
+      "topic_role": "AI-enabled other goal"
+    },
+    {
+      "id": "P134-chart4blind",
+      "topic_role": "AI-enabled other goal"
+    },
+    {
+      "id": "P135-invisible-labor",
+      "topic_role": "other primary focus"
+    }
+  ]
+}

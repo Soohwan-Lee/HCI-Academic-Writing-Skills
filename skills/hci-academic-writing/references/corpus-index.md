@@ -1,6 +1,6 @@
 # Evidence lookup by contribution
 
-127 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
+128 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
 
 Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length subset: 32 paragraphs in 14 papers; no universal paragraph target follows. See the [measurement protocols](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md).
 
@@ -142,6 +142,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P105 — Supporting High-Uncertainty Decisions through AI and Logic-Style Explanations](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P105-high-uncertainty.md) | IUI 2023 | empirical understanding of explanations under uncertainty | [source](https://doi.org/10.1145/3581641.3584080) |
 | [P116 — I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P116-illusion-depth.md) | IUI 2021 | empirical evaluation of perceived understanding and a measurement critique | [source](https://doi.org/10.1145/3397481.3450644) |
 | [P117 — Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P117-explanations-helpful.md) | IUI 2021 | comparative empirical evidence organized by explanation desiderata | [source](https://doi.org/10.1145/3397481.3450650) |
+| [P135 — Quantifying the Invisible Labor in Crowd Work](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P135-invisible-labor.md) | CSCW 2021 | quantitative characterization of unpaid crowd work through an operational measurement instrument | [source](https://doi.org/10.1145/3476060) |
 
 ## Resource
 

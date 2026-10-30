@@ -75,7 +75,7 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
 | Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
 | Candidate screening | In progress | 30 recent official-award candidates independently sourced and title-deduplicated; IUI and other strata pending |
-| New full-text batches | 19 / 100 accepted | E01 four + E02 five + E03 five + E04 five; 127 total; 81 additions remain |
+| New full-text batches | 20 / 100 accepted | E01 four + E02 five + E03 five + E04 five + E05a one; 128 total; 80 additions remain |
 | Skill synthesis and tests | E02/E03 integrations reviewed | Four E03 behavior probes retained limitations; next cumulative review after 20 additions |
 | README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
@@ -165,3 +165,44 @@ P127, P130 and P131 remain inaccessible candidates, not analyses. Other Zotero
 collections remain active selection priorities; no item-level coverage inferred.
 Next: integrate E04 lessons, acquire CSCW contrasts, and perform the 20-addition
 balance review before continuing the next large block.
+
+## Checkpoint 020 — breadth and next allocation (2026-10-31)
+P135 adds descriptive computational fieldwork and operationalization to reach
+20/100 additions, 128 total. It received root full-main-text and five-page visual
+review; Claude critique remains unavailable under the subscription quota. Its
+Impact Recognition is independently verified. The Crossref count is a dated
+database-specific snapshot, not a writing-quality rank.
+
+The [machine-readable audit](../research/expansion-checkpoint-020.json) records:
+CHI 6, CSCW 4, UIST 3, DIS 3, IUI 4; 17/20 since 2018, 13/20 since 2022.
+Primary routes: artifact 4, conceptual 3, qualitative 3, quantitative 3, review 3,
+design 2, method 1, resource 1. These routing categories do not erase hybrids.
+Remaining venue allocation: CHI 24, CSCW 21, UIST 12, DIS 12, IUI 11.
+
+Define primary AI by the central research question, not the presence of learned
+components: four additions focus on AI understanding/evaluation; three more use
+learned components for another interaction goal. Even counting all seven toward
+the cap gives 7/20 (35%). Contextual links between crowd labor and AI do not turn
+the labor-measurement question into an AI-interaction study. Reapply this explicit
+rule at each checkpoint; do not change labels to meet the cap.
+
+Sixteen additions since E02 document independent public-source discovery, already
+exceeding half of the twenty. E01's carried-over contrasts are not retroactively
+assigned a discovery source here. Library membership remains unverified. Next
+selection priorities, checked against existing titles before acquisition:
+
+1. CSCW community maintenance, interdependence, mutual aid and participatory work,
+   including Global South contexts; pair situated interpretations with different
+   methodological forms rather than selecting only interviews.
+2. DIS longitudinal or participatory design and material/embodied inquiry beyond
+   the convenient 2024 award cohort.
+3. UIST/IUI reusable resources, methods, interaction or creative/accessibility
+   capabilities, with additional non-AI contributions where available.
+4. CHI measurement, replication/null evidence, health and institutional practice,
+   avoiding an automatic return to explanation/trust studies.
+
+Prioritize recent 2018–2026 papers; use an older landmark only for a named missing
+contrast. Verify awards and date/database of citation evidence separately. Public
+full text is necessary for acceptance; unavailable candidates cannot fill quotas.
+E04 module critique and four semantic probes remain pending on Claude availability.
+No new numeric paragraph-length or section-proportion sample is claimed.
