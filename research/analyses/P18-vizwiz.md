@@ -37,3 +37,7 @@ Relation: **capability → interpretation → qualification → grounding exampl
 ## Transfer and exception
 
 Preserve the dependency between observed failures, redesign, and follow-up evaluation. Distinguish service correctness, task success, latency, and usefulness. Contributions can be heterogeneous if each receives appropriate evidence. Do not flatten iterative prototypes into one final system or force all evaluation into a single generic Results section. A discussion may productively begin with existing user competence rather than a universal benefit claim.
+
+## Award verification update — 2026-10-30
+
+**Best Paper (2010)**, verified against the [official conference record](https://uist.acm.org/uist2010/). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

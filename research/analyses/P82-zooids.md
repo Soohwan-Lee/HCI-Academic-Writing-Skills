@@ -1,6 +1,6 @@
 # P82 — Zooids
 
-**Provenance.** Le Goc, Kim, Parsaei, Fekete, Dragicevic, and Follmer, UIST 2016, DOI [10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547). Full author-hosted manuscript from Stanford's Shape Lab, explicitly named `SwarmUIs_no_copyright.pdf`; this version retains an incomplete ISBN placeholder. Full substantive text read, two complete paragraphs rendered and visually checked. Single-analyst, version-dependent coding; award unverified. Selected for the separation of a platform, a proposed interface category, and design principles.
+**Provenance.** Le Goc, Kim, Parsaei, Fekete, Dragicevic, and Follmer, UIST 2016, DOI [10.1145/2984511.2984547](https://doi.org/10.1145/2984511.2984547). Full author-hosted manuscript from Stanford's Shape Lab, explicitly named `SwarmUIs_no_copyright.pdf`; this version retains an incomplete ISBN placeholder. Full substantive text read, two complete paragraphs rendered and visually checked. Single-analyst, version-dependent coding; Award status is recorded in the verification update below. Selected for the separation of a platform, a proposed interface category, and design principles.
 
 ## Contribution and architecture
 
@@ -31,3 +31,7 @@ No controlled user-benefit evaluation is reported; comparative studies remain fu
 ## Transfer and exceptions
 
 Define a new category using inclusions, exclusions, and border cases. Follow demonstrations with principles that explain why engineering decisions affect interaction meaning. Label scenarios, implementations, and future studies separately. This paper needs neither a conventional Results chapter nor invented RQs; its validation burden concerns an enabling platform and design repertoire. It does not license converting technical possibility into universal interaction superiority.
+
+## Award verification update — 2026-10-30
+
+**Best Paper (2016)**, verified against the [official conference record](https://uist.acm.org/uist2016/schedule). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

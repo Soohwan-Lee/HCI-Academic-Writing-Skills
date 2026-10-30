@@ -3,7 +3,7 @@
 Yang, Steinfeld, Rosé and Zimmerman. CHI 2020.
 DOI: https://doi.org/10.1145/3313831.3376301
 Full-text location and checksum: ../corpus.json. Single-analyst interpretation
-of the inspected 12-page copy; PDF page numbers below. Award unverified.
+of the inspected 12-page copy; PDF page numbers below. Award status is recorded in the verification update below.
 
 ## Contribution and evidence
 Author claims: synthesis of design challenges, provocative questions that reframe
@@ -60,3 +60,7 @@ Show why an explanation is incomplete before proposing dimensions. Introduce
 constructs before examples that apply them. State whose practice a framework
 informs. Do not copy claims about the capabilities of 2020 AI into a current paper;
 this analysis concerns argument structure, not present-day technical facts.
+
+## Award verification update — 2026-10-30
+
+**Honorable Mention (2020)**, verified against the [official conference record](https://chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

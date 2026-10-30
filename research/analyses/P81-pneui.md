@@ -1,6 +1,6 @@
 # P81 — PneUI
 
-**Provenance.** Yao, Niiyama, Ou, Follmer, Della Silva, and Ishii, UIST 2013, DOI [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037). Complete ten-page author-hosted PDF from CMU, with both selected paragraphs visually inspected in rendered pages. Single-analyst, version-dependent coding; award unverified. This sample was chosen for its material/process argument and explicit distinction between explored and merely possible combinations.
+**Provenance.** Yao, Niiyama, Ou, Follmer, Della Silva, and Ishii, UIST 2013, DOI [10.1145/2501988.2502037](https://doi.org/10.1145/2501988.2502037). Complete ten-page author-hosted PDF from CMU, with both selected paragraphs visually inspected in rendered pages. Single-analyst, version-dependent coding; Award status is recorded in the verification update below. This sample was chosen for its material/process argument and explicit distinction between explored and merely possible combinations.
 
 ## Object and architecture
 
@@ -33,3 +33,7 @@ These demonstrations support feasibility and a design vocabulary, not population
 ## Transfer and exceptions
 
 Write fabrication choices as mechanisms connecting constraints to behavior. Make figures distinguish tested and prospective regions. Separate implementation limitations from future capabilities. A materials paper can organize around layers, primitives, and processes instead of Method–Results. Its mislabeled acknowledgment heading also reminds us that influential papers contain editorial flaws; corpus analysis should extract useful moves without treating every surface feature as a rule.
+
+## Award verification update — 2026-10-30
+
+**Best Paper (2013)**, verified against the [official conference record](https://uist.acm.org/uist2013/). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

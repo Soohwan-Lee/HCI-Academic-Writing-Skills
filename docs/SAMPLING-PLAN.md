@@ -61,3 +61,9 @@ Length coverage may be smaller than rhetorical coverage and must be stated.
    robust shared decisions, exceptions and unsupported hypotheses.
 7. Claude critiques synthesis and practical LaTeX workflows; blind behavioral
    checks test concrete manuscript tasks, not just agreement with our own rubric.
+
+## Award-source refinement
+Prefer official SIGCHI program award pages and annual conference records when
+verifying recognition. Keep original-year paper/student-paper awards separate from
+later impact, demo and talk awards. Record the access method and unresolved cases;
+see [award verification](../research/AWARD-VERIFICATION.md).

@@ -1,6 +1,6 @@
 # P02 — Soylent
 
-**Source:** Bernstein et al., UIST 2010, [author-hosted full text](https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf). Primary route: artifact/system; secondary: reusable programming pattern and feasibility evidence. The paper lists MIT CSAIL, UC Berkeley, and University of Michigan affiliations. Award status is not established by this analysis.
+**Source:** Bernstein et al., UIST 2010, [author-hosted full text](https://people.csail.mit.edu/msbernst/papers/soylent-uist2010.pdf). Primary route: artifact/system; secondary: reusable programming pattern and feasibility evidence. The paper lists MIT CSAIL, UC Berkeley, and University of Michigan affiliations. Award status is recorded in the verification update below.
 
 **Analysis status:** single-analyst coding of the downloaded 10-page PDF; page numbers refer to that version. First-page layout was visually checked. Reading-order extraction can misplace headings around figures; the implementation section precedes evaluation even though the default text extraction reverses their headings on p. 6. No paragraph-length distribution is inferred from PDF blocks.
 
@@ -34,3 +34,7 @@ The discussion (p. 9) treats latency, payment, privacy, ownership, and domain kn
 ## Selected paragraph: sentence-level flow
 
 **Locator:** related work / crowdsourcing, PDF p. 2, opening “Soylent builds on work embedding”. Four sentences: **S1** acknowledges the nearest architectural precedent; **S2** groups three services by their shared use of an on-demand workforce; **S3** abstracts their common interaction limitation; **S4** identifies the extension to personalized, manipulable, complex work. The relation is **lineage → grouped evidence → comparison criterion → bounded difference**. The previous paragraph distinguishes historical trace aggregation from on-demand work; this paragraph moves inside the closer on-demand category. The next compares a proofreading service, tightening the comparison again. This topic-first paragraph avoids both isolated citation summaries and a claim that the entire approach is unprecedented. It is one selected comparison paragraph, not evidence that every paragraph must begin deductively.
+
+## Award verification update — 2026-10-30
+
+**Best Student Paper (2010)**, verified against the [official conference record](https://uist.acm.org/uist2010/). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

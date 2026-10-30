@@ -53,9 +53,12 @@
     "affiliations_as_stated": "MIT CSAIL; UC Berkeley; University of Michigan",
     "analyzed_version": "author-hosted PDF",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Best Student Paper",
+      "source": "https://uist.acm.org/uist2010/",
+      "evidence": "Official conference program/award list; title and authors matched under Best Student Paper Award",
+      "award_year": 2010,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P02-soylent.md",
@@ -174,9 +177,12 @@
     "affiliations_as_stated": "IBM Research",
     "analyzed_version": "arXiv v3, 2021-09-03; publication CHI 2020",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Honorable Mention",
+      "source": "https://chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/",
+      "evidence": "Official conference program/award list; title and authors matched under CHI 2020 Honourable Mentions",
+      "award_year": 2020,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P06-questioning.md",
@@ -204,9 +210,12 @@
     "affiliations_as_stated": "Carnegie Mellon",
     "analyzed_version": "institutional teaching-hosted CHI copy",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Honorable Mention",
+      "source": "https://chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/",
+      "evidence": "Official conference program/award list; title and authors matched under CHI 2020 Honourable Mentions",
+      "award_year": 2020,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P07-reexamining.md",
@@ -546,9 +555,12 @@
     "affiliations_as_stated": "University of Rochester; University of Washington; MIT CSAIL; University of Central Florida; University of Maryland",
     "analyzed_version": "author/institution-hosted proceedings-format PDF; no revision identifier",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Best Paper",
+      "source": "https://uist.acm.org/uist2010/",
+      "evidence": "Official conference program/award list; title and authors matched under Best Paper Award",
+      "award_year": 2010,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P18-vizwiz.md",
@@ -707,7 +719,12 @@
     "award": {
       "status": "unverified",
       "source": null,
-      "evidence": null
+      "evidence": null,
+      "verification_review": {
+        "checked_on": "2026-10-30",
+        "source": "https://uist.acm.org/uist2013/",
+        "result": "Title not found in inspected Best Paper/Honorable Mention sections; no universal non-award claim."
+      }
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P23-sauron.md",
@@ -746,7 +763,16 @@
     "sha256": "b852aa295fd539335c07ad15ec6f1e361bb92dc9d2b847fba79490af14dd004f",
     "bytes": 696735,
     "analysis_status": "full-text body read; rhetorical coding; selected pages rendered",
-    "primary_writing_route": "artifact"
+    "primary_writing_route": "artifact",
+    "additional_awards": [
+      {
+        "status": "Most Impact Paper Award",
+        "award_year": 2019,
+        "source": "https://iui.acm.org/2019/panel.html",
+        "evidence": "Official IUI retrospective impact award record; title and authors matched",
+        "verified_on": "2026-10-30"
+      }
+    ]
   },
   {
     "id": "P25-ui-xray",
@@ -1650,9 +1676,12 @@
     "pages": 35,
     "analyzed_version": "arXiv:2502.09362v1, 13 February 2025; 35-page preprint, final-version equivalence unverified",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Honorable Mention",
+      "source": "https://programs.sigchi.org/chi/2025/program/session/195060",
+      "evidence": "Official conference program/award list; title and authors matched under HONORABLE MENTION immediately preceding matching paper and author list",
+      "award_year": 2025,
+      "verified_on": "2026-10-30",
+      "verification_method": "Indexed official program content"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P51-futures-review.md",
@@ -2619,7 +2648,12 @@
     "award": {
       "status": "unverified",
       "source": null,
-      "evidence": null
+      "evidence": null,
+      "verification_review": {
+        "checked_on": "2026-10-30",
+        "source": "https://uist.acm.org/uist2013/",
+        "result": "Title not found in inspected Best Paper/Honorable Mention sections; no universal non-award claim."
+      }
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P80-inform.md",
@@ -2651,9 +2685,12 @@
     "affiliations_as_stated": "MIT Media Lab; MIT EECS",
     "analyzed_version": "ten-page author-hosted manuscript; acknowledgment text carries duplicate Conclusion heading",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Best Paper",
+      "source": "https://uist.acm.org/uist2013/",
+      "evidence": "Official conference program/award list; title and authors matched under Best Papers",
+      "award_year": 2013,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P81-pneui.md",
@@ -2685,9 +2722,12 @@
     "affiliations_as_stated": "Inria; Stanford University; Université Paris-Sud; Université Paris-Saclay",
     "analyzed_version": "author-hosted no-copyright manuscript; incomplete ISBN placeholder retained",
     "award": {
-      "status": "unverified",
-      "source": null,
-      "evidence": null
+      "status": "Best Paper",
+      "source": "https://uist.acm.org/uist2016/schedule",
+      "evidence": "Official conference program/award list; title and authors matched under Best Paper Awards",
+      "award_year": 2016,
+      "verified_on": "2026-10-30",
+      "verification_method": "Official conference page text"
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P82-zooids.md",
@@ -2718,7 +2758,12 @@
     "award": {
       "status": "unverified",
       "source": null,
-      "evidence": null
+      "evidence": null,
+      "verification_review": {
+        "checked_on": "2026-10-30",
+        "source": "https://uist.acm.org/uist2016/schedule",
+        "result": "Title not found in inspected Best Paper/Honorable Mention sections; no universal non-award claim."
+      }
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P83-erica.md",
@@ -2791,7 +2836,16 @@
     "sha256": "cab964af59759dc138ad880929049153708e90d92e9beed10f14dea4456a3d5a",
     "bytes": 2072626,
     "analysis_status": "full-text body read; rhetorical coding; two complete paragraphs visually checked",
-    "primary_writing_route": "artifact"
+    "primary_writing_route": "artifact",
+    "additional_awards": [
+      {
+        "status": "Most Impact Paper Award",
+        "award_year": 2021,
+        "source": "https://iui.acm.org/steering/",
+        "evidence": "Official IUI retrospective impact award record; title and authors matched",
+        "verified_on": "2026-10-30"
+      }
+    ]
   },
   {
     "id": "P86-screen-relationships",
@@ -3574,7 +3628,12 @@
     "award": {
       "status": "unverified",
       "source": null,
-      "evidence": null
+      "evidence": null,
+      "verification_review": {
+        "checked_on": "2026-10-30",
+        "source": "https://uist.acm.org/uist2021/",
+        "result": "Title not found in inspected Best Paper/Honorable Mention sections; no universal non-award claim."
+      }
     },
     "accessed": "2026-10-30",
     "analysis": "analyses/P107-screen2words.md",

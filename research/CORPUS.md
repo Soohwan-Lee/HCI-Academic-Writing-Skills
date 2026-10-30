@@ -10,12 +10,12 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | ID | Venue | Paper / knowledge object | Award status (see metadata for evidence) |
 |---|---|---|---|
 | [P01](analyses/P01-generative-agents.md) | UIST 2023 | Generative Agents — artifact/capability | Best Paper |
-| [P02](analyses/P02-soylent.md) | UIST 2010 | Soylent — artifact/capability | unverified |
+| [P02](analyses/P02-soylent.md) | UIST 2010 | Soylent — artifact/capability | Best Student Paper |
 | [P03](analyses/P03-trust-think.md) | CSCW 2021 | To Trust or to Think — empirical finding | unverified |
 | [P04](analyses/P04-proxy.md) | IUI 2020 | Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems — empirical finding / methodological critique | Best Paper |
 | [P05](analyses/P05-ryelands.md) | DIS 2024 | Responding to Generative AI Technologies with Research-through-Design — design knowledge | Best Paper |
-| [P06](analyses/P06-questioning.md) | CHI 2020 | Questioning the AI — empirical finding | unverified |
-| [P07](analyses/P07-reexamining.md) | CHI 2020 | Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design — conceptual/theoretical argument | unverified |
+| [P06](analyses/P06-questioning.md) | CHI 2020 | Questioning the AI — empirical finding | Honorable Mention |
+| [P07](analyses/P07-reexamining.md) | CHI 2020 | Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design — conceptual/theoretical argument | Honorable Mention |
 | [P08](analyses/P08-guidelines.md) | CHI 2019 | Guidelines for Human-AI Interaction — method/instrument | Honorable Mention |
 | [P09](analyses/P09-historicism.md) | CSCW 2021 | Time for Historicism in CSCW — conceptual/theoretical argument | Best Paper |
 | [P11](analyses/P11-group-review.md) | CSCW 2022 | A Systematic Review of Interaction Design Strategies for Group Recommendation Systems — literature synthesis | unverified |
@@ -25,7 +25,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P15](analyses/P15-crip-plants.md) | DIS 2024 | Crip Reflections on Designing with Plants — situated design interpretation/reframing | Best Paper |
 | [P16](analyses/P16-dataset-politics.md) | CSCW 2021 | Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development — empirical interpretive account | Best Paper |
 | [P17](analyses/P17-iui-contrast.md) | IUI 2021 | ProtoAI — design workflow embodied in artifact | Best Paper |
-| [P18](analyses/P18-vizwiz.md) | UIST 2010 | VizWiz — interactive service and recruitment mechanism | unverified |
+| [P18](analyses/P18-vizwiz.md) | UIST 2010 | VizWiz — interactive service and recruitment mechanism | Best Paper |
 | [P19](analyses/P19-printed-optics.md) | UIST 2012 | Printed Optics — fabrication technique family | unverified |
 | [P20](analyses/P20-omnitouch.md) | UIST 2011 | OmniTouch — interaction and sensing artifact | unverified |
 | [P21](analyses/P21-lightspace.md) | UIST 2010 | Combining Multiple Depth Cameras and Projectors for Interactions On, Above, and Between Surfaces — interactive-space system and techniques | unverified |
@@ -58,7 +58,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P48](analyses/P48-implications.md) | CHI 2006 | Implications for Design — conceptual or critical argument | unverified |
 | [P49](analyses/P49-feminist-hci.md) | CHI 2010 | Feminist HCI — conceptual or critical argument | unverified |
 | [P50](analyses/P50-rtd-expectations.md) | CHI 2012 | What Should We Expect From Research Through Design? — conceptual or critical argument | unverified |
-| [P51](analyses/P51-futures-review.md) | CHI 2025 | Let’s Talk Futures — synthesis or review | unverified |
+| [P51](analyses/P51-futures-review.md) | CHI 2025 | Let’s Talk Futures — synthesis or review | Honorable Mention |
 | [P52](analyses/P52-democratic-review.md) | CSCW 2019 | A Review of Research on Participation in Democratic Decision-Making Presented at SIGCHI Conferences — synthesis or review | unverified |
 | [P53](analyses/P53-recollecting-craft.md) | CSCW 2023 | (Re)collecting Craft — conceptual or critical argument | unverified |
 | [P54](analyses/P54-interruptions.md) | CHI 2008 | The Cost of Interrupted Work — empirical quantitative account | unverified |
@@ -87,8 +87,8 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P78](analyses/P78-posthuman-vocabulary.md) | COMPASS 2025 | Navigating the Posthuman Turn in Computing and Design — literature synthesis | unverified |
 | [P79](analyses/P79-tapsense.md) | UIST 2011 | TapSense — acoustic input-discrimination technique | unverified |
 | [P80](analyses/P80-inform.md) | UIST 2013 | inFORM — interaction design space and shape-display platform | unverified |
-| [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | unverified |
-| [P82](analyses/P82-zooids.md) | UIST 2016 | Zooids — open swarm-interface platform and conceptual definition | unverified |
+| [P81](analyses/P81-pneui.md) | UIST 2013 | PneUI — integrated soft material and fabrication approach | Best Paper |
+| [P82](analyses/P82-zooids.md) | UIST 2016 | Zooids — open swarm-interface platform and conceptual definition | Best Paper |
 | [P83](analyses/P83-erica.md) | UIST 2016 | ERICA — interaction-mining infrastructure and trace representation | unverified |
 | [P84](analyses/P84-intelligent-iui.md) | IUI 2020 | What is “Intelligent” in Intelligent User Interfaces? A Meta-Analysis of 25 Years of IUI — corpus-grounded conceptual reflection | unverified |
 | [P85](analyses/P85-explanatory-debugging.md) | IUI 2015 | Principles of Explanatory Debugging to Personalize Interactive Machine Learning — design principles and interactive personalization technique | unverified |
@@ -139,3 +139,5 @@ Each analysis distinguishes the authors' claims, our interpretation, the support
 used, and its limits. Paragraph examples are selected cases, not frequency data.
 Award records and lab affiliations are discovery/provenance metadata, not an
 instruction to imitate particular authors or assert their endorsement.
+
+Award verification method and follow-up: [AWARD-VERIFICATION.md](AWARD-VERIFICATION.md). Retrospective impact awards are separate metadata and are not counted as original-year Best Paper awards.

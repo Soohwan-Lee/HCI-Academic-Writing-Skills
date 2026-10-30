@@ -333,3 +333,13 @@ Zotero records or transcripts are tracked. GitHub visibility confirmed PUBLIC.
 Reviewed the generated cover and rendered vector logo; documented their provenance.
 Added original-work MIT license and contribution guidance. Full-paper author-usage,
 independent human validation and automatic host discovery remain future work.
+
+## Gate W — official award records
+User pointed to SIGCHI's official program award pages. Added a source hierarchy
+and an explicit verification ledger. Seven previously unverified original-year
+recognitions now have official evidence; two later IUI impact awards are stored
+separately. Preserved the exact Best Student Paper category for Soylent. Recorded
+four bounded negative checks without treating them as universal non-award evidence.
+SIGCHI JavaScript extraction/browser availability limits are explicit; indexed
+official session and award content supplied the P51 match. This is one reviewed
+batch, not a claim to have audited all remaining 72 unresolved records.

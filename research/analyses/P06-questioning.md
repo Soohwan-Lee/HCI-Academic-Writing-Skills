@@ -85,3 +85,7 @@ than turn illustrative needs into universal requirements.
 - Link recommendations to findings without claiming their effectiveness was tested.
 
 Single-analyst coding; no prevalence, paragraph-length, or award inference is made.
+
+## Award verification update — 2026-10-30
+
+**Honorable Mention (2020)**, verified against the [official conference record](https://chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.

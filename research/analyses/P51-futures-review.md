@@ -1,6 +1,6 @@
 # P51 — Let’s Talk Futures: A Literature Review of HCI’s Future-Orientation
 
-**Identity.** Sanchez, Wang, Savolainen, Epp, and Salovaara, CHI 2025, DOI 10.1145/3706598.3713759. Analyzed arXiv:2502.09362v1, dated 13 February 2025: https://arxiv.org/pdf/2502.09362v1. This 35-page preprint is not asserted identical to the final proceedings version. PDF-page locators apply. Award unverified. Primary contribution: literature synthesis and an analytical framework. Single-analyst writing analysis.
+**Identity.** Sanchez, Wang, Savolainen, Epp, and Salovaara, CHI 2025, DOI 10.1145/3706598.3713759. Analyzed arXiv:2502.09362v1, dated 13 February 2025: https://arxiv.org/pdf/2502.09362v1. This 35-page preprint is not asserted identical to the final proceedings version. PDF-page locators apply. Award status is recorded in the verification update below. Primary contribution: literature synthesis and an analytical framework. Single-analyst writing analysis.
 
 ## Architecture and opening
 
@@ -23,3 +23,7 @@ The paper explicitly limits representativeness because citation-based selection 
 ## Transfer and exception
 
 Separate a review’s background literature from the corpus analyzed as evidence, and explain how each search/filter choice serves the question. Make framework changes visible when data exceed a borrowed lens. Link descriptive findings to interpretive findings without collapsing their evidence standards. This paper supports a review-writing route with retrieval, selection, coding, synthesis, scope limits, and traceable agenda proposals; it does not supply a universal protocol for every critical essay, scoping review, or meta-analysis.
+
+## Award verification update — 2026-10-30
+
+**Honorable Mention (2025)**, verified against the [official conference record](https://programs.sigchi.org/chi/2025/program/session/195060). Title and authors match the listed paper. This updates bibliographic recognition, not the rhetorical analysis or its validity.
