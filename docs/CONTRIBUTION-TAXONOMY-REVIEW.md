@@ -1,6 +1,6 @@
 # Contribution taxonomy review
 
-Status: implementation in progress, 2026-10-30. This records an audit of the first
+Status: first implementation reviewed; corpus expansion in progress, 2026-10-30. This records an audit of the first
 package, not a claim to have validated a complete HCI taxonomy.
 
 ## Review material and procedure
@@ -52,3 +52,18 @@ Implement and source-review the selection layer, add focused writing guidance,
 run bounded behavior probes, reconcile bilingual documentation and expand weak
 subtypes through the [second expansion](EXPANSION-200.md). P110 raises the completed
 corpus to 108; other downloaded historical candidates have not yet been counted.
+
+## Concrete-draft review and behavior gate
+A third Opus review received the proposed catalogue, sociotechnical guide and notes
+P33/P36/P98/P110. Root reread those notes and accepted corrections: P98 already
+provides theory extension; P36 is explicit theory application; P110 is not safely
+classified as formal theory application merely because it draws on perspectives.
+Separated structural critique from standpoint epistemology, added a short entry
+path, clarified routing by evidence, and preserved absent-party perspective limits.
+Did not treat the review's every wording preference as a source-derived rule.
+
+Eight bounded behavior cases were reviewed in full. Most intended distinctions
+were preserved, but T1 invented variation and T6 imposed overly broad measurement
+requirements. See [behavior report](../tests/behavior/TAXONOMY-REPORT.md). The new
+guidance is available; reliable semantic behavior and full subtype exemplar coverage
+remain unproven. No additional corpus analyses are counted at this gate.

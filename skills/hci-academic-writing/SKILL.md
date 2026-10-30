@@ -28,7 +28,16 @@ and the relevant route. For whole-paper framing, load the route and section guid
 add budgets only when length matters. A system evaluation usually remains inside
 the artifact route; use hybrids when two substantive claims need distinct warrants.
 
-Load only the matching route(s):
+For contribution framing or claim-changing edits, use the
+[contribution catalogue](references/contribution-catalogue.md) to distinguish finer
+claims: characterization, sociotechnical explanation, theory application/revision,
+critique, historical inquiry, participatory change, replication and others. The
+following routes provide writing/evidence support; they are not an exhaustive
+classification of contributions. HCAI is a topic, and an interview is a method.
+For sociotechnical relations, also consult the focused
+[sociotechnical guide](references/sociotechnical.md).
+
+Load only the matching support route(s):
 
 | Main knowledge claim | Reference |
 |---|---|

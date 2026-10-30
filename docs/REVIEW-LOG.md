@@ -351,3 +351,11 @@ implications. Two Opus 5.5 consultations exposed mixed routing axes and subtype
 obligations; root corrected an overstatement about probes and rejected automatic
 theory-generation requirements. See CONTRIBUTION-TAXONOMY-REVIEW.md for decisions.
 Current corpus: 108. Additional full-text expansion is planned, not yet completed.
+
+## Gate Y — contribution selection and sociotechnical writing
+Added a contribution catalogue and focused guidance for analytical levels, relations,
+power, source perspectives and paragraph flow. Root reviewed a concrete-draft Opus
+critique against four existing paper notes, corrected exemplar placement, and
+reviewed eight generation cases. Recorded factual drafting and overprescriptive
+measurement failures rather than asserting full behavioral success. Installer and
+auditor suites still pass all 18 tests; live discovery was not retested.
