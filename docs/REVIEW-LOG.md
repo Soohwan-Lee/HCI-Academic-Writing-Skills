@@ -522,3 +522,16 @@ paragraph sequences. Each maps two complete sentence flows. These source-specifi
 maps do not yet establish a cross-paper norm. No Claude critique or numeric length
 measurement is claimed for this stage. Continue with contrasting architectures and
 remaining contribution families before declaring the writing support complete.
+
+## First hierarchical architecture integration — 2026-10-31
+Added S03 formative-first system, S04 intervention comparison and S05 sociotechnical
+interpretation, each with recovered source hierarchies, complete selected subsection
+paragraph maps and two sentence maps. S01–S05 demonstrate different argument roles
+for systems, participant material, design processes and evaluation. They do not
+constitute complete family coverage or new quantitative length measurements.
+
+Added a selectively loaded architecture guide and connected it to outline/structural
+drafting workflows. It distinguishes source observations from conditional drafting
+plans and requires subsection purpose, paragraph support and logical handoffs.
+Remaining families and within-family contrasts stay explicit. Root reviewed source
+passages; no unavailable Claude review is claimed.

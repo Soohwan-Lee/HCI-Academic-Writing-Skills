@@ -24,7 +24,9 @@ to evaluate a system does not automatically make the paper empirical-first.
 
 For sentence/paragraph polish, load paragraph flow only; add a route if the edit
 changes the kind or scope of a claim. For section drafting, load section guidance
-and the relevant route. For whole-paper framing, load the route and section guide;
+and the relevant route; add [architecture choices](references/architectures.md) when
+subsection or paragraph order is part of the task. For whole-paper framing, load
+the architecture guide, route and section guide;
 add budgets only when length matters. A system evaluation usually remains inside
 the artifact route; use hybrids when two substantive claims need distinct warrants.
 
@@ -54,7 +56,9 @@ Load only the matching support route(s):
 ## Choose the shortest useful workflow
 
 - **Frame/outline:** state the claim, its support and boundary; assign each section
-  a job; give paragraphs working claims or questions. Resolve duplicated jobs.
+  a job; specify its subsection sequence and give paragraphs working claims or
+  questions, supporting material and logical handoffs. Resolve duplicated jobs.
+  Do not reduce every contribution to a generic IMRaD outline.
 - **Before results exist:** draft motivation, related work and the actual method.
   Keep result-dependent abstract/contribution slots in explicit draft comments;
   record which promises need reconciliation after analysis. Do not write imagined

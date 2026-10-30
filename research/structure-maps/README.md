@@ -10,6 +10,12 @@ every paragraph in a manuscript. See the [active plan](../../docs/STRUCTURE-ANAL
 | [S01 Wheeler](S01-wheeler.md) | Capability-led artifact with participatory refinement | Main sections and nested evaluation/rationale | Four ideation subsections | Two paragraphs |
 | [S02 Design Bookkeeping](S02-design-bookkeeping.md) | Reflective design pictorial | Visual reading path and local headings | Conceptual page, first case, cross-cutting themes | Two case paragraphs |
 
-Coverage is currently narrow. These first two cases illustrate a contrast, not
+| [S03 Chart4Blind](S03-chart4blind.md) | Formative-first system with two user perspectives | Nested formative/system/evaluation sequences | All formative-findings paragraphs and system opening | Two paragraphs |
+
+| [S04 Group experiment](S04-group-experiment.md) | Experimental group-AI comparison | RQ/treatment/result/puzzle hierarchy | Two result and two discussion subsections | Two discussion paragraphs |
+
+| [S05 Porous by Design](S05-porous-design.md) | Sociotechnical interpretation and conceptual extension | Empirical themes and question-led discussion | Both discussion subsections | Two paragraphs |
+
+Coverage is currently narrow. These first five cases illustrate a contrast, not
 saturation, representativeness, or completed coverage of artifact and RtD families.
 No numeric section or paragraph-length sample is enlarged by these maps.

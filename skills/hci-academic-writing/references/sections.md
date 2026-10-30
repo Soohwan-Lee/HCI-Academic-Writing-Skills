@@ -6,6 +6,10 @@ A useful outline records **reader question → answer promised → evidence avai
 → next dependency**. Related paragraphs should advance this sequence rather than
 restate the importance of the topic at each heading.
 
+For contribution-dependent hierarchies and complete local planning, use
+[architecture choices](architectures.md). The headings below describe common
+argumentative jobs; they are not a mandatory manuscript table of contents.
+
 ## Abstract: compressed contribution, with its warrant
 
 A practical default is problem or phenomenon → unresolved issue → approach and
