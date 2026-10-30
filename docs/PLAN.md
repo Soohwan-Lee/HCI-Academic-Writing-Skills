@@ -130,3 +130,22 @@ Public homepage/publications/projects were reviewed. See
 workflow decisions. Track contribution, method, form and venue separately; retain
 collaboration/social-influence/reflective and embodied-interface examples alongside
 broader HCI domains. Public page review does not count toward full-text analysis.
+
+## Reopened review — contribution taxonomy (user follow-up)
+The user identified sociotechnical phenomenon analysis, exemplified by Inhwa Song
+et al.'s God-Saeng paper, as inadequately visible in the existing eight-route scheme.
+The first package is not an exhaustive validated taxonomy. Review the actual
+instructions and sources before adding categories.
+
+1. Identify and read the CHI 2026 God-Saeng full paper; separate it from the 2024
+   workshop precursor. Record the version and inspect paragraph examples.
+2. Consult Claude Code through subscription authentication on the existing router,
+   qualitative/conceptual guidance and full source; distinguish missing content,
+   weak discovery, mixed classification axes and unsupported coverage claims.
+3. Add a contribution-first selection layer and focused sociotechnical guidance.
+   Preserve method-specific support; do not relabel the entire corpus mechanically.
+   Audit other underdeveloped claims (critical, historical, participatory/action,
+   theory development, replication/negative evidence) with explicit limits.
+4. Review concrete drafts and run bounded behavior probes for the changed decisions.
+   Record failures, accepted/rejected advice, update bilingual docs and corpus count,
+   validate bundle links and commit/push reviewable stages.
