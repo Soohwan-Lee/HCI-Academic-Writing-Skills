@@ -1,16 +1,33 @@
-<p align="left"><img src="assets/logo.svg" width="64" alt="Evidence paths joining a manuscript page"></p>
+<p align="center">
+  <img src="assets/logo.svg" width="72" alt="HCI Academic Writing Skills logo">
+</p>
 
-# HCI Academic Writing Skills
+<h1 align="center">HCI Academic Writing Skills</h1>
 
-**Build the argument. Shape the paper. Revise the prose.**
+<p align="center">
+  <strong>Build the argument. Shape the paper. Revise the prose.</strong><br>
+  Contribution-aware writing, inside your ACM LaTeX project.
+</p>
 
-A writing skill for AI coding agents working inside your HCI manuscript folder. It helps turn research materials into a contribution-specific outline, develop sections and paragraphs, and revise the actual LaTeX files you will upload to Overleaf.
+<p align="center">
+  <a href="skills/hci-academic-writing/SKILL.md"><img src="https://img.shields.io/badge/Agent_Skill-HCI_Writing-173f3c?style=flat-square" alt="Agent skill for HCI writing"></a>
+  <a href="docs/COMPATIBILITY.md"><img src="https://img.shields.io/badge/Python-3.9%2B-65736d?style=flat-square" alt="Installer requires Python 3.9 or later"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-b75b3e?style=flat-square" alt="MIT license"></a>
+</p>
 
-For researchers writing **CHI, CSCW, UIST, DIS and IUI** papers, including systems, empirical studies, sociotechnical accounts, research through design, conceptual work and literature reviews.
+<p align="center">
+  <a href="README.ko.md">한국어</a> · <a href="#quick-start">Quick start</a> · <a href="#try-it-on-your-manuscript">Examples</a> · <a href="#what-the-guidance-is-based-on">Evidence</a> · <a href="docs/STRUCTURE-ANALYSIS-PLAN.md">Roadmap</a>
+</p>
 
-[한국어](README.ko.md) · [Quick start](#quick-start) · [Writing examples](#try-it-on-your-manuscript) · [Evidence](#what-the-guidance-is-based-on) · [Development plan](docs/STRUCTURE-ANALYSIS-PLAN.md)
+<p align="center">
+  <img src="assets/editorial-cover.png" width="900" alt="Editorial illustration of diverse research evidence becoming a coherent manuscript">
+</p>
 
-![Editorial illustration of manuscript pages, human interaction and connected evidence](assets/editorial-cover.png)
+<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp; / &nbsp; Systems · Empirical · Sociotechnical · RtD · Concepts · Reviews</sub></p>
+
+Turn research materials into **a contribution-specific outline and connected prose**. This skill guides AI coding agents such as Codex, Claude Code and Antigravity to work in your manuscript folder and edit the actual `.tex` files you will upload to Overleaf. See the [tested scope for each host](docs/COMPATIBILITY.md).
+
+---
 
 ## What this skill helps you do
 
@@ -27,37 +44,6 @@ You supply the research, draft and task. The skill gives your agent instructions
 | “Help address this review.” | An answer tied to evidence and concrete manuscript changes |
 
 The deliverable is usually an edit to your manuscript, accompanied by a short explanation of what changed. A small wording task stays small; it does not require a full-paper planning exercise.
-
-## The structure follows the contribution
-
-An interview can inform a system, support a sociotechnical interpretation or help develop a concept. Those papers need different arguments even when they use similar methods or target the same venue.
-
-The skill separates **contribution, method, topic, venue and manuscript form**. It then helps plan four connected levels:
-
-> **Section:** What does the reader need to understand here?
->
-> **Subsection:** Which questions must be answered, and in what order?
->
-> **Paragraph:** What claim or question does this paragraph develop, with what material?
->
-> **Sentence:** How does each sentence connect known information to the next inference?
-
-Source-backed examples illustrate alternative structures:
-
-| Kind of argument | One possible progression |
-|---|---|
-| New interaction capability | Capability overview → design rationale → implementation → capability-specific evaluation |
-| System informed by formative inquiry | Formative findings → design commitments → system → distinct evaluation questions |
-| Reflective design / pictorial | Situated practice → reflective lens → material or visual cases → cross-case interpretation |
-| Sociotechnical understanding | Situated accounts → relationships or tensions → conceptual interpretation → implications |
-| Historical inquiry | Period-specific accounts → cross-period analytical dimensions → implications and methodological reflection |
-| Concept development | Conceptual lineage → illustrative design → participant interpretations → conceptual account |
-| Dataset or research resource | Construction → characterization → task-specific utility → reuse conditions |
-| Interpretive literature review | Selection and analysis → thematic findings → conceptual synthesis → research agenda |
-
-These are conditional choices, not required templates for a venue. The [architecture guide](skills/hci-academic-writing/references/architectures.md) explains when each helps. The [contribution catalogue](skills/hci-academic-writing/references/contribution-catalogue.md) also covers participatory change, critique, methods, replication and hybrid contributions.
-
-Shared references address abstracts, introductions, related work that positions and supports the contribution, discussion, paragraph development and sentence flow. Topic-first paragraphs are useful when the claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
 
 ## Quick start
 
@@ -123,29 +109,72 @@ my-paper/
 
 The installed bundle is self-contained. You do not need the full research corpus or Zotero library to use it. Compilation needs your TeX toolchain; uploading to Overleaf is a separate step. The skill does not include the ACM template.
 
+## The structure follows the contribution
+
+An interview can inform a system, support a sociotechnical interpretation or help develop a concept. Those papers need different arguments even when they use similar methods or target the same venue.
+
+The skill separates **contribution, method, topic, venue and manuscript form**. It then helps plan four connected levels:
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/writing-levels-en-mobile.svg">
+  <img src="assets/writing-levels-en.svg" width="1000" alt="Plan section purpose, subsection questions, paragraph claims and evidence, and sentence connections together.">
+</picture>
+
+Source-backed examples illustrate alternative structures:
+
+| Kind of argument | One possible progression |
+|---|---|
+| New interaction capability | Capability overview → design rationale → implementation → capability-specific evaluation |
+| System informed by formative inquiry | Formative findings → design commitments → system → distinct evaluation questions |
+| Reflective design / pictorial | Situated practice → reflective lens → material or visual cases → cross-case interpretation |
+| Sociotechnical understanding | Situated accounts → relationships or tensions → conceptual interpretation → implications |
+| Historical inquiry | Period-specific accounts → cross-period analytical dimensions → implications and methodological reflection |
+| Concept development | Conceptual lineage → illustrative design → participant interpretations → conceptual account |
+| Dataset or research resource | Construction → characterization → task-specific utility → reuse conditions |
+| Interpretive literature review | Selection and analysis → thematic findings → conceptual synthesis → research agenda |
+
+These are conditional choices, not required templates for a venue. The [architecture guide](skills/hci-academic-writing/references/architectures.md) explains when each helps. The [contribution catalogue](skills/hci-academic-writing/references/contribution-catalogue.md) also covers participatory change, critique, methods, replication and hybrid contributions.
+
+Shared references address abstracts, introductions, related work that positions and supports the contribution, discussion, paragraph development and sentence flow. Topic-first paragraphs are useful when the claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
+
 ## Try it on your manuscript
 
 Give the agent the root file, edit scope, available evidence and any word limit. Include the venue/track and official requirements when the task concerns submission format.
 
-### Plan a paper beyond generic headings
+<details>
+<summary><strong>Plan a paper beyond generic headings</strong></summary>
 
 > Use hci-academic-writing. Read main.tex and my study notes. Identify the primary contribution and propose an outline suited to it. For every section, give its purpose and subsection order. For the central section, plan each paragraph's claim, supporting material and handoff to the next paragraph. Explain any consequential alternative structure before editing the outline.
 
-### Turn findings into an interpretive discussion
+</details>
+
+<details>
+<summary><strong>Turn findings into an interpretive discussion</strong></summary>
 
 > Use hci-academic-writing. Draft the discussion in sections/discussion.tex from the supplied interview findings. Explain how the observed relationships extend or complicate the concepts already introduced. Keep participant accounts, our interpretation and proposed implications distinguishable. Do not turn every finding into a system requirement.
 
-### Develop a design argument
+</details>
+
+<details>
+<summary><strong>Develop a design argument</strong></summary>
 
 > Use hci-academic-writing. Read the design diary and annotated artifact images. Help organize the RtD argument around what making and reflection taught us. Propose subsections and paragraph roles that connect material encounters to design understanding, including tensions and unresolved interpretations.
 
-### Write a literature synthesis
+</details>
+
+<details>
+<summary><strong>Write a literature synthesis</strong></summary>
 
 > Use hci-academic-writing. Use my review protocol and extraction table to plan the findings and synthesis sections. Distinguish what the corpus contains from the cross-paper interpretation. Choose a structure suited to the review's actual purpose and procedure; do not assume it is a systematic review.
 
-### Revise or compress a passage
+</details>
+
+<details>
+<summary><strong>Revise or compress a passage</strong></summary>
 
 > Use hci-academic-writing. Edit the selected results paragraph in sections/results.tex to at most 150 words. Preserve estimates, uncertainty, any null or nonsignificant findings and analysis units. Keep absence-of-effect evidence distinct from a nonsignificant test. Report the counting convention and any material changes.
+
+</details>
 
 These are example requests, not measured performance claims. The agent should preserve bibliography keys, labels, macros and unrelated edits. Unknown facts belong in explicit draft comments such as `% HCI-TODO[evidence]: ...`, not plausible invented prose.
 

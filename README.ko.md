@@ -1,16 +1,33 @@
-<p align="left"><img src="assets/logo.svg" width="64" alt="근거의 흐름이 원고로 이어지는 로고"></p>
+<p align="center">
+  <img src="assets/logo.svg" width="72" alt="HCI Academic Writing Skills logo">
+</p>
 
-# HCI Academic Writing Skills
+<h1 align="center">HCI Academic Writing Skills</h1>
 
-**논증을 세우고, 논문을 구성하고, 문장을 다듬습니다.**
+<p align="center">
+  <strong>논증을 세우고, 논문을 구성하고, 문장을 다듬습니다.</strong><br>
+  내 ACM LaTeX 프로젝트에서 사용하는 기여 중심 라이팅 스킬
+</p>
 
-HCI 논문 폴더에서 작업하는 AI 코딩 에이전트를 위한 라이팅 스킬입니다. 연구 자료를 바탕으로 기여에 맞는 개요를 구성하고, 섹션과 문단을 발전시키며, Overleaf에 업로드할 실제 LaTeX 파일을 수정하도록 돕습니다.
+<p align="center">
+  <a href="skills/hci-academic-writing/SKILL.md"><img src="https://img.shields.io/badge/Agent_Skill-HCI_Writing-173f3c?style=flat-square" alt="Agent skill for HCI writing"></a>
+  <a href="docs/COMPATIBILITY.md"><img src="https://img.shields.io/badge/Python-3.9%2B-65736d?style=flat-square" alt="Installer requires Python 3.9 or later"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-b75b3e?style=flat-square" alt="MIT license"></a>
+</p>
 
-**CHI, CSCW, UIST, DIS, IUI**에 제출하는 시스템, 실증 연구, 사회기술적 현상 분석, Research through Design, 개념 연구, 문헌 리뷰 등 다양한 논문을 대상으로 합니다.
+<p align="center">
+  <a href="README.md">English</a> · <a href="#빠른-시작">빠른 시작</a> · <a href="#내-원고에-적용하기">사용 예시</a> · <a href="#어떤-분석을-바탕으로-만들었나요">분석 근거</a> · <a href="docs/STRUCTURE-ANALYSIS-PLAN.md">개발 계획</a>
+</p>
 
-[English](README.md) · [빠른 시작](#빠른-시작) · [사용 예시](#내-원고에-적용하기) · [분석 근거](#어떤-분석을-바탕으로-만들었나요) · [개발 계획](docs/STRUCTURE-ANALYSIS-PLAN.md)
+<p align="center">
+  <img src="assets/editorial-cover.png" width="900" alt="다양한 연구 근거가 하나의 논증으로 이어지는 원고 일러스트">
+</p>
 
-![원고, 사람들의 상호작용, 연결된 연구 근거를 표현한 일러스트](assets/editorial-cover.png)
+<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp; / &nbsp; 시스템 · 실증 연구 · 사회기술적 분석 · RtD · 개념 연구 · 리뷰</sub></p>
+
+연구 자료를 **기여에 맞는 개요와 연결된 문단**으로 발전시키세요. 이 스킬은 Codex, Claude Code, Antigravity 같은 AI 코딩 에이전트가 연구자의 논문 폴더에서 작업하며, Overleaf에 업로드할 실제 `.tex` 파일을 수정하도록 돕습니다. [호스트별 검증 범위](docs/COMPATIBILITY.md)는 구분해 기록합니다.
+
+---
 
 ## 무엇을 도와주나요?
 
@@ -27,37 +44,6 @@ HCI 논문 폴더에서 작업하는 AI 코딩 에이전트를 위한 라이팅 
 | “리뷰 의견에 대응해줘.” | 근거와 실제 원고 수정에 연결된 답변 |
 
 보통 결과물은 **원고 파일의 수정과 변경 이유에 대한 짧은 설명**입니다. 문장 하나를 다듬는 요청에 논문 전체의 계획 수립을 요구하지 않습니다.
-
-## 기여에 따라 논문의 구조가 달라집니다
-
-인터뷰는 시스템 설계에 필요한 요구를 찾을 수도, 사회기술적 현상을 해석할 수도, 새로운 개념을 발전시킬 수도 있습니다. 방법이나 제출 학회가 같더라도 논증의 구조는 달라집니다.
-
-이 스킬은 **기여, 연구 방법, 주제, 학회, 원고 형식**을 구분하고, 다음 네 수준을 연결해 글을 계획합니다.
-
-> **섹션:** 독자가 여기서 무엇을 이해해야 하는가?
->
-> **하위섹션:** 어떤 질문에 어떤 순서로 답해야 하는가?
->
-> **문단:** 어떤 주장이나 질문을 어떤 자료로 발전시키는가?
->
-> **문장:** 이미 제시한 정보에서 다음 추론으로 어떻게 이어지는가?
-
-실제 논문에서 분석한 구조에는 다음과 같은 대안이 있습니다.
-
-| 논증의 성격 | 가능한 전개 예시 |
-|---|---|
-| 새로운 인터랙션 역량 | 인터랙션 역량 개요 → 설계 근거 → 구현 → 역량별 평가 |
-| Formative inquiry에 기반한 시스템 | 탐색적 조사 결과 → 설계 원칙·결정 → 시스템 → 서로 다른 평가 질문 |
-| 성찰적 디자인 / pictorial | 상황과 실천 → 성찰의 관점 → 재료·시각적 사례 → 사례 간 해석 |
-| 사회기술적 이해 | 상황에 놓인 경험 → 관계와 긴장 → 개념적 해석 → 함의 |
-| 역사적 탐구 | 시대별 서술 → 시대를 가로지르는 분석 차원 → 함의와 방법론적 성찰 |
-| 개념 개발 | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 설명 |
-| 데이터셋·연구 자원 | 구축 → 특성 분석 → 과제별 활용 검증 → 재사용 조건 |
-| 해석적 문헌 리뷰 | 선정과 분석 → 주제별 결과 → 개념적 종합 → 후속 연구 의제 |
-
-학회별 필수 템플릿이 아니라, 논증의 목적에 따라 선택할 수 있는 구조입니다. [구조 가이드](skills/hci-academic-writing/references/architectures.md)는 각 구조가 언제 도움이 되는지 설명합니다. [기여 유형 목록](skills/hci-academic-writing/references/contribution-catalogue.md)은 참여적 변화, 비판, 방법론, 재현 연구, 복합 기여도 다룹니다.
-
-공통 자료는 abstract, introduction, 연구의 위치와 논증 근거를 세우는 related work, discussion, 문단 전개와 문장 연결을 다룹니다. 두괄식은 주장을 바로 이해할 수 있을 때 유용하지만, 서사나 뒤늦게 드러나는 해석이 필요한 문단도 있습니다. 8,000단어 기준의 분량 배분은 계획을 돕는 참고안이며, HCI 논문 전체에 적용되는 규칙은 아닙니다.
 
 ## 빠른 시작
 
@@ -122,29 +108,72 @@ my-paper/
 
 설치된 묶음만으로 스킬을 사용할 수 있습니다. 전체 논문 분석 자료나 Zotero 라이브러리는 필요하지 않습니다. 컴파일에는 TeX 도구가 필요하며, Overleaf 업로드는 별도 작업입니다. ACM 템플릿은 포함되어 있지 않습니다.
 
+## 기여에 따라 논문의 구조가 달라집니다
+
+인터뷰는 시스템 설계에 필요한 요구를 찾을 수도, 사회기술적 현상을 해석할 수도, 새로운 개념을 발전시킬 수도 있습니다. 방법이나 제출 학회가 같더라도 논증의 구조는 달라집니다.
+
+이 스킬은 **기여, 연구 방법, 주제, 학회, 원고 형식**을 구분하고, 다음 네 수준을 연결해 글을 계획합니다.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/writing-levels-ko-mobile.svg">
+  <img src="assets/writing-levels-ko.svg" width="1000" alt="섹션의 역할, 하위섹션의 질문 순서, 문단의 주장과 근거, 문장의 연결을 함께 설계합니다.">
+</picture>
+
+실제 논문에서 분석한 구조에는 다음과 같은 대안이 있습니다.
+
+| 논증의 성격 | 가능한 전개 예시 |
+|---|---|
+| 새로운 인터랙션 역량 | 인터랙션 역량 개요 → 설계 근거 → 구현 → 역량별 평가 |
+| Formative inquiry에 기반한 시스템 | 탐색적 조사 결과 → 설계 원칙·결정 → 시스템 → 서로 다른 평가 질문 |
+| 성찰적 디자인 / pictorial | 상황과 실천 → 성찰의 관점 → 재료·시각적 사례 → 사례 간 해석 |
+| 사회기술적 이해 | 상황에 놓인 경험 → 관계와 긴장 → 개념적 해석 → 함의 |
+| 역사적 탐구 | 시대별 서술 → 시대를 가로지르는 분석 차원 → 함의와 방법론적 성찰 |
+| 개념 개발 | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 설명 |
+| 데이터셋·연구 자원 | 구축 → 특성 분석 → 과제별 활용 검증 → 재사용 조건 |
+| 해석적 문헌 리뷰 | 선정과 분석 → 주제별 결과 → 개념적 종합 → 후속 연구 의제 |
+
+학회별 필수 템플릿이 아니라, 논증의 목적에 따라 선택할 수 있는 구조입니다. [구조 가이드](skills/hci-academic-writing/references/architectures.md)는 각 구조가 언제 도움이 되는지 설명합니다. [기여 유형 목록](skills/hci-academic-writing/references/contribution-catalogue.md)은 참여적 변화, 비판, 방법론, 재현 연구, 복합 기여도 다룹니다.
+
+공통 자료는 abstract, introduction, 연구의 위치와 논증 근거를 세우는 related work, discussion, 문단 전개와 문장 연결을 다룹니다. 두괄식은 주장을 바로 이해할 수 있을 때 유용하지만, 서사나 뒤늦게 드러나는 해석이 필요한 문단도 있습니다. 8,000단어 기준의 분량 배분은 계획을 돕는 참고안이며, HCI 논문 전체에 적용되는 규칙은 아닙니다.
+
 ## 내 원고에 적용하기
 
 루트 파일, 수정 범위, 사용할 근거, 분량 제한을 알려주세요. 제출 형식을 다룰 때는 학회·트랙과 공식 요구사항도 함께 제공합니다.
 
-### 큰 제목만 나열하지 않는 개요 만들기
+<details>
+<summary><strong>큰 제목만 나열하지 않는 개요 만들기</strong></summary>
 
 > hci-academic-writing을 사용해. main.tex와 연구 노트를 읽고 중심 기여를 파악해서 적합한 개요를 제안해. 각 섹션의 목적과 하위섹션 순서를 적어줘. 핵심 섹션은 문단별 주장, 뒷받침할 자료, 다음 문단으로 이어지는 이유까지 계획해. 개요를 수정하기 전에 중요한 대안 구조가 있다면 차이를 설명해.
 
-### 연구 결과를 해석적 논의로 발전시키기
+</details>
+
+<details>
+<summary><strong>연구 결과를 해석적 논의로 발전시키기</strong></summary>
 
 > hci-academic-writing을 사용해. 제공한 인터뷰 분석 결과로 sections/discussion.tex를 작성해. 관찰한 관계가 앞서 소개한 개념을 어떻게 확장하거나 복잡하게 만드는지 설명해. 참여자의 경험, 우리의 해석, 제안하는 함의를 구분해. 모든 결과를 시스템 요구사항으로 바꾸지는 마.
 
-### 디자인 연구의 논증 구성하기
+</details>
+
+<details>
+<summary><strong>디자인 연구의 논증 구성하기</strong></summary>
 
 > hci-academic-writing을 사용해. 디자인 일지와 주석이 달린 산출물 이미지를 읽고, 만들기와 성찰에서 무엇을 배웠는지를 중심으로 RtD 논증을 구성해. 재료와의 만남이 디자인 이해로 이어지도록 하위섹션과 문단 역할을 제안해. 긴장과 해결되지 않은 해석도 포함해.
 
-### 문헌 리뷰의 종합 구성하기
+</details>
+
+<details>
+<summary><strong>문헌 리뷰의 종합 구성하기</strong></summary>
 
 > hci-academic-writing을 사용해. 리뷰 프로토콜과 논문별 추출표로 결과·종합 섹션을 계획해. 수집한 문헌의 특성과 논문들을 가로지르는 해석을 구분해. 실제 리뷰 목적과 절차에 맞는 구조를 선택하고, 무조건 systematic review라고 가정하지 마.
 
-### 문단 수정·압축하기
+</details>
+
+<details>
+<summary><strong>문단 수정·압축하기</strong></summary>
 
 > hci-academic-writing을 사용해. sections/results.tex의 선택한 문단을 150단어 이내로 수정해. 추정치, 불확실성, 영(null) 결과와 통계적으로 유의하지 않은 결과, 분석 단위를 유지해. 효과가 없다는 근거와 검정의 비유의성을 구분해. 단어 수를 센 기준과 의미 있는 변경 사항을 알려줘.
+
+</details>
 
 위 내용은 사용 요청 예시이며, 성능 향상을 측정한 결과가 아닙니다. 에이전트는 인용 키, label, macro와 관련 없는 수정 사항을 보존하도록 안내됩니다. 알 수 없는 사실은 그럴듯한 문장으로 채우지 않고 `% HCI-TODO[evidence]: ...` 같은 초안 주석에 남기도록 합니다.
 

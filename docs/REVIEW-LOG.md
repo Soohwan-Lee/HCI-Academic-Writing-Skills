@@ -597,3 +597,27 @@ README/review-document local links resolved; git diff whitespace check passed.
 Ordinary-host discovery, broader architectural editing and within-family source
 contrasts remain open. The model's causal explanation of defensive prose is a
 hypothesis, not a result established by the existing trials.
+
+## Bilingual README visual presentation — 2026-10-31
+
+Redesigned the GitHub-facing presentation with a centered brand header, descriptive
+badges, compact navigation, the existing editorial cover and an earlier quick start.
+Five detailed prompts per language now use native details/summary disclosures.
+Validation limitations and development priorities remain visible. No endorsements,
+usage statistics or fabricated CI badges were added.
+
+Added an original SVG explanation of section/subsection/paragraph/sentence planning,
+in English and Korean with separate narrow-screen layouts. The existing generated
+cover remains unchanged and is the only decorative illustration. Diagram sources
+and a standard-library generator are versioned; provenance is recorded in assets.
+Reviewed uv and Anthropic Skills READMEs as navigation/onboarding references, without
+copying their artwork or making comparative performance claims.
+
+Validation: both documents rendered through GitHub's Markdown API, including picture
+and details elements. Inspected screenshots in a local GitHub-like stylesheet at
+1120px and 390px, including a dark-background preview; this is not a claim of an
+exact live GitHub UI screenshot. All images loaded. Both narrow layouts selected
+the mobile SVG and reported scrollWidth = innerWidth = 390. A prompt disclosure
+opened successfully. Checked local links, SVG XML, five balanced disclosures per
+language, corpus-index consistency and git diff whitespace. Preview artifacts remain
+local, and only the dedicated review browser session was closed.
