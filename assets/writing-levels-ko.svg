@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-labelledby="title desc">
+<title id="title">논증의 구조에서 문장의 흐름까지</title>
+<desc id="desc">섹션: 독자가 여기서 무엇을 이해해야 할까요? → 하위섹션: 무엇을 먼저 설명해야 할까요? → 문단: 어떤 주장·근거·해석을 더할까요? → 문장: 무엇을 이어받고, 무엇을 새로 더할까요?</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.65" fill="#ddd8cc"/></pattern></defs>
+<rect width="1000" height="444" rx="20" fill="#f7f5ef"/>
+<rect width="1000" height="444" rx="20" fill="url(#dots)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,Apple SD Gothic Neo,Malgun Gothic,sans-serif">
+<text x="28" y="35" font-size="11" font-weight="700" letter-spacing="2" fill="#65736d">글을 설계하는 네 가지 수준</text>
+<text x="28" y="70" font-size="28" font-weight="700" fill="#173f3c">논증의 구조에서 문장의 흐름까지</text>
+<g transform="translate(24,96)">
+<rect width="464" height="144" rx="12" fill="#ffffff" stroke="#dddcd4"/>
+<rect x="18" y="18" width="32" height="26" rx="6" fill="#b75b3e"/>
+<text x="34" y="36" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">01</text>
+<text x="62" y="39" font-size="22" font-weight="700" fill="#173f3c">섹션</text>
+<text x="20" y="81" font-size="17" font-weight="600" fill="#263c38">논증에서 맡을 역할을 정합니다.</text>
+<text x="20" y="112" font-size="15" fill="#5a6963">독자가 여기서 무엇을 이해해야 할까요?</text>
+</g>
+<g transform="translate(512,96)">
+<rect width="464" height="144" rx="12" fill="#ffffff" stroke="#dddcd4"/>
+<rect x="18" y="18" width="32" height="26" rx="6" fill="#b75b3e"/>
+<text x="34" y="36" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">02</text>
+<text x="62" y="39" font-size="22" font-weight="700" fill="#173f3c">하위섹션</text>
+<text x="20" y="81" font-size="17" font-weight="600" fill="#263c38">질문의 순서를 설계합니다.</text>
+<text x="20" y="112" font-size="15" fill="#5a6963">무엇을 먼저 설명해야 할까요?</text>
+</g>
+<g transform="translate(24,260)">
+<rect width="464" height="144" rx="12" fill="#ffffff" stroke="#dddcd4"/>
+<rect x="18" y="18" width="32" height="26" rx="6" fill="#b75b3e"/>
+<text x="34" y="36" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">03</text>
+<text x="62" y="39" font-size="22" font-weight="700" fill="#173f3c">문단</text>
+<text x="20" y="81" font-size="17" font-weight="600" fill="#263c38">논증을 한 단계 발전시킵니다.</text>
+<text x="20" y="112" font-size="15" fill="#5a6963">어떤 주장·근거·해석을 더할까요?</text>
+</g>
+<g transform="translate(512,260)">
+<rect width="464" height="144" rx="12" fill="#173f3c" stroke="#173f3c"/>
+<rect x="18" y="18" width="32" height="26" rx="6" fill="#b75b3e"/>
+<text x="34" y="36" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">04</text>
+<text x="62" y="39" font-size="22" font-weight="700" fill="#ffffff">문장</text>
+<text x="20" y="81" font-size="17" font-weight="600" fill="#ffffff">추론과 추론을 연결합니다.</text>
+<text x="20" y="112" font-size="15" fill="#cdded7">무엇을 이어받고, 무엇을 새로 더할까요?</text>
+</g>
+</g></svg>
