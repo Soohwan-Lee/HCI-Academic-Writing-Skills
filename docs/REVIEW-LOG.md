@@ -359,3 +359,12 @@ critique against four existing paper notes, corrected exemplar placement, and
 reviewed eight generation cases. Recorded factual drafting and overprescriptive
 measurement failures rather than asserting full behavioral success. Installer and
 auditor suites still pass all 18 tests; live discovery was not retested.
+
+## Gate Z — first-reader bilingual README revision
+Claude Opus 5.5 medium drafted both guides using the current files and explicit
+108-completed/208-target constraints. Root read both complete drafts, checked
+installer flags and package claims, updated the newly shipped contribution guide
+links, and made request inputs task-dependent. The guides explain the project folder,
+what the agent edits, supplied evidence, concrete task outcomes and host-specific
+validation. Local links and synchronized counts pass. Additional analyses remain
+planned, not silently included in the README count.

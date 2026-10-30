@@ -72,12 +72,12 @@ and sample size per subtype. No universal word quota follows from corpus size.
 | Stage | State | Evidence / next gate |
 |---|---|---|
 | Baseline | 108 analyses | 107 first-release papers plus P110 God-Saeng |
-| Taxonomy review | In progress | Two completed Opus consultations; recommendations need integration |
-| Library inventory | In progress | Local read-only collection and item inventory; no public raw export |
+| Taxonomy review | First implementation reviewed | Catalogue and sociotechnical guide shipped; eight-case behavior report retains two failures/limitations |
+| Library inventory | Partially blocked | Collection names retrieved; item API repeatedly timed out and active database was locked; no raw export published |
 | Candidate screening | Pending | DOI/title deduplication and balanced shortlist |
 | New full-text batches | 0 / 100 accepted | Earlier downloaded historical candidates are not yet counted |
 | Skill synthesis and tests | Pending | Review after each 20 additions and final integration |
-| README revision | Pending | Claude draft, root factual and usability review |
+| README revision | First revision reviewed | Opus drafted both guides; root checked every section, counts, links and scope; update after each accepted batch |
 
 ## Release gate
 
