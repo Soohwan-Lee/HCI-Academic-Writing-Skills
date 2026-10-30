@@ -167,12 +167,15 @@ evidence or changed conditions make the update consequential.
 
 ## Edit a review inside an existing LaTeX project
 
-Before revising, create a small unit ledger in the actual order used, labeling
+When drafting or changing corpus counts, selection methods or flow diagrams,
+create a small unit ledger in the actual order used, labeling
 retrieved records, exclusions, deduplication, eligible publications and coded units.
 Allow branches, later searches, mixed publication forms and unreported denominators. Do not invent missing numbers to balance a flowchart.
 Check repeated values in the abstract, search table, figure, its LaTeX
 `\Description`, methods and appendix;
 flag actual inconsistencies locally instead of silently choosing a preferred value.
+Skip this ledger and cross-file count scan for a local synthesis or wording edit
+that leaves corpus counts and selection claims unchanged.
 
 When compressing, preserve the distinction between corpus description, synthesis
 and author recommendation. “Not reported” cannot become “not performed”; “not found
@@ -199,8 +202,8 @@ certainly have prevented the documented harms (P126, §5.1).
 
 Outline the question–selection–analysis–claim chain. Draft methods from actual
 records and findings from checked extraction. Build interpretive synthesis before
-writing the agenda. Reconcile every corpus count, date and unit; verify citations
-and source roles. Compress repetitive study descriptions into synthesis, retaining
+writing the agenda. For a whole-review reconciliation, check corpus counts, dates
+and units across sections; for scoped edits, check affected claims and references. Compress repetitive study descriptions into synthesis, retaining
 examples needed to substantiate categories. Keep full search/coding material in
 appropriate appendices or supplements when permitted. In `.tex`, check flowchart,
 table and appendix references after changes. Never fabricate a screening record to

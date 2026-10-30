@@ -40,6 +40,15 @@ cases. Keep a participant's explanation, an observed episode and the analyst's
 interpretation attributed. Illustrate variation and contrary cases. A quotation
 is evidence to interpret, not a self-explanatory substitute for analysis.
 
+Choose the findings organization by what must stay together. As editorial decision
+aids: use a trajectory when sequence changes the interpretation; configurations when
+contrasting arrangements explain different experiences; practices when recurring
+work is the object; and relational tensions when accounts across roles illuminate
+one another. Separate actor-group subsections can serve a genuine perspective
+comparison, but can obscure a relationship if readers must reconstruct it across
+isolated sections. Keep the relevant contrasting accounts adjacent in that case.
+These choices need the manuscript's evidence; they are not newly measured corpus patterns.
+
 Discussion should clarify the explanatory gain: what relationship was invisible,
 what assumption now needs qualification, or what familiar concept reads differently.
 Design implications can follow, but refusal, institutional change, conceptual

@@ -166,6 +166,39 @@ question. It does not add numerical results or claim that the hypothetical
 mechanism was tested. Actual drafting must use the manuscript's evidence, not
 copy these assumed findings.
 
+## Two-paragraph example: interpret an excerpt, then change perspective
+
+**Entirely hypothetical training material, including the quotation. Never insert it
+as participant evidence.** Assume a supplied packet contains a maker's account,
+“I leave a note on the broken printer so the next person doesn't start over,” and
+a coordinator's account that these notes are collected only during a weekly check.
+It contains no observations of actual repair times.
+
+Paragraph 1: “The maker described the printer note as a handoff to the next person:
+‘I leave a note on the broken printer so the next person doesn't start over.’
+The phrase ‘start over’ frames the note as preserving work already done, beyond
+identifying a faulty machine. In this account, leaving the note transfers the next
+step to an anticipated reader.”
+
+Paragraph 2: “That anticipated reader does not necessarily encounter the note when
+it is left. The coordinator described collecting notes during a weekly check.
+Read together, the accounts locate a timing mismatch between leaving a handoff and
+receiving it. They suggest an analytical question about how the coordination routine
+makes responsibility visible between those moments.”
+
+The first paragraph locates the speaker, provides the excerpt, extracts a specific
+feature of its wording, and develops the interpretation. The second inherits
+“anticipated reader,” changes perspective, introduces the contrasting account and
+raises a relational question. The two accounts do not establish how long any repair
+took. Keep that check in drafting reasoning unless the manuscript makes a timing
+claim needing correction. A stronger institutional explanation would require further
+material about the coordination routine; the last sentence makes that step a question.
+
+This is one possible handoff, not a mandatory claim–quote–contrast formula. A rich
+vignette may require sustained narration, and a verified quantitative result may
+need a comparison rather than a quotation. Preserve real supplied excerpts exactly,
+attribute them, and distinguish interpretation from paraphrase.
+
 ## Natural academic prose
 
 Delete stock claims of novelty, importance or inevitability unless they do real

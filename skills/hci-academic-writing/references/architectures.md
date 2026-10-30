@@ -113,6 +113,12 @@ count; preserve the dependency that makes the interpretation understandable.
 porosity and worker-centered design. Interview material has an independent social
 and conceptual contribution, not merely a role in requirements gathering.
 
+For the findings body, group subsections by the relationship each explains;
+P129 moves from personhood to safety and isolation, nesting more specific tensions
+under the latter two. Within a subsection, connect situated material to the
+relationship rather than treating each interview question as a heading. This is
+a proposed transfer of its organization, not a required set of themes.
+
 A working discussion can develop paragraph 1 around the observed relation and its
 empirical referents; paragraph 2 around conceptual lineage, difference and a concrete
 example; paragraph 3 around its implications for responsibility. Another subsection
@@ -173,6 +179,12 @@ validation or a final prototype when the contribution is a defensible position.
 institutional context before motivation and system arrangements; discussion turns
 to maintenance, strategic quantification, publics and ambivalent success.
 
+The core body can move from stakeholder concerns to the arrangements that enact
+a response: reputation, initial participation, retaliation and moderation in this
+case. A local sequence can connect a concern, the arrangement, participation in
+practice and the resulting tension; maintenance then revisits who sustains it.
+This conditional plan differs from a component-by-component implementation report.
+
 An infrastructure subsection can explain the coordination problem, the initial
 arrangement, what participation exposed, and the adjustment or unresolved cost.
 A maintenance subsection can move from concrete support work to dependencies and
@@ -198,6 +210,12 @@ P115's sociotechnical genealogy (CSCW 2026; source record in the corpus) separat
 four eras from three cross-era analytical dimensions. Historical sections establish
 changes that later interpretive subsections can connect.
 
+Within each period, establish the relevant configuration, practices and documented
+change needed for later comparison. Select cross-period dimensions because they
+explain continuity or transformation across those accounts. Keep chronological
+headings and analytical dimensions at different levels instead of repeating eras
+as discussion subsections. This is editorial guidance derived from the mapped order.
+
 A dimension subsection can begin with an inherited framing, examine a documented
 case, state the interpretive shift, and develop its temporal, relational or
 institutional implications. Readers need the case before its conceptual consequence.
@@ -213,8 +231,14 @@ methods, interpreted contexts and theoretical discussion.
 
 The exploration section can progress through concept scope → why this material
 supports inquiry → how its elements emerged → relationship to prior concepts →
-audience/scenario choice → consequential encounter details. The findings develop
-what the concept helps explain and where it struggles. Unlike a formative-first
+audience/scenario choice → consequential encounter details. In P119, the findings first establish the limits of technical explanation, then
+develop three contextual levels, examine the four design elements, and consider
+transfer and challenges. A transferable plan is motivating inadequacy → conceptual
+dimensions → what the representation reveals → transfer/boundaries. For each
+dimension, a working paragraph sequence can locate the interpretive question,
+examine situated material and state what changes in the concept. Discussion then
+connects these changes to the broader account of explainability. This paragraph
+plan is an editorial proposal; the observed section order is source-specific. Unlike a formative-first
 system paper, the illustrative design supports conceptual development; interviews
 need not become either requirements or an effectiveness test.
 
@@ -240,8 +264,8 @@ later claim depends on an earlier definition, case or comparison, preserve that
 order or provide the necessary preview. An early system overview and a later design
 rationale can both be legitimate even when research occurred in another order.
 
-Coverage note: these eight source-specific contrasts are an initial architecture
-layer. They do not yet cover every contribution family. For resources, historical, participatory and other inquiries, and for alternatives
-within the families above, also use their existing route/catalogue guidance and
-select suitable source examples instead of forcing one of these eight forms. No optimal paragraph counts or venue-wide frequencies
-have been established.
+Coverage note: these twelve source-specific contrasts are an initial architecture
+layer. Within-family alternatives remain incomplete, especially prose-oriented RtD,
+empirical and review organizations. Use the relevant route/catalogue and a suitable
+source example when a claim needs another structure. No optimal paragraph counts
+or venue-wide frequencies have been established.

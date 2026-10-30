@@ -24,8 +24,11 @@ to evaluate a system does not automatically make the paper empirical-first.
 
 For sentence/paragraph polish, load paragraph flow only; add a route if the edit
 changes the kind or scope of a claim. For section drafting, load section guidance
-and the relevant route; add [architecture choices](references/architectures.md) when
-subsection or paragraph order is part of the task. For whole-paper framing, load
+and the relevant route. When drafting a multi-paragraph section, also load
+[paragraph flow](references/paragraphs.md); load
+[architecture choices](references/architectures.md) when choosing or revising its
+subsection/paragraph order. Keep an explicitly fixed author outline unless the task
+authorizes changing it. For whole-paper framing, load
 the architecture guide, route and section guide;
 add budgets only when length matters. A system evaluation usually remains inside
 the artifact route; use hybrids when two substantive claims need distinct warrants.
@@ -64,7 +67,9 @@ Load only the matching support route(s):
   record which promises need reconciliation after analysis. Do not write imagined
   findings or conditional success stories as visible finished prose. Keep the visible
   wording explicitly planned; even a scaffold should not say "we report a study"
-  when collection has not begun.
+  when collection has not begun. Claims such as "little is known" also need
+  literature support; leave an unverified gap premise in a whole-proposition
+  `% HCI-TODO[literature]: ...` comment rather than asserting it.
 - **Draft:** turn supplied evidence into paragraphs. For empirical work, verified
   findings often provide the strongest starting point; for conceptual/design work,
   start with the central argument or annotated cases. Reconcile openings afterward.
@@ -91,6 +96,11 @@ and a sample of eight does not mean all eight showed the reported behavior.
 When a fact is unknown, omit it or place the **whole missing proposition** in a
 draft comment. Do not assert a plausible fact and append “verify this” as a repair.
 Optional methodological suggestions must remain separate from manuscript facts.
+
+State the positive contribution and the boundaries needed to interpret it. Keep
+rejected overclaims in revision reasoning; do not append every unperformed test or
+absent outcome to finished prose. A boundary belongs in the manuscript when it
+changes the intended reading, not merely because an alternative study was possible.
 
 Keep observed findings, interpretation, proposed mechanisms and future possibilities
 distinguishable. Never invent studies, participants, quotations, statistics,

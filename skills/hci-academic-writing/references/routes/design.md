@@ -83,9 +83,11 @@ When a topic-first claim would be opaque without the encounter, preserve the set
 **Hypothetical revision:** “Our prototype proves that slow feedback increases
 mindfulness” becomes “The delayed feedback became a resource for reflecting on
 waiting during the documented encounters. We interpret that tension as a design
-possibility for making anticipation perceptible; we did not measure an increase in
-mindfulness.” Use actual fieldnotes, images and participant accounts to support the
-interpretation, rather than treating this example as evidence.
+possibility for making anticipation perceptible.” The situated encounter and
+interpretive verb bound the contribution. Explain removal of the unsupported
+mindfulness claim in the edit summary; add a manuscript limitation only when needed
+to prevent a consequential misreading. Use actual fieldnotes, images and participant
+accounts to support the interpretation, rather than treating this example as evidence.
 
 ## Execute and review
 
