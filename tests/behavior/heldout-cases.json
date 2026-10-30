@@ -1,0 +1,10 @@
+[
+  {
+    "id": "heldout_review",
+    "task": "Write a two-sentence contribution summary. Supplied facts only: a literature analysis covers61 publications; authors categorized reported evaluation goals; search and screening records have not been provided; no outcome pooling. Do not ask a question. Produce useful supported prose."
+  },
+  {
+    "id": "heldout_revision",
+    "task": "Draft a short prospective reviewer response. Supplied facts: a pilot recruited9 people; usage occurred during a ten-day observation window, but individual usage counts are not supplied. Reviewer wants claims about durable adoption. No edits or new studies have been made or approved. Give the precise bounded claim the authors can propose."
+  }
+]

@@ -305,3 +305,19 @@ committed the notes. Recovery checked actual manifest length (104), normalized t
 IDs, verified source hashes and integrated them (107). No source was counted twice.
 Future gated commands must stop on failure. Added explicit primary navigation routes,
 retaining original knowledge-object/method fields and hybrid interpretations.
+
+## Gate T — expanded measurements and behavioral review
+Reviewed the two additional measurement scripts, source hashes, disclosed boundary
+choices and replayed all five new body/section records; the earlier 26 replay records
+also pass. Totals: seven body/section examples, 32 selected paragraphs in 14 papers.
+Counts remain extracted estimates, not universal budgets. Reviewed both real edited
+LaTeX paragraphs against fixtures and private build logs. Named-skill file loading
+succeeded; automatic catalog discovery was absent. Recorded remaining unsupported
+claims in generation trials instead of claiming instruction changes solved them.
+
+## Gate U — cross-paper synthesis and portable evidence lookup
+Replaced the ten-paper pilot synthesis with source-linked contribution, opening,
+positioning, paragraph and form comparisons across the expanded corpus. Added a
+reproducible 107-record index and pictorial/resource-hybrid guidance. Route labels
+are navigation aids; no corpus frequency or prestige effect is inferred. Resource
+coverage remains small. Original source texts and transcripts remain ignored.

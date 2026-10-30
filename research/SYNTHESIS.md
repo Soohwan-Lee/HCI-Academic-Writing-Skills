@@ -1,75 +1,108 @@
 # From paper observations to writing decisions
 
-This is an original qualitative synthesis of ten purposive exemplars, not a
-systematic review or causal explanation of paper acceptance. Read [the corpus](CORPUS.md)
-and the paper-specific notes for source/version limitations. The reusable advice
-below is an editorial inference from those examples.
+This original synthesis draws on **107 purposive full-text analytical notes**.
+It is a teaching corpus, not a systematic review, a study of acceptance predictors,
+or a claim that famous labs share an optimal style. [Coverage](COVERAGE-AUDIT.md)
+and [source records](CORPUS.md) make selection and version limitations explicit.
+The P-IDs below link through the corpus. Rules are editorial interpretations of
+named examples; only the separately documented length subset is measured.
 
-## Contribution controls the burden of proof
-- **Capability** (P01, P02): show the interaction, explain enabling mechanisms,
-  separate evaluation questions and identify failure conditions. A user study
-  often warrants the artifact rather than creating a second contribution.
-- **Empirical finding** (P03, P06): make the analytical question, data generation
-  and inference visible. Experimental contrasts and interpretive interview work
-  call for different evidential prose. Neither method is a venue identity.
-- **Methodological critique** (P04): demonstrate why an existing inference is
-  unreliable; do not merely present an alternative procedure.
-- **Design knowledge** (P05): articulate how making and reflection generate an
-  insight; situate the proposition and its intended transfer. Prototype success
-  alone does not make a study RtD.
-- **Conceptual argument** (P07, P09): state the reframing, make its premises
-  inspectable, demonstrate what the lens explains and where it stops.
-- **Reusable guidance** (P08): show derivation, refinement and validation of the
-  guidance separately; a list of principles is not its own validation.
-- **Synthesis** (P11): show corpus construction and coding before using the
-  resulting patterns to propose an agenda. Literature becomes data here.
+## The contribution determines what must be warranted
 
-Dataset/benchmark-specific guidance has no direct exemplar in this release.
-Treat it as editorial scaffolding awaiting a separate corpus, not a learned norm.
+| Contribution | Useful pattern and examples | Boundary or contrasting case |
+|---|---|---|
+| Quantitative finding | Align construct, contrast, unit and uncertainty (P03, P54, P64, P103) | P101/P103 group outcomes cannot become individual-level benefit; P105 conditional findings resist a global winner |
+| Qualitative understanding | Link situated accounts to analytical claims and interpretations (P30, P33, P98–100) | P106 probes generate accounts, not an intervention-efficacy estimate; P99 context cannot be erased for generality |
+| Artifact/capability | Make capability, enabling mechanism and evaluation questions distinct (P01, P19, P26, P80–82) | Application demonstrations do not establish situated user value; P56's measured comparison supports an interaction technique |
+| Design knowledge | Trace making, material encounters and reflection into an insight (P05, P42–45, P102) | Neither a prototype nor the absence of an experiment defines RtD; P102 embodied experience resists generic effectiveness framing |
+| Conceptual argument | Expose the premise, distinction, explanatory consequence and limit (P07, P48–50, P68–70, P75–76) | P09 and P46 integrate literature into argument; a standalone related-work section is not mandatory |
+| Method | Explain the inference or practice improved, operational steps and evidential scope (P08, P12–13, P58, P71–73, P77) | Teaching/use cases and statistical validation warrant different claims; a checklist does not validate itself |
+| Resource | Establish provenance, construction, scope, reuse and validation (P14, P28, P107–109) | P107 is task–resource–model hybrid; P108 is an NLP supplement; P109 is a resource/method pictorial |
+| Review/synthesis | Make selection, analytical unit and synthesis traceable (P11, P51–52, P61–62, P65–67, P78) | Critical/conceptual synthesis and meta-analysis have different commitments; document counts are not study counts |
 
-## Introduction is a dependency chain, not eight mandatory paragraphs
-P03 uses expectation → failure → theoretical explanation → intervention → test →
-qualified findings. P04 uses a mismatch between desired knowledge and measurement
-→ two diagnoses → tests. P07 uses prevailing explanations → counterargument →
-reframing. P09 states a methodological position early. P05 establishes the intended
-kind of knowledge before the setting. P01 motivates a capability and then exposes
-the mechanisms that enable it. These do not share an invariant RQ location.
+These are eight navigational routes, with justified hybrids. Venue and method are
+separate attributes. CHI subcommittees help locate audiences; they cannot substitute
+for deciding what a particular paper contributes.
+
+## Openings answer dependent reader questions
+
+An introduction often establishes context and stakes, explains a problem, positions
+prior responses, identifies a gap or tension, and introduces a warranted response.
+The order and amount depend on what the reader must know first. P03 moves from
+expectations and failure to explanation and intervention; P04 diagnoses a mismatch
+between intended knowledge and measurement. P07 tests prevailing explanations;
+P09 states a methodological position early. P80 motivates a capability before
+showing its mechanisms. P102 makes the project's origin part of its interpretive
+account; P109 provides alternative visual reading paths.
 
 Smit Desai's [six-part introduction advice](https://thesmitdesai5.medium.com/how-to-write-an-hci-introduction-a-six-part-recipe-0a4972dd05b5)
-is useful practitioner guidance: establish stakes and context, connect prior work,
-introduce the response, and clarify questions and contribution. It is not an
-empirically validated sequence. Our skill adapts the underlying reader questions,
-not the author's prose or branded labels. Put observed outcomes in the opening
-only when the study has actually produced them.
+is practitioner advice, not an empirically established mandatory sequence. The
+skill uses reader questions, not copied prose or a required eight-paragraph recipe.
+An explicit RQ is useful when it sharpens the inquiry; an artifact or conceptual
+paper need not invent an experimental RQ merely to match a template. Abstracts
+must reconcile the actual claim, approach, evidence and contribution. Before data
+exist, future/planned wording and draft result slots preserve that contract.
 
-## Related work is an argument with comparison axes
-P01 compares mechanisms against an unmet capability. P04 compares evaluation
-activities against the inference researchers want to make. P06 joins technical
-XAI, human-centered approaches and design practice. P07 reorganizes challenges
-by design activity before questioning explanations. P09 integrates literature
-throughout its argument; P11 does not need a freestanding related-work chapter.
-These observations support organizing around a problem, distinction or tension,
-not author-by-author summaries. A gap can be a missing capability, unexplained
-mechanism, conflicting evidence, neglected standpoint or faulty construct.
+## Related work makes a distinction the paper needs
 
-## Paragraph and sentence structure
-A topic sentence names what the paragraph is about; a claim sentence says what
-readers should conclude. They can coincide, but need not. P07's third opening
-paragraph places its key inference after paired counterarguments. P04's selected
-paragraph begins with a proposed mechanism and derives a testable consequence.
-P06 moves from domain context to the reason for selecting practitioners. P01's
-mechanism paragraph uses a concrete failure to make an architectural need legible.
-P05 states an epistemic commitment and then explains its consequences.
+P01 compares mechanisms against a missing capability; P04 compares evaluation
+practices against intended inference; P06 links XAI traditions and design practice.
+P98 positions access as collaborative work; P99 makes social context consequential.
+P107 separates summarization, screen understanding and GUI datasets so each strand
+supplies a different prerequisite. P109 distributes prior work across conceptual
+and visual landscapes. These are examples of synthesis by explanatory role, not
+proof that every paper needs three themed subsections.
 
-For each paragraph, ask: what question does it answer, what does every sentence
-add, what licenses its inference, and what question does its ending leave for the
-next paragraph? Preserve deliberate variation. Unnecessary balanced triplets,
-repeated mini-conclusions and empty transitions are problems because they add no
-reasoning, not because they reveal AI authorship.
+Choose comparison axes that expose what remains unresolved. A gap may be conflicting
+findings, a neglected standpoint, a faulty construct, a reuse limitation or an
+unexplained mechanism. Do not manufacture novelty with “no prior work” or treat all
+precedents as deficient. In a review paper, the literature may itself be the data;
+a background section should not duplicate the actual synthesis.
 
-## Evidence limits
-Ten sentence-level examples are teaching cases. Eight paragraph lengths from two
-papers are measured, with explicit extraction limits. No universal paragraph
-length, section percentage or effect of prestige has been established. The
-8,000-word budgets in the skill are adjustable planning heuristics, not corpus
-statistics. See [measurements](measurements/README.md).
+## Paragraphs carry local inferences; sentences supply their dependencies
+
+A topic sentence identifies a subject; a claim sentence specifies an inference.
+They may coincide. P07 builds its central inference after paired counterarguments;
+P04 starts with a mechanism and derives a testable consequence. P26–29 explain
+capabilities by connecting inputs, mechanisms and consequences. P33 and P98 link
+accounts to interpretation without turning a quotation into self-evident proof.
+P42's material encounters support reflective interpretation; P109's caption begins
+with a design event, describes a representational failure, and explains conceptual
+revision. Its neighboring columns are parallel arguments rather than sequential
+prose paragraphs.
+
+For revision, identify each sentence's function: context, claim, evidence, warrant,
+qualification or transition. Follow recurring entities and given-to-new information;
+make pronouns, causal agents and comparison baselines unambiguous. A paragraph's
+ending should leave a reason to read the next one, not repeat a stock mini-conclusion.
+Split when the inferential job changes; merge when two fragments jointly make one
+claim. Claim-first is useful when the claim is already interpretable, not compulsory.
+
+The sentence-role examples are selected teaching cases, coded by AI analysts and
+reviewed during integration. They are not a frequency study of paragraph structures.
+Avoid formulaic symmetry because it conceals reasoning, not because it proves AI
+origin. The skill offers concrete local repairs rather than an authorship detector.
+
+## Length evidence has a smaller denominator
+
+Seven papers have version-bound extracted-body/section estimates; 32 selected
+paragraphs across 14 papers have reproducible length records. Captions, numerals,
+heading treatment and normalization vary by disclosed protocol. Ambiguous PDF
+sections are aggregated rather than assigned false precision. See
+[measurement methods and replay](measurements/README.md).
+
+The skill's route-specific 8,000-word allocations are **editorial planning aids**,
+not corpus averages. No optimal paragraph length, venue percentage, lab effect or
+prestige advantage has been estimated. Existing manuscript counts and the current
+submission rules take priority. Pictorials require visual/page planning.
+
+## From evidence to an authoring assistant
+
+The package separates fast paragraph repair from whole-paper framing, preserves
+existing author-owned citations during wording-only edits, and checks changed claim
+scope. It supplies routes for negative/null results, reviews, pre-results drafting,
+compression and reviewer responses. Its LaTeX helper checks lexical dependencies;
+compilation and semantic review remain different tasks. Two real file-edit trials
+succeeded, while evidence-poor generative trials retained unsupported details.
+The [behavior report](../tests/behavior/SEMANTIC-REPORT.md) records those failures;
+the corpus and prompts cannot guarantee factual writing or replace author judgment.

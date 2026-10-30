@@ -94,3 +94,18 @@ annotation definitions, exclusions and use conditions. In `.tex`, keep schema
 notation, tables and data-access links consistent. Ask whether a reader can identify
 what is available, reconstruct its boundaries, choose an appropriate use and avoid
 unsupported generalization.
+
+## Resource hybrids and visual forms
+
+P107 Screen2Words (UIST 2021, DOI 10.1145/3472749.3474765) separates task,
+dataset, model and human-rating claims. App-level splitting addresses a different
+validity concern than summary quality; neither establishes accessibility benefit
+in use. P108 HapticCap (Findings of EMNLP 2025, DOI 10.18653/v1/2025.findings-emnlp.781)
+is a supplementary resource exemplar: distinguish original signals from augmented
+variants and disclose whose subjective responses an agreement filter excludes.
+P109 Multi-lifespan Envisioning Cards (DIS 2022, DOI 10.1145/3532106.3533495)
+combines reusable cards and design-method reflection in a pictorial. Its annotated
+process and cases warrant translation and reuse, not comparative effectiveness.
+Use a visual evidence map and caption-to-image references for that form; a linear
+section budget would remove part of the argument. Find original analyses in the
+[corpus index](../corpus-index.md).

@@ -1,0 +1,19 @@
+{
+  "fixture_status": "Synthetic authoring fixture; numeric results are fabricated test inputs, not research findings",
+  "root": "chi26.tex",
+  "cases": {
+    "existing-citations": {
+      "only_changed_file": "sections/rw.tex",
+      "citation_keys_in_order": ["dixon2010prefab", "deka2017rico"],
+      "manual_checks": ["Claims stay attached to the same citations", "No unsupported strengthening", "Gap remains scoped to this workflow", "Sentence connections improve", "No new verification TODO for unchanged author-owned claims"]
+    },
+    "compress-results": {
+      "only_changed_file": "sections/results.tex",
+      "maximum_operational_prose_tokens": 90,
+      "numeric_tokens_in_order": ["24", "7.4", "7.1", "42", "18", "12", "5", "3"],
+      "manual_checks": ["p=.42 remains nonsignificant", "Both conditions remain identifiable", "Time and effort costs remain", "Seven-point scale remains", "No task-score benefit is asserted", "No mechanism or new finding invented"]
+    }
+  },
+  "shared_checks": ["Root and unrelated files byte-identical", "Section, label and comment lines unchanged", "Installed skill bundle unchanged", "Actual installed SKILL.md read observed", "No shell, network or build tools exposed to Claude", "Subscription checked before each request"],
+  "limits": ["Automatic skill discovery is a separate observation", "Two cases cannot establish general quality or causal effect of the skill", "Lexical checks require manual semantic review"]
+}

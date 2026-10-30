@@ -49,7 +49,9 @@ Load only the matching route(s):
 - **Before results exist:** draft motivation, related work and the actual method.
   Keep result-dependent abstract/contribution slots in explicit draft comments;
   record which promises need reconciliation after analysis. Do not write imagined
-  findings or conditional success stories as visible finished prose.
+  findings or conditional success stories as visible finished prose. Keep the visible
+  wording explicitly planned; even a scaffold should not say "we report a study"
+  when collection has not begun.
 - **Draft:** turn supplied evidence into paragraphs. For empirical work, verified
   findings often provide the strongest starting point; for conceptual/design work,
   start with the central argument or annotated cases. Reconcile openings afterward.
@@ -68,6 +70,14 @@ work, [paragraph flow](references/paragraphs.md) for local revision, [word budge
 for length planning, and [LaTeX workflow](references/latex-workflow.md) before file edits.
 
 ## Maintain the evidence contract
+
+For evidence-sensitive drafting, briefly identify supplied facts and missing facts
+in your working reasoning. Do not complete missing details with familiar defaults:
+interviews need not be semi-structured, a literature review need not be systematic,
+and a sample of eight does not mean all eight showed the reported behavior.
+When a fact is unknown, omit it or place the **whole missing proposition** in a
+draft comment. Do not assert a plausible fact and append “verify this” as a repair.
+Optional methodological suggestions must remain separate from manuscript facts.
 
 Keep observed findings, interpretation, proposed mechanisms and future possibilities
 distinguishable. Never invent studies, participants, quotations, statistics,
@@ -92,3 +102,14 @@ Neither supplies findings to insert into another manuscript. Source examples are
 or proof that awards validate a writing style. Planning allocations are editorial
 heuristics. Complete edits within scope, check the diff and relevant references,
 and report what changed, what was checked and any evidence still needed.
+
+## Select evidence and manuscript form
+
+Use the [corpus index](references/corpus-index.md) when an exemplar would resolve
+an architectural decision; retrieve only the relevant one or two analyses. Cite
+an exemplar's source/version and explain its fit, rather than borrowing its prose.
+For a pictorial, route by contribution **and** visual form: images, captions,
+annotations and reading paths may carry the argument. P109 is a resource/method
+pictorial, not a conventional linear 8,000-word manuscript. Do not force it into
+IMRaD or apply prose budgets to a visual submission. Confirm current venue/track
+requirements from the author's template or official call before changing format.

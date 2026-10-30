@@ -42,7 +42,10 @@ outcomes for the response.
 better task performance. We agree that these outcomes differ. We have narrowed the
 abstract and Discussion §5.2 to reported preference and added the absence of a
 performance comparison to the claim boundary. The present data do not establish a
-performance advantage.” Only say changes were made after making them.
+performance advantage.” Only say changes were made after making them. If asked for a response draft before
+editing, label it a proposed response and use prospective wording ("We propose to
+narrow...") or a clearly marked change slot. A footnote telling the author to edit
+later does not make an otherwise false "we have revised" statement acceptable.
 
 Before delivery, check response–manuscript consistency, exact result values, added
 citation support, unresolved promises and the actual response word count. Preserve

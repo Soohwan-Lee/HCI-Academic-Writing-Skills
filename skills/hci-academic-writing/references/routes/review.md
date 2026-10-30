@@ -16,6 +16,11 @@ a reporting structure.
 | How do concepts, assumptions or traditions differ? | Critical/conceptual synthesis | Explain selection, interpretive commitments and argumentative warrant |
 | How has a field represented a practice or community? | Structured review with interpretive analysis | Separate reported discourse from underlying practice |
 
+When retrieval/selection procedure is unknown, call the work a literature review
+or descriptive synthesis provisionally. Absence of pooling does not establish that
+a review is systematic, scoping or mapping; confirm the actual procedure before
+using a narrower label.
+
 These are overlapping orientations, not labels assigned by a diagram or database
 search alone. Do not call descriptive aggregation a pooled-effect meta-analysis
 because a source uses that word. [P62, Fitts' Law in XR](https://doi.org/10.1145/3706598.3713623)
@@ -57,6 +62,10 @@ deduplication, access failures and selection decisions needed to assess coverage
 Explain why restrictions serve the question and what they omit. Search strings and
 flow totals should agree across abstract, methods, tables, appendices and conclusion.
 An inaccessible source stays unavailable, not silently analyzed from its abstract.
+
+Do not infer screening or coding procedures from counts alone: knowing there are
+143 publications and 152 studies does not establish that every study was coded
+independently. Mark unavailable procedural details instead.
 
 Describe extraction units, variables, interpretive lenses, category development,
 reviewer roles, disagreements and changes. Distinguish screening consistency from

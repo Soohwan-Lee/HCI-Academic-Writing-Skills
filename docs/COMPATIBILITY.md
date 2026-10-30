@@ -108,3 +108,14 @@ that the intended bundle and references were loaded before attributing behavior 
 it. Discovery and task performance are separate tests: a visible skill name alone
 does not establish writing quality. No Claude invocation or credential changes
 are needed to run the installer or its tests.
+
+## Subsequent live Claude Code evidence
+
+Two isolated ACM editing tasks loaded the installed skill and relevant references
+through explicit named requests and file reads. Both edits passed scope/evidence
+inspection, lexical audit and compilation. The initialization skill catalogs did
+**not** list the package, so automatic discovery and slash invocation remain
+unverified in that restricted configuration. Codex and Antigravity live discovery/
+editing have not been tested. See [file-edit results](../tests/behavior/README.md)
+and [semantic failures](../tests/behavior/SEMANTIC-REPORT.md). Documentation and
+filesystem layout compatibility should not be read as equal behavioral validation.

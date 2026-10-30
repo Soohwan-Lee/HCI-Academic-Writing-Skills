@@ -76,3 +76,14 @@ supports. Preserve context needed to understand a participant excerpt or design
 encounter. For every large deletion, check whether an opening promise now lacks
 support. Return achieved length under the stated convention and any remaining
 overage; do not claim compliance when only approximate counting was possible.
+
+## Expanded measurement boundary
+
+The public corpus now has seven version-bound extracted-body/section examples
+(P03, P07, P61, P64, P80, P98, P102), with different disclosed extraction protocols.
+P80's introduction/contributions/related work are aggregated because PDF reading
+order makes separate counts misleading. No pooled average is a recommended budget.
+The 32 measured paragraphs across 14 papers remain a selected subset. Consult the
+[measurement record](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md)
+for exact denominators. Pictorials such as P109 require page/layout and visual-
+argument planning rather than these 8,000-word allocations.
