@@ -83,8 +83,8 @@ LaTeX mutation or compilation exercised. Root reviewed the actual responses.
   value. Its causal disclaimer tied the limitation too directly to absence of
   longitudinal data; the actual inferential design matters. Root added that rule.
 - R2 distinguished the nearby review's analytical object and avoided an absence
-  claim. It unnecessarily recited rejected alternatives and slightly exceeded the
-  90-word request (about 91 whitespace-separated words). Not an unqualified pass.
+  claim. It met the 90-word request by whitespace counting, but unnecessarily recited
+  rejected alternatives. Content preservation is not an unqualified prose-quality pass.
 - M preserved reporting/conduct, aggregation, uncertainty and separate tool claims,
   but packed them into two unwieldy sentences. Root added instructions to prioritize
   central prose and flag incompatible constraints rather than produce a checklist.
