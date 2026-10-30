@@ -113,3 +113,22 @@ These small batches are not individually representative. Next acquisition must
 prioritize CSCW/DIS/UIST, resources, review/measurement and non-AI contrasts before
 adding another XAI cluster. Two of the 30 award-queue papers are now accepted;
 28 remain candidates. Other Zotero collections remain part of the acquisition plan.
+
+## E03 gate — reviews, metaresearch and accessible input
+Five source-reviewed additions: CHI reporting-practice audit, CHI queer literature
+mapping/critique, CSCW digital-legacy conceptual synthesis, UIST Wheeler and CSCW
+moderation-experience synthesis. Root read all main texts, read Wheeler appendices,
+and inspected 22 rendered pages across the five papers. Opus 5.5 medium assisted
+all five; root adjudicated scope, extraction omissions and selected microanalyses.
+The Crip Reflections download duplicated P15: excluded, with P124 left unused.
+Wheeler's Honorable Mention was verified on the official conference page. Two
+Crossref snapshots succeeded, one was rate-limited, and two were not requested.
+
+Cumulative expansion: 14/100; 11/14 from 2018–2026 and 8/14 from 2022–2026.
+Additions by venue: CHI 6, CSCW 3, IUI 2, DIS 1, UIST 2. Three primarily AI
+additions remain from E02; E03's moderation focus concerns governance and lived
+experience across moderation arrangements. Counts do not establish topic balance.
+Zotero item retrieval remains blocked; broader collections remain acquisition
+priorities, not completed coverage. Next: translate E03 contrasts into review
+instructions, then prioritize DIS, resource/method and non-AI design exemplars.
+No new numerical paragraph-length or section-proportion measurements were added.

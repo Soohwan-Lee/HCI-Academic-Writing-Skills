@@ -75,8 +75,10 @@
     "recognition": "Honorable Mention",
     "recognition_checked_on": "2026-10-30",
     "selection_question": "nonvisual interaction",
-    "status": "candidate; full-text and contribution verification pending",
-    "citation_count": null
+    "status": "accepted after full-text and root review",
+    "citation_count": null,
+    "corpus_id": "P125-wheeler",
+    "analysis": "analyses/P125-wheeler.md"
   },
   {
     "title": "Domestic Cultures of Plant Care: A Moss Terrarium Probe",

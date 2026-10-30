@@ -1,6 +1,6 @@
 # Evidence lookup by contribution
 
-117 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
+122 purposively selected full-text rhetorical analyses, not 107 quantitative style measurements. Choose one or two cases matching the knowledge claim and writing problem. These links lead to public analytical notes; loading this index does not mean you have read those notes or the papers. The installed core skill works offline; linked evidence requires repository access or a network. Primary routes are navigation aids; the knowledge objects below preserve hybrids.
 
 Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length subset: 32 paragraphs in 14 papers; no universal paragraph target follows. See the [measurement protocols](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/measurements/README.md).
 
@@ -35,6 +35,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P91 — iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P91-iscore.md) | IUI 2024 | domain-grounded visual analytics system and design knowledge | [source](https://doi.org/10.1145/3640543.3645142) |
 | [P92 — Utilizing a Dense Video Captioning Technique for Generating Image Descriptions of Comics for People with Visual Impairments](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P92-comics-captions.md) | IUI 2024 | caption-generation technique and accessibility design knowledge | [source](https://doi.org/10.1145/3640543.3645154) |
 | [P120 — EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P120-earhover.md) | UIST 2024 | acoustic sensing and mid-air input technique with prototype feasibility evidence | [source](https://doi.org/10.1145/3654777.3676367) |
+| [P125 — Wheeler: A Three-Wheeled Input Device for Usable, Efficient, and Versatile Non-Visual Interaction](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P125-wheeler.md) | UIST 2024 | nonvisual input capability with hierarchical and spatial navigation modes | [source](https://doi.org/10.1145/3654777.3676396) |
 
 ## Conceptual
 
@@ -85,6 +86,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P72 — Strategies for Annotating Portfolios: Mapping Designs for New Domains](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P72-annotation-strategies.md) | DIS 2020 | methodological guidance | [source](https://doi.org/10.1145/3357236.3395490) |
 | [P73 — Experience Prototyping](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P73-experience-prototyping.md) | DIS 2000 | methodological guidance | [source](https://doi.org/10.1145/347642.347802) |
 | [P77 — A Fieldwork of the Future with User Enactments](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P77-user-enactments.md) | DIS 2012 | methodological guidance | [source](https://doi.org/10.1145/2317956.2318008) |
+| [P121 — Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P121-ethics-transparency.md) | CHI 2023 | research-reporting criteria and comparative metaresearch audit | [source](https://doi.org/10.1145/3544548.3580848) |
 
 ## Qualitative
 
@@ -160,4 +162,7 @@ Section/body estimates: P03, P07, P61, P64, P80, P98, P102. Paragraph-length sub
 | [P66 — A Systematic Literature Review of Infrastructure Studies in SIGCHI](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P66-infrastructure-review.md) | CSCW 2025 | literature synthesis | [source](https://doi.org/10.1145/3757545) |
 | [P67 — A Systematic Review and Thematic Analysis of Community-Collaborative Approaches to Computing Research](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P67-community-review.md) | CHI 2022 | literature synthesis | [source](https://doi.org/10.1145/3491102.3517716) |
 | [P78 — Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P78-posthuman-vocabulary.md) | COMPASS 2025 | literature synthesis | [source](https://doi.org/10.1145/3715335.3735487) |
+| [P122 — Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P122-queer-review.md) | CHI 2024 | critical mapping and interpretive genres of queer HCI scholarship | [source](https://doi.org/10.1145/3613904.3642494) |
+| [P123 — Digital Legacy: A Systematic Literature Review](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P123-digital-legacy.md) | CSCW 2023 | literature-grounded lifecycle and multi-user conceptual synthesis | [source](https://doi.org/10.1145/3610059) |
+| [P126 — How Do Users Experience Moderation?: A Systematic Literature Review](https://github.com/Soohwan-Lee/HCI-Academic-Writing-Skills/blob/main/research/analyses/P126-moderation-review.md) | CSCW 2023 | moderation-experience synthesis and scholarly perspectives with stakeholder agenda | [source](https://doi.org/10.1145/3610069) |
 

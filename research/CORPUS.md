@@ -1,6 +1,6 @@
-# Exploratory corpus — 117 reviewed analyses
+# Exploratory corpus — 122 reviewed analyses
 
-117 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
+122 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
 The initial ten-paper human–AI pilot was expanded to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
@@ -126,6 +126,11 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 | [P118](analyses/P118-plant-care.md) | DIS 2025 | Domestic Cultures of Plant Care: A Moss Terrarium Probe — sociocultural configuration account and situated plant-care typology | Best Paper |
 | [P119](analyses/P119-social-transparency.md) | CHI 2021 | Expanding Explainability: Towards Social Transparency in AI systems — conceptual reframing and formative design framework for socially situated explainability | unverified |
 | [P120](analyses/P120-earhover.md) | UIST 2024 | EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals — acoustic sensing and mid-air input technique with prototype feasibility evidence | Best Paper |
+| [P121](analyses/P121-ethics-transparency.md) | CHI 2023 | Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022 — research-reporting criteria and comparative metaresearch audit | unverified |
+| [P122](analyses/P122-queer-review.md) | CHI 2024 | Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI — critical mapping and interpretive genres of queer HCI scholarship | unverified |
+| [P123](analyses/P123-digital-legacy.md) | CSCW 2023 | Digital Legacy: A Systematic Literature Review — literature-grounded lifecycle and multi-user conceptual synthesis | unverified |
+| [P125](analyses/P125-wheeler.md) | UIST 2024 | Wheeler: A Three-Wheeled Input Device for Usable, Efficient, and Versatile Non-Visual Interaction — nonvisual input capability with hierarchical and spatial navigation modes | Honorable Mention |
+| [P126](analyses/P126-moderation-review.md) | CSCW 2023 | How Do Users Experience Moderation?: A Systematic Literature Review — moderation-experience synthesis and scholarly perspectives with stakeholder agenda | unverified |
 
 ## Coverage and exclusions
 CHI 38, COMPASS 1, CSCW 22, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.

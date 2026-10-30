@@ -169,3 +169,10 @@ instructions and sources before adding categories.
 4. Review concrete drafts and run bounded behavior probes for the changed decisions.
    Record failures, accepted/rejected advice, update bilingual docs and corpus count,
    validate bundle links and commit/push reviewable stages.
+
+## Active expansion checkpoint — E03
+See [EXPANSION-200.md](EXPANSION-200.md) for the current 100-addition plan. Fourteen
+additions are accepted (122 total); 86 remain. E03 completed review/metaresearch
+contrasts and an accessibility artifact. Next gate: integrate these distinctions
+into the writing route and review behavior, then acquire more DIS/resource/method
+contrasts. Keep Zotero collection coverage unclaimed until item retrieval succeeds.

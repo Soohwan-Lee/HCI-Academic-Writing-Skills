@@ -412,3 +412,22 @@ All 18 installer/LaTeX tests, manifest-index parity and whitespace checks passed
 A minimal HCAI item API retry still timed out; no collection distribution is claimed.
 Next source batch acquired three non-AI reviews/methodological audits privately;
 acquisition alone is not counted as analysis.
+
+## E03 — five source-reviewed additions (2026-10-30)
+Accepted P121–123 and P125–126 after full-main-text reading, selected PDF rendering,
+and root review of Opus 5.5 medium analyses through Claude subscription auth.
+Manifest: 122; expansion: 14/100; remaining: 86. The duplicate P124 candidate is
+existing P15, not a new paper. English/Korean counts and generated index updated.
+
+Review decisions: distinguish reporting from actual practice; review retrieval
+records from analyzed papers; interpretive lifecycle/reaction models from measured
+causal sequences; normative agendas from empirical outcomes. A two-column
+REFERENCES cutoff omitted Wheeler's limitations from the Claude prompt; root
+recovered the source and rejected an absence inference. Primary-paper statistical
+reanalyses and unverified citation-count discrepancies were not adopted. Award
+verification is independent of writing-quality assessment. All five notes retain
+specific transferable paragraph moves and cautions rather than treating exemplars
+as flawless templates. No private PDFs, library items or Claude transcripts added.
+
+Next gate: review-route synthesis and bounded behavior checks. Additional corpus
+acquisition continues after that gate; the 100-paper expansion is not complete.

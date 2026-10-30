@@ -1,18 +1,18 @@
-# Coverage audit — 117 analyzed papers
+# Coverage audit — 122 analyzed papers
 
-This purposive teaching corpus contains **115 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
+This purposive teaching corpus contains **120 papers from the five requested venues** and two explicitly supplementary papers (COMPASS and Findings of EMNLP). Source versions and award evidence are recorded separately in [corpus.json](corpus.json). An analysis is not an independently validated quality score. Publication years span 1992–2026.
 
 ## Venue coverage
 
 | Venue | Papers |
 |---|---:|
-| CHI | 39 |
+| CHI | 41 |
 | COMPASS | 1 |
-| CSCW | 22 |
+| CSCW | 24 |
 | DIS | 19 |
 | Findings of EMNLP | 1 |
 | IUI | 19 |
-| UIST | 16 |
+| UIST | 17 |
 
 ## Contribution coverage
 
@@ -20,24 +20,24 @@ These are primary **navigation routes**, not exclusive ontological labels. The o
 
 | Primary writing route | Papers |
 |---|---:|
-| artifact | 27 |
+| artifact | 28 |
 | conceptual | 17 |
 | design | 10 |
-| method | 8 |
+| method | 9 |
 | qualitative | 24 |
 | quantitative | 17 |
 | resource | 5 |
-| review | 9 |
+| review | 12 |
 
 ## Deviations and limits
 
-The sampling targets were planning aids, not quotas to satisfy by relabeling papers. Artifact papers (27) exceed their target; resources (5), design (10), methods (8), and reviews (9) remain smaller than desired. Resource examples include co-primary hybrids and one NLP supplement; five is not five pure HCI dataset papers. CHI and CSCW remain the largest venue groups. No venue-by-route cell is claimed representative.
+The sampling targets were planning aids, not quotas to satisfy by relabeling papers. Artifact papers (28) exceed their target; resources (5), design (10), methods (9), and reviews (12) remain smaller than desired. Resource examples include co-primary hybrids and one NLP supplement; five is not five pure HCI dataset papers. CHI and CSCW remain the largest venue groups. No venue-by-route cell is claimed representative.
 
 Accessibility, privacy/security, health/care, fabrication, physical interaction, craft, communities, labor, education and non-Western social contexts supplement human–AI topics. The intended owner's group decision, dissent, power, reflection and embodied-interaction interests appear in P75–76 and P98–106 alongside this breadth. See [audience decisions](../docs/AUDIENCE-AND-COVERAGE.md).
 
 Public availability and known author/lab networks shaped discovery. Systems and design lineages recur; affiliation strings are not normalized enough to assert independent-lab balance. Awards are verified only where the metadata supplies evidence; unknown award status is not evidence of absence. This corpus cannot estimate acceptance predictors, venue norms, field-wide frequencies or a universal writing style. More non-English, Global South, critical disability, longitudinal, replication and negative-result exemplars would strengthen later editions.
 
-Full-text rhetorical notes cover 117 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
+Full-text rhetorical notes cover 122 papers. Numeric body/section extraction covers only seven; selected paragraph-length measurements cover 32 paragraphs in 14 papers. These denominators are different. Original analytical notes were produced with AI agents and reviewed during integration; there is no independent human coding agreement or author-usage validation.
 
 ## Taxonomy follow-up
 P110 God-Saeng is explicitly profiled as sociotechnical phenomenon interpretation,
@@ -62,3 +62,11 @@ quantitative comparisons (2), a formative conceptual framework (1), a sociocultu
 typology (1), and a sensing technique (1). Counts are by primary navigation route.
 The award queue has 28 pending and two accepted records. No new numerical length
 measurements were added; qualitative sentence-role analyses use separate examples.
+
+## Second-expansion checkpoint E03
+Five additions bring the corpus to 122, with 120 from requested venues. Expansion
+progress: 14/100; recent 2018–2026: 11/14; 2022–2026: 8/14. One metaresearch
+audit, three contrasting reviews and an accessibility input artifact add non-AI
+primary contributions. Three award-queue entries are accepted, 27 pending. The
+Crip Reflections candidate duplicated existing P15 and was excluded. Zotero item
+retrieval remains unavailable; collection membership has not been inferred.
