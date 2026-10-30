@@ -109,3 +109,24 @@ process and cases warrant translation and reuse, not comparative effectiveness.
 Use a visual evidence map and caption-to-image references for that form; a linear
 section budget would remove part of the argument. Find original analyses in the
 [corpus index](../corpus-index.md).
+
+## Mixed-origin annotations and bundled utility evidence
+
+[P132, UICrit](https://doi.org/10.1145/3654777.3676381) illustrates a resource
+whose critiques combine designer-written material, validated generated suggestions
+and overlap between them (author PDF, dataset construction/analysis pp.3–5).
+Draft a provenance paragraph with **total and unit → origin-specific subsets →
+overlap rule → validation role → reuse consequence**. Validation of a suggestion
+is a different event from independently writing it; retain both as legitimate,
+explicit sources. Do not infer independent label agreement from shared instructions
+or correlations between ratings of different constructs.
+
+For utility experiments, identify which components change together. UICrit's
+examples and visual prompting are bundled in the reported final comparison
+(evaluation pp.10–12); the relative gain cannot be attributed to data alone.
+Distinguish per-item quality, coverage of possible feedback, preference and actual
+improvement to a downstream design. Check who participated in construction, tuning
+and final judging, and whether source identities are separated where the claim
+requires it. Unreported overlap rules warrant a focused author query, not an
+accusation that leakage occurred. When totals disagree, preserve the discrepancy
+for verification rather than silently normalizing counts.

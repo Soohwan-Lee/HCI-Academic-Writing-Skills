@@ -469,3 +469,19 @@ English/Korean READMEs and the persistent plan now distinguish 19 accepted addit
 from 81 remaining. Paragraph-role analyses do not increase numeric length samples.
 Next: integrate writing instructions and run focused semantic probes before the
 next acquisition batch. No private PDFs or Claude transcripts are published.
+
+## E04b — instruction integration and review limit (2026-10-31)
+Integrated source-located guidance for mixed-origin resources, bundled utility
+comparisons, creative authoring, creator/recipient evidence, pictorial arguments
+and relational conceptual extension. Root compared the four modules with the five
+accepted notes. Avoided mandatory topic-first paragraphs and universal creativity
+measures; retained a positive contribution-first drafting instruction.
+
+The subsequent Claude subscription critique returned its five-hour usage limit,
+not a completed review. No model execution or advice is claimed for that request.
+Four semantic cases are prepared but unexecuted; the behavior report retains this
+limit. The earlier five individual-paper critiques remain completed. No API billing
+fallback. Source acquisition can proceed while the independent module review waits.
+Installer and LaTeX-audit suites passed 18 tests; manifest-index parity and whitespace
+checks passed. These checks establish package/audit regressions, not writing quality,
+live host discovery or successful manuscript compilation.

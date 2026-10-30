@@ -123,3 +123,36 @@ that evidence. Compress repeated application descriptions before removing operat
 conditions or construction detail needed to understand the contribution. In `.tex`,
 preserve figure/label relationships and check moved references. Ask whether each
 benefit is implemented, measured, inferred or merely envisioned.
+
+## Creative authoring and accessibility conversion
+
+For creative tools, distinguish **expressible capability, authoring activity, live
+performance and creative outcomes**. [P133, SoundToons](https://doi.org/10.1145/3581641.3584047)
+(author draft, workflow pp.5–10, live study pp.14–18, design discussion pp.18–20)
+shows why a performance-input comparison does not automatically establish an
+advantage over programming or keyframing. Author examples can demonstrate
+possibilities; a creativity claim needs appropriate evidence about the particular
+creative process, experience or output. Do not prescribe one universal scale.
+When study details are in an unavailable supplement, mark the access limit rather
+than state that no study occurred.
+
+Its paragraph after Equation 3 (p.12) connects **objective → interpretation →
+smoothing choice → solver → rendered update**. Keep properties directly optimized
+separate from those encouraged by preprocessing or interaction design. Its
+sound–motion paragraph (§7.1, p.20) uses **condition → failed apparent match →
+mechanism → contrasting case** to produce useful design knowledge. A failure can
+refine the capability contract without becoming a generic limitations list.
+
+For accessibility authoring, identify **creator, recipient and produced artifact**.
+[P134, Chart4Blind](https://doi.org/10.1145/3640543.3645175) (arXiv v2, formative
+requirements pp.5–6, novice evaluation pp.11–14, recipient feedback pp.14–15)
+separates these perspectives. Creator usability, converted-data correctness,
+guideline-informed rendering and recipient comprehension need distinct warrants.
+Retain training, manual calibration and correction work when interpreting time.
+An informal expert estimate is contextual evidence, not a controlled baseline.
+
+Use **reported output problem → possible cause → implemented response → remaining
+check** when writing iterations, keeping uncertainty where the cause is unresolved.
+Do not describe a revision as validated unless its outcome was checked. These
+checks belong in the working claim ledger; final prose should foreground what the
+artifact contributes and include only qualifications that change its interpretation.

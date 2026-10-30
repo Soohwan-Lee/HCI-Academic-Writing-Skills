@@ -96,3 +96,27 @@ before removing the encounter that earns an interpretation. In `.tex`, preserve
 image/caption relationships and accessible descriptions. Ask whether a reader can
 see how the inquiry generated knowledge, whether the stance is coherent, and whether
 an intended design quality has been mistaken for a demonstrated effect.
+
+## Practice accounts and pictorial argument
+
+[P128, Design Bookkeeping](https://doi.org/10.1145/3643834.3660754) (pictorial,
+PDF pp.1–12) makes otherwise peripheral managerial work part of design knowledge.
+Its six visual cases connect records, material encounters and interpretations.
+Treat the visual arrangement as an argumentative sequence: identify which image
+or entry establishes the situation, which detail changes the interpretation, and
+how the caption or adjacent prose carries that change. A text-only section outline
+cannot substitute for inspecting those relationships.
+
+An opening may show the finished work before explaining the lens. Related work
+can be distributed through cases when each concept's role remains recoverable.
+Its p.4 paragraph moves from an external theoretical account to creative practice
+and a guiding question; its p.7 account moves from embodied material inspection
+to a workable local response and a modest transfer proposition. These are useful
+alternatives to mandatory topic-first assertions. Ask whether the reader has enough
+context to understand the claim, not whether every paragraph starts with one.
+
+Distinguish a lens for noticing practice, a documentation genre and a procedure
+others could follow. An invitation to adapt specialized records is not evidence
+that novices can replicate the practice. Preserve first-person responsibility and
+situated interpretation; extract transferable questions without erasing the
+conditions that made the original insight possible.

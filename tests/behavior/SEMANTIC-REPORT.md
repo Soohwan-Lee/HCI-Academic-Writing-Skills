@@ -94,3 +94,12 @@ LaTeX mutation or compilation exercised. Root reviewed the actual responses.
 The final instruction refinements were root-reviewed, not rerun through these
 cases. Four responses are not a reliability estimate. Both actual wins and remaining
 style failures are retained; no new host compatibility claim follows.
+
+## E04 — prepared, not executed (2026-10-31)
+Four synthetic cases are saved in `e04-cases.json` for mixed-origin resources,
+accessibility authoring, reflective pictorials and sociotechnical interpretation.
+The subscription-only Claude request for a preceding module critique returned a
+five-hour quota message with no runtime model result. Therefore no E04 critique
+or semantic behavior pass is claimed, and no API-billed fallback was used.
+Root compared the additions against the five source-reviewed notes. These cases
+remain pending for a later subscription window; static tests cannot replace them.

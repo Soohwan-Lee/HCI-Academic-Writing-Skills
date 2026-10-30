@@ -1,0 +1,22 @@
+[
+  {
+    "id": "E04-R",
+    "input": "Write a 70-word resource contribution paragraph. We collected 600 critiques: 350 independently written by designers, 150 generated then validated, and 100 appearing in both sources, with those categories already deduplicated and mutually exclusive. We changed both retrieval examples and visual prompting in the final comparison, and per-comment partial-credit quality rose from .30 to .45. No design revision study. State the contribution positively and preserve provenance and the actual comparison.",
+    "review_focus": "Mixed origins retained; .15 absolute versus 50% relative; bundled treatment; no invented downstream benefit; readable prose."
+  },
+  {
+    "id": "E04-A",
+    "input": "Draft two contribution sentences for a chart conversion system. Four sighted experts informed requirements. Ten sighted novices completed authoring tasks after training, mean SUS 90. Three blind recipients explored outputs and identified missing legends. We changed spacing, but have not retested. No controlled efficiency baseline or comprehension task. Avoid a string of disclaimers; choose the most informative supported claims.",
+    "review_focus": "Creator versus recipient; SUS score not percentage; design-informed versus validated; no improvement/comprehension claim; concise foregrounding."
+  },
+  {
+    "id": "E04-D",
+    "input": "Propose a section and paragraph flow for a pictorial about a first-person weaving residency. Six illustrated cases show how mundane records helped coordinate changing materials. A bookkeeping lens was developed retrospectively. Readers are invited to adapt the records. No novice replication test, no comparative performance claim. Do not force an experiment or an early formal RQ. Explain the visual argument and one paragraph's sentence roles.",
+    "review_focus": "Reflective knowledge and visual evidence; retrospective lens; adaptation without replication claim; meaningful paragraph progression."
+  },
+  {
+    "id": "E04-S",
+    "input": "Write a short sociotechnical contribution paragraph: sixteen childcare workers described platform ranking pressures, employer screening asymmetries and community forums. We use an established porous-boundaries lens and extend employer-worker relations to include platforms. We did not inspect ranking code. Forums enabled reciprocal care but created exposure and moderation labor. Retain worker-centered political commitments and conceptual value without converting the paper into interface requirements.",
+    "review_focus": "Inherited versus extended concept; accounts versus algorithm internals; uneven consequences; no obligatory prototype validation or defensive prose."
+  }
+]

@@ -123,3 +123,26 @@ For computational or documentary accounts, check provenance, collection boundari
 and the relation between traces/documents and practices. Counts do not alone reveal
 meaning, and an archive's silence does not establish that a practice never existed.
 Use the matching method guide for the evidence actually available.
+
+## Extending a lens through situated relations
+
+[P129, Porous by Design](https://doi.org/10.1145/3643834.3661552) (author PDF,
+introduction pp.1–2, related work pp.2–4, findings pp.5–10, discussion pp.10–12)
+connects feminist care literature to platform-mediated childcare work. Its gap
+combines an underexamined perspective, domain and changing conditions; it credits
+nearby work rather than claim that nobody studied care or labor. A conceptual
+extension adds the platform to employer–worker relations. Explain what the inherited
+lens reveals, what the analysis adds, and which accounts sustain that extension.
+
+Worker beliefs about ranking can establish how people act under perceived rules
+without revealing algorithmic weights. Separate participant accounts, platform
+statements, prior theory and researcher interpretation while showing how they
+support a common argument. A normative commitment to worker-centered design is
+not a measured intervention outcome and need not be diluted into one.
+
+The forum discussion (§5.2, p.11) qualifies a benefit through unequal visibility,
+a contrasting cooperative arrangement and moderation labor. Preserve whose gains
+and costs differ. Do not reduce an ambivalent relation to a universal privacy fix.
+Political and conceptual contributions can redistribute attention and responsibility
+without proposing a prototype. For reflexive thematic inquiry, explain analytic
+practice and situated responsibility rather than fabricate agreement statistics.

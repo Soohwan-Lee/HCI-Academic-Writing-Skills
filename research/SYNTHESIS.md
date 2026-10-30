@@ -154,3 +154,23 @@ P125 adds an artifact contrast: comparative tasks, repeated sessions and an auth
 diary support different capabilities and interpretations. None is a universal
 validation template. Selected paragraph-role sequences are qualitative examples;
 no new length distribution or 8,000-word allocation was estimated in this batch.
+
+## E04: carry the knowledge object through the argument
+P128 and P129 demonstrate different conceptual work within the same venue: a
+reflective account makes managerial practice legible; an interview-based account
+extends a relational lens to platform labor. Neither should be reduced to feature
+requirements. Their paragraphs earn concepts through encounters and contrasts,
+including productive ambiguity and uneven consequences.
+
+P132 separates resource provenance, characterization and downstream utility.
+P133 and P134 separate authoring, performance and recipient evidence. Across these
+three artifact/resource cases, a polished abstract can lose the distinctions that
+make the detailed evidence interpretable. The writing aid should retain a working
+claim ledger and then write readable prose, not expose the whole ledger as caveats.
+
+Paragraph alternatives include equation-to-interaction explanation, a failed match
+that earns a design condition, and feedback-to-revision across adjacent paragraphs.
+These are source-located examples, not population frequencies or universal recipes.
+P128's visual argument also shows why numeric prose budgets cannot describe every
+manuscript form. Source versions and inaccessible supplements are recorded in the
+individual notes. No numeric section/paragraph sample was expanded in E04.
