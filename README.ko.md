@@ -46,18 +46,18 @@ HCI 논문 폴더에서 작업하는 AI 코딩 에이전트를 위한 라이팅 
 
 | 논증의 성격 | 가능한 전개 예시 |
 |---|---|
-| 새로운 인터랙션 역량 | 기능 개요 → 설계 근거 → 구현 → 역량별 평가 |
-| Formative inquiry에 기반한 시스템 | 탐색적 조사 결과 → 설계 방향 → 시스템 → 서로 다른 평가 질문 |
+| 새로운 인터랙션 역량 | 인터랙션 역량 개요 → 설계 근거 → 구현 → 역량별 평가 |
+| Formative inquiry에 기반한 시스템 | 탐색적 조사 결과 → 설계 원칙·결정 → 시스템 → 서로 다른 평가 질문 |
 | 성찰적 디자인 / pictorial | 상황과 실천 → 성찰의 관점 → 재료·시각적 사례 → 사례 간 해석 |
 | 사회기술적 이해 | 상황에 놓인 경험 → 관계와 긴장 → 개념적 해석 → 함의 |
 | 역사적 탐구 | 시대별 서술 → 시대를 가로지르는 분석 차원 → 함의와 방법론적 성찰 |
-| 개념 개발 | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 논의 |
+| 개념 개발 | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 설명 |
 | 데이터셋·연구 자원 | 구축 → 특성 분석 → 과제별 활용 검증 → 재사용 조건 |
 | 해석적 문헌 리뷰 | 선정과 분석 → 주제별 결과 → 개념적 종합 → 후속 연구 의제 |
 
 학회별 필수 템플릿이 아니라, 논증의 목적에 따라 선택할 수 있는 구조입니다. [구조 가이드](skills/hci-academic-writing/references/architectures.md)는 각 구조가 언제 도움이 되는지 설명합니다. [기여 유형 목록](skills/hci-academic-writing/references/contribution-catalogue.md)은 참여적 변화, 비판, 방법론, 재현 연구, 복합 기여도 다룹니다.
 
-공통 자료는 abstract, introduction, research gap 중심의 related work, discussion, 문단 전개와 문장 연결을 다룹니다. 두괄식은 주장을 바로 이해할 수 있을 때 유용하지만, 서사나 뒤늦게 드러나는 해석이 필요한 문단도 있습니다. 8,000단어 기준의 분량 배분은 계획을 돕는 참고안이며, HCI 논문 전체에 적용되는 규칙은 아닙니다.
+공통 자료는 abstract, introduction, 연구의 위치와 논증 근거를 세우는 related work, discussion, 문단 전개와 문장 연결을 다룹니다. 두괄식은 주장을 바로 이해할 수 있을 때 유용하지만, 서사나 뒤늦게 드러나는 해석이 필요한 문단도 있습니다. 8,000단어 기준의 분량 배분은 계획을 돕는 참고안이며, HCI 논문 전체에 적용되는 규칙은 아닙니다.
 
 ## 빠른 시작
 
@@ -87,11 +87,20 @@ python3 scripts/install_skill.py --host claude-code --scope project --project-ro
 
 Antigravity는 `--host antigravity-app`, `antigravity-ide`, `antigravity-cli` 중 사용하는 환경을 선택합니다. 프로젝트 설치 위치는 Codex·Antigravity의 경우 `.agents/skills/hci-academic-writing/`, Claude Code의 경우 `.claude/skills/hci-academic-writing/`입니다.
 
-설치기는 기본적으로 미리보기만 수행하고, 기존 파일과 충돌하면 덮어쓰지 않습니다. 이전 버전을 업데이트하려면 기존 설치본을 검토하고 다른 곳으로 옮긴 뒤 다시 설치하세요. 개인용 설치, 정확한 경로, 검증 범위는 [설치·호환성 문서](docs/COMPATIBILITY.md)에 있습니다.
+설치기는 기본적으로 미리보기만 수행하고, 기존 파일과 충돌하면 덮어쓰지 않습니다. 이전 버전을 업데이트하려면 기존 설치본을 검토하고 호스트가 스킬을 검색하는 폴더 밖으로 옮긴 뒤 다시 설치하세요.
+스킬 검색 폴더 안에서 이름만 바꾼 백업을 남기지 마세요. 개인용 설치, 정확한 경로, 검증 범위는 [설치·호환성 문서](docs/COMPATIBILITY.md)에 있습니다.
 
 ### 3. 논문 폴더를 열고 스킬 사용 요청하기
 
-**라이팅 스킬 저장소가 아니라 논문 프로젝트 폴더에서** 새 에이전트 세션을 시작합니다. `hci-academic-writing`을 명시하고, 해당 `SKILL.md`를 읽었는지 확인합니다.
+**라이팅 스킬 저장소가 아니라 논문 프로젝트 폴더로 이동한 뒤** 새 에이전트 세션을 시작합니다.
+
+```sh
+cd /path/to/paper
+```
+
+`hci-academic-writing`을 명시하고, 에이전트가 해당 `SKILL.md`를 실제로 읽는지 확인합니다.
+자동으로 찾지 못하면 Claude Code는 `.claude/skills/hci-academic-writing/SKILL.md`,
+Codex·Antigravity는 `.agents/skills/hci-academic-writing/SKILL.md`를 직접 읽고 지침을 적용하도록 요청하세요.
 
 > hci-academic-writing을 사용해. 루트 파일은 main.tex야. sections/related-work.tex를 읽고 아직 해결되지 않은 연구 문제를 중심으로 재구성해. 기존 주장과 인용의 연결은 유지해. 문단 순서와 문장 간 흐름을 개선해서 파일을 수정하고, 변경 사항을 요약해.
 
@@ -135,7 +144,7 @@ my-paper/
 
 ### 문단 수정·압축하기
 
-> hci-academic-writing을 사용해. sections/results.tex의 선택한 문단을 150단어 이내로 수정해. 추정치, 불확실성, 유의하지 않은 결과, 분석 단위를 유지해. 단어 수를 센 기준과 의미 있는 변경 사항을 알려줘.
+> hci-academic-writing을 사용해. sections/results.tex의 선택한 문단을 150단어 이내로 수정해. 추정치, 불확실성, 영(null) 결과와 통계적으로 유의하지 않은 결과, 분석 단위를 유지해. 효과가 없다는 근거와 검정의 비유의성을 구분해. 단어 수를 센 기준과 의미 있는 변경 사항을 알려줘.
 
 위 내용은 사용 요청 예시이며, 성능 향상을 측정한 결과가 아닙니다. 에이전트는 인용 키, label, macro와 관련 없는 수정 사항을 보존하도록 안내됩니다. 알 수 없는 사실은 그럴듯한 문장으로 채우지 않고 `% HCI-TODO[evidence]: ...` 같은 초안 주석에 남기도록 합니다.
 
@@ -159,7 +168,7 @@ my-paper/
 
 | 구분 | 현재 근거 |
 |---|---|
-| 설치·LaTeX 어휘 수준 점검 | 자동 테스트 18개, 격리된 폴더에서 호스트별 설치 경로 검증 |
+| 설치·LaTeX 참조 및 파일 의존성 점검 | 자동 테스트 18개, 격리된 폴더에서 호스트별 설치 경로 검증 |
 | Claude Code 파일 편집 | 여러 파일로 구성된 ACM 테스트 원고에서 제한된 수정 2건 수행, 명시적 스킬 로딩과 컴파일 성공 |
 | Codex·Antigravity 실제 편집 | 아직 검증하지 않음 |
 | 스킬 자동 발견 | 제한된 Claude 테스트에서 확인하지 못함. 이름을 명시한 요청은 검증함 |

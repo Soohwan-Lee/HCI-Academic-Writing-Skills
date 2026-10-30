@@ -135,3 +135,16 @@ Claude review of this revision is claimed.
 
 README rewriting is complete for the current state; keep its evidence table synchronized
 as these gates advance. Paper acquisition is conditional on those gaps, not a quota.
+
+## Gemini review integration — 2026-10-31
+
+A single user-requested Gemini 4 Argon (High) critique was completed and adjudicated
+by root. [Assessment and dispositions](reviews/2026-10-31-gemini-assessment.md)
+separate verified instruction defects from proposed validation and unsupported
+reviewer inferences. Immediate consistency/usability fixes are integrated.
+
+Prioritize [architectural writing probes](../tests/behavior/ARCHITECTURE-PROBES.md)
+and within-family structural contrasts before expanding numeric length measurement.
+The probe specifications are not completed live tests. A comparative no-skill run
+is a useful later addition, not evidence currently available. No new paper-count
+commitment or claim of Antigravity live manuscript editing follows from this review.

@@ -69,7 +69,9 @@ environment variables. Global scope otherwise uses the current user's home.
 The installer refuses a different existing destination, including extra files,
 and does not merge or overwrite it. A destination with matching file bytes and
 permission modes is an idempotent no-op. Review and relocate an old installation
-manually before installing an updated copy. Source/destination overlap, symlinked
+outside every host skill-search directory before installing an updated copy.
+Renaming a backup inside a scanned skills directory can leave multiple discoverable
+bundles; retain backups elsewhere. Source/destination overlap, symlinked
 paths or entries, and special files are rejected. On systems with symlinked temp
 paths, supply the resolved real path. No global settings are edited.
 

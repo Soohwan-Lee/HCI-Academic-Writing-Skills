@@ -573,3 +573,27 @@ installer/auditor tests and corpus-index verification passed. Fixed Markdown har
 whitespace flagged by diff checking. Claude Opus 5.5 medium critique was requested
 with verified claude.ai/Pro authentication, but the subscription five-hour limit
 prevented the review; no API fallback was used. Final review was performed by root.
+
+## One-off Gemini 4 High review and root integration — 2026-10-31
+
+Ran one agy request with the existing OAuth login and selected
+`gemini-4-argon-high` / high effort. Runtime reported successful silent auth,
+selected Gemini 4 Argon (High), SUCCESS and one turn. The reviewer read a supplied
+14-file packet; this was not an installed-skill behavior test. See the public
+[brief](reviews/2026-10-31-gemini-brief.md) and
+[root assessment](reviews/2026-10-31-gemini-assessment.md).
+
+Root checked all eight findings. Fixed the stale eight-versus-twelve coverage note,
+scoped review count audits, added positive contribution framing and an explicit
+pre-results literature-gap reminder, expanded core-body guidance, and added a
+fictional two-paragraph excerpt/handoff example. Updated both READMEs with directory
+switching, explicit skill-file fallback and backup guidance; clarified terminology.
+The review's proposed test answers contained unsupported technical details and
+overspecified outlines. Root corrected them into pending probe specifications;
+no additional model test, source analysis or measured prose sample is claimed.
+
+Verification after changes: 18 installer/auditor tests passed; corpus index matched;
+README/review-document local links resolved; git diff whitespace check passed.
+Ordinary-host discovery, broader architectural editing and within-family source
+contrasts remain open. The model's causal explanation of defensive prose is a
+hypothesis, not a result established by the existing trials.

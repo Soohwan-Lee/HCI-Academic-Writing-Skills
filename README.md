@@ -57,7 +57,7 @@ Source-backed examples illustrate alternative structures:
 
 These are conditional choices, not required templates for a venue. The [architecture guide](skills/hci-academic-writing/references/architectures.md) explains when each helps. The [contribution catalogue](skills/hci-academic-writing/references/contribution-catalogue.md) also covers participatory change, critique, methods, replication and hybrid contributions.
 
-Shared references address abstracts, introductions, gap-driven related work, discussion, paragraph development and sentence flow. Topic-first paragraphs are useful when the claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
+Shared references address abstracts, introductions, related work that positions and supports the contribution, discussion, paragraph development and sentence flow. Topic-first paragraphs are useful when the claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
 
 ## Quick start
 
@@ -87,11 +87,21 @@ python3 scripts/install_skill.py --host claude-code --scope project --project-ro
 
 For Antigravity, select `--host antigravity-app`, `antigravity-ide` or `antigravity-cli`. Codex and Antigravity project installs use `.agents/skills/hci-academic-writing/`; Claude Code uses `.claude/skills/hci-academic-writing/`.
 
-The installer previews changes by default and refuses conflicting files. To update an older copy, review and relocate it before reinstalling. See [installation and compatibility](docs/COMPATIBILITY.md) for personal installs, exact paths and tested behavior.
+The installer previews changes by default and refuses conflicting files. To update an older copy, review it and move it outside the host’s skill directories before reinstalling.
+Do not keep a renamed backup inside a directory the host scans for skills. See [installation and compatibility](docs/COMPATIBILITY.md) for personal installs, exact paths and tested behavior.
 
 ### 3. Open the paper folder and request the skill
 
-Start a fresh agent session **in your manuscript project**, then name `hci-academic-writing` explicitly. Confirm that the intended `SKILL.md` is loaded. For example:
+Switch to your manuscript project, rather than this skill repository:
+
+```sh
+cd /path/to/paper
+```
+
+Start a fresh agent session there, then name `hci-academic-writing` explicitly. Check that the agent actually reads the intended `SKILL.md`. If discovery fails,
+ask it to read `.claude/skills/hci-academic-writing/SKILL.md` (Claude Code) or
+`.agents/skills/hci-academic-writing/SKILL.md` (Codex/Antigravity) explicitly, then
+apply those instructions. For example:
 
 > Use hci-academic-writing. The root is main.tex. Read sections/related-work.tex and revise it around the unresolved problem. Preserve existing claims and citation attachments. Improve paragraph order and sentence connections, then edit the file and summarize the changes.
 
@@ -135,7 +145,7 @@ Give the agent the root file, edit scope, available evidence and any word limit.
 
 ### Revise or compress a passage
 
-> Use hci-academic-writing. Edit the selected results paragraph in sections/results.tex to at most 150 words. Preserve estimates, uncertainty, null findings and analysis units. Report the counting convention and any material changes.
+> Use hci-academic-writing. Edit the selected results paragraph in sections/results.tex to at most 150 words. Preserve estimates, uncertainty, any null or nonsignificant findings and analysis units. Keep absence-of-effect evidence distinct from a nonsignificant test. Report the counting convention and any material changes.
 
 These are example requests, not measured performance claims. The agent should preserve bibliography keys, labels, macros and unrelated edits. Unknown facts belong in explicit draft comments such as `% HCI-TODO[evidence]: ...`, not plausible invented prose.
 
@@ -159,7 +169,7 @@ This is a purposive teaching collection, with AI-assisted analysis and integrati
 
 | Layer | Current evidence |
 |---|---|
-| Installation and lexical LaTeX audit | 18 automated tests; isolated host-specific installation layouts |
+| Installation and LaTeX reference/dependency checks | 18 automated tests; isolated host-specific installation layouts |
 | Claude Code file editing | Two scoped edits in a multi-file ACM fixture, with explicit skill loading and successful compilation |
 | Codex / Antigravity live editing | Not yet tested |
 | Automatic skill discovery | Not established by the restricted Claude test; explicit named requests were tested |
