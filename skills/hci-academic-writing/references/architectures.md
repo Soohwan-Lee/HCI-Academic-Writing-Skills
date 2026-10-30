@@ -167,6 +167,57 @@ concession/counterargument → reframing rather than a results recap. Keep the
 premises and case reasoning inspectable. Do not invent a Methods section, empirical
 validation or a final prototype when the contribution is a defensible position.
 
+### Intervention, infrastructure and maintenance
+
+[P112 Turkopticon](https://doi.org/10.1145/2470654.2470742) develops stance and
+institutional context before motivation and system arrangements; discussion turns
+to maintenance, strategic quantification, publics and ambivalent success.
+
+An infrastructure subsection can explain the coordination problem, the initial
+arrangement, what participation exposed, and the adjustment or unresolved cost.
+A maintenance subsection can move from concrete support work to dependencies and
+then to what sustaining the intervention means. Keep technical choices connected
+to who must do the work. A generic usability study cannot replace this argument;
+participation alone also does not establish community control.
+
+### Resource construction and differentiated utility
+
+P132 UICrit (UIST 2024; source record in the corpus) separates collection, dataset
+characterization and applications with nested task-specific methods/results.
+
+A construction closing paragraph can deliver effort → resulting records → schema
+→ examples → analysis handoff. Characterization subsections can use analytical
+procedure → categories/distribution → comparison to an external space → coverage
+interpretation. Utility branches then explain the task, configuration and evidence.
+Do not collapse resource coverage, task performance and prospective reuse into one
+claim. For benchmarks or repositories, adapt the utility branch to their actual use.
+
+### Historical sequence followed by cross-period interpretation
+
+P115's sociotechnical genealogy (CSCW 2026; source record in the corpus) separates
+four eras from three cross-era analytical dimensions. Historical sections establish
+changes that later interpretive subsections can connect.
+
+A dimension subsection can begin with an inherited framing, examine a documented
+case, state the interpretive shift, and develop its temporal, relational or
+institutional implications. Readers need the case before its conceptual consequence.
+A chronological narrative alone does not perform the cross-period synthesis;
+repeating each era in discussion also leaves the interpretive work undone. Keep
+historical actors' accounts, documentary evidence and the authors' judgments legible.
+
+### Concept development through an illustrative design
+
+[P119 Social Transparency](https://doi.org/10.1145/3411764.3445188), arXiv v1
+§§2–6, develops conceptual lineage, scenario-based design exploration, interview
+methods, interpreted contexts and theoretical discussion.
+
+The exploration section can progress through concept scope → why this material
+supports inquiry → how its elements emerged → relationship to prior concepts →
+audience/scenario choice → consequential encounter details. The findings develop
+what the concept helps explain and where it struggles. Unlike a formative-first
+system paper, the illustrative design supports conceptual development; interviews
+need not become either requirements or an effectiveness test.
+
 ## Produce an actionable outline
 
 For a substantial outline request, provide enough detail to draft from:

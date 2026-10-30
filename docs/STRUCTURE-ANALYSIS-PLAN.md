@@ -96,3 +96,22 @@ On 2026-10-31 the user explicitly allowed a smaller corpus if analysis is strong
 The 128 accepted notes remain; 208 and the remaining 80 are no longer commitments.
 Do not substitute a new arbitrary target such as 130. Judge additions by whether
 they resolve a missing knowledge object, structural variant, warrant or form.
+
+## Current decision checkpoint — twelve structural maps
+
+The corpus remains 128 papers. S01–S12 now connect twelve observed architectures
+to conditional drafting guidance; this is depth added to existing sources, not
+new-paper acquisition. The maps include four-level analysis of selected passages.
+They do not satisfy every within-family contrast in the coverage matrix.
+
+Choose the next source by the unresolved writing decision it can answer. Prioritize
+contrasting RtD forms, alternative empirical organizations, and review forms before
+adding another familiar formative-system example. After each small batch, ask:
+
+1. Does it change a section/subsection decision or explain a paragraph dependency?
+2. Can the distinction be applied in an actual manuscript outline or revision?
+3. Is the claimed pattern supported by the inspected passage and bounded to its form?
+
+Stop expanding a well-covered branch when another paper adds no actionable distinction;
+reopen it if a drafting probe exposes an unsupported choice. No fixed total is a
+completion criterion. Numeric measurement and writing probes remain separate gates.

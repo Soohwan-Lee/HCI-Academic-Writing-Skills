@@ -545,3 +545,15 @@ These alternatives now appear in the selectively loaded architecture guide.
 Eight mapped cases do not fulfill the full family/variant coverage gate. Next are
 participatory/infrastructural, historical, resource and concept-development contrasts,
 followed by within-family alternatives and executable writing probes.
+
+## Infrastructure, resource, history and conceptual exploration — 2026-10-31
+
+Reviewed S09–S12 against existing source analyses and freshly re-read passages.
+Added conditional architectures for maintenance-centered intervention, resource
+characterization and utility, cross-period historical interpretation, and concept
+development through illustrative design. Repaired blank lines splitting the map
+index into separate Markdown table fragments. Current count remains 128 papers,
+with twelve deeper selected-passage maps. The user explicitly delegated sample-size
+judgment: further acquisition is driven by unresolved structural decisions, not 200
+or a replacement quota of 130. Claude review is not claimed for these additions;
+the subscription limit previously prevented a new review. Root review continues.
