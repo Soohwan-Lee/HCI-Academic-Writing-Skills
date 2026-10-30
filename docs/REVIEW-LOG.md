@@ -321,3 +321,15 @@ positioning, paragraph and form comparisons across the expanded corpus. Added a
 reproducible 107-record index and pictorial/resource-hybrid guidance. Route labels
 are navigation aids; no corpus frequency or prestige effect is inferred. Resource
 coverage remains small. Original source texts and transcripts remain ignored.
+
+## Gate V — public package and bilingual documentation
+Final README files have matching scope, counts, installation instructions, usage
+examples and validation limits. Checked 107 manifest records and corresponding
+analysis paths, eight navigation-route counts and all local Markdown file links.
+Installer/auditor tests: 18 passed. Corpus index is current. Official skill-creator
+validator passes using temporary `uv --with pyyaml`; the initial system-Python
+attempt lacked PyYAML and made no project changes. No source PDFs, private cache,
+Zotero records or transcripts are tracked. GitHub visibility confirmed PUBLIC.
+Reviewed the generated cover and rendered vector logo; documented their provenance.
+Added original-work MIT license and contribution guidance. Full-paper author-usage,
+independent human validation and automatic host discovery remain future work.

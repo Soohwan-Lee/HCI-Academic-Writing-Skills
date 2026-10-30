@@ -7,20 +7,25 @@ Build portable, evidence-linked HCI writing skills for CHI, CSCW, UIST, DIS,
 and IUI. Route by knowledge contribution, not venue prestige or method alone.
 The first release is an exploratory, purposive corpus, not a population survey.
 
-## Live checkpoint — 2026-10-30
-- Protocol and ten-paper pilot: reviewed and pushed (`0d92ba5` latest checkpoint).
-- Reviewed and integrated: 107 full-text analyses (105 from requested venues + COMPASS and EMNLP supplements).
-  Every expansion batch has a separate review entry and commit/push checkpoint.
-- Initial expansion P18–P64 is complete; P59 excluded for unavailable full text.
-- New expansion P65–P106 is underway toward the minimum of 100.
-  IDs are reservations, not claims of completed reading.
-- Next gate: review completed expansion fragments in small batches, validate
-  metadata/locators, regenerate coverage, commit and push each reviewed batch.
-- Then complete remaining batches; audit contribution/domain coverage and deepen
-  sparse routes before freezing the cross-paper synthesis.
-- Still pending: expanded length evidence; executable skill and route modules;
-  Claude critique and behavioral trials; ACM multi-file fixture checks; portable
-  installation verification; final README and visual identity.
+## Live checkpoint — release review, 2026-10-30
+
+- [x] Protocol, ten-paper pilot and reviewed expansion: 107 full-text analyses,
+  including 105 requested-venue papers and two labeled supplements.
+- [x] Contribution/domain/venue coverage audit; eight primary navigation routes
+  retain hybrid knowledge objects. Resource coverage remains comparatively small.
+- [x] Common and route-specific skills; paragraph/sentence operations, review
+  papers, pre-results work, reviewer responses and pictorial exceptions.
+- [x] Seven body/section measurement examples; 32 paragraphs across 14 papers;
+  source-bound replay, with extraction limitations stated.
+- [x] Claude consultations and generation trials; persistent unsupported claims
+  recorded openly. Two live installed-skill ACM edits and builds succeeded.
+- [x] Portable installer and LaTeX auditor: 18 tests pass. Live discovery in Codex
+  and Antigravity remains future validation, not a release claim.
+- [x] Cross-paper synthesis, portable evidence index, original logo/generated cover,
+  matched English/Korean README, contribution and licensing guidance.
+- [x] Final gate: local links, metadata/index consistency, skill format and package
+  boundaries checked; final documentation committed and pushed. Historical plans
+  remain below as a decision trail, not as current pending tasks.
 
 ## Stages and review gates
 1. Protocol: define contribution taxonomy, sampling, coding, evidence levels,

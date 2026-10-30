@@ -1,8 +1,8 @@
-# Exploratory corpus — expanding
+# Exploratory corpus — 107 reviewed analyses
 
 107 full papers integrated across the requested venues and explicitly labeled supplementary venues. Metadata, analyzed versions,
 checksums, sources and award evidence: [corpus.json](corpus.json).
-The initial ten-paper human–AI pilot is expanding to broad HCI coverage under
+The initial ten-paper human–AI pilot was expanded to broad HCI coverage under
 [the sampling plan](../docs/SAMPLING-PLAN.md). This is a purposive teaching corpus,
 not a representative survey or evidence that awards reward a particular style.
 Counts refer to reviewed analytical notes, not downloads or assigned candidates.
@@ -119,7 +119,7 @@ Counts refer to reviewed analytical notes, not downloads or assigned candidates.
 
 ## Coverage and exclusions
 CHI 34, COMPASS 1, CSCW 21, DIS 18, Findings of EMNLP 1, IUI 17, UIST 15.
-Many contribution routes remain incomplete during expansion. Do not infer typical
+Coverage remains uneven; see [the audit](COVERAGE-AUDIT.md). Do not infer typical
 venue styles or statistical norms. “Unverified” does not mean non-awarded.
 
 Candidate P10 (arXiv:2310.19778) was obtained while looking for a synthesis
