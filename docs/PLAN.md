@@ -7,7 +7,27 @@ Build portable, evidence-linked HCI writing skills for CHI, CSCW, UIST, DIS,
 and IUI. Route by knowledge contribution, not venue prestige or method alone.
 The first release is an exploratory, purposive corpus, not a population survey.
 
-## Live checkpoint — release review, 2026-10-30
+## Active checkpoint — second expansion, 2026-10-30
+
+The latest request supersedes the completed first-release checkpoint below.
+Analyze **100 additional distinct full papers beyond the current 108**, targeting
+208 total, while completing the reopened contribution-taxonomy review. Downloads,
+abstract screening, model suggestions and duplicates do not count as analyses.
+Follow [EXPANSION-200.md](EXPANSION-200.md) for batch gates and current progress.
+Review HCAI and other Zotero collections alongside independent conference searches;
+keep private collection membership and raw library records out of the public repo.
+Claude Opus 5.5 at medium effort, through the existing Pro subscription, may assist
+analysis and README drafting. Root reviews all accepted changes and source claims.
+
+- [ ] Inspect collection coverage, classify HCAI provisionally and deduplicate candidates.
+- [ ] Finalize contribution catalogue and address prior taxonomy review findings.
+- [ ] Analyze 100 additional full texts in reviewable batches of 5–10.
+- [ ] Revise skills from cross-paper comparisons, including disconfirming examples.
+- [ ] Extend paragraph/section measurements with explicit denominators.
+- [ ] Review bilingual README drafts from Claude against actual package behavior.
+- [ ] Validate links, metadata, installation and changed behavior; commit/push each gate.
+
+## Historical checkpoint — first release review, 2026-10-30
 
 - [x] Protocol, ten-paper pilot and reviewed expansion: 107 full-text analyses,
   including 105 requested-venue papers and two labeled supplements.
