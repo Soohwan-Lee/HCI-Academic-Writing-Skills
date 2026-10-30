@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/logo.svg" width="72" alt="HCI Academic Writing Skills logo">
+  <img src="assets/logo.svg" width="60" alt="HCI Academic Writing Skills logo">
 </p>
 
 <h1 align="center">HCI Academic Writing Skills</h1>
 
 <p align="center">
   <strong>Build the argument. Shape the paper. Revise the prose.</strong><br>
-  Contribution-aware writing, inside your ACM LaTeX project.
+  Contribution-aware writing skill for ACM LaTeX manuscripts
 </p>
 
 <p align="center">
@@ -16,38 +16,30 @@
 </p>
 
 <p align="center">
-  <a href="README.ko.md">한국어</a> · <a href="#quick-start">Quick start</a> · <a href="#try-it-on-your-manuscript">Examples</a> · <a href="#what-the-guidance-is-based-on">Evidence</a> · <a href="docs/STRUCTURE-ANALYSIS-PLAN.md">Roadmap</a>
+  <a href="README.ko.md">한국어</a> · <a href="#quick-start">Quick start</a> · <a href="#the-structure-follows-the-contribution">Structure</a> · <a href="#try-it-on-your-manuscript">Examples</a> · <a href="#what-the-guidance-is-based-on">Evidence</a>
 </p>
 
 <p align="center">
-  <img src="assets/editorial-cover.png" width="900" alt="Editorial illustration of diverse research evidence becoming a coherent manuscript">
+  <img src="assets/editorial-cover.png" width="760" alt="Editorial illustration of diverse research evidence becoming a coherent manuscript">
 </p>
 
-<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp; / &nbsp; Systems · Empirical · Sociotechnical · RtD · Concepts · Reviews</sub></p>
+<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp;/&nbsp; Systems · Empirical · Sociotechnical · RtD · Concepts · Reviews</sub></p>
 
-Turn research materials into **a contribution-specific outline and connected prose**. This skill guides AI coding agents such as Codex, Claude Code and Antigravity to work in your manuscript folder and edit the actual `.tex` files you will upload to Overleaf. See the [tested scope for each host](docs/COMPATIBILITY.md).
+Guides AI coding agents—Codex, Claude Code and Antigravity—to work inside your manuscript folder and edit the actual `.tex` files you will upload to Overleaf. You supply the research materials, draft and task; the skill loads only the writing references needed ([tested scope for each host](docs/COMPATIBILITY.md)).
 
 ---
 
 ## What this skill helps you do
 
-You supply the research, draft and task. The skill gives your agent instructions and selectively loaded writing references for the decisions between evidence and finished prose.
+- **Frame** — Clarify the paper's knowledge claim, supporting evidence and boundaries; plan section purposes, subsection order, paragraph roles and logical transitions.
+- **Draft** — Turn study notes into grounded manuscript text with missing facts left explicit (`% HCI-TODO[evidence]: ...`); reorganize related work around the unresolved problem and relationships among prior approaches rather than a list of papers.
+- **Revise** — Repair paragraph order, sentence connections and referents; cut passages to a word limit while retaining consequential claims, evidence and uncertainty; tie review responses to evidence and concrete manuscript changes.
 
-| Your task | What the agent is instructed to produce |
-|---|---|
-| “What is this paper's contribution?” | A clear knowledge claim, its supporting evidence and its boundaries |
-| “How should this paper be organized?” | A section and subsection plan, with paragraph roles and logical transitions |
-| “Draft this section from my notes.” | Manuscript text grounded in the supplied material, with missing facts left explicit |
-| “My related work is a list of papers.” | A synthesis organized around the problem and the relationships among prior approaches |
-| “These paragraphs do not flow.” | Revised paragraph order, sentence connections and referents |
-| “Cut this to the word limit.” | A shorter passage that retains consequential claims, evidence and uncertainty |
-| “Help address this review.” | An answer tied to evidence and concrete manuscript changes |
-
-The deliverable is usually an edit to your manuscript, accompanied by a short explanation of what changed. A small wording task stays small; it does not require a full-paper planning exercise.
+The deliverable is usually a direct edit to your manuscript, accompanied by a short explanation of what changed. A small wording task stays small; it does not require a full-paper planning exercise.
 
 ## Quick start
 
-You need an existing manuscript folder, a supported AI coding agent and **Python 3.9+** to run the installer. No third-party Python packages are required. The package provides a skill bundle; your agent supplies the model and editing tools.
+Requires an existing manuscript folder, a supported AI coding agent and **Python 3.9+** for the installer (no third-party Python packages). This repository provides the skill bundle; your agent supplies the model and editing tools.
 
 ### 1. Get the repository
 
@@ -58,7 +50,7 @@ cd HCI-Academic-Writing-Skills
 
 ### 2. Install into your manuscript folder
 
-Replace `/path/to/paper` with the folder containing your ACM project. Choose the host you use.
+Replace `/path/to/paper` with the folder containing your ACM project and select your host:
 
 ```sh
 # Preview a Codex installation; writes nothing.
@@ -71,27 +63,25 @@ python3 scripts/install_skill.py --host codex --scope project --project-root /pa
 python3 scripts/install_skill.py --host claude-code --scope project --project-root /path/to/paper --apply
 ```
 
-For Antigravity, select `--host antigravity-app`, `antigravity-ide` or `antigravity-cli`. Codex and Antigravity project installs use `.agents/skills/hci-academic-writing/`; Claude Code uses `.claude/skills/hci-academic-writing/`.
-
-The installer previews changes by default and refuses conflicting files. To update an older copy, review it and move it outside the host’s skill directories before reinstalling.
-Do not keep a renamed backup inside a directory the host scans for skills. See [installation and compatibility](docs/COMPATIBILITY.md) for personal installs, exact paths and tested behavior.
+- **Antigravity and paths:** Use `--host antigravity-app`, `antigravity-ide` or `antigravity-cli`. Codex and Antigravity project installs write to `.agents/skills/hci-academic-writing/`; Claude Code writes to `.claude/skills/hci-academic-writing/`.
+- **Safe updates:** Without `--apply`, the installer previews changes and refuses conflicting files. Move any older copy outside directories scanned for skills before reinstalling—do not keep a renamed backup inside a scanned skill directory. See [installation and compatibility](docs/COMPATIBILITY.md) for personal installs, exact paths and tested behavior.
 
 ### 3. Open the paper folder and request the skill
 
-Switch to your manuscript project, rather than this skill repository:
+Switch to your manuscript project rather than this skill repository:
 
 ```sh
 cd /path/to/paper
 ```
 
-Start a fresh agent session there, then name `hci-academic-writing` explicitly. Check that the agent actually reads the intended `SKILL.md`. If discovery fails,
-ask it to read `.claude/skills/hci-academic-writing/SKILL.md` (Claude Code) or
-`.agents/skills/hci-academic-writing/SKILL.md` (Codex/Antigravity) explicitly, then
-apply those instructions. For example:
+Start a fresh agent session there, name `hci-academic-writing` explicitly, and verify that the agent reads the intended `SKILL.md`. If automatic discovery fails, ask it to read `.claude/skills/hci-academic-writing/SKILL.md` (Claude Code) or `.agents/skills/hci-academic-writing/SKILL.md` (Codex / Antigravity) explicitly and apply those instructions:
 
 > Use hci-academic-writing. The root is main.tex. Read sections/related-work.tex and revise it around the unresolved problem. Preserve existing claims and citation attachments. Improve paragraph order and sentence connections, then edit the file and summarize the changes.
 
-Your manuscript stays in its existing structure:
+<details>
+<summary><strong>Installed folder layout and bundle notes</strong></summary>
+
+Your manuscript keeps its existing layout:
 
 ```text
 my-paper/
@@ -101,41 +91,43 @@ my-paper/
 │   ├── related-work.tex
 │   └── ...
 ├── references.bib
-└── .claude/skills/hci-academic-writing/  # or .agents/skills/ for Codex
+└── .claude/skills/hci-academic-writing/  # or .agents/skills/ for Codex & Antigravity
     ├── SKILL.md
     ├── references/
     └── scripts/
 ```
 
-The installed bundle is self-contained. You do not need the full research corpus or Zotero library to use it. Compilation needs your TeX toolchain; uploading to Overleaf is a separate step. The skill does not include the ACM template.
+The installed bundle is self-contained: you do not need the full research corpus or Zotero library to use it. Compiling requires your TeX toolchain, uploading to Overleaf is a separate step, and the ACM template is not included.
+
+</details>
 
 ## The structure follows the contribution
 
 An interview can inform a system, support a sociotechnical interpretation or help develop a concept. Those papers need different arguments even when they use similar methods or target the same venue.
 
-The skill separates **contribution, method, topic, venue and manuscript form**. It then helps plan four connected levels:
+The skill separates **contribution, method, topic, venue and manuscript form**, then plans four connected levels together:
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/writing-levels-en-mobile.svg">
-  <img src="assets/writing-levels-en.svg" width="1000" alt="Plan section purpose, subsection questions, paragraph claims and evidence, and sentence connections together.">
+  <img src="assets/writing-levels-en.svg" width="1000" alt="Separate contribution from method, topic, venue and format, then plan section purpose, subsection questions, paragraph claims and evidence, and sentence connections together.">
 </picture>
 
-Source-backed examples illustrate alternative structures:
+Source-backed examples illustrate alternative progressions:
 
 | Kind of argument | One possible progression |
 |---|---|
-| New interaction capability | Capability overview → design rationale → implementation → capability-specific evaluation |
-| System informed by formative inquiry | Formative findings → design commitments → system → distinct evaluation questions |
-| Reflective design / pictorial | Situated practice → reflective lens → material or visual cases → cross-case interpretation |
-| Sociotechnical understanding | Situated accounts → relationships or tensions → conceptual interpretation → implications |
-| Historical inquiry | Period-specific accounts → cross-period analytical dimensions → implications and methodological reflection |
-| Concept development | Conceptual lineage → illustrative design → participant interpretations → conceptual account |
-| Dataset or research resource | Construction → characterization → task-specific utility → reuse conditions |
-| Interpretive literature review | Selection and analysis → thematic findings → conceptual synthesis → research agenda |
+| **New interaction capability** | Capability overview → design rationale → implementation → capability-specific evaluation |
+| **System informed by formative inquiry** | Formative findings → design commitments → system → distinct evaluation questions |
+| **Reflective design / pictorial** | Situated practice → reflective lens → material or visual cases → cross-case interpretation |
+| **Sociotechnical understanding** | Situated accounts → relationships or tensions → conceptual interpretation → implications |
+| **Historical inquiry** | Period-specific accounts → cross-period analytical dimensions → implications and methodological reflection |
+| **Concept development** | Conceptual lineage → illustrative design → participant interpretations → conceptual account |
+| **Dataset or research resource** | Construction → characterization → task-specific utility → reuse conditions |
+| **Interpretive literature review** | Selection and analysis → thematic findings → conceptual synthesis → research agenda |
 
-These are conditional choices, not required templates for a venue. The [architecture guide](skills/hci-academic-writing/references/architectures.md) explains when each helps. The [contribution catalogue](skills/hci-academic-writing/references/contribution-catalogue.md) also covers participatory change, critique, methods, replication and hybrid contributions.
+These are conditional choices, not required templates for a venue. The [architecture guide](skills/hci-academic-writing/references/architectures.md) explains when each helps, and the [contribution catalogue](skills/hci-academic-writing/references/contribution-catalogue.md) also covers participatory change, critique, methods, replication and hybrid contributions.
 
-Shared references address abstracts, introductions, related work that positions and supports the contribution, discussion, paragraph development and sentence flow. Topic-first paragraphs are useful when the claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
+Shared references address abstracts, introductions, related work that positions and supports the contribution, discussion, paragraph development and sentence flow. Topic-first paragraphs help when a claim is immediately intelligible; narrative or delayed interpretation can serve other purposes. An 8,000-word allocation is a planning aid, not a universal HCI convention.
 
 ## Try it on your manuscript
 
@@ -186,11 +178,11 @@ Within that collection, **12 deeper structure maps** trace actual section/subsec
 
 | Evidence | Where to inspect it |
 |---|---|
-| Paper selection, sources and analytical notes | [Corpus](research/CORPUS.md) · [coverage audit](research/COVERAGE-AUDIT.md) |
-| Hierarchy, paragraph roles and sentence flow | [Structure maps](research/structure-maps/README.md) |
-| Cross-paper interpretation | [Synthesis](research/SYNTHESIS.md) · [portable corpus index](skills/hci-academic-writing/references/corpus-index.md) |
-| Quantitative length observations | [Measurements](research/measurements/README.md): seven body/section examples and 32 selected paragraphs in 14 papers |
-| Decisions and revisions | [Active plan](docs/STRUCTURE-ANALYSIS-PLAN.md) · [review log](docs/REVIEW-LOG.md) |
+| **Paper selection, sources and analytical notes** | [Corpus](research/CORPUS.md) · [coverage audit](research/COVERAGE-AUDIT.md) |
+| **Hierarchy, paragraph roles and sentence flow** | [Structure maps](research/structure-maps/README.md) |
+| **Cross-paper interpretation** | [Synthesis](research/SYNTHESIS.md) · [portable corpus index](skills/hci-academic-writing/references/corpus-index.md) |
+| **Quantitative length observations** | [Measurements](research/measurements/README.md): seven body/section examples and 32 selected paragraphs in 14 papers |
+| **Decisions and revisions** | [Active plan](docs/STRUCTURE-ANALYSIS-PLAN.md) · [review log](docs/REVIEW-LOG.md) |
 
 This is a purposive teaching collection, with AI-assisted analysis and integration review. It is not a representative sample or independently human-validated coding study. Paragraph lengths and section allocations are not established norms. New papers are added when they resolve a meaningful gap, not to reach a numerical target.
 
@@ -198,11 +190,11 @@ This is a purposive teaching collection, with AI-assisted analysis and integrati
 
 | Layer | Current evidence |
 |---|---|
-| Installation and LaTeX reference/dependency checks | 18 automated tests; isolated host-specific installation layouts |
-| Claude Code file editing | Two scoped edits in a multi-file ACM fixture, with explicit skill loading and successful compilation |
-| Codex / Antigravity live editing | Not yet tested |
-| Automatic skill discovery | Not established by the restricted Claude test; explicit named requests were tested |
-| Whole-paper architectural writing quality | Broader contribution-specific writing probes remain to be completed |
+| **Installation and LaTeX reference/dependency checks** | 18 automated tests; isolated host-specific installation layouts |
+| **Claude Code file editing** | Two scoped edits in a multi-file ACM fixture, with explicit skill loading and successful compilation |
+| **Codex / Antigravity live editing** | Not yet tested |
+| **Automatic skill discovery** | Not established by the restricted Claude test; explicit named requests were tested |
+| **Whole-paper architectural writing quality** | Broader contribution-specific writing probes remain to be completed |
 
 The [file-edit report](tests/behavior/README.md) records actual behavior. Other generation trials exposed unsupported claims; the [semantic report](tests/behavior/SEMANTIC-REPORT.md) records failures and revisions. Review the agent's changes as an author. No controlled study establishes publication benefits or overall writing-quality gains.
 
@@ -221,7 +213,7 @@ The [active plan](docs/STRUCTURE-ANALYSIS-PLAN.md) tracks these gates. Expanding
 
 Corrections, contrasting exemplars and real authoring failure cases are welcome. See [contribution guidelines](CONTRIBUTING.md).
 
-Original project code and writing are [MIT licensed](LICENSE); linked papers retain their own rights. Source PDFs, private Zotero records and model transcripts are not distributed. [Visual provenance](assets/README.md) documents the cover and logo.
+Original project code and writing are [MIT licensed](LICENSE); linked papers retain their own rights. Source PDFs, private Zotero records and model transcripts are not distributed. [Visual provenance](assets/README.md) documents the cover, logo and diagrams.
 
 To run local checks:
 

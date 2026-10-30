@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/logo.svg" width="72" alt="HCI Academic Writing Skills logo">
+  <img src="assets/logo.svg" width="60" alt="HCI Academic Writing Skills logo">
 </p>
 
 <h1 align="center">HCI Academic Writing Skills</h1>
 
 <p align="center">
   <strong>논증을 세우고, 논문을 구성하고, 문장을 다듬습니다.</strong><br>
-  내 ACM LaTeX 프로젝트에서 사용하는 기여 중심 라이팅 스킬
+  ACM LaTeX 원고를 위한 기여 중심 라이팅 스킬
 </p>
 
 <p align="center">
@@ -16,38 +16,30 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="#빠른-시작">빠른 시작</a> · <a href="#내-원고에-적용하기">사용 예시</a> · <a href="#어떤-분석을-바탕으로-만들었나요">분석 근거</a> · <a href="docs/STRUCTURE-ANALYSIS-PLAN.md">개발 계획</a>
+  <a href="README.md">English</a> · <a href="#빠른-시작">빠른 시작</a> · <a href="#기여에-따라-논문의-구조가-달라집니다">구조 원리</a> · <a href="#내-원고에-적용하기">사용 예시</a> · <a href="#어떤-분석을-바탕으로-만들었나요">분석 근거</a>
 </p>
 
 <p align="center">
-  <img src="assets/editorial-cover.png" width="900" alt="다양한 연구 근거가 하나의 논증으로 이어지는 원고 일러스트">
+  <img src="assets/editorial-cover.png" width="760" alt="다양한 연구 근거가 하나의 논증으로 이어지는 원고 일러스트">
 </p>
 
-<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp; / &nbsp; 시스템 · 실증 연구 · 사회기술적 분석 · RtD · 개념 연구 · 리뷰</sub></p>
+<p align="center"><sub>CHI · CSCW · UIST · DIS · IUI &nbsp;/&nbsp; 시스템 · 실증 · 사회기술 · RtD · 개념 · 리뷰</sub></p>
 
-연구 자료를 **기여에 맞는 개요와 연결된 문단**으로 발전시키세요. 이 스킬은 Codex, Claude Code, Antigravity 같은 AI 코딩 에이전트가 연구자의 논문 폴더에서 작업하며, Overleaf에 업로드할 실제 `.tex` 파일을 수정하도록 돕습니다. [호스트별 검증 범위](docs/COMPATIBILITY.md)는 구분해 기록합니다.
+Codex, Claude Code, Antigravity 같은 AI 코딩 에이전트가 연구자의 논문 폴더에서 작업하며, Overleaf에 업로드할 실제 `.tex` 파일을 수정하도록 안내합니다. 연구 자료·초안·작업 요청은 저자가 제공하고, 스킬은 작업에 필요한 라이팅 참고 지침만 선택적으로 불러옵니다([호스트별 검증 범위](docs/COMPATIBILITY.md)).
 
 ---
 
 ## 무엇을 도와주나요?
 
-연구 자료, 초안, 작업 요청은 연구자가 제공합니다. 스킬은 근거를 논문으로 발전시키는 데 필요한 지침과 라이팅 참고 자료를 에이전트에 제공합니다. 작업에 필요한 자료만 선택적으로 읽도록 구성되어 있습니다.
+- **논증 설계 (Frame)** — 논문이 새롭게 밝히는 주장, 뒷받침하는 근거, 주장의 경계를 분명히 하고 섹션·하위섹션 순서와 문단별 역할, 논리적 연결을 계획합니다.
+- **초안 작성 (Draft)** — 연구 노트를 바탕으로 근거에 기반한 원고를 작성하되 확인되지 않은 사실은 명시적으로 비워 두며(`% HCI-TODO[evidence]: ...`), 논문 나열식 related work를 연구 문제와 기존 접근 간 관계 중심으로 종합합니다.
+- **원고 다듬기 (Revise)** — 문단 순서와 문장 간 연결·지시 대상을 정돈하고, 핵심 주장·근거·불확실성을 유지한 채 분량을 압축하며, 리뷰 답변을 근거와 실제 원고 수정에 연결합니다.
 
-| 연구자의 요청 | 에이전트가 작성하도록 안내하는 결과물 |
-|---|---|
-| “이 논문의 기여를 명확하게 해줘.” | 무엇을 새롭게 알게 하는지, 어떤 근거가 뒷받침하는지, 어디까지 주장할 수 있는지 |
-| “어떤 순서로 구성해야 할까?” | 섹션·하위섹션 순서와 문단별 역할, 논리적 연결을 포함한 개요 |
-| “이 자료로 섹션을 작성해줘.” | 제공된 근거에 기반한 원고와 아직 필요한 사실의 명시 |
-| “Related work가 논문 나열처럼 보여.” | 연구 문제와 기존 접근 간 관계를 중심으로 구성한 문헌 종합 |
-| “문단과 문장이 잘 연결되지 않아.” | 문단 순서, 문장 간 연결, 지시 대상이 명확해진 원고 |
-| “분량을 줄여줘.” | 핵심 주장, 근거, 불확실성을 유지한 압축 문안 |
-| “리뷰 의견에 대응해줘.” | 근거와 실제 원고 수정에 연결된 답변 |
-
-보통 결과물은 **원고 파일의 수정과 변경 이유에 대한 짧은 설명**입니다. 문장 하나를 다듬는 요청에 논문 전체의 계획 수립을 요구하지 않습니다.
+보통 결과물은 **원고 파일의 수정과 변경 이유에 대한 짧은 설명**입니다. 문장 일부를 다듬는 작은 요청에 논문 전체의 계획 수립을 요구하지 않습니다.
 
 ## 빠른 시작
 
-기존 논문 폴더, 지원되는 AI 코딩 에이전트, 설치 스크립트를 실행할 **Python 3.9 이상**이 필요합니다. 별도의 Python 패키지는 필요하지 않습니다. 이 저장소는 스킬 묶음을 제공하며, 모델과 파일 편집 기능은 사용하는 에이전트가 제공합니다.
+기존 논문 폴더, 지원되는 AI 코딩 에이전트, 설치 스크립트를 실행할 **Python 3.9 이상**이 필요합니다(별도 Python 패키지 불필요). 이 저장소는 스킬 묶음을 제공하며, 모델과 파일 편집 기능은 사용하는 에이전트가 제공합니다.
 
 ### 1. 저장소 받기
 
@@ -71,10 +63,8 @@ python3 scripts/install_skill.py --host codex --scope project --project-root /pa
 python3 scripts/install_skill.py --host claude-code --scope project --project-root /path/to/paper --apply
 ```
 
-Antigravity는 `--host antigravity-app`, `antigravity-ide`, `antigravity-cli` 중 사용하는 환경을 선택합니다. 프로젝트 설치 위치는 Codex·Antigravity의 경우 `.agents/skills/hci-academic-writing/`, Claude Code의 경우 `.claude/skills/hci-academic-writing/`입니다.
-
-설치기는 기본적으로 미리보기만 수행하고, 기존 파일과 충돌하면 덮어쓰지 않습니다. 이전 버전을 업데이트하려면 기존 설치본을 검토하고 호스트가 스킬을 검색하는 폴더 밖으로 옮긴 뒤 다시 설치하세요.
-스킬 검색 폴더 안에서 이름만 바꾼 백업을 남기지 마세요. 개인용 설치, 정확한 경로, 검증 범위는 [설치·호환성 문서](docs/COMPATIBILITY.md)에 있습니다.
+- **Antigravity 및 설치 경로:** Antigravity는 `--host antigravity-app`, `antigravity-ide`, `antigravity-cli` 중 사용하는 환경을 선택합니다. 프로젝트 설치 위치는 Codex·Antigravity의 경우 `.agents/skills/hci-academic-writing/`, Claude Code의 경우 `.claude/skills/hci-academic-writing/`입니다.
+- **안전한 업데이트:** `--apply` 없이는 미리보기만 수행하며, 기존 파일과 충돌하면 덮어쓰지 않습니다. 이전 버전을 업데이트하려면 기존 설치본을 검토해 호스트가 스킬을 검색하는 폴더 밖으로 옮긴 뒤 다시 설치하세요(스킬 검색 폴더 안에 이름만 바꾼 백업을 남기지 마세요). 개인용 설치, 정확한 경로, 검증 범위는 [설치·호환성 문서](docs/COMPATIBILITY.md)에 있습니다.
 
 ### 3. 논문 폴더를 열고 스킬 사용 요청하기
 
@@ -84,13 +74,14 @@ Antigravity는 `--host antigravity-app`, `antigravity-ide`, `antigravity-cli` �
 cd /path/to/paper
 ```
 
-`hci-academic-writing`을 명시하고, 에이전트가 해당 `SKILL.md`를 실제로 읽는지 확인합니다.
-자동으로 찾지 못하면 Claude Code는 `.claude/skills/hci-academic-writing/SKILL.md`,
-Codex·Antigravity는 `.agents/skills/hci-academic-writing/SKILL.md`를 직접 읽고 지침을 적용하도록 요청하세요.
+`hci-academic-writing`을 명시하고, 에이전트가 해당 `SKILL.md`를 실제로 읽는지 확인합니다. 자동으로 찾지 못하면 Claude Code는 `.claude/skills/hci-academic-writing/SKILL.md`, Codex·Antigravity는 `.agents/skills/hci-academic-writing/SKILL.md`를 직접 읽고 지침을 적용하도록 요청하세요.
 
 > hci-academic-writing을 사용해. 루트 파일은 main.tex야. sections/related-work.tex를 읽고 아직 해결되지 않은 연구 문제를 중심으로 재구성해. 기존 주장과 인용의 연결은 유지해. 문단 순서와 문장 간 흐름을 개선해서 파일을 수정하고, 변경 사항을 요약해.
 
-기존 원고 구조는 그대로 사용합니다.
+<details>
+<summary><strong>설치 후 폴더 구조와 번들 참고 사항</strong></summary>
+
+기존 원고 구조는 그대로 유지됩니다.
 
 ```text
 my-paper/
@@ -100,13 +91,15 @@ my-paper/
 │   ├── related-work.tex
 │   └── ...
 ├── references.bib
-└── .claude/skills/hci-academic-writing/  # Codex는 .agents/skills/
+└── .claude/skills/hci-academic-writing/  # Codex·Antigravity는 .agents/skills/
     ├── SKILL.md
     ├── references/
     └── scripts/
 ```
 
-설치된 묶음만으로 스킬을 사용할 수 있습니다. 전체 논문 분석 자료나 Zotero 라이브러리는 필요하지 않습니다. 컴파일에는 TeX 도구가 필요하며, Overleaf 업로드는 별도 작업입니다. ACM 템플릿은 포함되어 있지 않습니다.
+설치된 묶음만으로 스킬을 사용할 수 있으며, 전체 논문 분석 자료나 Zotero 라이브러리는 필요하지 않습니다. 컴파일에는 TeX 도구가 필요하고, Overleaf 업로드는 별도 작업이며, ACM 템플릿은 포함되어 있지 않습니다.
+
+</details>
 
 ## 기여에 따라 논문의 구조가 달라집니다
 
@@ -116,23 +109,23 @@ my-paper/
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/writing-levels-ko-mobile.svg">
-  <img src="assets/writing-levels-ko.svg" width="1000" alt="섹션의 역할, 하위섹션의 질문 순서, 문단의 주장과 근거, 문장의 연결을 함께 설계합니다.">
+  <img src="assets/writing-levels-ko.svg" width="1000" alt="기여를 연구 방법·주제·학회·원고 형식과 구분한 뒤, 섹션의 역할, 하위섹션의 질문 순서, 문단의 주장과 근거, 문장의 연결을 함께 설계합니다.">
 </picture>
 
 실제 논문에서 분석한 구조에는 다음과 같은 대안이 있습니다.
 
 | 논증의 성격 | 가능한 전개 예시 |
 |---|---|
-| 새로운 인터랙션 역량 | 인터랙션 역량 개요 → 설계 근거 → 구현 → 역량별 평가 |
-| Formative inquiry에 기반한 시스템 | 탐색적 조사 결과 → 설계 원칙·결정 → 시스템 → 서로 다른 평가 질문 |
-| 성찰적 디자인 / pictorial | 상황과 실천 → 성찰의 관점 → 재료·시각적 사례 → 사례 간 해석 |
-| 사회기술적 이해 | 상황에 놓인 경험 → 관계와 긴장 → 개념적 해석 → 함의 |
-| 역사적 탐구 | 시대별 서술 → 시대를 가로지르는 분석 차원 → 함의와 방법론적 성찰 |
-| 개념 개발 | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 설명 |
-| 데이터셋·연구 자원 | 구축 → 특성 분석 → 과제별 활용 검증 → 재사용 조건 |
-| 해석적 문헌 리뷰 | 선정과 분석 → 주제별 결과 → 개념적 종합 → 후속 연구 의제 |
+| **새로운 인터랙션 역량** | 인터랙션 역량 개요 → 설계 근거 → 구현 → 역량별 평가 |
+| **Formative inquiry에 기반한 시스템** | 탐색적 조사 결과 → 설계 원칙·결정 → 시스템 → 서로 다른 평가 질문 |
+| **성찰적 디자인 / pictorial** | 상황과 실천 → 성찰의 관점 → 재료·시각적 사례 → 사례 간 해석 |
+| **사회기술적 이해** | 상황에 놓인 경험 → 관계와 긴장 → 개념적 해석 → 함의 |
+| **역사적 탐구** | 시대별 서술 → 시대를 가로지르는 분석 차원 → 함의와 방법론적 성찰 |
+| **개념 개발** | 개념의 계보 → 탐색용 디자인 → 참여자의 해석 → 개념적 설명 |
+| **데이터셋·연구 자원** | 구축 → 특성 분석 → 과제별 활용 검증 → 재사용 조건 |
+| **해석적 문헌 리뷰** | 선정과 분석 → 주제별 결과 → 개념적 종합 → 후속 연구 의제 |
 
-학회별 필수 템플릿이 아니라, 논증의 목적에 따라 선택할 수 있는 구조입니다. [구조 가이드](skills/hci-academic-writing/references/architectures.md)는 각 구조가 언제 도움이 되는지 설명합니다. [기여 유형 목록](skills/hci-academic-writing/references/contribution-catalogue.md)은 참여적 변화, 비판, 방법론, 재현 연구, 복합 기여도 다룹니다.
+학회별 필수 템플릿이 아니라, 논증의 목적에 따라 선택할 수 있는 구조입니다. [구조 가이드](skills/hci-academic-writing/references/architectures.md)는 각 구조가 언제 도움이 되는지 설명하고, [기여 유형 목록](skills/hci-academic-writing/references/contribution-catalogue.md)은 참여적 변화, 비판, 방법론, 재현 연구, 복합 기여도 다룹니다.
 
 공통 자료는 abstract, introduction, 연구의 위치와 논증 근거를 세우는 related work, discussion, 문단 전개와 문장 연결을 다룹니다. 두괄식은 주장을 바로 이해할 수 있을 때 유용하지만, 서사나 뒤늦게 드러나는 해석이 필요한 문단도 있습니다. 8,000단어 기준의 분량 배분은 계획을 돕는 참고안이며, HCI 논문 전체에 적용되는 규칙은 아닙니다.
 
@@ -185,11 +178,11 @@ my-paper/
 
 | 근거 | 확인할 자료 |
 |---|---|
-| 논문 선정, 출처, 분석 노트 | [코퍼스](research/CORPUS.md) · [범위 점검](research/COVERAGE-AUDIT.md) |
-| 계층 구조, 문단 역할, 문장 흐름 | [구조 맵](research/structure-maps/README.md) |
-| 논문 간 종합 | [분석 종합](research/SYNTHESIS.md) · [스킬 내 논문 색인](skills/hci-academic-writing/references/corpus-index.md) |
-| 분량의 정량 관찰 | [측정 자료](research/measurements/README.md): 본문·섹션 사례 7편, 14편에서 선택한 문단 32개 |
-| 결정과 수정 과정 | [현재 계획](docs/STRUCTURE-ANALYSIS-PLAN.md) · [검토 기록](docs/REVIEW-LOG.md) |
+| **논문 선정, 출처, 분석 노트** | [코퍼스](research/CORPUS.md) · [범위 점검](research/COVERAGE-AUDIT.md) |
+| **계층 구조, 문단 역할, 문장 흐름** | [구조 맵](research/structure-maps/README.md) |
+| **논문 간 종합** | [분석 종합](research/SYNTHESIS.md) · [스킬 내 논문 색인](skills/hci-academic-writing/references/corpus-index.md) |
+| **분량의 정량 관찰** | [측정 자료](research/measurements/README.md): 본문·섹션 사례 7편, 14편에서 선택한 문단 32개 |
+| **결정과 수정 과정** | [현재 계획](docs/STRUCTURE-ANALYSIS-PLAN.md) · [검토 기록](docs/REVIEW-LOG.md) |
 
 교육적 목적에 따라 선정한 사례 모음이며, AI를 활용해 분석하고 통합 과정에서 검토했습니다. 대표 표본이나 독립적인 사람의 코딩으로 검증한 연구는 아닙니다. 문단 길이와 섹션 비율을 확정된 규범으로 제시하지 않습니다. 새 논문은 편수를 채우기보다 중요한 빈틈을 해결할 때 추가합니다.
 
@@ -197,11 +190,11 @@ my-paper/
 
 | 구분 | 현재 근거 |
 |---|---|
-| 설치·LaTeX 참조 및 파일 의존성 점검 | 자동 테스트 18개, 격리된 폴더에서 호스트별 설치 경로 검증 |
-| Claude Code 파일 편집 | 여러 파일로 구성된 ACM 테스트 원고에서 제한된 수정 2건 수행, 명시적 스킬 로딩과 컴파일 성공 |
-| Codex·Antigravity 실제 편집 | 아직 검증하지 않음 |
-| 스킬 자동 발견 | 제한된 Claude 테스트에서 확인하지 못함. 이름을 명시한 요청은 검증함 |
-| 논문 전체의 구조적 작성 품질 | 기여별 개요·섹션 작성 검증을 더 수행해야 함 |
+| **설치·LaTeX 참조 및 파일 의존성 점검** | 자동 테스트 18개, 격리된 폴더에서 호스트별 설치 경로 검증 |
+| **Claude Code 파일 편집** | 여러 파일로 구성된 ACM 테스트 원고에서 제한된 수정 2건 수행, 명시적 스킬 로딩과 컴파일 성공 |
+| **Codex·Antigravity 실제 편집** | 아직 검증하지 않음 |
+| **스킬 자동 발견** | 제한된 Claude 테스트에서 확인하지 못함. 이름을 명시한 요청은 검증함 |
+| **논문 전체의 구조적 작성 품질** | 기여별 개요·섹션 작성 검증을 더 수행해야 함 |
 
 [파일 편집 보고서](tests/behavior/README.md)에 실제 동작을 기록했습니다. 다른 생성 실험에서는 근거 없는 주장이 나타났으며, [의미 검토 보고서](tests/behavior/SEMANTIC-REPORT.md)에 실패와 수정을 남겼습니다. 저자로서 에이전트의 변경 내용을 검토해야 합니다. 출판 성과나 전반적인 글쓰기 품질 향상을 입증한 대조 실험은 없습니다.
 
@@ -220,7 +213,7 @@ my-paper/
 
 분석 오류 수정, 대비되는 좋은 사례, 실제 집필에서 발견한 실패 사례를 환영합니다. [기여 안내](CONTRIBUTING.md)를 참고하세요.
 
-프로젝트에서 작성한 코드와 문서는 [MIT 라이선스](LICENSE)로 제공합니다. 연결된 논문의 권리는 각 원저작물에 있습니다. 원문 PDF, 개인 Zotero 기록, 모델 대화 원문은 배포하지 않습니다. 표지와 로고는 [시각 자료 출처](assets/README.md)에 설명되어 있습니다.
+프로젝트에서 작성한 코드와 문서는 [MIT 라이선스](LICENSE)로 제공합니다. 연결된 논문의 권리는 각 원저작물에 있습니다. 원문 PDF, 개인 Zotero 기록, 모델 대화 원문은 배포하지 않습니다. 표지, 로고, 다이어그램은 [시각 자료 출처](assets/README.md)에 설명되어 있습니다.
 
 로컬 검증 명령:
 

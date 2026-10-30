@@ -621,3 +621,19 @@ the mobile SVG and reported scrollWidth = innerWidth = 390. A prompt disclosure
 opened successfully. Checked local links, SVG XML, five balanced disclosures per
 language, corpus-index consistency and git diff whitespace. Preview artifacts remain
 local, and only the dedicated review browser session was closed.
+
+## Gemini implements; root reviews — visual follow-up, 2026-10-31
+
+At the user's explicit direction, Gemini 4 Argon (High) directly edited the bilingual
+READMEs and diagrams in an isolated checkout. Root verified image-read tool records,
+inspected generated diagrams and complete GitHub-Markdown-API previews, then adopted
+the design. Root's earlier provisional layout edits were not used. One added
+hypothetical diff was rejected because it modeled an unsupported assertion followed
+by a citation TODO (and Markdown emphasis in a TeX example).
+
+Accepted: compact header, Frame/Draft/Revise overview, visible core install guidance,
+folded project layout, structure navigation and a contribution-first connected diagram.
+The raster cover is unchanged. Diagram replay, XML, links, disclosures, mobile layout,
+image loading, corpus-index consistency and whitespace checks passed. Detailed
+[delegation and review record](reviews/2026-10-31-gemini-visual.md) distinguishes source
+critique, actual Gemini edits and root's final visual/semantic checks.
